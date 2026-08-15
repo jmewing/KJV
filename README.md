@@ -1,8 +1,8 @@
 # KJV Bible Data Repository
 
-This repo contains King James Version biblical texts, Greek/Hebrew source data, and archaeological corroboration notes — a curated archive for personal study and the [inetking.org](https://inetking.org) Bible-resource project.
+This repo contains King James Version biblical texts, Greek/Hebrew source data, and archaeological corroboration notes — a curated archive for personal study and research.
 
-This repository contains **source data only**. It does not contain inetking.org website publishing scripts, WordPress tooling, or generated inetking.org working files.
+This repository contains **source data only**. It does not contain website publishing scripts, WordPress tooling, or generated website working files.
 
 ## Contents
 
