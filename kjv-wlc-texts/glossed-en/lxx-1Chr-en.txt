@@ -1,0 +1,922 @@
+1Chr 1:1 Adam Seth Enosh
+1Chr 1:2 Kenan Mahalaleel Jared
+1Chr 1:3 Enoch Methuselah Lamech
+1Chr 1:4 Noah sons Noah Shem Ham Japheth
+1Chr 1:5 sons Japheth [Γάμερ] [Μαγώγ] [Μαδάιμ] [Ἰωυάν] [Ἐλεισά] [Θοβέλ] [Μόσοχ] and [Θειρας] | [KJV:] The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
+1Chr 1:6 and sons [Γάμερ] [Ἀσχανὰζ] and [Ἐρειφὰθ] and [οργαμά]
+1Chr 1:7 and sons [Ἰωυάν] [Ἐλεισὰ] and [Φαρσείς] [Κίτιοι] and [Ῥόδιοι] | [KJV:] And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
+1Chr 1:8 and sons Ham [Χοὺς] and [Μεστράιμ] [Φοὺδ] and Canaan
+1Chr 1:9 and sons [Χούς] [Σαβὰτ] and [Εὑειλὰτ] and [Σαβατὰ] and [Ῥεγμὰ] and [Σεβεκαθά] and sons [Ῥεγμά] [Σαβὰν] and [Ἰουδαδάν]
+1Chr 1:10 and [Χοὺς] he begat the [acc m] [Νεβρώδ0] this one [he] began to be [γίγας] [κυνηγὸς] upon of the [gen f] of earth
+1Chr 1:17 sons Shem [Aἰλὰμ] and [Ἀσσοὐρ]
+1Chr 1:24 and [Ἀρφαξάδ] [Σαλά] | [KJV:] Shem, Arphaxad, Shelah,
+1Chr 1:25 [Ἔβερ] [Φάλεχ] [Ῥαγαύ] | [KJV:] Eber, Peleg, Reu,
+1Chr 1:26 [Σερούχ] [Ναχώρ] [Θάρα] | [KJV:] Serug, Nahor, Terah,
+1Chr 1:27 Abraham
+1Chr 1:28 sons but Abraham Isaac and [Ἰσμαήλ]
+1Chr 1:29 [αὗται] but the [nom pl f] [γενέσεις] [πρωτοτόκου] [Ἰσμαήλ] [Ναβαιὼθ] and [Κηδάρ] [Ναβδαιήλ] [Μασσά] | [KJV:] These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,
+1Chr 1:30 [Μαμά] [Ἰδουμά] Manasseh [Κονδάν] [Θαιμάν] | [KJV:] Mishma, and Dumah, Massa, Hadad, and Tema,
+1Chr 1:31 [Ἰεττούρ] [Ναφές] [Κέδμα] these ones sons [Ἰσμαήλ] | [KJV:] Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
+1Chr 1:32 and sons [Κεττούρας] [παλλακῆς] Abraham and [ἔτεκεν] to him the [acc m] [Ζεμβράν] [Ἰεξάν] [Μαδιάμ] [Μαδάμ] [Σοβάκ] [Σῶε] and sons [Ἰεξὰν] [Δαιδὰν] and [Σαβαί]
+1Chr 1:33 and sons [Μαδιὰμ] [Γαφέρ] and [Ὄφερ] and Enoch and [Ἀβειδὰ] and [Ἐλλαδά] all [m pl] these ones sons [Χεττούρας]
+1Chr 1:34 and he begat Abraham the [acc m] Isaac and sons Isaac Jacob and [Ἠσού]
+1Chr 1:35 sons [Ἠσαύ] [Ἐλειφὰς] and [Ῥαγουὴλ] and [Ἰεοὺλ] and [Ἰεγλόμ] [Κόρε] | [KJV:] The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
+1Chr 1:36 sons [Ἐλειφάς] [Θαιμὰν] and [Ὠμάρ] [Σωφὰρ] and [Γοωθὰμ] and [Κενὲζ] and of the [gen f] [Θαμνὰ] [Ἀμαλήκ]
+1Chr 1:37 and sons [Ῥαγουήλ] [Νάχες] [Ζάρες] [Σομὲ] and [Ὀμοζέ] | [KJV:] The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
+1Chr 1:38 sons [Σηείρ] [Λωτάν] [Σωβάλ] [Σεβεγών] up [Δησών] [Ὠνάν] | [KJV:] And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezar, and Dishan.
+1Chr 1:39 and [υἱρὶ] [Λωτάν] [Χορρεὶ] and blood and [Αἰλὰθ] and [Ναμνά]
+1Chr 1:40 sons [Σωβάλ] [Σωλάμ] [Μαχανάμ] [Γαιβήλ] [Σὼβ] and [Ὠνάν] sons but [Σεβεγὼν] [Ἀὶθ] and [Σωνάν] | [KJV:] The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. and the sons of Zibeon; Aiah, and Anah.
+1Chr 1:41 sons [Σωνάν] [Δαισών] sons but [Δαισών] [Ἐμερὼν] and [Ἀσεβὼν] and [Γεθρὰμ] and [Χαρράν]
+1Chr 1:42 and sons [Ὠσαρ] Balaam and [Ζουκὰμ] and [Ὠνάν] sons [Δαισών] as and [Ἀρράν]
+1Chr 1:43 and these ones the [nom pl m] kings of them/their Balak son [Βεὼρ] and name to the [dat f] in city of him/his [Δενναβά]
+1Chr 1:44 and he died Balak and [ἐβασίλευσεν] [ἀντʼ] of him/his [Ἰωαβὰβ] son Zerah from/out of [Βοσόρρας]
+1Chr 1:45 and he died [Ἰωβάβ] and [ἐβασίλευσεν] [ἀντʼ] of him/his [Ἀσὸμ] from/out of of the [gen f] of earth [Θαιμονῶν]
+1Chr 1:46 and he died [Ἀσόμ] and [ἐβασίλευσεν] [ἀντʼ] of him/his [Ἀδὰδ] son [Βαράδ] the [nom m] [πατάξας] [Μαδιὰμ] in to the [dat] [πεδίῳ] Moab and name to the [dat f] in city of him/his [Γεθθάιμ]
+1Chr 1:47 and he died [Ἀδάδ] and [ἐβασίλευσεν] [ἀντʼ] of him/his
+1Chr 1:49 [Βαλαεννὼρ] son [Ἀχοβὡρ] | [KJV:] And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.
+1Chr 1:50 and he died [Βαλαεννὼρ] son [Ἀχοβώρ] and [ἐβασίλευσεν] [ἀντʼ] of him/his [Ἀδὰδ] son [Βαράδ] and name to the [dat f] in city of him/his Peor
+1Chr 1:51 and he died [Ἀδδά] and [ἐβασίλευσεν] [ἀντʼ] of him/his [Σαμαὰ] from/out of [Μασέκκας] and he died [Σαμαά] and [ἐβασίλευσεν] [ἀντʼ] of him/his [Σαοὺλ] from/out of [Ῥοβὼθ] of the [gen f] from/beside [ποταμόν] and he died [Σαούλ] and they were [ἡγεμόνες] [Ἐδώμ] [ἠγεμὼν] [Θαιμάν] [ἡγεμὼν] [Γωλά] [ἡγεμὼν] [Ἰεθέτ]
+1Chr 1:52 [ἡγεμὼν] [Ἐλειβαμᾶς] [ἡγεμὼν] [Ἠλᾶς] [ἡγεμὼν] [Φεινών] | [KJV:] Duke Aholibamah, duke Elah, duke Pinon,
+1Chr 1:53 [ἡγεμὼν] [Κενέζ] [ἡγεμὼν] [Θαιμάν] [ἡγεμὼν] [Μαζάρ] | [KJV:] Duke Kenaz, duke Teman, duke Mibzar,
+1Chr 1:54 [ἡγεμὼν] [Μεδιήλ] [ἡγεμὼν] [Ζαφωείν] these ones [ἡγεμόνες] [Ἐδώμ] | [KJV:] Duke Magdiel, duke Iram. These are the dukes of Edom.
+1Chr 2:1 these things the [nom/acc pl n] [ὀνόματα] of the [gen pl] of sons Israel Reuben Simeon Levi [dat] [Ἰουδά] Issachar Zebulun
+1Chr 2:2 Dan Joseph [Βενιαμείν] [Νεφθαλεί] Gad Asher
+1Chr 2:3 sons [Ἰούδα] [Ἤρ] [Αὐνάν] [Σηλών] three [ἐγεννήθησαν] to him from/out of of the [gen f] [θυγατρὸς] [Aὔας] of the [gen f] [Χαναανείτιδος] and was [Ἢρ] the [nom m] [πρωτότοκος] [Ἰούδα] [πονηρὸς] before of [the] Lord and [ἀπέκτεινεν] him
+1Chr 2:4 and Tamar the [nom f] [νύμφη] of him/his [ἔτεκεν] to him the [acc m] [Φάρες] and the [acc m] Zerah all [m pl] sons [Ἰούδα] five
+1Chr 2:5 [υἱρὶ] [Φἀρες] [Ἁρκὼν] and [Ἰεμουήλ] | [KJV:] The sons of Pharez; Hezron, and Hamul.
+1Chr 2:6 and sons Zerah [Ζαμβρεὶ] and [Αἰθὰμ] and [Αἱμουὰν] and [Χαλκὰ] and [Δάρα] all [m pl] five
+1Chr 2:7 and sons [Χαρμεί] [Ἀχὰρ] the [nom m] [ἐμποδοστάτης] Israel whoever/which [ἠθέτησεν] into/for the [nom/acc n] curse
+1Chr 2:8 and [υοὶ] [Αἰθάμ] [Ζαρειά] | [KJV:] And the sons of Ethan; Azariah.
+1Chr 2:9 [καὶυἱοὶ] [Ἐσερὼν] the [nom pl m] [ἐτέχθησαν] to him the [nom m] [Ἰραμεὴλ] and the [nom m] [Ῥὰμ] and the [nom m] [Χαβὲλ] and Aram
+1Chr 2:10 and [Ἀρρὰν] he begat the [acc m] [Ἀμειναδάβ] and [Ἀμειναδὰβ] he begat the [acc m] Nahshon [ἄρχοντα] of the [gen] of house [Ἰούδα]
+1Chr 2:11 and Nahshon he begat the [acc m] Salmon and Salmon he begat the [acc m] [Βόος]
+1Chr 2:12 and [Βόος] he begat the [acc m] Obed and Obed he begat the [acc m] Jesse
+1Chr 2:13 and Jesse he begat the [acc m] [πρωτότοκον] of him/his [Ἐλιάβ] [Ἀμειναδὰβ] the [nom m] [δεύτερος] [Σαμαὰ] the [nom m] [τρίτος]
+1Chr 2:14 [Ναθαναὴλ] the [nom m] [τέταρτος] [Ζαδδαὶ] the [nom m] [πέμπτος] | [KJV:] Nethaneel the fourth, Raddai the fifth,
+1Chr 2:15 [Ἄσομ] the [nom m] [ἕκτος] David the [nom m] [ἔβδομος]
+1Chr 2:16 and [ἀδελφὴ] of them/their [Σαρουιά] and sons [Σαρουιά] [Ἀβεισὰ] and [Ἰωὰβ] and [Ἀσαήλ] three
+1Chr 2:17 and [Ἀβειγαία] he begat the [acc m] [Ἀμεσσάβ] and father [Ἀμεσσὰβ] [Ἰόθορ] the [nom m] [Ἰσμαηλείτης]
+1Chr 2:18 and [Χαλὲβ] son [Ἐσερὼν] he begat the [acc f] [Γαζουβὰ] woman/wife [acc] and the [acc f] [Ἐλιώθ] and these ones sons of her/her [Ἰωάσαρ] and [Ἰασοὺβ] and [Ορνά]
+1Chr 2:19 and he died [Γαζουβά] and he took [ἑαυτῷ] [Χαλὲβ] the [acc f] [Ἐφράθ] and [ἔτεκεν] to him the [acc m] [Ὥρ]
+1Chr 2:20 and [Ὣρ] he begat the [acc m] [Οὐρεί] and [Οὐρεὶ] he begat the [acc m] [Βεσελεήλ]
+1Chr 2:21 and with/after these things he entered [Ἐσερὼν] toward the [acc f] [θυγατέρα] [Μαχεὶρ] of father Gilead and this one he took her and it [ἑξήκοντα] was [ἐτῶν] and [ἔτεκεν] to him the [acc m] [Σερούχ]
+1Chr 2:22 and [Σεροὺχ] he begat the [acc m] [Ἰαείρ] and they were to him twenty three in city in to the [dat f] Gilead
+1Chr 2:23 and he took [Γεδσοὺρ] and [Ἀρρὰν] the [acc pl f] [κώμας] [Σαεὶρ] six of them/their the [acc f] [Καναὰθ] and the [acc pl f] [κώμας] of her/her [ἐξήκοντα] in city [πᾶσαι] [αὗται] of sons [Μαχεὶρ] of father Gilead
+1Chr 2:24 and with/after the [nom/acc n] [ἀποθανεῖν] [Ἑσερὼν] he came [Χαλὲβ] into/for [Ἐφράθα] and the [nom f] woman/wife [Ἐσερὼν] Abijah and [ἔτεκεν] to him the [acc m] [Ἀσχὼ] father [acc] [Θεκῶε]
+1Chr 2:25 and they were sons [Ἰραμεὴλ] [πρωτοτόκου] [Ἐσερὼν] the [nom m] [πρωτότοκος] [Ῥάν] and [Βαναιὰ] and [Ἀραιὰ] and [Ἀμβρὰμ] and [Ἄκαν] brother of him/his
+1Chr 2:26 and was woman/wife [ἑτέρα] to the [dat] [Ἰερεμεήλ] and name she/her [Ἀταρά] she/her [he/she/it] is mother [Ὀζόμ]
+1Chr 2:27 and they were sons Aram [πρωτοτόκου] [Ἰερεμαὴλ] [Μάας] and [Ἰαμεὶν] and [Ἀκορ]
+1Chr 2:28 and they were sons [Ὀζὸμ] [Σαμοὶ] and [Ἰαδᾶε] and sons [Σαμοι] [Ναδὰβ] and [Ἀβεισούρ]
+1Chr 2:29 and name of the [gen f] [γυναικὸς] [Ἀβεισοὺρ] [Ἀβειχαία] and [ἔτεκεν] to him the [acc m] [Ἀχαβὰρ] and the [acc m] [Μωήλ]
+1Chr 2:30 sons [Ναδάβ] [Ἀλσάλαδ] and Ephraim and he died [Σάλαδ] not I have children
+1Chr 2:31 and [υἱὰρὶ] Ephraim [Ἰσεμιήλ] and sons [Ἰσεμιὴλ] [Σωσάν] and sons [Σωσὰν] [Ἀχαί]
+1Chr 2:32 and sons [Ἰδουδά] [Ἀχεισαμάς] [Ἰέθερ] [Ἰωναθάν] and he died [Ἰέθερ] not I have children
+1Chr 2:33 and sons [Ἰωναθάν] [Θάλεθ] and [Φζάμ] these ones they were [υἱρὶ] [Ῥαμεήλ]
+1Chr 2:34 and not they were to the [dat] [Σωσὰμ] sons but the [nom f] daughters and to the [dat] [Σωσὰμ] [παῖς] [Αἰγύπτιος] and name to him [Ἰωχήλ]
+1Chr 2:35 and he gave [Σωσὰν] the [acc f] [θυγατέρα] of him/his to the [dat] [Ἰωχὴλ] [παιδὶ] of him/his into/for woman/wife [acc] and [ἔτεκεν] to him the [acc m] [Ἐθθεἰ]
+1Chr 2:36 and [Ἐθθεὶ] he begat the [acc m] [Ναθάν] and [Ναθαν] he begat the [acc m] [Ζαβέδ]
+1Chr 2:37 and [Ζαβὲδ] he begat the [acc m] [Ἀφαμήλ] and [Ἀφαμὴλ] he begat the [acc m] [ἀβήδ]
+1Chr 2:38 and Obed he begat the [acc m] Jesus [acc] and Jesus he begat the [acc m] [Ἀζαρίαν]
+1Chr 2:39 and [Ἀζαριὰ] he begat the [acc m] [Χέλλης] and [Χέλλης] he begat the [acc m] [Ἐμάς]
+1Chr 2:40 and [Ἐμὰς] he begat the [acc m] [Σοσομαί] and [Σοσομαὶ] he begat the [acc m] [Σαλούμ]
+1Chr 2:41 and [Σαλοὺμ] he begat the [acc m] [Ἰεχεμείαν] and [Ἰεχεμείας] he begat the [acc m] [Ἐλεισαμά]
+1Chr 2:42 and sons [Χαλὲβ] [ἀδελφοῦ] [Ἰερεμεήλ] [Μαρεισὰ] the [nom m] [πρωτότοκος] of him/his this one father [Ζείφ] and sons [Μαρεισὰ] of father [Χεβρών]
+1Chr 2:43 and sons [Χεβρών] [Κόρεε] and [Θαποὺς] and [Ῥέκομ] and [Σεμάα]
+1Chr 2:44 and [Σεμάα] he begat the [acc m] [Ῥάμεε] father [acc] [Ἰακλάν] and [Ἰεκλάν] he begat the [acc m] [Σαμί]
+1Chr 2:45 and son of him/his [Μεών] and [Μεὼν] father [Γεδσούρ]
+1Chr 2:46 and [Γαιφαὴλ] [παλλακὴ] [Χαλὲβ] he begat the [acc m] [Ἀρρὰν] and the [acc m] [Ἰωκὰν] and the [acc m] [Γεζοῦε] and [Ἀρρὰν] he begat the [acc m] [Γεζοῦε]
+1Chr 2:47 and sons of Jesus [Ῥάγεμ] and Jotham and [Σωγὰρ] and [Φάλεκ] and [Γαιφὰ] and [Σάγαε]
+1Chr 2:48 and the [nom f] [παλλακὴ] [Χαλὲβ] [Μωχὰ] he begat the [acc m] [Σάβερ] and the [acc m] [Θαράμ]
+1Chr 2:49 and he begat [Σάγαε] father [acc] [Μαρμηνὰ] and the [acc m] [Σαοὺ] father [acc] [Μαχαβηνὰ] and father [acc] [Γαιβάλ] and daughter [Χαλὲβ] [Ἀσχά]
+1Chr 2:50 these ones they were [υἱρὶ] [Χαλέβ] sons [Ὣρ] [πρωτοτόκου] [Ἐφράθα] [Σωβὰρ] father [Καριαθιαρεὶμ]
+1Chr 2:51 [Σαλωμὼν] father [Βαιθά] [Λαμμὼν] father [Βαιθαλάεμ] [Ἀρεὶμ] father [Βαιθγαιδών] | [KJV:] Salma the father of Bethlehem, Hareph the father of Bethgader.
+1Chr 2:52 and they were sons to the [dat] [Σωβὰλ] to father [Καριαθιαρείμ] [Αἱώ] [Εσειρά] [Μωναιώ]
+1Chr 2:53 [Ἐμοσφεώς] in city [Ἰαείρ] [Ἀἱθαλεὶμ] and [Μειφειθεὶμ] and [Ἡσαμαθεὶμ] and [Ἰμασαραείμ] from/out of of these [ἐξήλθοσαν] the [nom pl m] [Σαραθαῖρι] and sons [Ἐσθάαμ]
+1Chr 2:54 sons [Σαλωμών] [Βαιθλάεμ] [Μετωφαθεἰ] [Ἀταρὼθ] of house [Ἰωὰβ] and [ἥμισυ] of the [gen f] [Μαλαθεἰ] [Ἠσαρεί] | [KJV:] The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.
+1Chr 2:55 [πατριωὶ] [γραμμάτων] [κατοικοῦντες] [Γαμές] [Ἀργαθιείμ] [Σαμαθιείμ] [Σωκαθιείμ] these ones the [nom pl m] [Κειναῖοι] the [nom pl m] [ἐλθόντες] from/out of [Μεσημὰ] of father of house [Ῥηχά]
+1Chr 3:1 and these ones they were sons David the [nom pl m] [τεχθέντες] to him in [Χεβρών] the [nom m] [πρωτότοκος] [Ἀμνὼν] to the [dat f] [Ἀχεινάαμ] to the [dat f] [Ἰσραηλείτιδι] the [nom m] [δεύτερος] [Δαμνιὴλ] to the [dat f] [Ἀβειγαίᾳ] to the [dat f] [Καρμηλίᾳ]
+1Chr 3:2 the [nom m] [τρίτος] [Ἀβεσσαλὼμ] son [Μωχὰ] [θυγατρὸς] [Θοαμαὶ] of king [Γεδσούρ] the [nom m] [τέταρτος] [Ἀδωνειὰ] son [Ἁγγείθ] | [KJV:] The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:
+1Chr 3:3 the [nom m] [πέμπτος] [Σαβατειὰ] of the [gen f] [Σαβειτάλ] the [nom m] [ἕκτος] [Ἰθαρὰμ] to the [dat f] [Ἀλα] to woman/wife of him/his
+1Chr 3:4 six [ἐγεννήθησαν] to him in [Χεβρών] and thirty and [τρία] years [ἐβασίλευσεν] in Jerusalem
+1Chr 3:5 and these ones [ἐτέχθησαν] to him in Jerusalem [Σάμον] [Σωβάν] [Ναθὰν] and [Σαλωμών] [τέσσαρες] to the [dat f] [Βηρσάβεε] [θυγατρὶ] [Ἀμιήλ]
+1Chr 3:6 and [Βαὰρ] and [Ἐλεισὰ] and [Ἐλειφαλὴθ]
+1Chr 3:7 and [Νάγαι] and [Νάφαθ] and [Ἰανοῦε]
+1Chr 3:8 and [Ἐλεισαμὰ] and [Ἐλειδὰ] and [Ἐλειφάλα] [ἐννέα] | [KJV:] And Elishama, and Eliada, and Eliphelet, nine.
+1Chr 3:9 all [m pl] sons David but/however of the [gen pl] of sons of the [gen pl] [παλλακῶν] and [Θημὰρ] [ἀδελφὴ] of them/their
+1Chr 3:10 sons [Σαλωμών] Rehoboam [Ἀβειὰ] son of him/his Asa son of him/his Jehoshaphat son of him/his
+1Chr 3:11 Joram son of him/his [Οζειὰ] son of him/his [Ἰωὰς] son of him/his
+1Chr 3:12 [Ἀμασίας] son of him/his [Ἀζαριὰ] son of him/his [Ἰωαθὰν] son of him/his
+1Chr 3:13 [Ἀχὰς] son of him/his Hezekiah son of him/his Manasseh son of him/his
+1Chr 3:14 [Ἀμνὼν] son of him/his [Ἰωσειὰ] son of him/his
+1Chr 3:15 and sons [Ἰωσειά] [πρωτότοκος] [Ἰωανάν] the [nom m] [δεύτερος] [Ἰωακείμ] the [nom m] [τρίτος] [Σεδεκιά] the [nom m] [τέταρτος] [Σαλούμ] | [KJV:] And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
+1Chr 3:16 and sons [Ἰωακείμ] Jeconiah son of him/his [Σεδεκίας] son of him/his
+1Chr 3:17 and sons [Ἰεχονία] [Ἀσείρ] Shealtiel son of him/his
+1Chr 3:18 [Μελχειρὰμ] and [Φαλδαίας] and [Σανεσὰρ] and [Ἰεκενιὰ] and [Ὡσαμὼθ] and [Δενεθεί]
+1Chr 3:19 and sons [Σαλαθήλ] Zerubbabel [Μοσολόαμος] and [Ἁναναιά] and [Σαλωμεθεὶ] [ἀδελφὴ] of them/their
+1Chr 3:20 and [Ἁσουβὲ] and as many things and [Βαραχιαὶ] and [Ἀσαδιὰ] and [Ἀροβάσοκ] five
+1Chr 3:21 and sons [Ἁνανιά] [Φαλλετί] and [Ἰσαβὰ] son of him/his [Ῥαφὰλ] son of him/his [Ὀρνὰ] son of him/his [Ἀβδειὰ] son of him/his [Σεχενιὰ] son of him/his
+1Chr 3:22 and son [Σεχενιά] [Σαμαιά] and son [Σαμαιά] [Χόττούς] and [Ἰωήλ] and [Μαρεὶ] and [Νωαδειὰ] and [Σαφάθ] six
+1Chr 3:23 and [υἱρὶ] [Νωαδειά] [Ἐλειθανὰ] and [Ἐζεκιὰ] and [Ἐζρεικάν] three | [KJV:] And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.
+1Chr 3:24 and sons [Ἐλειθενάν] [¹Οδολιὰ] and [Ἀσεὶβ] and [Φορὰ] and [Ἰακοὺν] and [Ἰωανάν] and [Δαλααιὰ] and [Μανεί] seven
+1Chr 4:1 and sons [Ἰούδα] [Φἀρες] [Ἀρσὼν] and [Χαρμεὶ] and [Ὥρ] [Σουβάλ] | [KJV:] The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
+1Chr 4:2 and [Ῥαδὰ] son of him/his and [Σουβὰλ] he begat the [acc m] [Ἴεθ] and [Ἴεθ] he begat the [acc m] [Ἀχειμεὶ] and the [acc m] [Λάαθ] [αὗται] the [nom pl f] [γενέσεις] of the [gen] [Ἀραθεί]
+1Chr 4:3 and these ones sons [Αἰτὰν] [Ἀζραὴλ] and [Ῥαγμὰ] and [Ἰαβάς] and name [ἀδελφῆς] of them/their [Ἑσηλεββών]
+1Chr 4:4 and [Φανουὴλ] father [Γεδώρ] and [Ἀζὴρ] father [Ὡσάν] these ones sons [Ὥρ] of the [gen] [πρωτοτόκου] [Ἐφράθα] of father [Βαιθλάδεν]
+1Chr 4:5 and to the [dat] [Σαρὰ] to father [Θεκῶε] they were two [γυναῖκες] [Ἀωδὰ] and [Θοαδά]
+1Chr 4:6 and [ἔτεκεν] to him [Ἀωδὰ] the [acc m] [Ὠχαιὰ] and the [acc m] [Ἡφὰλ] and the [acc m] [Θαιμὰν] and the [acc m] Asher all [m pl] these ones sons [Ἀἁὡδας]
+1Chr 4:7 and [υἱρὶ] [Λοάδας] [Ἀρεθ] and [Σάαρ] and [Σεννών] | [KJV:] And the sons of Helah were, Zereth, and Jezoar, and Ethnan.
+1Chr 4:8 and [Κῶε] he begat the [acc m] [Ἐννὼν] and the [acc m] [Σαβαθά] and [γεννήσεις] [ἀδελφοῦ] [Ῥηχὰβ] of son [Ἱαρείμ]
+1Chr 4:9 and was [Ἰγαβὴς] [ἔνδοξος] for/over the [acc pl m] [ἀδελφοὺς] of him/his and the [nom f] mother he called the [nom/acc n] name of him/his [Ἰγαβὴς] [λέγουσα] [Ἔτεκον] as [|] [γάιβης]
+1Chr 4:10 and [ἐπεκαλέσατο] [Ἰγαβὴς] the [acc m] God [acc] Israel saying if [εὐλογῶν] [εὐλογήσῃς] me and [πληθύνῃς] the [nom/acc pl n] borders of me/my and was the [nom f] hand of you/your with [enclitic] of me and [ποιήσῃς] [γνῶσιν] of the [gen] not [ταπεινῶσαί] me and [ἐπήγαγεν] the [nom m] God all things as many things [ἠτήσατο]
+1Chr 4:11 and [Χαλὲβ] father [Ἀσχὰ] he begat the [acc m] [Μαχείρ] this one father [Ἀσσαθών]
+1Chr 4:12 he begat the [acc m] [Βαθραίαν] and of the [gen] [Βεσσῆε] and the [acc m] [Θαιμάν] father [acc] of city [Ναὰς] [ἀδελφοῦ] [Ἐσελὼν] of the [gen] [Χενεζεί] these ones [ἄνδρες] [Ῥηχάβ]
+1Chr 4:13 and sons [Κενέζ] [νιὴλ] and [Σαραιά] and sons [ΓοθονιήλἈθάθ]
+1Chr 4:14 and [Μαναθεὶ] he begat the [acc m] [Γοφερά] and [Σαραιὰ] he begat the [acc m] [Ἰωβὰβ] father [acc] [Ἀγεαδδαείρ] that/because [τέκτονες] they were
+1Chr 4:15 and [υἱρὶ] [Χαλὲβ] of son [Ἰεφοννή] [Ἤρ] [Ἄδαὶ] and [Nόομ] and sons [Ἀδά] [Κενέζ] | [KJV:] And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.
+1Chr 4:16 and son of him/his [Γεσεήλ] [Ἀμηαχεὶ] and Zerah and [Ζαιρὰ] and [Ἰσεραήλ]
+1Chr 4:17 and sons [Ἐσρεί] [Ἰεθερεί] [Πῶραδ] and [Ἄφερ] and [Ἀμών] and he begat [Ἰέθερ] the [acc m] [Μαιὼν] and the [acc m] you [enclitic: μεν] and the [acc m] [Μαρὲθ] father [acc] [Ἐσθαιμών]
+1Chr 4:18 and the [nom f] woman/wife of him/his she/her [Ἁδειά] [ἔτεκεν] the [acc m] Jared father [acc] [Γεδὼρ] and the [acc m] [Ἀβεισὰ] father [acc] [Σωχὼν] and the [acc m] [Χετιὴλ] father [acc] [Ζαμών] and these ones sons [Γελιὰ] [θυγατρὸς] Pharaoh was he took [Νωρωήλ]
+1Chr 4:19 and sons [γυναικὸς] of the [gen f] [Ἰδουίας] [ἀδελφῆς] [Νάχεθ] and [Δαλειλὰ] father [Κεειλά] and [Σεμεγὼν] father [Ἰωμάν] and [Μαναὴμ] of father [Κεειλὰ] [Ἀταμεὶ] and [Ἐσθαιμωνὴ] [Νωχαθεί]
+1Chr 4:20 and sons [Σεμιών] [Ἀμνὼν] and up son [Φανὰ] and [Ἰνών] and sons [Σεεί] [Ζωάν] and sons [Σωάβ]
+1Chr 4:21 sons [Σηλὼμ] of son [Ἰούδα] [Ἢρ] father [Ληχά] father [Μαιχά] and [γενέσεις] [οἰκιῶν] [ἐφρὰθ] [ἀβὰκ] to the [dat] [οἴκῳ] [Ἐσοβά] | [KJV:] The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,
+1Chr 4:22 and [Ἰωακεὶμ] and [ἄνδρες] [Σωχηθὰ] [Ἰωαδὰ] and [Σαιά] the [nom pl m] [κατῴκησαν] in Moab and [ἀπέστρεψεν] them [m] [ἁβεδηρεὶν] [ἀθουκιείν]
+1Chr 4:23 these ones [κεραμεῖς] the [nom pl m] [κατοικοῦντες] in [Ἀζαεὶμ] and [Γαβαηρὰ] with/after of the [gen] of king [ἐυ] to the [dat f] kingdom of him/his [ἐνίσχυσαν] and [κατῴκησαν] there
+1Chr 4:24 sons Simeon [Ναμουὴλ] and [Ἰαμείν] [Ἰαρείν] [Ζάρες] [Σαούλ] | [KJV:] The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
+1Chr 4:25 [Σαλὲμ] son of him/his [Μαβασὰμ] son of him/his [Μασμὰ] son of him/his
+1Chr 4:26 [Σεμεεὶ] son of him/his
+1Chr 4:27 to the [dat] [Σεμεεὶ] sons [ἑκκαίδεκα] and daughters three and to the [dat pl m] brothers of them/their not they were sons many [m] and [πᾶσαι] the [nom pl f] [πατριαὶ] of them/their not [ἐπλεόνασαν] as sons [Ἰούδα]
+1Chr 4:28 and [κατῴκησαν] in [Βηρσάβεε] and [Σάμα] and [Μωαλδὰ] and [Ἐσηρεουλάβ]
+1Chr 4:29 [Ἀβελλὰ] and [Βοόσαλ] and [Θουλάεμ] | [KJV:] And at Bilhah, and at Ezem, and at Tolad,
+1Chr 4:30 and [Βαθοὺν] and [Ἐρμὰ] and [Ὠκλὰ]
+1Chr 4:31 and [Βαιθμαρειμὼθ] and [Ἡμισυσεσορὰμ] and house [acc] [Βραουμσεωρείμ] [αὗται] in city of them/their until of king David
+1Chr 4:32 and [ἐπαύλεις] of them/their [Αἰτὰν] and [Ῥεμμὼν] and [Θόκκα] and [Αἰσάρ] in city five
+1Chr 4:33 and [πᾶσαι] [ἐπαύλεις] of them/their around of the [gen pl] of cities of these until [Βάλατ] she/her [κατάσχεσις] of them/their and the [nom m] [καταλοχισμὸς] of them/their
+1Chr 4:34 and [Μοσωβὰβ] and [Ἰεμολὸχ] and [Ἰωσειὰ] son [Ἀμασειὰ]
+1Chr 4:35 and [Ἰωήλ] and this one son [Ἰσαβιὰ] son [Σαρααὺ] son [Ἀσιήλ]
+1Chr 4:36 and [Ἐλιωναὶ] and [Ἰωκάβα] and [Ἰασουιὰ] and [Ἀσιὰ] sons [Ἀωσὰλ] of son [Σαφὰλ]
+1Chr 4:37 of son [Ἀμὼν] of son through/for of son [Σαμὰρ] of son Simeon
+1Chr 4:38 these ones the [nom pl m] [διελόντες] in [ὀνόμασιν] [ἀρχόντων] in to the [dat pl f] [γενέσεσιν] of them/their and in [οἴκοις] of paternal [houses] of them/their [ἐπληθύνθησαν] into/for [πλῆθος]
+1Chr 4:39 and [ἐπορεύθησαν] until of the [gen] to come [Γέραρα] until of the [gen pl] [ἀνατολῶν] of the [gen f] [Γαί] of the [gen] [ζητῆσαι] [νομὰς] to the [dat pl m] [κτήνεσιν] of them/their
+1Chr 4:40 and I found [νομὰς] [πίονας] and [ἀγαθάς] and the [nom f] earth [πλατεῖα] before of them/their and peace and [ἡσυχία] that/because from/out of of the [gen pl] [υἱῶυ] Ham of the [gen pl] [κατοικούντων] there before
+1Chr 4:41 and [ἤλθοσαν] these ones [γεγραμμένοι] upon of name in days [Ἑζεκίου] of king [Ἰούδα] and [ἐπάταξαν] the [acc pl m] of house of them/their and the [acc pl m] [Μιναίους] whom/which [f pl] [εὕροσαν] there and [ἀνεθεμάτισαν] them [m] until of the [gen f] of day to this [f] and [ᾤκησαν] [ἀντʼ] of them/their that/because [νομαὶ] to the [dat pl m] [κτήνεσιν] of them/their there
+1Chr 4:42 and six of them/their from of the [gen pl] [υὰῶν] Simeon [ἐπορεύθησαν] into/for [ὄρος] [Σηεὶρ] [ἄνδρες] [πεντακόσιο] and [Φαλαεττειὰ] and [Νωαδειὰ] and [Ῥαφαιὰ] and [Οζειὴλ] sons [Ἰεσθὲν] rulers of them/their
+1Chr 4:43 and [ἐπάταξαν] the [acc pl m] [καταλειφθέντας] the [acc pl m] [καταλοίπους] of the [gen] [Ἀμαλὴκ] until of the [gen f] of day to this [f]
+1Chr 5:1 and sons Reuben [πρωτοτόκου] Israel that/because this one the [nom m] [πρωτότοκος] and in to the [dat] [ἀναβῆναι] upon the [acc f] [κοίτην] of the [gen] of father of him/his he gave [εὐλογίαν] of him/his to the [dat] [υἱῷ] of him/his Joseph [υἱῷ] Israel and not [ἐγενεαλογήθη] into/for [πρωτοτοκεῖα]
+1Chr 5:2 that/because Judah [δυνατὸς] [ἰσχύι] and in to the [dat pl m] brothers of him/his and into/for [ἡγούμενον] six of him/his and the [nom f] [εὐλογία] of the [gen] Joseph
+1Chr 5:3 [υμυὶ] Reuben [πρωτοτόκου] Israel Enoch and [Φαλλούς] [Ἀρκὼν] and [Χαρμεί]
+1Chr 5:4 sons [Ἰωήλ] [Σεμεεὶ] and [Βαναιὰ] son of him/his and sons [Γοὺγ] of son [Σεμεεί]
+1Chr 5:5 son of him/his [Ἠχά] son of him/his [Ῥηχά] son of him/his [Ἰωήλ]
+1Chr 5:6 son of him/his [Βεήλ] the [nom m] [μετῴκισεν] [αλγαβανάσαρ] king [Ἀσσούρ] this one ruler of the [gen pl] Reuben
+1Chr 5:7 and brothers of him/his to the [dat f] [πατρίδι] of him/his in to the [dat pl m] [καταλοχισμοῖς] of them/their according to/down [γένεσιν] of them/their the [nom m] ruler [Ἰωὴλ] and [Ζαχαριὰ] and [Βάλεκ] son [Οζοὺζ] son [Σάμα] son [Ἰωήλ]
+1Chr 5:8 this one [κατῴκησεν] in [Ἀροὴρ] and upon [Ναβαὺ] and [Βεελμασσών]
+1Chr 5:9 and toward [ἀνατολὰς] [κατῴκησεν] until [ἐρχομένων] of the [gen f] [ἐρήμου] from of the [gen] [ποταμοῦ] [Εὐφράτου] that/because cattle to him many things in earth Gilead
+1Chr 5:10 and in days [Σαοὺλ] they made [πόλεμον] toward the [acc pl m] [παροίκους] and [ἔπεσον] in [χερσὶν] of them/their [κατοικοῦντες] in [σκηναῖς] until all [m pl] according to [ἀνατολὰς] of the [gen f] Gilead
+1Chr 5:11 sons Gad [κατέναντι] of them/their [κατῴκησαν] in to the [dat f] Bashan until [Ἐλχά]
+1Chr 5:12 [Ἰωὴλ] [πρωτότοκος] and [Σαβὰτ] the [nom m] [δεύτερος] and [Ἰανεὶν] the [nom m] [γραμματεὺς] in Bashan
+1Chr 5:13 and the [nom pl m] brothers of them/their according to of house of paternal [houses] of them/their [Μιχαήλ] [Μοσολὰμ] and [Σέβεε] and [Ἰωρεὲ] and [Χιμὰ] and [Ζοῦε] and Obed [ὀκτώ]
+1Chr 5:14 these ones sons [Ἀβειχαιὰ] sons [Oὑρεὶ] [υἱρῦ] [Ἰδαὶ] of son Gilead of son [Μειχαὴλ] of son [Ἰσοὶ] of son [Ἰουρεὶ] [υἱρῦ] [Ζαβουχὰμ]
+1Chr 5:15 of son [Ἀβδεὴλ] [υὰὸῦ] [Γουνεί] ruler of house of paternal [houses]
+1Chr 5:16 [κατοίκων] in [Γαλαάμ] in [Βασὰμ] and in to the [dat pl f] [κώμαις] of them/their and all things the [nom/acc pl n] [περίχαρα] [Ιεριὰμ] until [ἐξόδου]
+1Chr 5:17 of all the [nom m] [καταλοχισμὸς] in days Jotham of king [Ἰούδα] and in days [Ἰεροβοὰμ] of king Israel
+1Chr 5:18 sons Reuben and Gad and [ἥμισυ] of tribe Manasseh six of sons [δυνάμεως] [ἄνδρες] [αἴροντες] [ἀσπίδας] and [μάχαιραν] and [τείνοντες] [τόξον] and [δεδιδαγμένοι] [πόλεμον] forty and [τέσσαρες] thousands and [ἑπτακόσιοι] and [ἑξήκοντα] [ἐκπορευόμενοι] into/for [παράταξιν]
+1Chr 5:19 and [ἐποίουν] [πόλεμον] with/after of the [gen pl] [Ἀγαρηνῶν] and [Τουραίων] and [Ναφεισαδαίων] and [Ναδαβαίων]
+1Chr 5:20 and [κατίσχυσαν] upon of them/their and [ἐδόθησαν] into/for hands of them/their the [nom pl m] [Ἀγεραῖοι] and all things the [nom/acc pl n] [σκηνώματα] of them/their that/because toward the [acc m] God [acc] [ἐβόησαν] in to the [dat] [πολέμῳ] and [ἐπήκουσεν] to them that/because [ἥλπισαν] upon him
+1Chr 5:21 and [ήχμαλώτευσαν] the [acc f] [ἀποσκευὴν] [αὐτῶυ] [καμήλους] [πεντακισχιλίας] and of sheep [διακοσίας] fifty [χιλιάδας] [ὄνους] [δισχιλίους] and [ψυχὰς] [ἀνδρῶν] hundred [χιλιάδας] | [KJV:] And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
+1Chr 5:22 that/because [τραυματίαι] many [m] [ἔπεσον] that/because from/beside of the [gen] of God the [nom m] [πόλεμος] and [κατῴκησαν] [ἀντʼ] of them/their until of the [gen f] [μετοικεσίας]
+1Chr 5:23 and the [nom pl m] [ἡμίσεις] of tribe Manasseh [κατῴκησαν] from Bashan until [Βαιλεὶμ] and [Σανεὶρ] and [ὄρος] [Ἀερμών] and in to the [dat] [Λμβάνῳ] they [ἐπλεονάσθησαν]
+1Chr 5:24 and these ones [ἀρχηγοὶ] of house of paternal [houses] of them/their [Ὄφερ] and [Σεεὶ] and [Ἐλειὴλ] and [Ἐσδριὴλ] and [Ἰερμειὰ] and [Ὡδουιὰ] and [Ἰελειήλ] [ἄνδρες] [ἰσχυροὶ] in power [ἄνδρες] [ὀνομαστοί] rulers of the [gen pl] [οἴκων] of paternal [houses] of them/their
+1Chr 5:25 and [ἠθέτησαν] in to God [πατέρων] of them/their and [ἐπόρνευσαν] after/behind to God to people of the [gen f] of earth whom/which [f pl] [ἐξῆρεν] the [nom m] God from of face of them/their
+1Chr 5:26 and [ἐπήγειρεν] the [nom m] God Israel the [nom/acc n] spirit [Φαλὼχ] of king [Ἀσσοὺρ] and the [nom/acc n] spirit [Θαγναφαμάσαρ] of king [Ἀσσούρ] and [μετῴκισεν] the [acc m] Reuben and the [acc m] [Γαδδεὶ] and the [nom/acc n] [ἥμισυ] of tribe Manasseh and [ἤγαγεν] them [m] into/for [Χαὰχ] and [Χαβὼρ] and upon [ποταμὸν] [Χωζὰρ] until of the [gen f] of day to this [f]
+1Chr 6:1 sons Levi [dat] [Γεδσών] [Καὰθ] and [Μαραρεί] | [KJV:] The sons of Levi; Gershon, Kohath, and Merari.
+1Chr 6:2 and sons [Καάθ] [Ἀμβρὰμ] and [Ἰσσάαρ] [Χεβρὼν] and [Ὀζειήλ] | [KJV:] And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
+1Chr 6:3 and sons [Ἀμβράν] Aaron and to Moses and Mary and sons Aaron [Ναδὰβ] and [Ἀβούδ] Eleazar and [Ἰθαμάρ]
+1Chr 6:4 Eleazar he begat the [acc m] [Φεινεές] [Φεινεές] he begat the [acc m] [Ἀβεισού]
+1Chr 6:5 [Aβεισοὺ] he begat the [acc m] [Βωέ] and [Βωὲ] he begat the [acc m] [Ὀζεί]
+1Chr 6:6 [Ὀζεὶ] [ἐγέννησε] the [acc m] [Ζαραιά] [Ζαραιὰ] he begat the [acc m] [Μαρειήλ]
+1Chr 6:7 and [Μαρειὴλ] he begat the [acc m] [Ἀμαρειά] and [Αμαρειὰ] he begat the [acc m] [Ἀχειτώβ]
+1Chr 6:8 and [Ἀχειτὼβ] he begat the [acc m] Zadok and Zadok he begat the [acc m] [Ἀχειμάας]
+1Chr 6:9 and [Ἀχειμάας] he begat the [acc m] [Ἀζαρία] and [Ἀζαρίας] he begat the [acc m] [Ἰωανάς]
+1Chr 6:10 and [Ἰωανὰς] he begat the [acc m] [Ἀζαρίαν] this one [ἱεράτευσεν] in to the [dat] [οἴκῳ] to whom/which [ῳᾠκοδόμησεν] [Σαλωμὼν] in Jerusalem
+1Chr 6:11 and he begat [Ἀζαρία] the [acc m] [Ἀμαριά] and [Ἀμαριὰ] he begat the [acc m] [Ἀχειτώβ]
+1Chr 6:12 and [Ἀχειτὼβ] he begat the [acc m] Zadok and Zadok he begat the [acc m] [Σαλώμ]
+1Chr 6:13 and [Σαλὼμ] he begat the [acc m] [Χελκείαν] and [Χελκείας] he begat the [acc m] [Ἀζαρία]
+1Chr 6:14 and [Ἀζαρίας] he begat the [acc m] [Σαραία] and [Σαραίας] he begat the [acc m] [Ἰωσαδάκ]
+1Chr 6:15 and [Ἰωσαδὰκ] he went in to the [dat f] [μετοικίᾳ] with/after [Ἰούδα] and Jerusalem in hand [dat] [Ναβουχοδονοσόρ]
+1Chr 6:16 [Υἰ] [ἱοὶ] Levi [dat] [Γεδσών] [Καὰθ] and [Μαραρεί] | [KJV:] The sons of Levi; Gershom, Kohath, and Merari.
+1Chr 6:17 and these things the [nom/acc pl n] [ὀνόματα] of the [gen pl] of sons [Γεδσών] [Λοβενεὶ] and [Σεμεεί]
+1Chr 6:18 sons [Καάθ] [Ἀμβρὰμ] and [Ἰσσαάρ] [Χεβρὼν] and [Οζειήλ] | [KJV:] And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
+1Chr 6:19 sons [Μαραρεί] [Μοολεὶ] and [Óμουσεί] and [αὗται] the [nom pl f] [πατριαὶ] of the [gen] Levi [dat] according to/down [πατριὰς] of them/their
+1Chr 6:20 to whom/which [Γεδσών] to the [dat] [Λοβενεὶυἱῷ] of him/his [Íέεθ] son of him/his [Ζεμμὰ] son of him/his
+1Chr 6:21 [Ἰωὰβ] son of him/his [Ἀδεὶ] son of him/his [Ἰαάρα] son of him/his [Ἰεθρεὶ] son of him/his
+1Chr 6:22 [υἱρὶ] [Καάθ] [Ἀμειναδὰβ] son of him/his [Κόρε] son of him/his [Ἀρεσεὶ] son of him/his
+1Chr 6:23 [Ἐλκανὰ] and [Ἀβιαθὰρ] son of him/his [Ἀσερεὶ] son of him/his
+1Chr 6:24 [Κάαθ] son of him/his [Ὀριὴλ] son of him/his [Ὀζειὰ] son of him/his [Σαοὺλ] son of him/his
+1Chr 6:25 and sons [Ἐλκανά] [Ἀμεσσεὶ] and [Ἀλειμώθ]
+1Chr 6:26 [Ἐλκανὰ] son of him/his [Σουφεὶ] son of him/his [Καῖναθ] son of him/his
+1Chr 6:27 [Ἐλιὰβ] son of him/his [Ἰδαέρ] son of him/his [Ἐλκανὰ] son of him/his
+1Chr 6:28 sons [Σαμουὴλ] the [nom m] [πρωτότοκος] [Σανεὶ] and Abijah
+1Chr 6:29 sons [Λοβενεὶ] son of him/his [Σομεεὶ] son of him/his [Ὀζᾶ] son of him/his
+1Chr 6:30 [Σομεὰ] son of him/his [Ἀμὰ] son of him/his [Ἀσαβὰ] son of him/his
+1Chr 6:31 and these ones whom/which [f pl] [κατέστησεν] David upon hands [ᾀδόντων] in [οἴκῳ] of [the] Lord in to the [dat f] [καταπαύσει] of the [gen f] [κιβωτοῦ]
+1Chr 6:32 and they were [λειτουργοῦντες] before of the [gen f] of tent of house of testimony in [ὀργάνοις] until not [ᾠκοδόμησεν] [Σαλωμὼν] the [acc m] house [acc] in Jerusalem and [ἔστησαν] according to/down the [acc f] judgment [acc] of them/their upon the [acc pl f] [λειτουργίας] of them/their
+1Chr 6:33 and these ones the [nom pl m] [ἑστηκότες] and the [nom pl m] sons of them/their from/out of of the [gen pl] of sons of the [gen] [Καάθ] blood the [nom m] [ψαλτῳ] [Ἰωήλ] of son [Σαμουὴλ]
+1Chr 6:34 of son [Ἐλκανὰ] of son [Ἠαὰλ] of son [Ἐλειὴλ] of son [φεῖε]
+1Chr 6:35 of son [Σοὺφ] of son [Ελκανὰ] of son with of son [Ἀμαθειοὸ]
+1Chr 6:36 of son [Ἐλκανὰ] of son [Ἰωήλ] of son [Ἀζαρία] of son [Σαφανιὰ]
+1Chr 6:37 of son [Θάαθ] of son [Ἀσεὶρ] of son [Ἀβιασὰρ] of son [Κόρε]
+1Chr 6:38 of son [Ἰσσαὰρ] of son [Καὰθ] of son Levi [dat] of son Israel
+1Chr 6:39 and brother of him/his [Ἀσὰφ] the [nom m] [ἑστηκὼς] in [δεξιᾷ] of him/his [Ἀσὰφ] son [Βαραχιὰ] of son [Σαμαὰ]
+1Chr 6:40 of son [Μειχαὴλ] of son [Μαασαὶ] of son [Μελχειὰ]
+1Chr 6:41 of son [Ἀθανεὶ] of son [Ζααραὶ] of son [Ἀζειὰ]
+1Chr 6:42 of son [Αἰθὰν] of son [Ζαμμὰμ] of son [Σεμεεὶ]
+1Chr 6:43 of son [Ἦχα] of son [Γεεδσὼν] of son Levi [dat]
+1Chr 6:44 and sons [Μεραρεὶ] [ἀδελφοῦ] of them/their six [ἀριστερῶν] [Αἰθὰμ] son [Κεισαὶ] of son [Ἀβδεὶ] [υού] [Μαλὼχ]
+1Chr 6:45 of son [Ἀοεβεὶ]
+1Chr 6:46 of son [Ἀμεσσειὰ] of son [Βανεὶ] of son [Σἐμμηρ]
+1Chr 6:47 of son [Μοολεὶ] [Μοσεὶ] of son [Μερραρεὶ] of son Levi [dat]
+1Chr 6:48 and brothers of them/their according to of house of paternal [houses] of them/their the [nom pl m] Levi [dat] [δεδομένοι] into/for all/every [f acc] [ἐργασίαν] [λειτουργίας] of tent of house of the [gen] of God
+1Chr 6:49 and Aaron and the [nom pl m] sons of him/his [θυμιῶντες] upon the [nom/acc n] altar of the [gen pl] [ὁλοκαυταωμάτων] and upon the [nom/acc n] altar of the [gen pl] [θυμιαμάτων] into/for all/every [f acc] [ἐργασίαν] holy [f pl] of the [gen pl] of holy ones and [ἐξιλάσκεσθαι] around/concerning Israel according to/down all things as many things [he] commanded to Moses [παῖς] of the [gen] of God
+1Chr 6:50 and these ones sons Aaron [Ἐεαζαρ] son of him/his [Φεινεὲς] son of him/his [Ἀβεισοὺ] son of him/his
+1Chr 6:51 [Βωκαὶ] son of him/his [Ὀζεὶ] son of him/his [Ζαραιὰ] son of him/his
+1Chr 6:52 [Μαρειὴλ] son of him/his [Ἀλιαρειὰ] son of him/his [Ἀχειτὼβ] son of him/his
+1Chr 6:53 Zadok son of him/his [Ἀχεισάμα] son of him/his
+1Chr 6:54 and [αὗται] the [nom pl f] [κατοικίαι] of them/their in to the [dat pl f] [κώμαις] of them/their in to the [dat pl m] [ὁρίοις] of them/their to the [dat pl m] sons Aaron to the [dat f] [πατρίᾷ] of them/their of the [gen] [Κααθεί] that/because to them it came to be the [nom m] [κλῆρος]
+1Chr 6:55 and they gave to them the [acc f] [Χεβρὼν] in to the [dat f] [Ἰουδαίᾳ] and the [nom/acc pl n] [περισπόρια] of her/her around of her/her
+1Chr 6:56 and the [nom/acc pl n] [πεδία] of the [gen f] of city and the [acc pl f] [κώμας] of her/her they gave to the [dat] [Χαλέβ] [υἱῷ] [Ἰεφοννή]
+1Chr 6:57 and to the [dat pl m] sons Aaron they gave the [acc pl f] in city of the [gen pl] [φυγαδευτηρίων] the [acc f] [Χεβρών] and the [acc f] [Λοβνὰ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Σελνὰ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Ἐσθαμὼ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:58 and the [nom/acc pl n] [Ἰεθθὰρ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Δαβεὶρ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:59 and the [acc f] Asa and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Αττὰν] and the [nom/acc pl n] [περσπόρια] of her/her and the [acc f] [Βασάμυς]
+1Chr 6:60 and from/out of of tribe [Βενιαμεὶν] and the [acc f] [Γάβαι] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Γαλέμεθ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Ἀγχῶχ] and the [nom/acc pl n] [περισπόρια] of her/her [πᾶσαι] the [nom pl f] in city of them/their [τρισκαίδεκα] in city according to/down [πατριὰς] of them/their
+1Chr 6:61 and to the [dat pl m] sons [Καάθ] to the [dat pl m] according to/down remaining from/out of of the [gen pl] of paternal [houses] from/out of of the [gen f] of tribe from/out of of the [gen] [ἡμίσους] of tribe Manasseh by lot in city ten
+1Chr 6:62 and to the [dat pl m] sons [Γεδσὼν] according to/down [πατριὰς] of them/their from/out of of tribe Issachar from/out of of tribe Asher from/out of of tribe [Nεφθαλεί] from/out of of tribe Manasseh in to the [dat f] Bashan in city [τρισκαίδεκα]
+1Chr 6:63 and to the [dat pl m] sons [Μεραρεὶ] according to/down [πατριὰς] of them/their from/out of of tribe Reuben from/out of of tribe Dan from/out of of tribe Zebulun by lot in city ten two
+1Chr 6:64 and they gave the [nom pl m] [υἱκρὶ] Israel to the [dat pl m] to Levites the [acc pl f] in city and the [nom/acc pl n] [περισπόρια] [οὐτῶν]
+1Chr 6:65 and they gave in by lot from/out of of tribe of sons [Ἰούδα] and from/out of of tribe of sons Simeon the [acc pl f] in city these things [ἃ] he called them/it [f/n pl]
+1Chr 6:66 and from of the [gen pl] of paternal [houses] of sons [Καάθ] and [ἐγένοντο] in city of the [gen pl] [ὁρίων] of them/their from/out of of tribe Ephraim
+1Chr 6:67 and they gave to him the [acc pl f] in city of the [gen pl] [φυγαδευτηρίων] the [acc f] [Συχἐμ] and the [nom/acc pl n] [περισπόρια] of her/her in [ὄρει] Ephraim and the [acc f] [Γάζερ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:68 and the [acc f] [Ἰκαὰμ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Βαιθώρων] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:69 and the [acc f] [Ἐγλὰμ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Γεθωρὼν] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:70 and from of the [gen pl] [ἡμίσους] of tribe Manasseh the [acc f] [Ἀμὰρ] and the [nom/acc pl n] [περισπόρια] of her/her according to/down [πατριὰν] to the [dat pl m] sons [Καὰθ] to the [dat pl m] according to/down remaining
+1Chr 6:71 to the [dat pl m] sons [Γεδσὼν] from of paternal [houses] [ἡμίσους] of tribe Manasseh the [acc f] [Γωλὰν] from/out of of the [gen f] Bashan and the [nom/acc pl n] [περιπόλια] of her/her and the [acc f] [Ἀσηρὼθ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:72 and from/out of of tribe Issachar the [acc f] [Κέδες] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Δεβερεὶ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Δαβὼρ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:74 and from/out of of tribe Asher the [acc f] [Μαασά] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Ἀβαρὰν] and the [nom/acc pl n] [περισπορια] of her/her
+1Chr 6:75 and the [acc f] [Ἰκὰκ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Ῥοὼβ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:76 and from of tribe [Nεφθαλεὶ] the [acc f] [Κέδες] in to the [dat f] [Γαλειλαίᾳ] [καὶτὰ] [περισπόρια] of her/her and the [acc f] [Χαμὼθ] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Καριαθάιμ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:77 to the [dat pl m] sons [Μεραρεὶ] to the [dat pl m] according to/down remaining from/out of of tribe Zebulun the [acc f] [Ῥεμμὼν] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Θαχχειὰ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:78 from/out of of the [gen] beyond of the [gen] of Jordan and the [acc f] [Ἰερειχὼ] according to/down [δυσμὰς] of the [gen] of Jordan from/out of of tribe Reuben the [acc f] [Βοσὸρ] in to the [dat f] [ἐρήμῳ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:79 and the [acc f] [Καδαμὼς] and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Μαέφλα] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:80 and from/out of of tribe Gad the [acc f] [Ῥαμμὼν] Gilead and the [nom/acc pl n] [περισπόρια] of her/her and the [acc f] [Μαανάιθ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 6:81 and the [acc f] [Ἐσεβαὼν] and the [nom/acc pl n] [τπερισπόρια] of her/her and the [acc f] [Γαζέρ] and the [nom/acc pl n] [περισπόρια] of her/her
+1Chr 7:1 and to the [dat pl m] [υἱρῖς] Issachar [Θολάεκ] and [Φοὐτ] and [Ἰασσοὺρ] and [Σεμερών] [τέσσαρες]
+1Chr 7:2 and sons [Uολέ] [Ὀζεί] [Ῥαφαρὰ] and [Ῥειὴλ] and [Εἰικάν] Bashan and [Ἰσαμουήλ] rulers [οἴκων] of paternal [houses] of them/their to the [dat] [Θωλαεὶ] [ἰσχυροὶ] in power according to/down [γενέσεις] of them/their the [nom m] [ἀριθμὸς] of them/their days David twenty and two thousands and [ἑξακόσιοι]
+1Chr 7:3 and sons [Ζειρρεί] [Σαρειά] [Μειχαήλ] and sons [Ζαρειὰ] [Μειβδειὰ] and [Ῥαήλ] [Εἰσιά] five rulers all [m pl]
+1Chr 7:4 and upon of them/their according to/down [γενέσεις] of them/their according to of house [πατρικοὺς] of them/their [ἰσχυροὶ] [παρατάξασθαι] into/for [πόλεμον] thirty and six thousands that/because [ἐπλήθυναν] woman/wife [acc] and of son
+1Chr 7:5 and brothers of them/their into/for all [f acc pl] [πατριὰς] Issachar and [ἰσχυροὶ] in power [ὁγδοήκοντα] and seven thousands the [nom m] [ἀριθμὸς] of them/their of the [gen pl] of all
+1Chr 7:6 [Βενιαμεὶν] and [Ἀβειρὰ] and [Ἀδειήλ] three
+1Chr 7:7 and sons [Βάδεε] [Ἀσεβὼν] and [Οζεὶ] and [Οζειὴλ] and [Ἀρειμώθ] [Οὐρεί] five rulers [οἴκων] [πατρικῶν] [ἰσχυροὶ] in power and the [nom m] [ἀριθμὸς] of them/their twenty and two thousands and thirty [τέσσαρες]
+1Chr 7:8 and sons [Ἀβαχεί] [Ἀμαρίας] and [Ἰωὰς] and [Ἐλιέζερ] and [Ἐλειθαινὰν] and [Ἀμαρειὰ] and [Αὐρημὼθ] and Abiud and [Ἀναθὼθ] and [Γεμέεθ] all [m pl] these ones sons [Ἀμαχείρ]
+1Chr 7:9 and the [nom m] [ἀριθμὸς] of them/their according to/down [γενέσεις] of them/their rulers [οἴκων] of paternal [houses] of them/their [ἰσχυροὶ] in power twenty thousands and [διακόσιοι]
+1Chr 7:10 and sons [Ἀριήλ] [Βαλαάν] and sons [Βαλαάν] [Ἰαοὺς] and [Βενιαμεὶν] and [Ἀὼθ] and Canaan and [Ζαιθὰν] and [Ῥαμεσσαὶ] and [Ἀχεισάδαρ]
+1Chr 7:11 all [m pl] these ones sons [Ἀριήκ] rulers of the [gen pl] of paternal [houses] [ἰσχυροὶ] in power seven and ten thousands and [διακόσιοι] [ἐκπορευόμενοι] in power of the [gen] [πολεμεῖν]
+1Chr 7:12 and [Σαπφεὶν] and [Ἀπφείν] and sons [Ῥαώμ] son of him/his [Ἀἐρ]
+1Chr 7:13 sons [Nεφθαλεί] [Ἰεισιήλ] [Γωνεὶ] and [Ἰσσειὴρ] and [Σαλωμών] sons [Βαλάμ] | [KJV:] The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
+1Chr 7:14 sons Manasseh [Ἀσερειήλ] the [nom m] [ἔτεκεν] the [nom f] [παλλακὴ] of him/his the [nom f] [Σύρα] [ἔτεκεν] the [acc m] [Μαχεὶρ] father [acc] Gilead
+1Chr 7:15 and [Μαχεὶρ] he took woman/wife [acc] to the [dat] [Ἀμφεὶν] and [Μαμφείν] and name [ἀδελφῆς] of him/his [Μοωχά] and name to the [dat f] [δευτέρᾳ] [Σαπφαάδ]
+1Chr 7:16 and [ἔτεκεν] [Μοωχὰ] woman/wife [Μαχεὶρ] son [acc] and he called the [nom/acc n] name of him/his [Σοῦρος] son of him/his [Οὐλάμ]
+1Chr 7:17 [Βαδάμ] [οὅτοι] sons Gilead of son [Μαχεὶρ] of son Manasseh
+1Chr 7:18 and [ἀδελφὴ] of him/his the [nom f] [Μαλέχεθ] [ἔτεκεν] the [acc m] [Ἰσαδὲκ] and the [acc m] [Ἀβιέζερ] and the [acc m] [Μαελά]
+1Chr 7:19 and they were sons [Σεμειρά] [Ἰααὶμ] and [Σύχεμ] and [λακεεὶμ] and [Ἀλιαλείμ]
+1Chr 7:20 and sons Ephraim [Σωθάλαθ] sons [Λααδά] son of him/his [Νοομέ]
+1Chr 7:21 son of him/his [Σάβεδ] sons of him/his [Ὄζαρ] and [Ἐλαάδ] and [ἀπέκτειναν] him [ἄνδρες] [Τὲθ] the [nom pl m] [τεχθέντες] in earth that/because [κατέβησαν] of the [gen] [λαβεῖν] the [nom/acc pl n] cattle of them/their
+1Chr 7:22 and [ἐπένθησεν] Ephraim father of them/their of day many things and they came brothers of them/their of the [gen] [παρακαλέσαι] him
+1Chr 7:23 and he entered toward the [acc f] woman/wife [acc] of him/his and he took in [γαστρὶ] and [ἔτεκεν] son [acc] and he called the [nom/acc n] name of him/his [Βαργαά] that/because in [κακοῖς] it came to be in [οἴκῳ] of me/my
+1Chr 7:24 and in those ones to the [dat pl m] according to/down remaining and [ᾠκοδόμησεν] [Βαιθωρὼν] the [acc f] [κάτω] and the [acc f] [ἄνω] and sons [Οζάν] [Σεηρὰ]
+1Chr 7:25 and [Ῥάφη] [υἱρὶ] of him/his [Σάραφ] and [Θάλεες] sons of him/his [θάεν] son of him/his
+1Chr 7:26 to the [dat] [ΛΑδδὰν] [υἱῷ] of him/his [υἱρὶ] [Ἀμιουείδ] [υἱρὶ] [Ἐλειμασαί] | [KJV:] Laadan his son, Ammihud his son, Elishama his son.
+1Chr 7:27 sons [Νούμ] [υἱρὶ] [Ἰησοῦε] sons of him/his
+1Chr 7:28 and [κατάσχεσις] of them/their and [κατοικία] of them/their [Βαιθὴλ] and the [nom pl f] [κῶμαι] of her/her according to [ἀνατολὰς] [Νααρνάν] toward [δυσμαῖς] [Γάζερ] and the [nom pl f] [κῶμαι] of her/her and [Συχἰμ] and the [nom pl f] [κῶμαι] of her/her until [Γαιὰν] and the [nom pl f] [κῶμαι] of her/her
+1Chr 7:29 and until [ὁρίων] of sons Manasseh [Βαιθσαὰν] and the [nom pl f] [κῶμαι] of her/her [Θαλμὴ] and the [nom pl f] [κῶμαι] of her/her and [Βαλὰδ] and the [nom pl f] [κῶμαι] of her/her [Μαγεδδεὶ] and the [nom pl f] [κῶμαι] of her/her [Δὼρ] and the [nom pl f] [κῶμαι] of her/her in to this [f] [κατῷκησαν] the [nom pl m] sons Joseph of son Israel
+1Chr 7:30 sons Asher [Ἰνινὰ] and [Ἰσουὰ] and [Ἰσουὶ] and [Βεριγὰ] and [Σορέ] and [ἀδελφὴ] of them/their
+1Chr 7:31 sons [Βεριχά] [Γάβερ] and [Μελλειή] this one father [Βηζαίθ]
+1Chr 7:32 and [Χάβερ] he begat the [acc m] [Ἰφαμὴλ] and the [acc m] [Σαμὴρ] and the [acc m] [Χωθὰν] and the [acc f] [Σωλὰ] [ἀδελφὴν] of them/their
+1Chr 7:33 and sons [Ἀφαλήχ] [Βαισηχί] [μαβαὴλ] and [ᾈσεῖΘ] these ones sons [Ἰαφαλήλ]
+1Chr 7:34 and sons [Σἐμμηρ] [Ἀχιουιὰ] and [Ὠβάβ] [Ἀκαρὰν] | [KJV:] And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.
+1Chr 7:35 and Balaam brothers of him/his [Σωχὰθ] and [Ἰμανὰ] and [Ζέμη] and [Ἀμαά]
+1Chr 7:36 sons [Σωφάς] [Χουχί] [Ἁναρφὰρ] and [Σουλὰ] and [Σαβρεὶ] and [Ἰμαρή] | [KJV:] The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
+1Chr 7:37 [Σόβαλ] and [Ὣδ] and [Σεμὰ] and [Σαλεισὰ] and [Θερὰ] and [Βαιαιλά]
+1Chr 7:38 and sons [Ἰέθηρ] [Ἰφινὰ] and [Φασφαὶ] and then/therefore
+1Chr 7:39 and sons [Ὠλά] [Ὀρέχ] [Ἀνειὴλ] and [Ῥασειά] | [KJV:] And the sons of Ulla; Arah, and Haniel, and Rezia.
+1Chr 7:40 all [m pl] these ones sons Asher all [m pl] rulers of paternal [houses] [ἐκλεκτοὶ] [ἰσχυροὶ] in power rulers [ἡγούμενοι] [ἀριθμὸς] of them/their into/for [παράταξιν] of the [gen] [πολεμεῖν] [ἀριθμὸς] of them/their [ἄνδρες] twenty six thousands
+1Chr 8:1 and [Βενιαμεὶν] he begat [Βελελεὴλ] [πρωτότοκον] of him/his and [Σαβὰ] the [acc m] second [Ἰαφαὴλ] the [acc m] third
+1Chr 8:2 [Ἰωὰ] the [acc m] [τέταρτον] and [Ῥαφὴ] the [acc m] [πέμπτον]
+1Chr 8:3 and they were [υἱρὶ] to the [dat] [Βάλε] [Ἄλει] and [Γηρὰ] and Abiud
+1Chr 8:4 and [Ἀβεισάμας] and [Νοομὰ] and [Ἀχιὰ]
+1Chr 8:5 and [Γερὰ] and [Σωφαρφὰκ] and [Ὡἰμ]
+1Chr 8:6 [οὗτοιυἱοὶ] [Ἀώδ] these ones they are rulers of paternal [houses] to the [dat pl m] [κατοικοῦσιν] [Γάβερ] and [μετῴκισαν] them [m] into/for [Μαχαναθεί]
+1Chr 8:7 and [Νοομὰ] and [Ἀχειὰ] and [Γηρά] this one [Ἰγαάμ] he begat the [acc m] [Ναανὰ] and the [acc m] [Ἰαχειχώλ]
+1Chr 8:8 and [Σααρὴλ] he begat in to the [dat] [πεδίῳ] Moab with/after the [nom/acc n] [ἀποστεῖλαι] him [Σωσὶν] and the [acc f] [Ἰβααδὰ] woman/wife [acc] of him/his
+1Chr 8:9 and he begat from/out of of the [gen f] [Ἅδα] [γυναικὸς] of him/his the [acc m] [Ἰωβὰβ] and the [acc m] [Ἰεβιὰ] and the [acc m] [Μισὰ] and the [acc m] [Μελχὰς]
+1Chr 8:10 and the [acc m] [Ἰδὼς] and the [acc m] [Σαβιὰ] and the [acc m] [Ἰμαμά] these ones rulers of paternal [houses]
+1Chr 8:11 and from/out of of the [gen f] [Ὡσιμὲν] he begat the [acc m] [Ἀβιτὰβ] and the [acc m] [Ἀλφάαδ]
+1Chr 8:12 and sons [Ἀλφάαδ] Obed [Μεσσαάμ] [Σήμηρ] this one [ᾠκοδόμησεν] the [acc f] [Ὠνὰν] and the [acc pl f] [κώμας] of her/her
+1Chr 8:13 and [Βεριγὰ] and [Σάμα] these ones rulers of the [gen pl] of paternal [houses] to the [dat pl m] [κατοικοῦσιν] [Αἰλάμ] and these ones [ἐξεδίωξαν] the [acc pl m] [καιοικοῦντας] [Γεθ]
+1Chr 8:14 and brother of him/his [Σωκὴλ] and [Ἰαρειμὼθ]
+1Chr 8:15 and [Ἀζαβαβιὰ] and [Ὠρὴρ] and Obed
+1Chr 8:16 and [Μειχαὴλ] and [Σοφὰν] and [Ἰωαχάν] sons [Βαρειγά]
+1Chr 8:17 and [Σαβαδιὰ] and [Μοσολλὰμ] and [Ἀζακεὶ] and [Ἀβαρ]
+1Chr 8:18 and [Σαμαρεὶ] and [Σαρειὰ] and [Ἰωάβ] sons [Ἐλχάαδ]
+1Chr 8:19 and [Ἰακεὶμ] and [Ζαχρεὶ] and [Σαβδεὶ]
+1Chr 8:20 and [Ἐλιωλιαὰ] and [Σαλθεὶ] and [Ἐλιηλεὶ]
+1Chr 8:21 and Abijah and [Βεριγὰ] and [Βαραιὰ] and [Σαμαράθ] sons [Σαμαείθ]
+1Chr 8:22 and [Ἰσφὰν] and [Ὤβδη] and [Ἐλεὴλ]
+1Chr 8:23 and [Ἀβαδὼν] and [Ζεχρεὶ] and up
+1Chr 8:24 and [Ἀνανίὰ] and [Ἀμβρεὶ] and [Αἰλὰμ] and [Ἀνωθαὶθ]
+1Chr 8:25 and [Ἀθεν] and [Ἰεφερειὰ] and [Φελιήλ] sons [Σωιήκ]
+1Chr 8:26 and [Ἰσμασαριὰ] and [Σαραιὰ] and [Ὀγοθολιὰ]
+1Chr 8:27 and [Ἰασαραιὰ] and [Σαραιὰ] and [Ἠλιὰ] and [Ζαχρεὶ] sons [Ἰραάμ]
+1Chr 8:28 these ones rulers of paternal [houses] according to/down [γενέσεις] of them/their rulers these ones [κατῴκησαν] in Jerusalem
+1Chr 8:29 and in [Γαβαὼν] [κατῴκησεν] father [Γαβαών] and name to woman/wife of him/his [Μολχά]
+1Chr 8:30 and son of her/her the [nom m] [πρωτότοκος] [Ἀβαίων] and [Σοὺρ] and [Κεὶς] and [Βααλακαὶμ] and [Ἀδὰδ]
+1Chr 8:31 and [Δοὐρ] and brother of him/his and [Ζάχουρ] and [Μακαλὼθ]
+1Chr 8:32 and [Μακαλὼθ] he begat the [acc m] [Σεμαά] and for these ones [κατέναντι] of the [gen pl] of brothers of them/their [κατῴκησαν] in Jerusalem with/after of the [gen pl] of brothers of them/their
+1Chr 8:33 and [Νὴρ] he begat the [acc m] [Κείς] and [Κεὶς] he begat the [acc m] [Σαούλ] and [Σαοὺλ] he begat the [acc m] [Ἰωναθὰν] and the [acc m] [Μελχεσοῦε] and the [acc m] [Ἀμειναδὰβ] and the [acc m] [Ἀσάβαλ]
+1Chr 8:34 and sons [Ἰωναθὰν] [Μεριβάαλ] and [Μεριβάαλ] he begat the [acc m] [Μιχιά]
+1Chr 8:35 and sons [Μιχιά] [Φιθὼν] and [Μελχὴλ] and [ᵇερέε] and [Ζάκ]
+1Chr 8:36 and [Σὰκ] he begat the [acc m] [Ἰὰδ] and [Ἰάδα] and [Ἰαδὰ] he begat the [acc m] [Σαλαιμὰθ] and the [acc m] [Σαλμὼ] and the [acc m] [Ζαμβρεί] and he begat [Ζαμβρεὶ] the [acc m] [Μαισά]
+1Chr 8:37 and [Μαισὰ] he begat the [acc m] [Βανά] [Ῥαφαὶ] son of him/his [Σαλασὰθ] son of him/his [Ἐσὴλ] son of him/his
+1Chr 8:38 and to the [dat] [Ἐσὴλ] six sons and these things the [nom/acc pl n] [ὀνόματα] of them/their [Ἐζρεικαὶ] [πρωτότοκος] of him/his and [Ἰσμαὴλ] and [Σαραιὰ] and [Ἀβδειὰ] and [modal particle] all [m pl] these ones sons [Ἐσήλ]
+1Chr 8:39 and sons [Ἀσηλ] [ἀδελφοῦ] of him/his [Ἀἰλὰμ] [πρωτότοκος] of him/his and [Γὰγ] [ὁδεύτερος] [Ἐλιφάλεις] the [nom m] [τρίτος]
+1Chr 8:40 and they were sons [Αἰλεὶμ] [ἰσχυροὶ] [ἄνδρες] in power [τείνοντες] [τόξον] and [πληθύνοντες] of son and of son of the [gen pl] of sons hundred fifty all [m pl] these ones six of sons [Βενιαμείν]
+1Chr 9:1 and all/every Israel the [nom m] [συνλοχισμὸς] of them/their and these ones [καταγεγραμμένοι] in [βιβλίῳ] of the [gen pl] [βασιλέων] Israel and [Ἰούδα] with/after of the [gen pl] [καίοι] [κισθέντων] into/for [Βαβυλῶνα] in to the [dat pl f] [ἀνομίαις] of them/their
+1Chr 9:2 and the [nom pl m] [κατοικοῦντες] [πρότερον] in to the [dat pl f] [κατασχέσεσιν] of them/their in to the [dat pl f] in cities Israel sons Levi [dat] the [nom pl m] [ἱερεῖς] and the [nom pl m] [δεδομένοι]
+1Chr 9:3 and in Jerusalem [κατήκησαν] from of the [gen pl] of sons [Ἰούδα] and from of the [gen pl] of sons [Βενιαμεὶν] and of the [gen pl] of sons Ephraim and Manasseh
+1Chr 9:4 and [Γωθεὶ] and son [Σαμίου] of son [Ἀμρεί] sons of sons [Φἀρες] and of son [Ἰούδα]
+1Chr 9:5 and from/out of of the [gen pl] [Σηλωνεὶ] [Ἀσαιὰ] [πρωτότοκος] of him/his
+1Chr 9:6 from/out of of the [gen pl] of sons Zerah [Ἐπειὴλ] and brothers of them/their [ἑξακόσιοι] and [ἐνενήκοντα]
+1Chr 9:7 and from/out of of the [gen pl] of sons [Βενιαμεὶν] [Σαλὼμ] son [Μοολλὰμ] son [Οδυιὰ] son [Ἀανά]
+1Chr 9:8 and [Βαναὰμ] son [Ἰραάμ] and these ones sons [Οζεὶ] of son [Μαχείρ] and [Μασεαλὴμ] son [Σαφατιὰ] of son [Ῥαγουὴλ] [υἱρῦ] [Βαναιά]
+1Chr 9:9 and brothers of them/their according to/down [γενέσεις] of them/their [ἐννακόσιοι] fifty six all [m pl] the [nom pl m] [ἄνδρες] rulers of paternal [houses] according to of house of paternal [houses] of them/their
+1Chr 9:10 and from of the [gen pl] [ἱερέων] [Ἰωδᾶε] and [Ἰωαρεὶμ] and [Ἰαχείν]
+1Chr 9:11 and [Ἀζαρία] sons [Κελκειὰ] of son [Μοσολλὸμ] of son Zadok of son [Μαρμὼθ] of son [Ἀχειτὼβ] [ἡγούμενος] of house of the [gen] of God
+1Chr 9:12 and [Ἀδαιὰ] son [Ἰραὰμ] of son [Πασχὼρ] of son [Μαλχειά] and [Μαασαιὰ] son [Ἀδιὴλ] of son [Ἰεδειοὺ] of son [Μοσολλὰμ] of son [Μασελμὼθ] of son [Ἐμήρ]
+1Chr 9:13 [καὶn] brothers of them/their rulers [οἴκων] of paternal [houses] [χίλιοι] [ἑπτακόσιοι] [ἑξήκοντα] [ἰσχυροὶ] in power into/for [ἐργασίαν] [λειτουργίας] of house of the [gen] of God
+1Chr 9:14 and from/out of of the [gen pl] [Λευειτῶν] [Σαμαιὰ] son [Ἀσὼβ] of son [Ἐσρεικὰν] of son [Ἀσαβιὰ] from/out of of the [gen pl] of sons [Μεραρεί]
+1Chr 9:15 and [Βακὰρ] and [Ῥαραιήλ] Gilead and [Μανθανίας] son [Μειχὰ] of son [Ζεχρεὶ] of son [Ἀσάφ]
+1Chr 9:16 and [Ἀβδειὰ] son [Σαμειὰ] of son Gilead of son [Ἰωθών] and [Βαραχεὶ] son [Ὀσσα] of son [Ἠλκανὰ] the [nom m] [κατοικῶν] in to the [dat pl f] [κώμαις] [Νωτεφατεί]
+1Chr 9:17 the [nom pl m] [πυλωροί] [Σαλώμ] [Ἀκούμ] [Ταμμὰμ] and [Αἰμὰμ] and brothers of them/their [Σαλὼμ] the [nom m] ruler
+1Chr 9:18 and until to this [f] in to the [dat f] [πύλῃ] of the [gen] of king according to [ἀνατολάς] [αὗται] the [nom pl f] [πύλαι] of the [gen pl] [παρεμβολῶν] of sons Levi [dat]
+1Chr 9:19 and [Σαλωμὼν] son [Κωρὴβ] of son [Ἀβιασὰφ] of son [Κόρε] and the [nom pl m] brothers of him/his into/for house [acc] of father of him/his the [nom pl m] [Κορεῖται] upon of the [gen pl] [ἔργων] of the [gen f] [λειτουργίας] [φυλάσσοντες] the [acc pl f] [φυλακὰς] of the [gen f] of tent and [πατέρες] of them/their upon of the [gen f] of camp [φυλάσσοντες] the [acc f] [εἴσοδον]
+1Chr 9:20 and [Φεινεὲς] son Eleazar [ἡγούμενος] was upon of them/their before and these ones with [enclitic] of him/his
+1Chr 9:21 [Ζαχαρίας] son [Μασαλαμὶ] [πυλωρὸς] of the [gen f] [θύρας] of the [gen f] of tent of the [gen] of testimony
+1Chr 9:22 all [m pl] the [nom pl m] [ἐκλεκτοὶ] to the [dat pl f] [πύλαις] in to the [dat pl f] [πύλαις] [διακόσιοι] and ten two these ones in to the [dat pl f] [αὐλαῖς] of them/their the [nom m] [καταλοχισμὸς] of them/their of this [ἔστησεν] David and [Σαμουὴλ] the [nom m] [βλέπων] to the [dat f] [πίστει] of them/their
+1Chr 9:23 and these ones and the [nom pl m] sons of them/their upon of the [gen pl] [πυλῶν] in [οἴκῳ] of [the] Lord in [οἴκῳ] of the [gen f] of tent of the [gen] [φυλάσσειν]
+1Chr 9:24 according to/down the [acc pl m] [τέσσαρας] [ἀνέμους] they were the [nom pl f] [πύλαι] according to [ἀνατολάς] sea [acc] [βορρᾶν] [νότον]
+1Chr 9:25 and brothers of them/their in to the [dat pl f] [αὐλαῖς] of them/their of the [gen] [εἰσπορεύεσθαι] according to/down seven of day from [καιροῦ] into/for [καιρὸν] with/after of these
+1Chr 9:26 that/because in [πίστει] they are [τέσσαρες] [δυνατοὶ] of the [gen pl] [πυλῶν] the [nom pl m] Levi [dat] they were upon of the [gen pl] [παστοφορίων] and upon of the [gen pl] [θησαυρῶν] of house of the [gen] of God [παρεμβαλοῦσιν]
+1Chr 9:27 that/because upon them [m] [φυλακή] and these ones upon of the [gen pl] [κλειδῶν] the [nom/acc n] morning morning [ἀνοίγειν] the [acc pl f] [θύρας] of the [gen] [ἱεροῦ]
+1Chr 9:28 and six of them/their upon the [nom/acc pl n] vessels of the [gen f] [λειτουργίας] that/because in [ἀριθμῷ] [εἰσοίσουσιν]
+1Chr 9:29 and six of them/their [καθτσταμένοι] upon the [nom/acc pl n] vessels and upon all things vessels the [nom/acc pl n] holy [f pl] and upon of the [gen f] of fine flour of the [gen] [οἴνου] of the [gen] of oil of the [gen] [λιβανωτοῦ] and of the [gen pl] [ἀρωμάταον]
+1Chr 9:30 and from of the [gen pl] of sons [τῶυ] [ἱερέων] they were [μυρεψοὶ] of the [gen] [μύρου] and into/for the [nom/acc pl n] [ἀρῶματα]
+1Chr 9:31 and [Ματταθίας] from/out of of the [gen pl] [Λευειτῶν] this one the [nom m] [πρωτότοκος] to the [dat] [Σαλὼμ] to the [dat] [Κορείτῃ] in to the [dat f] [πίστει] upon the [nom/acc pl n] [ἔργα] of the [gen f] [θυσίας] of the [gen] [τηγάνου] of the [gen] [μεγάλου] of priest
+1Chr 9:32 and [Βαναίας] the [nom m] [Κααθείτης] from/out of of the [gen pl] of brothers of them/their upon of the [gen pl] [ἄρτων] of the [gen f] [προθέσεως] of the [gen] [ἑτοιμάσαι] [σάββατον] according to/down [σάββατον]
+1Chr 9:33 and these ones [ψαλτῳδοί] rulers of the [gen pl] of paternal [houses] of the [gen pl] [Λευειτῶν] [διατεταγμέναι] [ἐφημερίαι] that/because day and night upon to them in to the [dat pl m] [ἔργοις]
+1Chr 9:34 [ὗτοι] rulers of the [gen pl] to father according to/down [γενέσεις] of them/their rulers these ones [κατοίκησαν] in Jerusalem
+1Chr 9:35 and in [Γαβαὼν] [κατώκησεν] father [Γαβαωνεὶ] [Ἴηι] and name [γυναικὸς] of him/his [Μοωχά]
+1Chr 9:36 and son of him/his the [nom m] [πρωτότοκος] [Σαβαδών] and [Ἰσεὶρ] and [Κεὶς] and [Βάαλ] and [Νὴρ] and [Ναδάβ]
+1Chr 9:37 and [Ἰεδοὺρ] and brother and [Ζαχαριὰ] and [Μακελλώθ]
+1Chr 9:38 and [Μακελλὼθ] he begat the [acc m] [Σαμαά] and these ones in midst [dat] of the [gen pl] [ἀδελ] voice of them/their [κατῷκησαν] in Jerusalem in midst [dat] of the [gen pl] of brothers of them/their
+1Chr 9:39 and [Νὴρ] he begat the [acc m] [Κείς] and [Κεὶς] he begat the [acc m] [Σαούλ] and [Σαοὺλ] he begat the [acc m] [Ἰωναθὰν] and the [acc m] [Μελχεισοῦε] and the [acc m] [Ἀμειναδὰβ] and [Ἰεβάαλ]
+1Chr 9:40 and son [Ἰωναθὰν] [Μαρειβάαλ] and [Μαρειβάαλ] he begat the [acc m] [Μειχά]
+1Chr 9:41 and sons [Μειχά] [Φαιθὼν] and [Μάλαχ] and [Θαράχ]
+1Chr 9:42 and Ahaz he begat the [acc m] [Ἰάδα] and [Ἰάδα] he begat the [acc m] [Γαμέλεθ] and the [acc m] [Γαζάωθ] and the [acc m] [Ζαμβρεί] and [Ζαμβρεὶ] he begat the [acc m] [Μάσσά]
+1Chr 9:43 and [Μασκὰ] he begat the [acc m] [Βαανά] [Ῥαφαιὰ] son of him/his [Ἐσαὴλ] son of him/his
+1Chr 9:44 [κοί] to the [dat] [Ἐσὴλ] [ἴξ] sons [καὶταῦτα] the [nom/acc pl n] [ὀνόματα] of them/their [Ἐσδρεικὰν] [πρωτότοκος] of him/his [Ἰσμαὴλ] and [Σαριὰ] and [Ἀβδειὰ] and up these ones sons [Ἐσήλ]
+1Chr 10:1 and [ἀλλόφυλοι] [ἐπολέμησαν] toward Israel and [ἔφυγον] from of face [ἀλλοφύλων] and [ἔπεσον] [τραυματίαι] in [ὄρει] [Γελβουὲ]
+1Chr 10:2 and [κατεδίωξαν] [ἀλλόφυλοι] after/behind [Σαοὺλ] and after/behind of sons of him/his and [ἐπάταξαν] [ἀλλόφυλοι] the [acc m] [Ἰωναθὰν] and the [acc m] [Ἀμειναδὰβ] and the [acc m] [Μελχεισοῦε] of son [Σαούλ]
+1Chr 10:3 and [ἐβαρύνθη] the [nom m] [πόλεμος] upon [Σαούλ] and I found them [m] the [nom pl m] [τοξόται] in [τόξοις] and [πόνοις] and [ἐπόνεσαν] from of the [gen pl] [τόξων]
+1Chr 10:4 and he said [Σαοὺλ] to the [dat] [αἴροντι] the [nom/acc pl n] vessels of him/his [Σπάσαι] the [acc f] [ῥομφαίαν] of you/your and [ἐκκέντησόν] me in she/her not [ἔλθαωωσιν] the [nom pl m] [ἀπερίτμητοι] these ones and [ἐμπαίξωσίν] to me and not [ἐβούλετο] the [nom m] [αἴρων] the [nom/acc pl n] vessels of him/his that/because [ἐφοβεῖτο] very much and he took [Σαοὺλ] the [acc f] [ῥομφαἰαν] and [ἐπέπεσεν] upon her
+1Chr 10:5 and he saw the [nom m] [αἴρων] the [nom/acc pl n] vessels of him/his that/because he died [Σαούλ] and [he] fell and it upon the [acc f] [ῥομφαίαν] of him/his
+1Chr 10:6 and he died [Σαοὺλ] and three sons of him/his in to the [dat f] day that one [f] and all/every the [nom m] house of him/his upon the [nom/acc n] it he died
+1Chr 10:7 and he saw all/every man [nom] Israel the [nom m] in to the [dat] [αὐλῶνι] that/because [ἔφυγεν] Israel and that/because he died [Σαοὺλ] and the [nom pl m] sons of him/his and [κατέλειπον] the [acc pl f] in city of them/their and [ἔφυγον] and they came [ἀλλόφυλοι] and [κατῴκησαν] in [αὐταῖς]
+1Chr 10:8 and it came to be to the [dat f] [ἐχομένῃ] and they came [ἀλλόφυλοι] of the [gen] [σκυλεύειν] the [acc pl m] [τραυματίας] and I found the [acc m] [Σαοὺλ] and the [acc pl m] of son of him/his [πεπτωκότας] in to the [dat] [ὄρει] [Γελβουὲ]
+1Chr 10:9 and [ἐξέδυσαν] him and [ἔλαβον] the [acc f] head [acc] of him/his and the [nom/acc pl n] vessels of him/his and [ἀπέστειλαν] into/for earth [acc] [ἀλλοφύλων] around of the [gen] to preach the gospel to the [dat pl m] [εἰδώλοις] of them/their and to the [dat] to people
+1Chr 10:10 and [ἔθηκαν] the [nom/acc pl n] vessels of them/their in [οἴκῳ] of God of them/their and the [acc f] head [acc] of him/his [ἔθηκαν] in [οἴκῳ] [Δαγὼν]
+1Chr 10:11 and [ἤκουσαν] all [m pl] the [nom pl m] [κατοικοῦντες] Gilead [ἅπαντα] [ἃ] they made [ἀλλόφυλοι] to the [dat] [Σαοὺλ] and to the [dat] Israel
+1Chr 10:12 and [ἠγέρθησαν] from/out of Gilead all/every man [nom] [δυνατός] and [ἔλαβον] the [nom/acc n] body [Σαοὺλ] and the [nom/acc n] body of the [gen pl] of sons of him/his and [ἤνεγκαν] [καὐτὰ] into/for [Ἰαβείς] and [ἔθαψαν] the [nom/acc pl n] [ὀστᾶ] of them/their by/under the [acc f] [δρῦν] in [Ἰαβείς] and [ἐνήστευσαν] seven of day
+1Chr 10:13 and he died [Σαοὺλ] in to the [dat pl f] [ἀνομίαις] of him/his the [nom pl f] [ἠνόμησεν] to the [dat] to God according to/down the [acc m] word [acc] of [the] Lord [διότι] not [ἐφύλαξεν] that/because [he] questioned [Σαοὺλ] in to the [dat] [ἐνγαστριμύθῳ] of the [gen] [ζητῆσαι] and [ἀπεκρίνατο] to him [Σαμουὴλ] the [nom m] [προφήτης]
+1Chr 10:14 and not [ἐζήτησεν] [the] Lord [acc] and [ἀπέκτεινεν] him and [ἐπέστρεψεν] the [acc f] kingdom [acc] to the [dat] David [υἱῷ] Jesse
+1Chr 11:1 and he came all/every Israel toward David in [Χεβρὼν] saying [pl] behold [ὀστᾶ] of you/your and [σάρκες] of you/your we
+1Chr 11:2 and [ἐχθές] and [τρίτην] [ὄντος] [Σαοὺλ] of king you [ἦσθα] the [nom m] [ἐξάγων] and [εἰσάγων] the [acc m] Israel and he said Israel Lord to you you [ποιμανεῖς] the [acc m] people [acc] of me/my the [acc m] Israel and you [ἔσῃ] into/for [ἡγούμενον] upon Israel
+1Chr 11:3 and they came all [m pl] [πρεσβύτεροι] Israel toward the [acc m] [βασιλέα] into/for [Χεβρών] and [διέθετο] to them the [nom m] king David covenant [acc] in [Χεβρὼν] before of [the] Lord and [ἔχρισαν] the [acc m] David into/for [βασιλέα] upon Israel according to/down the [acc m] word [acc] of [the] Lord through/for of hand [Σαμουὴλ]
+1Chr 11:4 and he went the [nom m] king and [ἄνδρες] of him/his into/for Jerusalem she/her [Ἰεβούς] and there the [nom pl m] [Ἰεβουσαῖοι] the [nom pl m] [κατοικοῦντες] the [acc f] [Ἰεβοὺς]
+1Chr 11:5 they said to the [dat] David not [εἰσελεύσῃ] here and [προκατελάβετο] the [acc f] [περιοχὴν] [Σειών] she/her the [nom f] city David
+1Chr 11:6 and he said David all/every [τύπτων] [Ἰεβουσαῖον] in [πρώτοις] and it will be into/for [ἄρχοντα] and into/for [στρατηγόν] and [ἀνέβη] upon she/her in [πρώτοις] [Ἰωὰβ] son [Σαρουιά] and it came to be into/for [ἄρχοντα]
+1Chr 11:7 and [ἐκάθισεν] David in to the [dat f] [περιοχῇ] through/for this [n] he called her city [acc] David
+1Chr 11:8 and [ᾠκοδόμησεν] the [acc f] city [acc] around and [ἐπολέμησεν] and he took the [acc f] city [acc]
+1Chr 11:9 and [ἐπορεύετο] David [πορευόμενος] and Lord [Παντοκράτωρ] with [enclitic] of him/his
+1Chr 11:10 and these ones the [nom pl m] rulers of the [gen pl] [δυνατῶν] the [nom pl m] they were to the [dat] David the [nom pl m] [κατισχύοντες] with [enclitic] of him/his in to the [dat f] kingdom of him/his with/after of all/every Israel of the [gen] [βασιλεῦσαι] him according to/down the [acc m] word [acc] of [the] Lord upon Israel
+1Chr 11:11 and this one the [nom m] [ἀριθμὸς] of the [gen pl] [δυνατῶν] of the [gen] David [Ἰεσεβαδὰ] son [Ἀχαμανεὶ] [πρῶτος] of the [gen pl] thirty this one [ἐσπάσατο] the [acc f] [όομφαίαν] of him/his [ἅπαξ] upon [τριακοσίους] [τραυματίας] in [καιρῷ] [ἑνί]
+1Chr 11:12 and with [enclitic] him Eleazar son [Δωδαὶ] the [nom m] [Ἀρχωνεί] this one was in to the [dat pl m] [τρισὶν] [δυνατοῖς]
+1Chr 11:13 this one was with/after David in [Φασοδομή] and the [nom pl m] [ἀλλόφυλοι] [συνήχθησαν] there into/for [πόλεμον] and was [μερὶς] of the [gen] [ἀγροῦ] [πλήρης] [κριθῶν] and the [nom m] [λαὸς] [ἔφυγεν] from of face [ἀλλοφύλων]
+1Chr 11:14 and [ἔστη] in midst [dat] of the [gen f] [μερίδος] and [ἔσωσεν] her and [ἐπάταξεν] the [acc pl m] [ἀλλοφύλους] and he did Lord salvation [μεγάλην]
+1Chr 11:15 and [κατέβησαν] three from/out of of the [gen pl] thirty [ἀρχόντων] into/for the [acc f] [πέτραν] toward David into/for the [nom/acc n] [σπήλαιον] [Ὀδολλὰμ] and [παρεμβολὴ] of the [gen pl] [ἀλλοφύλων] in to the [dat f] [κοιλάδι] of the [gen pl] [γιγάντων]
+1Chr 11:16 and David then in to the [dat f] [περιοχῇ] and the [nom/acc n] [σύστεμα] of the [gen pl] [ἀλλοφύλων] then in [Βαιθλέεμ]
+1Chr 11:17 and [ἐπεθύμησεν] David and he said who? [ποτιεῖ] me water from/out of of the [gen] [λάκκου] [Βηθλέεμ] of the [gen] in to the [dat f] [πύλη]
+1Chr 11:18 and [διέρρηξαν] the [nom pl m] three the [acc f] [παρεμβολὴν] of the [gen pl] [ἀλλοφύλων] and [ὑδρεύσαντο] water from/out of of the [gen] [λάκκου] of the [gen] in [Βαιθλέεμ] whoever/which was in to the [dat f] [πύλη] and [ἔλαβον] toward David and not [ἤθελεν] David of the [gen] [πιεῖν] it and [ἔσπεισεν] it to the [dat] to [the] Lord
+1Chr 11:19 and he said [Ἵλεώς] to me the [nom m] God of the [gen] to do the [nom/acc n] [ῥῆμα] this [n] you are blood [ἀνδρῶν] of these [πίομαι] in [ψυχαῖς] of them/their that/because in [ψυχαῖς] of them/their [ἤνεγκαν] and not [ἐβούλετο] [πιεῖν] it these things they made the [nom pl m] three [δυνατοί]
+1Chr 11:20 and [Ἀβεισὰ] brother [Ἰωάβ] this one was ruler of the [gen pl] [τριῶν] this one [ἐσπάσατο] the [acc f] [ῥομφαίαν] of him/his upon [τριακοσίους] [τραυματίας] in [καιρῷ] [ἑνί] and this one was [ὀνομαστὸς] in to the [dat pl m] [τρισίν]
+1Chr 11:21 from of the [gen pl] [τριῶν] for/over the [acc pl m] two [ἔνδοξος] and was to them into/for [ἄρχοντα] and until of the [gen pl] [τριῶν] not [ἤρχετο]
+1Chr 11:22 and [Βαναιὰ] son [Ἰωδάε] son of man [δυνατοῦ] many things [ἔργα] of him/his for/over [Καβασαήλ] this one [ἐπάταξεν] the [acc pl m] two [ἀριὴλ] Moab and this one [κατέβη] and [ἐπάταξεν] the [acc m] [λέοντα] in to the [dat] [λάκκῳ] in day [χιόνος]
+1Chr 11:23 and this one [ἐπάταξεν] the [acc m] man [acc] the [acc m] [Αἰγύπτιον] man [acc] [ὁρατὸν] [πεντάπηχυν] and in hand [dat] of the [gen] [Αἰγυπτίου] [δόρυ] as instead of [ὑφαινόντων] and [κατέβη] upon him [Βαναίας] in [ῥάβδῳ] and [ἀφείλατο] from/out of of the [gen f] of hand of the [gen] [Αἰγυπτίου] the [nom/acc n] [δόρυ] and [ἀπέκτεινεν] him in to the [dat] [δόρατι] of him/his
+1Chr 11:24 these things he did [Βαναίας] son [Ἰωάδ] and to this name in to the [dat pl m] [τρισὶν] to the [dat pl m] [δυνατοῖς]
+1Chr 11:25 for/over the [acc pl m] thirty [ἔνδοξος] this one and toward the [acc pl m] three not [ἤρχετο] and [κατέστησεν] him David upon the [acc f] [πατριὰν] of him/his
+1Chr 11:26 and [δυνατοὶ] of the [gen pl] [δυνάμεων] [Ἀσαὴλ] brother [Ἰωάβ] [Ἐλεανὰν] son [Δωδῶε] [Βαιθλάεμ] | [KJV:] Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
+1Chr 11:27 [Σαμαὼθ] the [nom m] [Ἀδί] [Χέλλης] the [nom m] [Φελωνεί] | [KJV:] Shammoth the Harorite, Helez the Pelonite,
+1Chr 11:28 [Ὠραὶ] son from/out of of the [gen f] [Ὁθεκώ] [Ἀβιέζερ] the [nom m] [Ἀναθωθεἰ]
+1Chr 11:29 [Σοβοχαὶ] the [nom m] [Ἀθεί] [Ἠλιεὶ] the [nom m] [Ἀχωνεί] | [KJV:] Sibbecai the Hushathite, Ilai the Ahohite,
+1Chr 11:30 [Νεερὲ] the [nom m] [Νεθωφατεί] [Χθάοδ] son [Νοοζὰ] the [nom m] [Νετωφατεί] | [KJV:] Maharai the Netophathite, Heled the son of Baanah the Netophathite,
+1Chr 11:31 [Αἰρεὶ] son [Ῥεβὲ] from/out of [βουνοῦ] [Βενιαμείν] [Βαναίας] the [nom m] [Φαραθωνεί] | [KJV:] Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,
+1Chr 11:32 [Οὑρεὶ] from/out of [ναχαλεὶ] [Γάας] [Ἀβιὴλ] the [nom m] [Γαραβαιθθί] | [KJV:] Hurai of the brooks of Gaash, Abiel the Arbathite,
+1Chr 11:33 [Ἀζβὼν] the [nom m] [Βεερμείν] [Σαμαβὰ] the [nom m] [Ομεί] | [KJV:] Azmaveth the Baharumite, Eliahba the Shaalbonite,
+1Chr 11:34 [Βενναίας] the [nom m] [Σομολογεννουνείν] [Ἰωναθὰν] son [Σωλὰ] the [nom m] [Ἀραχεί] | [KJV:] The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,
+1Chr 11:35 [Ἀχεὶμ] son [Ἀχὰρ] the [nom m] [Ἀραρεἰ] [Ελφὰτ] son [Σθύρ] | [KJV:] Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
+1Chr 11:36 [Ὅφαρ] [Μοχόρ] [Αχειὰ] the [nom m] [Φεδωνεἰ] | [KJV:] Hepher the Mecherathite, Ahijah the Pelonite,
+1Chr 11:37 [Ἡσερὲ] the [nom m] [Χαρμαδαί] [Νααραὶ] son [Ἀζωβαἰ] | [KJV:] Hezro the Carmelite, Naarai the son of Ezbai,
+1Chr 11:38 [μὴλ] son [Ναθάν] [Μεβαὰλ] son [Ἀγαρεί] | [KJV:] Joel the brother of Nathan, Mibhar the son of Haggeri,
+1Chr 11:39 [Σέλη] the [nom m] [Ἀμμωνεί] [Ναχὼρ] the [nom m] [Βερθεὶ] [αἰρων] vessels [υἱῷ] [Σαρουία] | [KJV:] Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,
+1Chr 11:40 [Ἰρὰ] the [nom m] [Ἠθηρεί] [Γαρηοβαί] [Ἰοθηρεί] | [KJV:] Ira the Ithrite, Gareb the Ithrite,
+1Chr 11:41 [Οὐρεὶ] the [nom m] [Χεττεί] [Ζαβὲτ] son [Ἀχαιά] | [KJV:] Uriah the Hittite, Zabad the son of Ahlai,
+1Chr 11:42 [Ἀδεινὰ] son [Σαιζὰ] of the [gen] Reuben ruler and upon to him thirty
+1Chr 11:43 up son [Μοωχὰ] and Jehoshaphat the [nom m] [Βαιθανεί]
+1Chr 11:44 [Ὀζειὰ] the [nom m] [Ἀσταρωθεί] [Σαμαθὰ] and [Ἰειά] sons [Κωθὰν] of the [gen] [Ἀραρεί] | [KJV:] Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,
+1Chr 11:45 [Ἐλθειὴλ] son [Σαμερεὶ] and [Ἰωάζαε] the [nom m] brother of him/his the [nom m] [Ἰεασεί]
+1Chr 11:46 [Λειὴλ] the [nom m] [Μιεὶ] and [Ἰαριβεὶ] and [Ἰωσειὰ] son of him/his [Ἐλλάαμ] and [Ἐθεμὰ] the [nom m] [Μωαβείτης]
+1Chr 11:47 [Δαλειὴλ] and [Ἰωβὴθ] and [Ἐσσειὴλ] the [nom m] [Μειναβειά] | [KJV:] Eliel, and Obed, and Jasiel the Mesobaite.
+1Chr 12:1 and these ones the [nom pl m] [ἐλθόντες] toward David into/for [Σωκλά] still/yet [συνεχομένου] from of face [Σαοὺλ] of son [Κείς] and these ones in to the [dat pl m] [δυνατοῖς] [βοηθοῦντες] in [πολέμῳ]
+1Chr 12:2 and [τόξῳ] from/out of of right [sides] and six [ἀριστερῶν] and [σφενδονῆται] in [λίθοις] and [τόξοις] in to the [dat pl m] brothers [Σαοὺλ] from/out of [Βενιαμείν]
+1Chr 12:3 the [nom m] ruler [Ἀχιέζερ] and [Ἰωὰ] the [nom m] son [Ἀμὰ] of the [gen] [Γεβωθείτου] and [Ἰωήλ] and [Ἰωφάλητ] sons [Ἀσμώθ] and [Βερχειά] and [Ἰηοὺλ] the [nom m] [Ἀναθωθεί]
+1Chr 12:4 and [Σαμαίας] the [nom m] [Γαβαωνείτης] [δυνατὸς] in to the [dat pl m] thirty and upon of the [gen pl] thirty [Ἰερμίας] and [Ἰεζὴλ] and [Ἰωανὰν] and [Ἰωαζαβὰβ] the [nom m] [Γαδαραθειείμ]
+1Chr 12:5 [Ἀζαὶ] and [Ἀρειμοὺθ] and [Βαδαιὰ] and [Σαμαραιά] and [Σαφατὰ] the [nom m] [Χαραιφεἰ]
+1Chr 12:6 [Ἠλκανὰ] and [Ἰησουνεὶ] and [Ὀζρειὴλ] and [Ἰωζάρα] [Καινὰ] and [Σοβοκὰμ] and the [nom pl m] [Κορεῖται]
+1Chr 12:7 and [Ἐλιὰ] and [Ζαβιδιὰ] sons [Ῥαὰμ] and the [nom pl m] of the [gen] [Γεδώρ] [⁸καὶ] from of the [gen] [Γεδδεὶ] [ἐχωρίσθησαν] toward David from of the [gen f] [ἐρήμου] [ἰσχυροὶ] [δυνατοὶ] [ἄνδρες] [παρατάξεως] [πολέμου] [αἴροντες] [θυρεοὺς] and [δόρατα] and face [λέοντος] [πρόσωπα] of them/their and [κοῦφοι] as [δορκάδες] upon of the [gen pl] [ὀρέων] to the [dat] [τάχει]
+1Chr 12:9 [Ἄζα] the [nom m] ruler [Ἀβδειὰ] the [nom m] [δεύτερος] [Ἐλιὰβ] the [nom m] [τρίτος]
+1Chr 12:10 [Μασεμμανὴ] the [nom m] [τέταρτος] [Ἰερεμειὰ] the [nom m] [πέμπτος] | [KJV:] Mishmannah the fourth, Jeremiah the fifth,
+1Chr 12:11 [Ἐθοὶ] the [nom m] [ἕκτος] [Ἐλιὰβ] the [nom m] [ἕβδομος] | [KJV:] Attai the sixth, Eliel the seventh,
+1Chr 12:12 [Ἰωὰν] the [nom m] [ὄγδοος] [Ἐλιαζὲρ] the [nom m] [ἔνατος] | [KJV:] Johanan the eighth, Elzabad the ninth,
+1Chr 12:13 [ʼiερεμειὰ] the [nom m] [δέκατος] [Μελχαβανναὶ] the [nom m] [ἑνδέκατος] | [KJV:] Jeremiah the tenth, Machbanai the eleventh.
+1Chr 12:14 these ones from/out of of the [gen pl] of sons Gad rulers of the [gen f] [στρατιᾶς] into/for to the [dat pl m] hundred [μικρὸς] and [μέγας] to the [dat pl m] [χιλίοις]
+1Chr 12:15 these ones the [nom pl m] [διαβάντες] the [acc m] Jordan [acc] in to the [dat] [μηνὶ] to the [dat] [πρώτῳ] and this one [πεπληρωκὼς] upon all/every [f acc] [κρηπῖδα] of him/his and [ἐξεδίωξαν] all [acc pl m] the [acc pl m] [κατοικοῦντας] [αὐλῶνας] from [ἀνατολῶν] until [δυσμῶν]
+1Chr 12:16 and they came from of the [gen pl] of sons [Βενιαμεὶν] and [Ἰούδα] into/for [βοήθειαν] of the [gen] David
+1Chr 12:17 and David he went out into/for [ἀπάντησιν] of them/their and he said to them you are into/for peace [ἥκατε] toward me [εἴη] to me heart according to [enclitic] [ἑαυτὴν] upon [enclitic] you [pl] and you are of the [gen] from/beside to give me to the [dat pl m] [ἐχθροῖς] of me/my not in truth of hand [ἴδοι] the [nom m] God of the [gen pl] [πατέρων] of you/your [pl] and [ἐλέγξαιτο]
+1Chr 12:18 and spirit [ἐνέδυσε] the [acc m] [Ἀμασαὶ] [ἄρχοντα] of the [gen pl] [τρυἰκοντα] and he said go and the [nom m] [λαός] of you/your David son Jesse peace peace to you and peace to the [dat pl m] [βοηθοῖς] of you/your that/because [ἐβοήθησέν] to you the [nom m] God of you/your and [προσεδέξατο] them [m] David and [κατέστησεν] them [m] [ἄρχοντας] of the [gen pl] [δυνάμεων]
+1Chr 12:19 and from Manasseh [προσεχώρησαν] toward David in to the [dat] to come the [acc pl m] [ἀλλοφύλους] upon [Σαοὺλ] into/for [πόλεμον] and not [ἐβοήθησαν] to them that/because in [βουλῇ] it came to be from/beside of the [gen pl] [στρατηγῶν] of the [gen pl] [ἀλλοφύλων] [λεγόντων] in to the [dat pl f] [κεφαλαῖς] of the [gen pl] [ἀνδρῶν] [ἐκείνων] [ἐπιστρέψει] toward the [acc m] [the] Lord [acc] of him/his [Σαούλ]
+1Chr 12:20 in to the [dat] [πορευθῆναι] him into/for [Σωγλὰμ] [προσεχώρησαν] to him from Manasseh [Ἐδνὰ] and [Τωζαβὰθ] and [Ῥωδιὴλ] and [Μειχαὴλ] and [Ἰωσαβαὶθ] and [Ἐλιμοὺθ] and [Σεμαθεί] [ἀρχηγοὶ] [χιλιάδων] they are of the [gen] Manasseh
+1Chr 12:21 and they [συνεμάχησαν] to the [dat] David upon the [acc m] [γεδδούρ] that/because [δυνατοὶ] [ἰσχύος] all [m pl] and they were [ἡγούμενοι] in to the [dat f] [στρατείᾳ] in to the [dat f] in power
+1Chr 12:22 that/because day [acc] six of day [ἤρχοντο] toward David into/for [δύναμιν] [μεγάλην] as power of God
+1Chr 12:23 and these things the [nom/acc pl n] [ὀνόματα] of the [gen pl] [ἀρχόντων] of the [gen f] [στρατείας] the [nom pl m] [ἐλθόντες] toward David into/for [Χεβρὼν] of the [gen] [ἀποστρέψαι] the [acc f] kingdom [acc] [Σαοὺλ] toward him according to/down the [acc m] word [acc] of [the] Lord
+1Chr 12:24 sons [Ἰούδα] [θυρεωφόροι] and [δορατοφόροι] six thousands and [ὀκτακόσιοι] [δυνατοὶ] [παρατάξεως]
+1Chr 12:25 of the [gen pl] of sons Simeon [δυνατοὶ] [ἰσχύος] into/for [παράταξιν] seven thousands and hundred
+1Chr 12:26 of the [gen pl] of sons Levi [dat] [τετρακισχίλιοι] [ἑξακόσιοι]
+1Chr 12:27 and [Τωαδὰς] the [nom m] [ἡγούμενος] to the [dat] Aaron and with [enclitic] of him/his three thousands and [ἑπτακόσιοι]
+1Chr 12:28 and Zadok [νέος] [δυνατὸς] [ἰσχύι] and of the [gen f] [πατρικῆς] [οἰκίας] of him/his rulers twenty two
+1Chr 12:29 and of the [gen pl] of sons [Βενιαμεὶν] of the [gen pl] of brothers [Σαοὺλ] three thousands and still/yet the [nom/acc n] [πλεῖστον] of them/their [ἀπεσκόπει] the [acc f] [φυλακὴν] of house [Σαούλ]
+1Chr 12:30 and from of sons Ephraim twenty thousands and [ὀκτακόσιοι] [δυνατοὶ] [ἰσχύι] [ἄνδρες] [ὀνομαστοὶ] according to of house of paternal [houses] of them/their
+1Chr 12:31 and from of the [gen] [ἡμίσους] of tribe Manasseh ten [ὀκτὼ] thousands and the [nom pl m] [ὠνομάσθησαν] in in name of the [gen] [βασιλεῦσαι] the [acc m] David
+1Chr 12:32 and from of the [gen pl] of sons Issachar [γινάσκοντες] [σύνεσιν] into/for the [acc pl m] [καιρούς] [γινώσκοντες] what? to do Israel [διακόσιοι] and all [m pl] brothers of them/their with [enclitic] of them/their
+1Chr 12:33 and from Zebulun [ἐκπορευόμενοι] into/for [παράταξιν] [πολέμου] in to all [σκεύεσιν] [πολεμικοῖς] fifty thousands [βοηθῆσαι] to the [dat] David not [χεροκένως]
+1Chr 12:34 and from [Nεφθαλεὶ] rulers [χίλιοι] and with [enclitic] of them/their in [θυρεοῖς] and [δόρασιν] thirty seven thousands
+1Chr 12:35 and from of the [gen pl] [Δανειτῶν] [παρατασσόμενοι] into/for [πόλεμον] twenty [ὀκτὼ] thousands and [ὀκτακόσιοι]
+1Chr 12:36 and from of the [gen] Asher [ἐκπορευόμενοι] [βοηθῆσαι] into/for [πόλεμον] forty thousands
+1Chr 12:37 and from/out of beyond of the [gen] of Jordan from Reuben and [Γαδδεὶ] and from of the [gen] [ἡμίσους] of tribe Manasseh in to all [σκεύεσιν] [πολεμικοῖς] hundred twenty thousands
+1Chr 12:38 all [m pl] these ones [ἄνδρες] [πολεμισταὶ] [παρατασσόμενοι] [παράταξιν] in soul [εἰρηνικῇ] and they came into/for [Χεβρὼν] of the [gen] [βασιλεῦσαι] the [acc m] David upon all things Israel and the [nom m] [κατάλοιπος] Israel soul [μία] of the [gen] [βασιλεῦσαι] the [acc m] David
+1Chr 12:39 and they were there of day three [ἐσθίοντες] and [πίνοντες] that/because [ἡτοίμασαν] the [nom pl m] [ἀδελ] [φοὶ] of them/their
+1Chr 12:40 and the [nom pl m] [ὁμοροῦντες] to them until Issachar and Zebulun and [Nεφθαλεὶ] [ἔφερον] to them upon of the [gen pl] [καμήλων] and of the [gen pl] [ὄνων] and of the [gen pl] [ἡμιόνων] and upon of the [gen pl] [μόσχαων] [βρώματα] [ἄλευρα] [παλάθας] [σταφίδας] [οἶνον] and oil of calf and sheep into/for [πλῆθος] that/because [εὐφροσύνη] in Israel
+1Chr 13:1 and [ἐβουλεύσατο] David with/after of the [gen pl] [χιλιάρχων] and of the [gen pl] [ἑκατοντάρχων] to every [ἡγουμένῳ]
+1Chr 13:2 and he said David all/every [f dat] church/assembly Israel you are upon [enclitic] to you [pl] [ἀγαθὸν] and from/beside of [the] Lord of God our [εὐωδώθη] [ἀποστεί] [λωμεν] toward the [acc pl m] [ἀδελφοὺς] of you/your [pl] the [acc pl m] [ὑπολελειμμένους] [ἐυ] all/every [f dat] earth Israel and with [enclitic] of them/their the [nom pl m] [ἱερεῖς] the [nom pl m] Levi [dat] in in cities [κατασχέσεαως] of them/their and [συναχθήσονται] toward us
+1Chr 13:3 and [μετενέγκαομεν] the [acc f] ark [acc] of the [gen] of God our toward us that/because not [ἐζήτησαν] her from [enclitic] of days [Σαούλ]
+1Chr 13:4 and he said all/every [f nom] the [nom f] church/assembly of the [gen] to do so that/because [εὐθὴς] the [nom m] word in to eyes of all/every of the [gen] of people
+1Chr 13:5 and [ἐκκλησίασεν] David the [acc m] all things Israel from [ὁρίων] of Egypt and until [εἰσόδου] [Ἡμὰθ] of the [gen] [εἰσενέγκαι] the [acc f] ark [acc] of the [gen] of God from/out of of city [Ἰαρείμ]
+1Chr 13:6 and [ἀνήγαγεν] her David and all/every Israel [ἀνέβη] into/for city [acc] David the [nom f] was of the [gen] [Ἰούδα] of the [gen] [ἀναγαγεῖν] from there the [acc f] ark [acc] of the [gen] of God of [the] Lord [καθημένου] [ἐπκὶ] [χερουβεὶν] not [ἐπεκλήθη] name of him/his
+1Chr 13:7 and [ἐπέθηκαν] the [acc f] ark [acc] of the [gen] of God upon [ἄμαξαν] [καινὴν] six of house [Ἀμειναδάβ] and [Ὀζὰ] and the [nom pl m] brothers of him/his [ἦγον] the [acc f] [ἄμαξαν]
+1Chr 13:8 and David and all/every Israel [παίζοντες] before of the [gen] of God in all/every [f dat] in power and in [ψαλτῳδοῖς] and in [κινύραις] and in [νάβλαις] in [τυμπαάνοις] and in [κυμβάλοις] and in [σάλπιγξιν]
+1Chr 13:9 and [ἤλθοσαν] until of the [gen f] [ἄλωνος] and [ἐξέτεινεν] [Ὀζὰ] the [acc f] hand of him/his of the [gen] [κατασχεῖν] the [acc f] ark [acc] and [ἐξέκλινεν] her the [nom m] [μόσχος]
+1Chr 13:10 and [ἐθυμώθη] Lord upon [Ὀζά] and [ἐπάταξεν] him there through/for the [nom/acc n] [ἐκτεῖναι] the [acc f] hand of him/his upon the [acc f] ark [acc] and he died there [απεναντι] of the [gen] of God
+1Chr 13:11 and [ἠθύμησεν] David that/because [διέκοψεν] Lord [διακοπὴν] in [Ὀζά] and he called the [acc m] place [acc] that one [n] [Διακοπὴ] [Ὀζᾶ] until of the [gen f] of day to this [f]
+1Chr 13:12 and [ἐφοβήθη] David the [acc m] God [acc] in to the [dat f] day that one [f] saying how [εἰσοίσω] the [acc f] ark [acc] of the [gen] of God toward myself
+1Chr 13:13 and not [ἀπέστρεψεν] David the [acc f] ark [acc] toward himself into/for city [acc] David and [ἐξέκλινεν] her into/for house [acc] [Ἀβεδδαρὰ] of the [gen] [Γεθθαίου]
+1Chr 13:14 and [ἐκάθισεν] the [nom f] [κιβωτὸς] of the [gen] of God in [οἴκῳ] [Ἀβεδδαρὰ] three [μῆνας] and [εὐλόγησεν] the [nom m] God [Ἀδεδδαρὰμ] and all things the [nom/acc pl n] of him/his
+1Chr 14:1 and [ἀπέστειλεν] [Χειρὰμ] king [Τύρου] [ἀγγέλους] toward David and [ξύλα] [κέδρινα] and [οἰκοδόμους] and [τέκτονας] [ξύλων] of the [gen] [οἰκοδομῆσαι] to him house [acc]
+1Chr 14:2 and he knew David that/because [ἡτοίμασεν] him Lord upon Israel that/because [ηὐξήθη] into/for [ὕψος] the [nom f] kingdom of him/his through/for the [acc m] people [acc] of him/his Israel
+1Chr 14:3 and [ἰλαβεν] David still/yet woman/wife [acc] in Jerusalem and [ἐτέχθησαν] David still/yet [υἱρὶ] and daughters
+1Chr 14:4 and these things the [nom/acc pl n] [ὀνόματα] of them/their of the [gen pl] [τεχθέντων] the [nom pl m] they were to him in Jerusalem [Σαμάα] [Ἰσοβοάμ] [Νάθαν] [Σαλωμὼν]
+1Chr 14:5 and [Βαὰρ] and [Ἐκτᾶε] and [Ἐλειφάλεθ]
+1Chr 14:6 and [Νάγεθ] and [Νάφαθ] and [Ἰανουοὺ]
+1Chr 14:7 and [Ἐλεισαμάε] and [Βαλεγδᾶε] and [Ἐμφάλετ]
+1Chr 14:8 and [ἤκουσαν] [ἀλλόφυλοι] that/because [ἐχρίσθη] David king upon all things Israel and [ἀνέβησαν] all [m pl] the [nom pl m] [ἀλλόφυλοι] [ζητῆσαι] the [acc m] David and he heard David and he went out into/for [ἀπάντησιν] to them
+1Chr 14:9 and [ἀλλόφυλοι] they came and [συνέπεσον] in to the [dat f] [κοιλάδι] of the [gen pl] [γιγάντων]
+1Chr 14:10 and [ἠρώτησεν] David through/for of the [gen] of God saying you are [ἀναβῶ] upon the [acc pl m] [ἀλλοφύλους] and he will give them [m] into/for the [acc pl f] hands of me/my and he said to him Lord [Ἀνάβηθι] and I will give them [m] into/for the [acc pl f] hands of you/your
+1Chr 14:11 and [ἀνέβη] into/for [Φααλφαθισείμ] and [ἐπάταξεν] them [m] there David and he said David [Διέκοψεν] the [acc pl m] [ἐχθρούς] of me/my in hand [dat] of me/my as [διακοπὴν] of water through/for this [n] he called the [nom/acc n] name of the [gen] of place of that one [Διακοπὴ] [Φαρισἰν]
+1Chr 14:12 and [ἐνκατέλιπον] the [acc pl m] of God of them/their and he said David [κατακαῦσαι] in to fire
+1Chr 14:13 and [προσέθεντο] still/yet [ἀλλόφυλοι] and [συνέπεσαν] still/yet in to the [dat f] [κοιλάδι] of the [gen pl] [γιγάντων]
+1Chr 14:14 and [ἠρώτησεν] David still/yet in to God and he said to him the [nom m] God not [πορεύσῃ] after/behind [οὐτων] [ἀποστρέφου] from of them/their and [παρέσῃ] to them neighbor of the [gen pl] [ἀπίων]
+1Chr 14:15 and it will be in to the [dat] to hear you the [acc f] voice [acc] of the [gen] [συνσεισμοῦ] of them/their [ἄκρων] of the [gen pl] [ἀπίων] then [ἐξελεύσῃ] into/for the [acc m] [πόλεμον] that/because he went out the [nom m] God before of you/your of the [gen] [πατάξαι] the [acc f] [παρεμβολὴν] of the [gen pl] [ἀλλοφύλων]
+1Chr 14:16 and he did just as [he] commanded to him the [nom m] God and [ἐπάταξεν] the [acc f] [παρεμβολὴν] of the [gen pl] [ἀλλοφύλων] from [Γαβαὼν] until [Γάζαρα]
+1Chr 14:17 and it came to be name David in all/every [f dat] to the [dat f] earth and Lord he gave the [acc m] [φόβον] of him/his upon all things the [nom/acc pl n] nations
+1Chr 15:1 and he did to him [οἰκίας] in in city David and [ἡτοίμασεν] the [acc m] place [acc] to the [dat f] [κιβωτῷ] of the [gen] of God and he did she/her tent [acc]
+1Chr 15:2 then he said David not [he/she/it] is [ἆραι] the [acc f] ark [acc] of the [gen] of God but the [nom f] the [acc pl m] Levites [acc] that/because them [m] [ἐξελέξατο] Lord and [λειτουργεῖν] to him until of age/eternity
+1Chr 15:3 and [ἐξεκλησίασεν] David the [acc m] all things Israel into/for Jerusalem of the [gen] [ἀνενέγκαι] the [acc f] ark [acc] of [the] Lord into/for the [acc m] place [acc] the [nom m] [ἡτοίμασεν] she/her
+1Chr 15:4 and [συνήγαγεν] David the [acc pl m] of son Aaron the [acc pl m] Levites [acc]
+1Chr 15:5 of the [gen pl] of sons [Καάθ] [Οὐριὴλ] the [nom m] ruler and the [nom pl m] brothers of him/his hundred ten
+1Chr 15:6 of the [gen pl] of sons [Μερραρεί] [Ἀσαι] the [nom m] ruler and the [nom pl m] brothers of him/his [διακόσιοι] fifty
+1Chr 15:7 of the [gen pl] of sons [Γηρσάμ] [Ἰωήλ] the [nom m] ruler and the [nom pl m] brothers of him/his hundred fifty
+1Chr 15:8 of the [gen pl] of sons [Ἐλεισαφάτ] [Σαμαίας] the [nom m] ruler and the [nom pl m] brothers of him/his [διακόσιοι]
+1Chr 15:9 of the [gen pl] of sons [Χεβρών] [Ἐνὴρ] the [nom m] ruler and the [nom pl m] brothers of them/their [ὀγδοήκοντα]
+1Chr 15:10 of the [gen pl] of sons [Ὀζειήλ] [Ἀμειναδὰβ] the [nom m] ruler and the [nom pl m] brothers of him/his hundred ten two
+1Chr 15:11 and he called David the [acc m] Zadok and [Ἀβιαθὰρ] the [acc pl m] [ἱερεῖς] and the [acc pl m] Levites [acc] the [acc m] [Ἀριήλ] [Ἀσαιά] [Ἰωήλ] [Σαμαίαν] [Ἐνήλ] [Ἀμειναδάβ]
+1Chr 15:12 and he said to them you [pl] rulers of paternal [houses] of the [gen pl] [Λευειτῶν] [ἁγνίσθητε] you [pl] and the [nom pl m] brothers of you/your [pl] and [ἀνοίσετε] the [acc f] ark [acc] of the [gen] of God Israel not [ἡτοίμασα] she/her
+1Chr 15:13 that/because not in to the [dat] [πρότερον] you [pl] to be [διέκοψεν] the [nom m] God our in to us that/because not [ἐζητήσαμεν] in [κρίματι]
+1Chr 15:14 and [ἡγνίσθησαν] the [nom pl m] [ἱερεῖς] and the [nom pl m] Levi [dat] of the [gen] [ἀνενέγκαι] the [acc f] ark [acc] of God Israel
+1Chr 15:15 and [ἔλαβον] the [nom pl m] sons of the [gen pl] [Λευειτῶν] the [acc f] [κιβαωτὸν] of the [gen] of God as [he] commanded to Moses in [λόγῳ] of God according to/down the [acc f] [γραφήν] in [ἀναφορεῦσιν] upon them [m]
+1Chr 15:16 and he said David to the [dat pl m] [ἄρχουσιν] of the [gen pl] [Λευειτῶν] [Στήσατε] the [acc pl m] [ἀδελφοὺς] of them/their the [acc pl m] [ψαλτῳδοὺς] in [ὀργάνοις] [νάβλαις] [κινύραις] and [κυμβάλοις] of the [gen] [φωνῆσαι] into/for [ὕψος] in [φωνῇ] [εὐφροσύνης]
+1Chr 15:17 and [ἔστησαν] the [nom pl m] Levi [dat] the [acc m] blood son [acc] [Ἰωήλ] from/out of of the [gen pl] of brothers of him/his [Ἀσὰφ] son [Βαραχιά] and from/out of of the [gen pl] of sons [Μερραρεὶ] of brothers of him/his [Αἰθὰν] son [Κεισαίου]
+1Chr 15:18 and with [enclitic] of them/their brothers of them/their the [nom pl m] [δεύτεροι] [Ζαχαρίας] and [Ὀζειὴλ] and [Σεμειραμὼθ] and [Ἰειὴλ] and [Ἐλιωὴλ] and [Ἐλιαβὰ] and [Βαναιὰ] and [Μαασσαιὰ] and [Ἰματταθιὰ] and [Ἐλειφενὰ] and [Μακελλειὰ] and [Ἀβαεδὸμ] and [Ἰεειὴλ] and [Ὀζείας] the [nom pl m] [πυλωροί]
+1Chr 15:19 and the [nom pl m] [ψαλτῳδοί] blood [Ἀσὰφ] and [Αἰθὰν] in [κυμβάλοις] [χαλκοῖς] of the [gen] [ἀκουσθῆναι] to do
+1Chr 15:20 [Ζαχαρίας] and [Ὀζειήλ] [Σεμειραμώθ] [Εἰθήλ] [Ὠνεἰ] [Ἐλιάβ] [Μασσαίας] [Βαναίας] in [νάβλαις] upon [ἀλαιμώθ] | [KJV:] And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
+1Chr 15:21 and [Μετταθίας] and [Ἐνφαναίας] [Μακενιὰ] and [Ἀβδεδὸμ] and [Ἰειὴλ] and [Ὀζείας] in [κινύραις] [ἁμασενεὶθ] of the [gen] [ἰσχῦσαι] | [KJV:] And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
+1Chr 15:22 and [Κωνενιὰ] ruler of the [gen pl] [Λευειτῶν] ruler of the [gen pl] [ᾠδῶν] that/because [συνετὸς] was
+1Chr 15:23 and [Βαραχιὰ] and [Ἠλκανὰ] [πυλωροὶ] of the [gen f] [κιβωτοῦ]
+1Chr 15:24 and [Σομνιὰ] and Jehoshaphat and [Ναθαναὴλ] and [Ἀμασαὶ] and [Ζαχαριὰ] and [Βαναὶ] and [Ἐλιέζερ] the [nom pl m] [ἱερεῖς] [σαλπίζοντες] to the [dat pl f] [σάλπιγξιν] before of the [gen f] [κιβωτοῦ] of the [gen] of God and [Ἀβδεδὸμ] and [Ἰειά] [πυλωροὶ] of the [gen f] [κιβωτοῦ] of the [gen] of God
+1Chr 15:25 and was David and [πρεσβύτεροι] Israel and the [nom pl m] [χιλίαρχοι] the [nom pl m] [πορευόμενοι] of the [gen] [ἀναγαγεῖν] the [acc f] ark [acc] of the [gen f] [διαθήκης] six of house [Ἀβδοδὸμ] in [ενφροσύνῃ]
+1Chr 15:26 and it came to be in to the [dat] [κατισχῦσαι] the [acc m] God [acc] the [acc pl m] Levites [acc] [αἴροντας] the [acc f] ark [acc] of the [gen f] [διαθήκης] of [the] Lord and [ἔθυσαν] [modal particle] seven of calf and [modal particle] seven [κριούς]
+1Chr 15:27 and David [περιεζωσμένος] in [στολῇ] [βυσσίνῃ] and all [m pl] the [nom pl m] Levi [dat] [αἴροντες] the [acc f] ark [acc] [διαθήκης] of [the] Lord and the [nom pl m] [ψαλτῳδοί] Jeconiah the [nom m] ruler of the [gen pl] [ᾠδῶν] of the [gen pl] [ᾀδόντων] and upon David [στολὴ] [βυσσίνη]
+1Chr 15:28 and all/every Israel [ἀνάγοντες] the [acc f] ark [acc] [διαθήκης] of [the] Lord in [σημασίᾳ] and in [φωνῇ] [σωφέρ] and in [σάλπιγξιν] and in [κυμβάλοις] [ἀναφωνοῦντες] [νάβλαις] and in [κινύραις]
+1Chr 15:29 and it came to be [κιβωτὸς] [διαθήκης] of [the] Lord and he came until of city David and [Μελχὸλ] daughter [Σαοὺλ] [παρέκυψεν] through/for of the [gen f] [θυρίδος] and he saw the [acc m] [βασιλέα] David [ὀρχούμενον] and [παίζοντα] and [ἐξουδένωσεν] him in to the [dat f] soul of her/her
+1Chr 16:1 and [εἰσήνεγκαν] the [acc f] ark [acc] of the [gen] of God and [ἀπηρείσαντο] her in midst [dat] of the [gen f] of tent the [nom f] [ἔπηξεν] she/her David and [προσήνεγκαν] burnt offerings and of salvation/peace offering [ἐναντίου] of the [gen] of God
+1Chr 16:2 and [συνετέλεσεν] David [ἀναφέρων] burnt offerings and [σαωτηρίου] and [εὐλόγησεν] the [acc m] people [acc] in in name of [the] Lord
+1Chr 16:3 and [διεμέρισεν] to every to man/husband Israel from of man and until [γυναικός] to the [dat] to man/husband bread [acc] one [ἀρτοκοπικὸν] and [ἀμορείτην]
+1Chr 16:4 and [ἔταξεν] according to/down face of the [gen f] [κιβωτοῦ] [διαθήκης] of [the] Lord from/out of of the [gen pl] [Λευειτῶν] [λειτουργοῦντας] [ἀναφωνοῦντας] and [ἐξομολογεῖσθαι] and [αἰνεῖν] [the] Lord [acc] the [acc m] God [acc] Israel
+1Chr 16:5 [Ἀσὰφ] the [nom m] [ἡγούμενος] and [δευτερεύων] to him [Ζαχαρίας] [Εἰειήλ] [Σαμαρειμώθ] [Εἰειήλ] [Ματταθίας] [Ἐλιὰβ] and [Βαναίας] and [Ἀβδοδόμ] and [Εἰειὴλ] in [ὀργάνοις] [νάβλαις] [κινύραις] and [Ἀσὰφ] in [κυμβάλοις] [ἀναφωνῶν] | [KJV:] Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
+1Chr 16:6 and [Βαναίας] and [Ὀζειὴλ] the [nom pl m] [ἱερεῖς] in to the [dat pl f] [σάλπιγξιν] through/for of all/every before of the [gen f] [κιβωτοῦ] of the [gen f] [διαθήκης] of the [gen] of God
+1Chr 16:7 in to the [dat f] day that one [f] then [ἔταξεν] David in beginning of the [gen] [αἰνεῖν] the [acc m] [the] Lord [acc] in hand [dat] [Ἀσὰφ] and of the [gen pl] of brothers of him/his [ᾨδή]
+1Chr 16:8 [8Ἐξομολογεῖσθε] [ἐπικαλεῖσθε] him in in name of him/his [γνωρίσατε] in [λαοῖς] the [nom/acc pl n] [ἐπιτηδεύματα] of him/his
+1Chr 16:9 [9ἄσατε] to him and [ὑμνήσατε] to him [διηγήσασθε] to all the [nom/acc pl n] [θαυμάσια] of him/his [ἄ] he did Lord
+1Chr 16:10 [10] [αἰνεῖτε] in in name holy [dat] of him/his [εὐφρανθήσεται] heart [ζητοῦσα] the [acc f] [εὐδοκίαν] of him/his
+1Chr 16:11 [¹¹ζητήσατε] and [ἰσχύσατε] [ζητήσατε] the [nom/acc n] face of him/his through/for of all/every
+1Chr 16:12 [12μνημονεύετε] the [nom/acc pl n] [θαυμάσια] of him/his [ἆ] he did [τέρατα] and [κρίματα] of the [gen] [στόματος] of him/his
+1Chr 16:13 [13σπέρμα] Israel [παῖδες] of him/his sons Jacob [ἐκλεκτοὶ] of him/his
+1Chr 16:14 [14Κύριος] the [nom m] God our in all/every [f dat] to the [dat f] earth the [nom/acc pl n] [κρίματα] of him/his
+1Chr 16:15 [15μνημονεύομεν] into/for age/eternity [acc] [διαθήκης] of him/his word [acc] of him/his the [nom m] [he] commanded into/for [χιλίας] generation
+1Chr 16:16 [16ὅν] [διέθετο] to the [dat] Abraham and the [acc m] [ὅρκον] of him/his to the [dat] Isaac
+1Chr 16:17 [17ἔστησεν] him to the [dat] Jacob into/for [πρόσταγμα] to the [dat] Israel covenant [acc] eternal
+1Chr 16:18 [18λέγων] to you I will give the [acc f] earth [acc] Canaan [σχοίνισμα] [κληρονομίας] of you/your [pl]
+1Chr 16:19 [19ἐν] to the [dat] to come to be them [m] [ὀλιγοστοὺς] [ἀριθμῷ] as [ἐσμικρύνθησαν] and [παρῴκησαν] in she/her
+1Chr 16:20 [20καὶ] [ἐπορεύθησαν] from [ἔθνους] into/for nation and from kingdom into/for people [acc] [ἕτερον]
+1Chr 16:21 [²¹οὐκ] [ἀφῆκεν] man [acc] of the [gen] [δυναστεῦσαι] them [m] and [ἤλεγξεν] around/concerning of them/their kings
+1Chr 16:22 [22Μὴ] [ἅψησθε] of the [gen pl] to Christ of me/my in to the [dat pl m] [προφηταις] of me/my not [πονηρεύεσθε]
+1Chr 16:23 [²³ἄσατε] to the [dat] to [the] Lord all/every [f nom] the [nom f] earth [ἀναγγείλατε] six of day into/for day [acc] salvation of him/his
+1Chr 16:25 [25ὅτι] [μέγας] Lord and [αἰνετὸς] very much [φοβερός] [he/she/it] is upon all [acc pl m] the [acc pl m] of God
+1Chr 16:26 [26ὅτι] all [m pl] the [nom pl m] [θεοὶ] of the [gen pl] of nations [εἴδωλα] and the [nom m] God our heaven [acc] he did
+1Chr 16:27 [27δόξα] and [ἔπαινος] according to/down face of him/his [ἰσχὺς] and boast in in place of him/his
+1Chr 16:28 [28δότε] to the [dat] to [the] Lord to father of the [gen pl] of nations give [enclitic: τε] to the [dat] to [the] Lord glory [acc] and [ἰσχύν]
+1Chr 16:29 [29λάβετε] [δῶρα] and [ἐνέγκατε] according to/down face of him/his and [προσκυνήσατε] to [the] Lord in [αὐλαῖς] [ἁγίαις] of him/his
+1Chr 16:30 [30φοβηθήτω] from of face of him/his all/every [f nom] the [nom f] earth [κατορθωθήτω] the [nom f] earth and not [σαλευθήτω]
+1Chr 16:31 [³¹εὐφρανθήτω] the [nom m] heaven and [ἀγαλλιάσθω] the [nom f] earth and [εἰπάτωσαν] [ἐυ] to the [dat pl m] to nations Lord [βασιλεύων]
+1Chr 16:32 [³²ββοββήσει] the [nom f] [θάλασσα] you to the [dat] [πληρώματι] [ξύλον] [ἀγροῦ] and all things the [nom/acc pl n] in to him
+1Chr 16:33 [³³τότε] [εὐφρανθήσεται] the [nom/acc pl n] [ξύλα] of the [gen] [δρυμοῦ] from of face of [the] Lord that/because he came [κρῖναι] the [acc f] earth [acc]
+1Chr 16:34 [34ἐξομολογεῖσθε] to the [dat] to [the] Lord that/because [ἀγαθόν] that/because into/for the [acc m] age/eternity [acc] the [nom/acc n] [ἔλεος] of him/his
+1Chr 16:35 [35καὶ] I said [enclitic: τε] [Ἔσωσεν] us the [nom m] God of the [gen f] of salvation our and [ἐξελοῦ] us from/out of of the [gen pl] of nations of the [gen] [αἰνεῖν] the [nom/acc n] name the [nom/acc n] holy [n acc] of you/your and [καυχᾶσθαι] in to the [dat pl f] [αἰνέσεσίν] of you/your
+1Chr 16:36 [36εὐλογημένος] Lord the [nom m] God Israel from of the [gen] of age/eternity and [ἐρεῖ] all/every the [nom m] [λαός] amen and [ἤνεσαν] to the [dat] to [the] Lord
+1Chr 16:37 and [κατέλιπον] there before of the [gen f] [κιβωτοῦ] [διαθήκης] of [the] Lord the [acc m] [Ἀσὰφ] and the [acc pl m] [ἀδελφοὺς] of him/his of the [gen] [λειτουργεῖν] before of the [gen f] [κιβωτοῦ] through/for of all/every the [nom/acc n] of the [gen f] of day into/for day [acc]
+1Chr 16:38 and [Ἀβδοδὸμ] and the [nom pl m] brothers of him/his [ἑξήκοντα] and [ὀκτώ] and [Ἀβδοδὸμ] son [Ἰδειθὼν] and [Ὁσσὰ] into/for [πυλωρούς]
+1Chr 16:40 of the [gen] [ἀναφέρειν] burnt offerings to the [dat] to [the] Lord upon of the [gen] of altar of the [gen pl] [ὁλοκαυτωμάτων] through/for of all/every the [nom/acc n] [πραωὶ] and the [nom/acc n] evening and according to/down all things the [nom/acc pl n] [γεγραμμένα] in in law of [the] Lord as many things [he] commanded upon [enclitic] sons Israel in hand [dat] to Moses of the [gen] [θεράποντος] of the [gen] of God
+1Chr 16:41 and with [enclitic] of him/his blood and [Ἰδειθὼν] and the [nom pl m] [λοιποὶ] [ἐκλεγέντες] upon of name of the [gen] [αἰνεῖν] the [acc m] [the] Lord [acc] that/because into/for the [acc m] age/eternity [acc] the [nom/acc n] [ἔλεος] of him/his
+1Chr 16:42 and with [enclitic] of them/their [σάλπιγγες] and [κύμβαλα] of the [gen] [ἀναφωνεῖν] and [ὄργανα] of the [gen pl] [δῶν] of the [gen] of God [υοὶ] [Ἰδειθὼν] into/for the [acc f] [πύλην]
+1Chr 16:43 and he went [ἅπας] the [nom m] [λαὸς] each one into/for the [acc m] house [acc] of him/his and [ἐπέστρεψεν] David of the [gen] [εὐλογῆσαι] the [acc m] house [acc] of him/his
+1Chr 16:93 and the [acc m] [Σαδὸκ] the [acc m] [ἱερέα] and the [acc pl m] [ἀδελφοὺς] of him/his the [acc pl m] [ἱερεῖς] before of the [gen f] of tent of [the] Lord in [Βαμὰ] to the [dat f] in [Γαβαών]
+1Chr 17:1 and it came to be as [κατῷκησεν] David in [οἴκῳ] of him/his and he said David toward [Ναθαν] the [acc m] [προφήτην] behold I [κατοικῶ] in [οἴκῳ] [κεδρίνῳ] and the [nom f] [κιβωτὸς] [διαθήκης] of [the] Lord [ὑποκάτω] [δέρρεων]
+1Chr 17:2 and he said [Ναθαν] toward David every/all the [nom/acc n] in soul of you/your [he] does that/because God with/after of you/your
+1Chr 17:3 and it came to be in to the [dat f] [νυκτὶ] that one [f] and it came to be word of [the] Lord toward [Νάθαν]
+1Chr 17:4 go and they said toward David the [acc m] [δοῦλόν] of me/my so he said Lord not you [οἰκοδομήσεις] house [acc] of the [gen] [κατοικῆσαί] me in to him
+1Chr 17:5 that/because not [κατῴκησα] in [οἴκῳ] from of the [gen f] of day the [nom f] [ἀνήγαγον] the [acc m] Israel until of the [gen f] of day to this [f] and [ἤμην] in tent and in [καλύμματι]
+1Chr 17:6 in to all to whom/which [διῆλθον] in to every Israel you are speaking [ἐλάλησα] toward one [f acc] tribe [acc] of the [gen] Israel of the [gen] [ποιμαίνειν] the [acc m] people [acc] of me/my saying that/because not [ᾠκοδομήκατέ] to me house [acc] [κέδρινον]
+1Chr 17:7 and now so [ἐρεῖς] to the [dat] [δούλῳ] of me/my David the [nom/acc pl n] [enclitic: δε] he says Lord [Παντοκράτωρ] [Ἔλαβόν] you from/out of of the [gen f] [μάνδρας] [ἐξόπισθεν] of the [gen pl] [ποιμνίων] of the [gen] to be into/for [ἡγούμενον] upon the [acc m] people [acc] of me/my Israel
+1Chr 17:8 and [ἤμην] with/after of you/your in to all to whom/which he went and [ἐξωλέθρευσα] all [acc pl m] the [acc pl m] [ἐχθρούς] of you/your from of face of you/your and [ἐποίησά] to you name according to/down the [nom/acc n] name of the [gen pl] [μεγάλων] of the [gen pl] upon of the [gen f] of earth
+1Chr 17:9 and [θήσομαι] place [acc] to the [dat] to people of me/my Israel and [καταφυτεύσω] him and [κατασκηνώσει] according to [enclitic] himself and not [μεριμνήσει] still/yet and not [προσθήσει] [ἀδικία] of the [gen] [ταπεινῶσαι] him just as beginning
+1Chr 17:10 and from [enclitic] of days of whom/which [ἔταξα] [κριτὰς] upon the [acc m] people [acc] of me/my Israel and [ἐταπείνωσα] [ἄπαντας] the [acc pl m] [ἐχθρούς] of you/your and [αὐξήσω] you and [οἰκοδομήσει] you Lord
+1Chr 17:11 and it will be whenever [πληρωθῶσιν] days of you/your and [κοιμηθήσῃ] with/after of the [gen pl] [ποτέραν] of you/your and [ἀναστήσω] the [nom/acc n] seed of you/your with/after you the [nom m] it will be from/out of of the [gen f] [κοιλίας] of you/your and [ἑτοιμάσαω] the [acc f] [βασιλείου] of him/his
+1Chr 17:12 [ηὐτὸς] [οἰκοδομ] [μήκει] to me house [acc] and [ἀνορθώσω] the [acc m] [θρόνον] of him/his until of age/eternity
+1Chr 17:13 I I will be to him into/for father [acc] and it it will be to me into/for son [acc] and the [nom/acc n] [ἔλεός] of me/my not [ἀποστήσω] from of him/his as [ἀπέστησα] from of the [gen pl] [ὅνταωων] before of you/your
+1Chr 17:14 and [πιστώσω] him in [οἴκῳ] of me/my and in kingdom of him/his until of age/eternity and [θρόνος] of him/his it will be [ἀνωρθωμένος] until of age/eternity
+1Chr 17:15 according to/down all [acc pl m] the [acc pl m] of word of this and according to/down all/every [f acc] the [acc f] [ὅρασιν] this [f acc] so [he] spoke [Ναθὰν] toward David
+1Chr 17:16 and he came the [nom m] king David and [ἐκάθισεν] [ἀπέναντι] of [the] Lord and he said who? I am I O Lord the [nom m] God and who? the [nom m] house of me/my that/because [ἠγάπησάς] me until of age/eternity
+1Chr 17:17 and [ἐσμικρύνθη] these things before of you/your the [nom m] God and [ἐλάλησας] upon the [acc m] house [acc] of the [gen] [παιδός] of you/your from/out of [μακρῶν] and [ἐπεῖδές] me as [ὅρασις] of man and [ὕψωσάς] me O Lord the [nom m] [θκός]
+1Chr 17:18 what? [προσθήσει] still/yet David toward you of the [gen] [δοξάσαι] and you the [acc m] [δοῦλόν] of you/your I know
+1Chr 17:19 and according to/down the [acc f] heart [acc] of you/your [ἐποίησας] the [acc f] all/every [f acc] [μεγαλωσύνην]
+1Chr 17:20 O Lord not [he/she/it] is [ὅμοιός] to you and not [he/she/it] is but/however of you/your according to/down all things as many things [ἠκούσαμεν] in [ὠσὶν] our
+1Chr 17:21 and not [he/she/it] is as the [nom m] [λαός] of you/your Israel nation still/yet upon of the [gen f] of earth as [ὡδήγησεν] him the [nom m] God of the [gen] [λυτρώσασθαι] [ἑαυτῷ] people [acc] of the [gen] [θέσθαι] to him name [μέγα] and [ἐπιφανές] of the [gen] [ἐκβαλεῖν] from of face of people of you/your whom/which [f pl] [ἐλυτρώσω] six of Egypt nations
+1Chr 17:22 and I gave the [acc m] people [acc] of you/your Israel to yourself people [acc] until of age/eternity and you Lord to them into/for God [acc]
+1Chr 17:23 and now O Lord the [nom m] word of you/your the [nom m] [ἐλάλησας] toward the [acc m] [παῖδά] of you/your and upon the [acc m] house [acc] of him/his [πιστωθήτω] until of age/eternity
+1Chr 17:24 [λεγόντων] O Lord O Lord [αντοκράτωρ] God Israel and house David [παιδός] of you/your [ἀνωρθωμένος] before of you/your
+1Chr 17:25 that/because you [ἤνοιξας] the [nom/acc n] whom/which [f pl] of the [gen] [παιδός] of you/your of the [gen] [οἰκοδομῆσαι] to him house [acc] through/for this [n] [εὗρεν] the [nom m] [παῖς] of you/your of the [gen] [προσεύξασθαι] according to/down face of you/your
+1Chr 17:26 and now O Lord you you are it God and [ἐλάλησας] upon the [acc m] [δοῦλόν] of you/your the [nom/acc pl n] [ἀγαθὰ] these things
+1Chr 17:27 and now [ἤρξαι] [εὐλογῆσαι] the [acc m] house [acc] of the [gen] [παιδός] of you/your of the [gen] to be into/for the [acc m] age/eternity [acc] before of you/your that/because you [εὐλόγησας] and [εὐλόγησον] into/for the [acc m] age/eternity [acc]
+1Chr 18:1 and it came to be with/after these things and [ἐπάταξεν] David the [acc pl m] [ἀλλοφύλους] and [ἐτροπώσατο] them [m] and he took the [acc f] [Τὲθ] and the [acc pl f] [κώμας] of her/her from/out of [χερὸς] [ἀλλοφύλων]
+1Chr 18:2 and [ἐπάταξεν] the [acc f] Moab and they were Moab [παῖδες] to the [dat] David [φέροντες] [δῶρα]
+1Chr 18:3 and [ἐπάταξεν] David the [acc m] [Ἁδραάζαρ] [βασιλέα] [Σουβὰ] [Ἡμάθ] [πορευομένου] of him/his [ἐπιστῆσαι] hand of him/his upon [ποταμὸν] [Εὐφράτην]
+1Chr 18:4 and [προκατελάβετο] David of them/their [χίλια] [ἅρματα] and seven [χιλιάδας] [ἵππαον] and twenty [χιλιάδας] [ἀνδρῶν] and [παρέλυσεν] David all things the [nom/acc pl n] [ἄρματα] and [ὑπελίπετο] six of them/their hundred [ἄρματα]
+1Chr 18:5 and he came [Σύρος] from/out of [Δαμασκοῦ] [βοηθῆσαι] [Ἁδραάζαρ] [βασιλεῖ] [Σουβά] and [ἐπάταξεν] in to the [dat] [Σύρῳ] twenty and two [χιλιάδας] [ἀνδρῶν]
+1Chr 18:6 and [ἔθετο] David [φρουρὰν] in [Συρίᾳ] to the [dat f] according to/down [Δαμασκόν] and they were to the [dat] David into/for [παῖδας] [φέροντας] [δῶρα] and [ἔσωζεν] Lord David in to all to whom/which [ἐπορεύετο]
+1Chr 18:7 and he took David the [acc pl m] [κλοιοὺς] the [acc pl m] [χρυσοῦς] the [nom pl m] they were upon the [acc pl m] [παῖδας] [Ἀδραάζαρ] and [ἤνεγκεν] them [m] into/for Jerusalem
+1Chr 18:8 and from/out of of the [gen f] [Μεταβηχὰς] and from/out of of the [gen pl] [ἐκλεκτῶν] [πολέμων] of the [gen pl] [Ἀδραάζαρ] he took David [χαλκὸν] much very much six of him/his he did [Σαλωμὼν] the [acc f] sea [acc] the [acc f] [χαλκῆν] and the [acc pl m] [στύλους] and the [nom/acc pl n] vessels the [nom/acc pl n] [χαλκᾶ]
+1Chr 18:9 and he heard [Θῶα] king [Ιμὰθ] that/because [ἐπάταξεν] David the [acc f] all/every [f acc] [δύναμιν] [Ἁδραάζαρ] of king [Σουβά]
+1Chr 18:10 and [ἀπέστειλεν] the [acc m] [Ἱδουραὰμ] son [acc] of him/his toward the [acc m] [βασιλέα] David of the [gen] [ἐρωτῆσαι] him the [nom/acc pl n] into/for peace and of the [gen] [εὐλογῆσαι] him for/over not [ἐπολέμησεν] the [acc m] [Ἁδραάζαρ] and [ἐπάταξεν] him that/because man [nom] [πολέμιος] [Οῶα] was to the [dat] [Ἀδραάζαρ] and all things vessels [ἀργυρᾶ] and [χρυσᾶ]
+1Chr 18:11 and these things [ἡγίασεν] David to the [dat] to [the] Lord with/after of the [gen] [ἀργυρίου] and of the [gen] of gold not he took from/out of of all of the [gen pl] of nations six [Ἰδουμαίας] and Moab and six of sons [Ἀμμὼν] and from/out of of the [gen pl] [ἀλλοφύλων] and six [Ἀμαλήκ]
+1Chr 18:12 and [Ἀβεσσὰ] son [Σαρουίας] [ἐπάταξεν] the [acc f] [Ἰδουμαίαν] in [κοιλάδι] of the [gen pl] [ἁλῶν] [ὀκτὼ] and ten [χιλιάδας]
+1Chr 18:13 and [ἔθετο] in to the [dat f] [κοιλάδι] [φρουράς] and they were all [m pl] the [nom pl m] [Ἰδουμαῖοι] [παῖδες] David and [ἔσωζεν] Lord in to all to whom/which [ἐπορεύετο]
+1Chr 18:14 and [ἐβασίλευσεν] David upon all things Israel and was I do [κρίμα] and righteousness to the [dat] to every to people of him/his
+1Chr 18:15 and [Ἰωὰβ] son [Σαρουιὰ] upon of the [gen f] [στρατείας] and [Ἰαωσαφὰτ] son [Ἀχειὰ] [ὑπομνηματογράφος]
+1Chr 18:16 and Zadok son [Ἀχειτὼβ] and [Ἀχειμέλεχ] son [Ἀβιάθαρ] [ἱερεῖς] and [ησοῦς] [γραμματεύς]
+1Chr 18:17 and [Βαναίας] son [Ἰωδᾶε] upon of the [gen pl] [ἱερέων] and [Φαλτειά] and sons David the [nom pl m] [πρῶτοι] [διάδοχοι] of the [gen] of king
+1Chr 19:1 and it came to be with/after these things he died king of sons [Ἀμμών] and [ἐβασίλευσεν] up son of him/his [ἀντʼ] of him/his
+1Chr 19:2 and he said David [ἰοιήσω] [ἔλεος] with/after up of son up as he did the [nom m] father of him/his with [enclitic] of me [ἔλεος] and [ἀπέστειλεν] [ἀγγέλους] David of the [gen] [παρακαλέσαι] him around/concerning of the [gen] of father of him/his and they came [παῖδες] David into/for earth [acc] of sons [Ἀμμων] of the [gen] [παρακαλέσαι] him
+1Chr 19:3 and they said rulers [Ἄμμὼν] toward up not I glorify the [acc m] father [acc] of you/your before of you/your [ἀπέστειλέν] to you [παρακα] not so that [ἐξεραυνήσαωσιν] the [acc f] city [acc] of the [gen] [κατασκοπῆσαι] the [acc f] earth [acc] they came [παῖδες] of him/his toward you
+1Chr 19:4 and he took up the [acc pl m] [παῖδας] David and [ἐξύρησεν] them [m] and [ἀφεῖλεν] of the [gen pl] [μανδυῶν] of them/their the [nom/acc n] [ἥμισυ] until of the [gen f] [ἀναβολῆς] and [ἀπέστειλεν] them [m]
+1Chr 19:5 and they came [ἀπαγγεῖλαι] to the [dat] David around/concerning of the [gen pl] [ἀνδρῶν] and [ἀπέστειλεν] into/for [ἀπάντησιν] to them that/because they were [ἠτιμωμένοι] very much and he said the [nom m] king [Καθίσατε] in [Ἰερειχὼ] until of the [gen] [ἀνατεῖλαι] the [acc pl m] [πώγωνας] of you/your [pl] and [ἀνακάμψατε]
+1Chr 19:6 and I saw the [nom pl m] sons [Ἄμμων] that/because [ᾐσχύνθη] [λαὸς] David and [ἀπέστειλεν] up and the [nom pl m] sons [Ἄμμων] [χίλια] [τάλαντα] [ἀργυρίου] of the [gen] [μισθώσασθαι] to themselves from/out of [Συρίας] [Μεσοποταμίας] and from/out of [Συρίας] [Μοοχὰ] and from/beside [Σωβὰλ] [ἄρματα] and [ἱππεῖς]
+1Chr 19:7 and [ἐμισθώσαντο] to themselves [ἄρματα] and [ἱππεῖς] two and thirty [χιλιάδας] [ἁρμάτων] and the [acc m] [βασιλέα] [Μωχὰ] [κπὶ] the [acc m] people [acc] of him/his and they came and they encamped [κατέναντι] [Μαιδαβά] and the [nom pl m] sons [Ἀμμων] [συνήχθησαν] from/out of of the [gen pl] of cities of them/their and they came into/for the [nom/acc n] [πολεμῆσαι]
+1Chr 19:8 and he heard David and [ἀπέστειλεν] the [acc m] [Ἰωὰβ] and all/every [f acc] the [acc f] [στρατείαν] of the [gen pl] [δυνατῶν]
+1Chr 19:9 and [ἐξῆλθον] the [nom pl m] sons [Ἄμμων] and [παρατάσσονται] into/for [πόλεμον] from/beside the [acc m] [πυλῶνα] of the [gen f] of city and the [nom pl m] kings the [nom pl m] [ἐλθόντες] they encamped according to [enclitic] them [m] in to the [dat] [πεδίῳ]
+1Chr 19:10 and he saw [Ἰοὰβ] that/because [γεγόνασιν] [ἀντιπρόσωποι] of the [gen] [πολεμεῖν] toward him according to/down face and [ἐξόπισθεν] and [ἐξελέξατο] from/out of of all/every [νεανίου] six Israel and [παρετάξαντο] before of the [gen] [Σύρου]
+1Chr 19:11 and the [nom/acc n] [κατάλοιπον] of the [gen] of people he gave in hand [dat] [Ἀβεσσὰ] [ἀδελφοῦ] of him/his and [παρετάξαντο] six [ἐναντίας] of sons [Ἀμμων]
+1Chr 19:12 and he said if [κρατήκῃ] for/over me [Σύρος] and [ἔσῃ] to me into/for salvation and if sons [Ἀμμὼν] [κρατήσωσιν] for/over you and [σώσαω] you
+1Chr 19:13 and Lord the [nom/acc n] [ἀγαθὸν] [he] shall do
+1Chr 19:14 and [παρετάξατο] [Ἰωὰβ] and the [nom m] [λαὸς] the [nom m] with [enclitic] of him/his [κατέναντι] [Σύρων] into/for [πόλεμον] and [ἔφυγον] from of him/his
+1Chr 19:15 and the [nom pl m] sons [Ἀμμῶν] I saw that/because [ἔφυγον] [Σύροι] and [ἔφυγον] and they from of face [Ἰωὰβ] and from of face [ἀδελφοῦ] of him/his and they came into/for the [acc f] city [acc] and he came [Ἰωὰβ] into/for Jerusalem
+1Chr 19:16 and he saw [Σύρος] that/because [ἐτροπώσατο] him Israel and [ἀπέστειλαν] [ἀγγέλους] and [ἐξήγαγον] the [acc m] [Σύρον] from/out of of the [gen] beyond of the [gen] [ποταμοῦ] and [Σωφὰρ] [ἀρχιστράτηγος] [δυνάμεως] [Ἀδραάζαρ] before of them/their
+1Chr 19:17 and [ἀπηγγελη] to the [dat] David and [συνήγαγεν] the [acc m] all things Israel and [διέβη] the [acc m] Jordan [acc] and he came upon them [m] and [παρετάξατο] upon them [m] and [παρατάσσεται] [Σύρος] six [ἐναντίας] David and [ἐπολέμησαν] him
+1Chr 19:18 and [ἔφυγεν] [Σύρος] from of face David and [ἀπέκτεινεν] David from of the [gen] [Σύρου] seven [χιλιάδας] [ἁρμάτων] and forty [χιλιάδας] [πεζῶν] and the [acc m] [Σαφὰθ] [ἀρχιστράτηγον] [δυνάμεως] [ἀπέκτεινεν]
+1Chr 19:19 and I saw [παῖδες] [Ἁδραάζαρ] that/because [ἐπταίκασιν] from of face Israel and [διέθεντο] with/after David and [ἐδούλευσαν] to him and not he wanted [Σύρος] of the [gen] [βοηθῆσαι] [Ἀμμὼν] still/yet
+1Chr 20:1 and it came to be in to the [dat] [ἐπιόντι] [ἔτει] in to the [dat f] [ἐξόδῳ] of the [gen pl] [βασιλέων] and [ἤγαγεν] [Ἰωὰβ] all/every [f acc] the [acc f] [δύναμιν] of the [gen f] [στρατείας] and [ἔφθειραν] the [acc f] [χάραν] of sons [Ἀμμων] and he came and [περιεκάθισεν] the [acc f] [Ῥάβββαν] and David [ἐκάθητο] in Jerusalem and [ἐπάταξεν] the [acc f] [Ῥαββὰ] and [κάτεσκάψεν] her
+1Chr 20:2 and he took David the [acc m] [στέφανον] [Μολχὸλ] of king of them/their from of the [gen f] head of him/his and was found the [nom m] [σταθμὸς] of him/his [τάλαντον] of gold and in to him [λίθος] [τίμιος] and was upon the [acc f] head [acc] [Δαυείδκαὶ] [σκῦλα] of the [gen f] of city [ἐξήνεγκεν] many things very much [³καὶ] the [acc m] people [acc] the [acc m] in she/her [ἐξήγαγεν] and [διέπρισεν] [πρίοσιν] and in [σκεπάρνοις] [σιδηροῖς] and so he did David to the [dat pl m] [παισὶν] sons [Ἄμμων] and [ἀνέστρεψεν] David and all/every the [nom m] [λαὸς] of him/his into/for Jerusalem
+1Chr 20:4 and it came to be with/after these things and it came to be still/yet [πόλεμος] in [Γάζερ] with/after of the [gen pl] [ἀλλοφύλων] then [ἐπάταξεν] [Σοβοχαὶ] [Θωσαθεὶ] the [acc m] [Σαφοὺτ] from of the [gen pl] of sons of the [gen pl] [γιγάντων] and [ἐταπείναωσεν] him
+1Chr 20:5 and it came to be still/yet [πόλεμος] with/after of the [gen pl] [ἀλλοφύλων] and [ἐπάταξεν] [Ἐλλαν] son [Ἰαεὶρ] the [acc m] [Ἐλεμεὲ] [ἀδελφὸν] [Γολιὰθ] of the [gen] [Γεθθαίου] and [ξύλον] [δόρατος] of him/his as instead of [ὑφαινόντων]
+1Chr 20:6 and it came to be still/yet [πόλεμος] in [Γέθ] and was man [nom] [ὑπερμεγέθης] and [δάκτυλοι] of him/his [ἴξ] and six twenty [τέσσαρες] and this one was [ἀπόγονος] [γιγάντων]
+1Chr 20:7 and [ώνείδισεν] the [acc m] Israel and [ἐπάταξεν] him [Ἰωναθὰν] son [Σαμαά] son [ἀδελφοῦ] David
+1Chr 20:8 [οὅτος] it came to be [Ῥαφὰ] in [Γέθ] all [m pl] they were [τέσσαρες] [γίγαντες] and [ἔπεσον] in hand [dat] David and in hand [dat] [παίδων] of him/his
+1Chr 21:1 and [ἔστη] [διάβολος] in to the [dat] Israel and [ἐπέσεισεν] the [acc m] David of the [gen] [ἀριθμῆσαι] the [acc m] Israel
+1Chr 21:2 and he said the [nom m] king David toward [Ἰωὰβ] and toward the [acc pl m] [ἄρχοντας] of the [gen f] [δυνάμεως] [Πορεύθητε] [δὴ] [ἀριθμήσατε] the [acc m] Israel from [Βηρσαβεέ] and until Dan and [ἐνέγκατε] toward me and [γνώσομαι] the [acc m] number of them/their
+1Chr 21:3 and he said [Ἰωάβ] [Προσθείη] Lord upon the [acc m] people [acc] of him/his as they [ἑκατονταπλασίως] and the [nom pl m] [ὀφθαλμοὶ] of [the] Lord of me/my of the [gen] of king [βλέποντες] all [m pl] to the [dat] to [the] Lord of me/my [παῖδες] so that what? [ζητεῖ] Lord of me/my this [n] so that not it might become into/for sin to the [dat] Israel
+1Chr 21:4 and he came into/for Jerusalem
+1Chr 21:5 and he gave [Ἰωὰβ] the [acc m] number of the [gen f] [ἐπισκέψεως] of the [gen] of people to the [dat] David and was all/every Israel [χίλιαι] thousands and hundred thousands [ἀνδρῶν] [ἐσπασμένων] [μάχαιραν]
+1Chr 21:6 and the [acc m] Levi [dat] and the [acc m] [Βενιαμεὶν] not [ἠρίθμησεν] in midst [dat] of them/their that/because [κατίσχυσεν] word of the [gen] of king the [acc m] [Ἰωάβ]
+1Chr 21:7 and [πονηρὸν] before of the [gen] of God around/concerning of the [gen] [πράγματος] of this and [ἐπάταξεν] the [acc m] Israel
+1Chr 21:8 and he said David toward the [acc m] God [acc] [Ἡμάρτηκα] very much that/because [ἐποίησα] the [nom/acc n] [πρᾶγμα] this [n] and now [περίελε] [δὴ] the [acc f] [κακίαν] [παιδός] of you/your that/because [ἐματαιώθην] very much
+1Chr 21:9 and [he] spoke Lord toward Gad [ὁρῶντα]
+1Chr 21:10 go and speak! toward David saying so he says Lord [Τρία] [αἴρω] I upon you [ἔκλεξαι] to yourself in six of them/their and [ποιήσω] to you
+1Chr 21:11 and he came Gad toward David and he said to him so he says Lord [Εκλεξαι] to yourself
+1Chr 21:12 the [nom f] [τρία] years [λιμοῦ] the [nom f] three [μῆνας] [φεύγειν] you from/out of of face [ἐχθρῶν] of you/your and [μάχαιρα] six [ἐχθρῶν] of you/your of the [gen] [ἐξολεθρεῦσαι] the [nom f] three of day [όομφαίαν] of [the] Lord and [θάνατον] in to the [dat f] earth and [ἄγγελος] of [the] Lord [ἐξολεθρεύων] in all/every [f dat] [κληρονομίᾳ] Israel and now see/behold what? [ἀποκριθῶ] to the [dat] [ἀποστείλαντι] word [acc]
+1Chr 21:13 and he said David toward Gad [Στενά] to me and the [nom/acc pl n] [τρία] very much [ἐμπεσοῦμαι] [δὴ] into/for hands of [the] Lord that/because many [m] the [nom pl m] [οἰκτειρμοὶ] of him/his very much and into/for hands of men not not [ἐμπέσω]
+1Chr 21:14 and he gave Lord [θάνατον] in Israel and [ἔπεσον] six Israel seventy thousands [ἀνδρῶν]
+1Chr 21:15 and [ἀπέστειλεν] the [nom m] God [ἄγγελον] into/for Jerusalem of the [gen] [ἐξολεθρεῦσαι] her and as [ἐξολόθρευεν] he saw Lord and [μετεμελήθη] upon to the [dat f] [κακίᾳ] and he said to the [dat] [ἀγγέλῳ] to the [dat] [ἐξολοθρεύοντι] [Ἱκανούσθω] to you [ἄνες] the [acc f] hand of you/your and the [nom m] [ἅγγελος] of [the] Lord [ἑστὼς] in to the [dat] [ἄλῳ] [Φρνὰ] of the [gen] [Ἰεβουσαίου]
+1Chr 21:16 and [ἐπῆρεν] David the [acc pl m] eyes of him/his and he saw the [acc m] [ἄγγελον] of [the] Lord [ἑστῶτα] up midst [acc] of the [gen f] of earth and of the [gen] [οὐρανοῦ] and the [nom f] [όομφαία] of him/his [ἐσπασμένη] in to the [dat f] hand [dat] of him/his [ἐκτεταμένη] upon Jerusalem and [he] fell David and the [nom pl m] [πρεσβύτεροι] [περιβεβλημένοι] in [σάκκοις] upon face of them/their
+1Chr 21:17 and he said David toward the [acc m] God [acc] not I I said of the [gen] [ἀριθμῆσαι] to the [dat] to people and I I am the [nom m] [ἁμαρταών] [κακοποιῶν] [ἐκακοποίησα] and these things the [nom/acc pl n] sheep what? they made O Lord the [nom m] God [γενηθήτω] the [nom f] hand of you/your in to me and in to the [dat] [οἴκῳ] of the [gen] of father of me/my and not in to the [dat] to people of you/your into/for [ἀπώλειαν] O Lord
+1Chr 21:18 and [ἄγγελος] of [the] Lord he said to the [dat] Gad of the [gen] [εἰπεῖν] toward David so that [ἀναβῇ] of the [gen] [στῆσαι] altar to the [dat] to [the] Lord in [ἄλῳ] [Ορνὰ] of the [gen] [Ἰεβουσαίου]
+1Chr 21:19 and [ἀνέβη] David according to/down the [acc m] word [acc] Gad the [nom m] [he] spoke in in name of [the] Lord
+1Chr 21:20 and [ἐπέστρεψεν] [Ορνά] and he saw the [acc m] [βασιλέα] and [τέσσαρας] of son of him/his with [enclitic] of him/his [μεθαχαβείν] and [Ορνὰ] was [ἀλοῶν] fire
+1Chr 21:21 and he came David toward [Ορνᾶν] and [Ορνὰ] he went out from/out of of the [gen f] [ἄλω] and [προσεκύνησεν] to the [dat] David to the [dat] [προσώπῳ] upon the [acc f] earth [acc]
+1Chr 21:22 and he said David toward [Ορνά] give to me the [acc m] place [acc] of you/your of the [gen f] [ἄλω] and [οἰκοδομήσω] upon to him altar to the [dat] to [the] Lord in [ἀργυρίῳ] [ἀξίῳ] give to me him and [παύσεται] the [nom f] [πληγὴ] from/out of of the [gen] of people
+1Chr 21:23 and he said [Ορνὰ] toward David take to yourself and [ποιησάτω] the [nom m] Lord of me/my the [nom m] king the [nom/acc n] [ἀγαθὸν] before [αὐτοῦδ] I have given the [acc pl m] of calf into/for [ὁλοκαύτωσιν] and the [nom/acc n] [ἄροτρον] into/for [ξύλα] and the [acc m] [σῖτον] into/for sacrifice [acc] the [nom/acc pl n] all things I have given
+1Chr 21:24 and he said the [nom m] king David to the [dat] [Ορνά] not indeed that/because [ἀγοράζων] [ἀγοράζω] in [ἀργυρίῳ] [ἀξίῳ] that/because not not [λάβω] [ἅ] [he/she/it] is to you to [the] Lord of the [gen] [ἀνενέγκαι] [ὁλοκαύτωσιν] [δωρεὰν] to [the] Lord
+1Chr 21:25 and he gave David to the [dat] [ρνὰ] in to the [dat] in place of him/his [σίκλους] of gold [ὁλκῆς] [ἑξακοσίους]
+1Chr 21:26 and [ᾠκοδόμησεν] David there altar to [the] Lord and [ἀνήνεγκεν] burnt offerings and of salvation/peace offering and [ἐβόησεν] toward [the] Lord [acc] and [ἐπήκουσεν] to him in to fire from/out of of the [gen] [οὐρανοῦ] upon the [nom/acc n] altar of the [gen f] [ὁλοκαυτώσεαως] and [κατανάλωσεν] the [acc f] [ὁλοκαύτωσιν]
+1Chr 21:27 and he said Lord toward the [acc m] [ἄγγελον] and [κατέθηκεν] the [acc f] [όομφαίαν] into/for the [acc m] [κολεόν]
+1Chr 21:28 in to the [dat] [καιρῷ] [ἐκείνῳ] in to the [dat] to see the [acc m] David that/because [ἐπήκουσεν] to him in to the [dat] [ἄλῳ] [ρνὰ] of the [gen] [Ἰεβουσαίου] and [ἐθυσίασεν] there
+1Chr 21:29 and tent of [the] Lord was he did to Moses in to the [dat f] [ἐρήμῳ] and altar of the [gen pl] [ὁλοκαυτωμάτων] in to the [dat] [καιρῷ] [ἐκείνῳ] in [Βαμὼθ] in [Γαβαών]
+1Chr 21:30 and not he was able David of the [gen] [πορευθῆναι] before of him/his of the [gen] [ζητῆσαι] the [acc m] God [acc] that/because not [κατέσπευσεν] from of face of the [gen f] [όομφαίας] [ἀγγέλου] of [the] Lord
+1Chr 22:1 and he said David [Οἦτός] [he/she/it] is the [nom m] house of [the] Lord of the [gen] of God and this [n] the [nom/acc n] altar into/for [ὁλοκαύτωσιν] to the [dat] Israel
+1Chr 22:2 and he said David [συναγαγεῖν] all [acc pl m] the [acc pl m] [προσηλύτους] in earth Israel and [κατέστησεν] [λατόμους] [λατομῆσαι] [λίθους] [ξυστοὺς] of the [gen] [οἰκοδομῆσαι] house [acc] to the [dat] to God
+1Chr 22:3 and [σίδηρον] much into/for the [acc pl m] [ἥλους] of the [gen pl] [θυρωμάτων] and of the [gen pl] [πυλῶν] and the [acc pl m] [στροφεῖς] [ἡτοίμασεν] David and [χαλκὸν] into/for [πλῆθος] not was [σταθμός]
+1Chr 22:4 and [ξύλα] [κέδρινα] not was [ἀριθμός] that/because [ἐφέροσαν] the [nom pl m] [Σειδώνιοι] and the [nom pl m] [Τύριοι] [ξύλα] [κέδρινα] into/for [πλῆθος] to the [dat] David
+1Chr 22:5 and he said David [Σαλωμὼν] the [nom m] son of me/my [παιδάριον] [ἁπαλόν] and the [nom m] house of the [gen] [οἰκοδομῆσαι] to the [dat] to [the] Lord into/for [μεγαλωσύνην] [ἄνω] into/for name and into/for glory [acc] into/for all/every [f acc] the [acc f] earth [acc] [ἑτοιμάσω] to him and [ἡτοίμασεν] David into/for [πλῆθος] before of the [gen f] [τελευτῆς] of him/his
+1Chr 22:6 and he called [Σαλωμὼν] the [acc m] son [acc] of him/his and [he] commanded to him of the [gen] [οἰκοδομῆσαι] the [acc m] house [acc] to the [dat] to [the] Lord to God Israel
+1Chr 22:7 and he said David [Σαλωμών] child to me it came to be upon soul of the [gen] [οἰκοδομῆσαι] house [acc] to the [dat] in name of [the] Lord of God
+1Chr 22:8 and it came to be to me word of [the] Lord saying [Aἶμα] into/for [πλῆθος] [ἐξέχεας] and [πολέμους] [μεγάλους] [ἐποίησας] not [οἰκοδομήσεις] house [acc] to the [dat] in name of me/my that/because [αἵματα] many things [ἐξέχεας] upon the [acc f] earth [acc] before of me/my
+1Chr 22:9 behold son [τίκτεταί] to you this one it will be man [nom] [ἀναπαύσεως] and [ἀναπαύσω] him from of all of the [gen pl] [ἐχθρῶν] [κυκλόθεν] that/because [Σαλωμὼν] name to him and peace and [ἡσυχίαν] I will give upon Israel in to the [dat pl f] days of him/his
+1Chr 22:10 [οὄτος] [οἰκοδομήσει] house [acc] to the [dat] in name of me/my and this one it will be to me into/for son [acc] and I to him into/for father [acc] and [ἀνορθώσω] [θρόνον] kingdom of him/his in Israel until of age/eternity
+1Chr 22:11 and now [υἱέ] it will be with/after of you/your Lord and [εὐοδώσει] and [οἰκοδομήσεις] house [acc] to the [dat] to [the] Lord to God of you/your as [he] spoke around/concerning of you/your
+1Chr 22:12 [ἡλλʼ] the [nom f] [δώῃ] to you wisdom [acc] and [σύνεσιν] Lord and [κατισχύσαι] you upon Israel and of the [gen] [φυλάσσεσθαι] and of the [gen] to do the [acc m] law [acc] of [the] Lord of the [gen] of God of you/your
+1Chr 22:13 then [εὐοδώσει] if [φυλάξῃς] of the [gen] to do the [nom/acc pl n] statutes and the [nom/acc pl n] [κρίματα] [ἄ] [he] commanded Lord to the [dat] to Moses upon Israel [ἀνδρίζου] and [ἴσχυε] not [φοβοῦ] not [enclitic: δε] [πτοηθῇς]
+1Chr 22:14 and behold I according to/down the [acc f] [πτωχείαν] of me/my [ἡτοίμασα] into/for house [acc] of [the] Lord of gold [ταλάντων] hundred [χιλιάδας] and [ἀργυρίου] [ταλάντων] [χιλίας] [χιλιάδας] and [χαλκὸν] and [σίδηρον] not not [he/she/it] is [σταθμός] that/because into/for [πλῆθός] [he/she/it] is and [ξύλα] and [λίθους] [ἡτοίμασα] and toward these things [πρόσθες]
+1Chr 22:15 and with/after of you/your [πρόσθες] into/for [πλῆθος] [ποιούντων] [ἔργα] [τεχνῖται] and [οἰκοδόμοι] [λίθαων] and [τέκτονες] [ξύλων] and all/every wise in to every [ἔργῳ]
+1Chr 22:16 in gold [dat] in [ἀργυρίᾳῳ] in [χαλκῷ] and in [σιδήρῳ] not [he/she/it] is [ἀριθμός] [ἀνάστηθι] and [he] does and Lord with/after of you/your
+1Chr 22:17 and [he] commanded David to the [dat pl m] [παισὶν] [ἄρχουσιν] Israel [ἀντιλαβέσθαι] to the [dat] [Σαλωμὼν] [υἱῷ] of him/his
+1Chr 22:18 not indeed Lord with [ὑμῶ] and [ἀνέπαυσεν] you [pl] [κυκλόθεν] that/because he gave in [χερσὶν] the [acc pl m] [κατοικοῦντας] the [acc f] earth [acc] and [ὑπετάγη] the [nom f] earth before of [the] Lord and before of people of him/his
+1Chr 22:19 [υῦν] give [enclitic: τε] of heart of you/your [pl] and [ψυχὰς] of you/your [pl] of the [gen] [ζητῆσαι] to the [dat] to [the] Lord to God of you/your [pl] and [ἐγέρθητε] and [οἰκοδομήσατε] [ἁγίασμα] to the [dat] to God of you/your [pl] of the [gen] [εἰσενέγκαι] the [acc f] ark [acc] [διαθήκης] of [the] Lord and vessels the [nom/acc pl n] holy [f pl] of the [gen] of God into/for house [acc] the [acc m] [οἰκοδομούμενον] to the [dat] in name of [the] Lord
+1Chr 23:1 and David [πρεσβύτης] and [πλήρης] of days and [ἐβασίλευσεν] [Σαλωμὼν] the [acc m] son [acc] of him/his [ἀντʼ] of him/his upon Israel
+1Chr 23:2 and [συνήγαγεν] the [acc pl m] all [acc pl m] [ἄρχοντας] Israel and the [acc pl m] [ἱερεῖς] and the [acc pl m] Levites [acc]
+1Chr 23:3 and [ἠρίθμησαν] the [nom pl m] Levi [dat] from [τριακονταετοῦς] and [ἐπάνω] and it came to be the [nom m] [ἀριθμὸς] of them/their according to/down head [acc] of them/their into/for man [acc] thirty and [ὀκτὼ] [χιλιάδας]
+1Chr 23:4 from of the [gen pl] [ἐργοδιωκτῶν] upon the [nom/acc pl n] [ἔργα] of house twenty [τέσσαρες] thousands and [γραμματεῖς] and [κριταὶ] [ἑξακισχίλιοι]
+1Chr 23:5 and [τέσσαρες] thousands [αἰνοῦντες] to the [dat] to [the] Lord in to the [dat pl m] [ὀργάνοις] to whom/which he did of the [gen] [αἰνεῖν] to the [dat] to [the] Lord
+1Chr 23:6 and [διεῖλεν] them [m] David [ἐφημερίας] to the [dat pl m] sons Levi [dat] to the [dat] [Γεδσών] [Καάθ] [Μαραρεί]
+1Chr 23:7 and to the [dat] [αροσώμ] to the [dat] [Ἐδὰν] and to the [dat] [Σεμεεί]
+1Chr 23:8 sons to the [dat] [Ἐδάν] the [nom m] ruler [Ἴηι] and [Σεθὸμ] and [Ἰωήλ] and three
+1Chr 23:9 sons [Σεμεεί] [Ἀλωθεὶμ] and [Εἱειὴλ] and [Αἱδάν] three these ones rulers of paternal [houses] of the [gen pl] [Ἐδάν]
+1Chr 23:10 and to the [dat pl m] sons [Σεμεεί] [Ἰὲθ] and [Ζιζὰ] and [Ἰώας] and [Βεριά] these ones sons [Σεμεεί] [τέσσαρες]
+1Chr 23:11 and was [Τχθ] the [nom m] [ἄρχον] and [Σιζὰ] the [nom m] [δεύτερος] and [Ἰῶας] and [Βεριὰ] not [ἐπλήθυνεν] of son and it came to be into/for house [acc] [πατριᾶς] into/for [ἐπίσκεψιν] one [f acc]
+1Chr 23:12 sons [Καάθ] [Ἀμβράμ] [Ἰσσααάρ] [Χεβρών] [Οζειήλ] [τέσσαρες] | [KJV:] The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.
+1Chr 23:13 [υοὶ] [Ἀμβράμ] Aaron and Moses and [διεστάλη] Aaron of the [gen] [ἁγιασθῆναι] holy [f pl] of holy ones it and the [nom pl m] sons of him/his until of age/eternity of the [gen] [θυμιῖν] before of the [gen] of [the] Lord [λειτουργεῖν] and [ἐπεύχεσθαι] upon to the [dat] in name of him/his until of age/eternity
+1Chr 23:14 and to Moses man of the [gen] of God [υἱρὶ] of him/his [ἐκλήθησαν] into/for tribe [acc] of the [gen] Levi [dat]
+1Chr 23:15 sons to Moses [Γηρσὰμ] and [Ἐλιέζερ]
+1Chr 23:16 sons [Γηρσάμ] [Σουβαὴλ] the [nom m] ruler
+1Chr 23:17 and they were sons to the [dat] [Ἐλιέζερ] [Ῥααβιὰ] the [nom m] ruler and not they were sons [ἕτεροι] and [υὶ] [Ῥααβιὰ] [ηὐξήθησαν] into/for [ὕψος]
+1Chr 23:18 sons [Ἰσσαάρ] [Σαλωμὼθ] the [nom m] [ρχων] | [KJV:] Of the sons of Izhar; Shelomith the chief.
+1Chr 23:19 of sons [Χεβρών] [Ἰβοὐδ] the [nom m] ruler [Ἀμαδιὰ] the [nom m] [δεύτερος] [Φζιὴλ] the [nom m] [τρίτος] [Ἰκεμίας] the [nom m] [τέταρτος]
+1Chr 23:20 sons [Οζιήλ] [Μειχᾶς] the [nom m] ruler and [Ἰσειὰ] the [nom m] [δεύτερος]
+1Chr 23:21 sons [Μεραρεί] [dΜοολεὶ] and [Ομουσεί] sons [Μοήλ] Eleazar and [Κεἰς]
+1Chr 23:22 and he died Eleazar and not they were to him sons but the [nom f] daughters and [ἔλαβον] them/it [f/n pl] sons [Κεὶς] brothers of them/their
+1Chr 23:23 sons [Μουσεί] [Μοολεὶ] and [Ἀἰδαθ] and [Ἀρειμώθ] three
+1Chr 23:24 [οὅτοι] sons Levi [dat] according to of house of paternal [houses] of them/their rulers of the [gen pl] of paternal [houses] of them/their according to/down the [acc f] [ἐπίσκεψιν] of them/their according to/down the [acc m] number [ἀνομάτων] of them/their according to/down head [acc] of them/their doing the [nom/acc pl n] [ἔργα] [λειτουργίας] of house of [the] Lord from [εἰκοσαετοῦς] and [ἐπάνω]
+1Chr 23:25 that/because he said David [Κατέπαυσεν] Lord the [nom m] God Israel to the [dat] to people of him/his and [κατεσκήνωσεν] in Jerusalem until of age/eternity
+1Chr 23:26 and the [nom pl m] Levi [dat] not they were [αἴροντες] the [acc f] tent [acc] and the [nom/acc pl n] all things vessels of her/her into/for the [acc f] [λειτουργίαν] of her/her
+1Chr 23:27 that/because in to the [dat pl m] [λόγοις] David to the [dat pl m] [ἐσχάτοις] [he/she/it] is the [nom m] [ἀριθμὸς] of sons Levi [dat] from [εἰκοσαετοῦς] and [ἐπάνω]
+1Chr 23:28 that/because [ἔστησεν] them [m] upon hand Aaron of the [gen] [λειτουργεῖν] in [οἴκῳ] of [the] Lord upon the [acc pl f] [αὐλὰς] and upon the [nom/acc pl n] [παστοφρια] and upon the [acc m] [καθαρισμὸν] of the [gen pl] of all of holy ones and upon the [nom/acc pl n] [ἔργα] [λειτουργίας] of the [gen] of God
+1Chr 23:29 into/for the [acc pl m] [ἄρτους] of the [gen f] [προθέσεως] into/for the [acc f] [σεμίδαλιν] of the [gen f] [θυσίας] and into/for the [nom/acc pl n] [λάγανα] the [nom/acc pl n] [ἄζυμα] and into/for [τήγανον] and into/for the [acc f] [πεφυραμένην] and into/for every/all [μέτρον]
+1Chr 23:30 and of the [gen] [στῆναι] morning of the [gen] [αἰνεῖν] [ἐξομολογεῖσθαι] to the [dat] to [the] Lord and [οὕταωως] the [nom/acc n] evening
+1Chr 23:31 and upon of all of the [gen pl] [ἀναφερομένων] [ὁλοκαυτωμάτων] to the [dat] to [the] Lord in to the [dat pl m] [σαββάτοις] and in to the [dat pl f] [νεομηνίαις] and in to the [dat pl f] [ἑορταῖς] according to/down number according to/down the [acc f] judgment [acc] upon to them through/for of all/every to the [dat] to [the] Lord
+1Chr 23:32 and [φυλάξουσιν] the [acc pl f] [φυλακὰς] of tent of the [gen] of testimony and the [acc pl f] [φυλακὰς] of sons Aaron of brothers of them/their of the [gen] [λειτουργεῖν] in [οἴκῳ] of [the] Lord
+1Chr 24:1 and the [acc pl m] of son Aaron [διαιρέσει] [Ναδὰβ] and Abiud Eleazar and [Ἰθαμάρ]
+1Chr 24:2 and he died [Ναδὰβ] and Abiud before of the [gen] of father of them/their and sons not they were to them and [ἱεράτευσεν] Eleazar and [Ἰθαμὰρ] sons Aaron
+1Chr 24:3 and [διεῖλεν] them [m] David and Zadok from/out of of the [gen pl] of sons Eleazar and [Ἀχειμέλεχ] from/out of of the [gen pl] of sons [Ἰθαμάρ] according to/down the [acc f] [ἐπίσκεψιν] of them/their according to/down the [acc f] [λειτουργίαν] of them/their according to of house of paternal [houses] of them/their
+1Chr 24:4 and [εὑρέθησαν] the [nom pl m] sons Eleazar [πλείους] into/for [ἄρχοντας] of the [gen pl] [δυνατῶν] from/beside the [acc pl m] of son [Ἰθαμάρ] and [διεῖλεν] them [m] to the [dat pl m] sons Eleazar [ἄρχοντας] into/for of house of paternal [houses] six and ten to the [dat pl m] sons Aaron [Ἰθαμὰρ] according to of house of paternal [houses]
+1Chr 24:5 and [διεῖλεν] them [m] according to/down [κλήρους] of this toward of this that/because they were rulers of the [gen pl] of holy ones and rulers of [the] Lord in to the [dat pl m] sons Eleazar and in to the [dat pl m] sons [Ἰθαμάρ]
+1Chr 24:6 and [ἔγραψεν] them [m] [Σαμαίας] son [Ναθαναὴλ] the [nom m] [γραμματεὺς] from/out of of the [gen] Levi [dat] [κατέναντι] of the [gen] of king and of the [gen pl] [ἀρχόντων] and Zadok the [nom m] priest and [Ἀχειμέλεχ] son [Ἀβιάθαρ] and rulers of the [gen pl] of paternal [houses] of the [gen pl] [ἱερέων] and of the [gen pl] [Λευειτῶν] of house [πατριᾶς] into/for into/for to the [dat] Eleazar and into/for into/for to the [dat] [Ἰθαμάρ]
+1Chr 24:7 and he went out the [nom m] [κλῆρος] the [nom m] [πρῶτος] to the [dat] [Ἰαρείμ] to the [dat] [Ἀναιδειὰ] the [nom m] [δεύτερος]
+1Chr 24:8 to the [dat] [Καρὴβ] the [nom m] [τρίτος] to the [dat] [Σεωρεὶμ] the [nom m] [τέταρτος]
+1Chr 24:9 to the [dat] [Μελχειὰ] the [nom m] [πέμπτος] to the [dat] [Βενιαμεὶν] the [nom m] [ἕκτος]
+1Chr 24:10 to the [dat] [Κὼς] the [nom m] [ἕβδομος] to the [dat] Abijah the [nom m] [ὄγδοος]
+1Chr 24:11 to the [dat] of Jesus the [nom m] [ἔνατος] to the [dat] [Ἰσχανιὰ] the [nom m] [δέκατος]
+1Chr 24:12 to the [dat] [Ἐλιαβιεὶ] the [nom m] [ἑνδέκατος] to the [dat] [Ἰακεὶμ] the [nom m] [δωδέκατος]
+1Chr 24:13 to the [dat] [Οχχοφφὰ] the [nom m] [τρισκαιδέκατος] to the [dat] [Γελβὰ] the [nom m] [τεσσαρεσκαιδέκατος]
+1Chr 24:14 to the [dat] [Ἐμμὴρ] the [nom m] [πεντεκαιδέκατος] to the [dat] [Κηζεὶν] the [nom m] [ἑκκαιδέκατος]
+1Chr 24:15 to the [dat] [Ἀφεσὴ] the [nom m] [ἑπτακαιδέκατος] to the [dat] [Φεταιὰ] the [nom m] [ὀκτωκαιδέκατος]
+1Chr 24:16 to the [dat] [Ἐζεκὴλ] the [nom m] [ἐννεακαιδέκατος] to the [dat] [Ἀχεὶμ] the [nom m] [εἰκοστός]
+1Chr 24:17 to the [dat] [Γαμοὺλ] the [nom m] into/for and [εἰκοστός] to the [dat] [Ἀδαλλαὶ] the [nom m] [δεύτερος] and [εἰκοστός]
+1Chr 24:18 to the [dat] [Μαασαὶ] the [nom m] [τρίτος] and [εἰκοστός]
+1Chr 24:19 she/her the [nom f] census/visitation of them/their according to/down the [acc f] [λειτουργίαν] of them/their of the [gen] [εἰσπορεύεσθαι] into/for house [acc] of [the] Lord according to/down the [acc f] judgment [acc] of them/their through/for of hand Aaron of father of them/their as [he] commanded Lord the [nom m] God Israel
+1Chr 24:20 and to the [dat pl m] sons Levi [dat] to the [dat pl m] according to/down remaining to the [dat pl m] sons [Ἀμβρὰμ] [Ἰωβαήλ] [Ιασειά]
+1Chr 24:21 to the [dat] [Ῥααβιὰ] the [nom m] ruler
+1Chr 24:22 and to the [dat] [Ἰσσαρεὶ] [Σαλωμώθ] to the [dat pl m] sons [Σαλωμὼθ] [Ἰνάθ]
+1Chr 24:23 sons [Ἰηδειμού] [Ἀμαδιὰ] the [nom m] [δεύτερος] [Ἰακὴ] the [nom m] [τρίτος] [Ἰοκὸμ] the [nom m] [τέταρτος] [²⁴Οζειὴλ] [Μειχά] sons [Μειχὰ] [Σαμήρ] | [KJV:] And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.
+1Chr 24:25 brother [Μειχὰ] [Ἴσιά] son [Ἰσιὰ] [Ζαχαριά] | [KJV:] The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
+1Chr 24:26 [υἱοὶΜεραρεὶ] [Μοολεὶ] and [Φμουσεί] sons [Ὀζειά] | [KJV:] The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.
+1Chr 24:27 of the [gen] [Μεραρεὶ] to the [dat] [Ὀζειά] sons of him/his [Ἰσοὰμ] and [Ζακχοὺρ] and [Ἀβαί]
+1Chr 24:28 to the [dat] [Μοολεὶ] Eleazar and [Ἰθαμάρ] and he died Eleazar and not they were to him sons
+1Chr 24:29 to the [dat] [Κείς] sons of the [gen] [Κεὶς] [Ἰραμαήλ]
+1Chr 24:30 and sons of the [gen] [Μοουσεὶ] [Μοολλεὶ] and [Ηλὰ] and [Ἀρειμώθ] these ones sons of the [gen pl] [Λευειτῶν] according to of house of paternal [houses] of them/their
+1Chr 24:31 and [ἔλαβον] and they [κλήρους] just as the [nom pl m] brothers of them/their sons Aaron before of the [gen] of king and Zadok and [Ἀχειμέλεχ] and ruler of the [gen pl] of paternal [houses] of the [gen pl] [ἱερέων] and of the [gen pl] [Λευειτῶν] [πατριάρχαι] [Ἀραάβ] just as the [nom pl m] brothers of him/his the [nom pl m] [νεώτεροι]
+1Chr 25:1 and [ἔστησεν] David the [nom m] king and the [nom pl m] rulers of the [gen f] [δυνάμεως] into/for the [nom/acc pl n] [ἔργα] the [acc pl m] of son [Ἀσὰφ] and blood and [Ἰδειθὰν] the [acc pl m] [ἀποφθεγγομένους] in [κινύραις] and in [νάβλαις] and in [κυμβάλοις] and it came to be the [nom m] [ἀριθμὸς] of them/their according to/down head [acc] of them/their [ἐργαζομένων] in to the [dat pl m] [ἔργοις] of them/their
+1Chr 25:2 sons [Ἀσάφ] [Σακχούς] Joseph and [Ναθαλίας] and [Ἐραήλ] sons [Ἀσὰφ] [ἐχόμενοι] of the [gen] of king
+1Chr 25:3 to the [dat] [Ἰδειθών] sons [Ἰδειθών] [Γουνὰ] and [Σουρεὶ] and [Σαιὰ] and [Σεμεεὶ] and [Ἀσαβιὰ] and [Ματταθίας] six with/after the [acc m] father [acc] of them/their [Ἰδειθὰν] in [κινύρᾳ] [ἀνακρουόμενος] [ἐξομολόγησιν] and [αἵνεσιν] to the [dat] to [the] Lord
+1Chr 25:4 to the [dat] [Αἱμανεί] sons blood [Bουκείας] and [Μανθανίας] and [Ἀζαραὴλ] and [Σουβαὴλ] and [Ἀμσοὺ] and [Ἰερεμὼθ] and [Ἀνανίας] and [Ἠαθὰθ] and [Γοδολλαθεὶ] and [Ῥωμεί] sons [Ὤδ] and [Ἰειβασάκα] and [Μανθεὶ] and [Ὡθηρεὶ] and [Μελζώθ]
+1Chr 25:5 all [m pl] these ones sons to the [dat] blood to the [dat] [ἀνακρουομένῳ] to the [dat] [βασιλεὶ] in [λόγοις] of God [ὑψῶσαι] [κέρας] and he gave God to the [dat] blood of son ten [τέσσαρες] and daughters [acc] three
+1Chr 25:6 all [m pl] these ones with/after of the [gen] of father of them/their [ὑμνῳδοῦντες] in [οἴκῳ] of God in [κυμβάλοις] and in [νάβλαις] and in [κινύραις] [ἐχόμενα] of the [gen] of king and [Ἀσαφ] and [Ἰδειθοὺν] and [Αἱμανεί]
+1Chr 25:7 and it came to be the [nom m] [ἀριθμὸς] of them/their with/after the [acc pl m] [ἀδελφοὺς] of them/their [δεδιδαγμένοι] [ἄδειν] to [the] Lord all/every [συνίων] [διακόσιοι] [ὀγδοήκοντα] and [ὀκτώ]
+1Chr 25:8 and [ἔβαλον] and they [κλήρους] [ἐφημεριῶν] according to/down the [acc m] [μικρὸν] and according to/down the [acc m] [μέγαν] [τελείων] and [μανθανόντων]
+1Chr 25:9 and he went out the [nom m] [κλῆρος] the [nom m] [πρῶτος] of sons of him/his and of brothers of him/his to the [dat] [Ἀσάφ] to the [dat] Joseph [Γαλουιὰ] the [nom m] [δεύτερος] [Ἡνειά] brothers of him/his and sons of him/his ten two
+1Chr 25:10 the [nom m] [τρίτος] [Ζαχχούθ] son of him/his and brothers of him/his ten two
+1Chr 25:11 the [nom m] [τέταρτος] [Ἰεσδρεί] sons of him/his and brothers of him/his ten two
+1Chr 25:12 the [nom m] [πέμπτος] [Ναθαν] sons of him/his and brothers of him/his ten two
+1Chr 25:13 the [nom m] [ἕκτος] [Βουκείας] sons of him/his and brothers of him/his ten two
+1Chr 25:14 the [nom m] [ἔβδομος] [Ἰσεριήλ] sons of him/his and brothers of him/his ten two
+1Chr 25:15 the [nom m] [ὄγδοος] [Ἰωσειά] sons of him/his and brothers of him/his ten two
+1Chr 25:16 the [nom m] [ἔνατος] [Μανθανίας] sons of him/his and brothers of him/his ten two
+1Chr 25:17 the [nom m] [δέκατος] [Ἐμεεί] sons of him/his and brothers of him/his ten two
+1Chr 25:18 the [nom m] [ἑνδέκατος] [Ἀζαρία] sons of him/his and brothers of him/his ten two
+1Chr 25:19 the [nom m] [δωδέκατος] [Ἁριά] sons of him/his and brothers of him/his ten two
+1Chr 25:20 the [nom m] [τρισκαιδέκατος] [Σουβαήλ] sons of him/his and brothers of him/his ten two
+1Chr 25:21 the [nom m] [τεσσαρεσκαιδέκατος] [Ματταθίας] [υἱοὶαὐτοῦ] and brothers of him/his ten two
+1Chr 25:22 the [nom m] [πεντεκαιδέκατος] [Ἐρειμώθ] sons of him/his and brothers of him/his ten two
+1Chr 25:23 the [nom m] [ἑκκαιδέκατος] [Ἁνανίας] sons of him/his and brothers of him/his ten two
+1Chr 25:24 the [nom m] [ἑπτακαιδέκατος] [Βακατά] sons of him/his and brothers of him/his ten two
+1Chr 25:25 the [nom m] [ὀκτωκαιδέκατος] [Ἀνανίας] sons of him/his and brothers of him/his ten two
+1Chr 25:26 the [nom m] [ἐννεακαιδέκατος] [Μεθαθεί] sons of him/his and brothers of him/his ten two
+1Chr 25:27 the [nom m] [εἰκοστὸς] [Αἰμαθά] [υἱρὶ] of him/his and brothers of him/his ten two
+1Chr 25:28 the [nom m] [εἰκοστὸς] [πρῶτος] [Ἡθεί] [υἱρὶαὐτοῦ] [καὶἀδελφοὶ] of him/his ten two
+1Chr 25:29 the [nom m] [εἰκοστὸς] [δεύτερος] [Γοδομαθεί] sons of him/his and brothers of him/his ten two
+1Chr 25:30 the [nom m] [τρίτος] and [εἰκοστὸς] [Μεαζώθ] sons of him/his and brothers of him/his ten two
+1Chr 25:31 the [nom m] [τέταρτος] and [εἰκοστὸς] [Ῥομελχεί] [υἱοὶαὐτοῦ] and brothers of him/his ten two
+1Chr 26:1 into/for [διαιρέσεις] of the [gen pl] [πυλῶν] [υὰρὶ] [Κορεείμ] [Μοσολαὴλ] son [Κωρή] from/out of of the [gen pl] of sons Abijah [Σαφάρ]
+1Chr 26:2 and the [acc f] [Μοσαληὰ] of son [Ζαχαρίου] the [nom m] [πρωτότοκος] [Ἰδερήλ] [Ζαχαρίας] [Ἰενουήλ]
+1Chr 26:3 [Ἰωλάμ] [Ἰωνᾶς] [Ἐλιωναὶς] the [nom m] [δ)δομος] | [KJV:] Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
+1Chr 26:4 and to the [dat] [Ἀβδοδὸμ] sons [Σαμαίας] the [nom m] [πρωτότοκος] [Ἰωζαβάθ] [Ἰωάθ] [Σωχάρ] temple [Ἰειήλ] | [KJV:] Moreover the sons of Obededom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth.
+1Chr 26:5 [Ἀμειήλ] Issachar [Ἰαφθοσλααθί] that/because [εὐλόγησεν] him the [nom m] God
+1Chr 26:6 and to the [dat] [Σαμαίᾳ] [υἱῷ] of him/his [ἐτέχθησαν] sons of the [gen] [πρωτοτόκου] [Ῥωσαὶ] into/for the [acc m] house [acc] the [acc m] [πατρικὸν] of him/his that/because [δυνατοὶ] they were
+1Chr 26:7 sons [Σάμαί] [Γοονεὶ] and and Obed and [Ἐληζαβὰθ] and [Ἀχιούδ] sons [δυνατοί] [Ἐννοὺ] and [Σαβχειὰ] and [Ἰσβακώμ]
+1Chr 26:8 all [m pl] from of the [gen pl] of sons [Ἀβδοδόμ] they and the [nom pl m] brothers of them/their and sons of them/their doing [δυνατῶς] in to the [dat f] [ἐργασίᾳ] the [nom pl m] all [m pl] [ἑξήκοντα] two to the [dat] [Ἀβδοδόμ]
+1Chr 26:9 and to the [dat] [Μοσομαμεὶδ] sons and brothers ten and [ὀκτὼ] [δυνατοί]
+1Chr 26:10 and to the [dat] [Ἰοσσὰ] of the [gen pl] of sons [Μερραρεὶ] sons [φυλάσσοντες] the [acc f] beginning that/because not was [πρωτότοκος] and he did him the [nom m] father of him/his [ἄρχοντα] of the [gen f] [διαιρέσεως] of the [gen f] [δευτέρας]
+1Chr 26:11 [Ταβλαὶ] the [nom m] [τρίτος] [Ζαχαρίας] all [m pl] these ones sons and brothers to the [dat] [Ἰοσσὰ] [τρισκαίδεκα]
+1Chr 26:12 [γούτοις] the [nom pl f] [διαιρέσεις] of the [gen pl] [πυλῶν] to the [dat pl m] [ἄρχουσι] of the [gen pl] [δυνατῶν] [ἐφημερίαι] as/according as the [nom pl m] brothers of them/their [λειτουργεῖν] in [οἴκῳ] of [the] Lord
+1Chr 26:13 and [ἔβαλον] [κλήρους] according to/down the [acc m] [μικρὸν] and according to/down the [acc m] [μέγαν] according to of house of paternal [houses] of them/their into/for [πυλῶνα] and [πυλῶνα]
+1Chr 26:14 and [he] fell the [nom m] [κλῆρος] of the [gen pl] toward [ἀνατολὰς] to the [dat] [Σαλαμειὰ] and [Ζαχαριά] sons [Σωάζ] to the [dat] [Μελχειὰ] [ἔβαλον] [κλήρους] and he went out the [nom m] [κλῆρος] [βορρᾶ]
+1Chr 26:15 to the [dat] [Ἀβδοδὸμ] [νότον] [κατέναντι] of house [ἐσεφείν] | [KJV:] To Obededom southward; and to his sons the house of Asuppim.
+1Chr 26:16 into/for second to the [dat] [Ἰοσσὰ] toward [δυσμαῖς] with/after the [acc f] [πύλην] [παστοφορίου] of the [gen f] [ἀναβάσεως] [φυλακὴ] [κατέναντι] [φυλακῆς]
+1Chr 26:17 toward [ἀνατολὰς] six the [acc f] day [acc] [βορρᾶ] of the [gen f] of day [τέσσαρες] [νότον] of the [gen f] of day [τέσσαρες] and into/for the [nom/acc n] [ἐσεφεὶν] two
+1Chr 26:18 into/for [διαδεχομένους] and to the [dat] [Ἰοσσὰ] toward [δυσμαῖς] with/after the [acc f] [πύλην] of the [gen] [παστοφορίου] three [φυλακὴ] [κατέναντι] [φυλακῆς] of the [gen f] [ἀναβάσεως] toward [ἀνατολὰς] of the [gen f] of day six and to the [dat] [βορῶ] [τέσσαρες] [κοί] to the [dat] [νότῳ] [τέσσαρες] and [ἐσεφεὶμ] two into/for [διαδεχομένους] and toward [δυσμαῖς] [τέσσαρες] and into/for the [acc m] [τρίβον] two [διαδεχομένους]
+1Chr 26:19 [αὗται] the [nom pl f] [διαιρέσεις] of the [gen pl] [πυλωρῶν] to the [dat pl m] sons [Καὰθ] and to the [dat pl m] [Μερραρεί]
+1Chr 26:20 and the [nom pl m] Levi [dat] brothers of them/their upon of the [gen pl] [θησαυρῶν] of house of [the] Lord and upon of the [gen pl] [θησαυρῶν] of the [gen pl] [καθηγιασμένων]
+1Chr 26:21 sons [Καδὰν] these ones [Ιηρσωνεί] to the [dat] [Λάδαν] and [Ἰαιεὴλ] of the [gen] [Ἰού] sons [Ἰειὴλ] rulers of paternal [houses] to the [dat] [Λάδαν] to the [dat] [Γηρσωνεὶ] [Ἰειήλ]
+1Chr 26:22 sons [Ἰειὴλ] [Σεθὸμ] and [Ἰωήλ] the [nom pl m] brothers upon of the [gen pl] [θησαυρῶν] of house of [the] Lord
+1Chr 26:23 to the [dat] [Ἀμβρὰμ] and [Ἰσσάαρ] [Χεβρὼν] and [ζειήλ] | [KJV:] Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:
+1Chr 26:24 and [Ἰωήλ] the [nom m] of the [gen] [Γηρσὰμ] of the [gen] [Μωσῇ] upon of the [gen pl] [θησαυρῶν]
+1Chr 26:25 and to the [dat] [ἀδελφῷ] of him/his to the [dat] [Ἐλιέζερ] [Ῥαβίας] son and [Ὠσαίας] and Joram and [Ζεχρεὶ] and [Σαλωμώθ]
+1Chr 26:26 [αὸτὸς] [Σαλωμὼθ] and the [nom pl m] brothers of him/his upon of all of the [gen pl] [θησαυρῶν] of the [gen pl] of holy ones whom/which [f pl] [ἡγίασεν] David the [nom m] king and the [nom pl m] rulers of the [gen pl] of paternal [houses] [χιλίαρχοι] and [ἑκατόνταρχοι] and [ἀρχηγοὶ] of the [gen f] [δυνάμεως]
+1Chr 26:27 [ἅ] he took from/out of of cities and from/out of of the [gen pl] [λαφύρων] and [ἡγίασεν] from of them/their of the [gen] not [καθυστερῆσαι] the [acc f] edification/building of the [gen] of house of the [gen] of God
+1Chr 26:28 and upon of all of the [gen pl] of holy ones of the [gen] of God [Σαμουὴλ] of the [gen] of prophet and [Σαοὺλ] of the [gen] [Κεὶς] and [Ἀβεννὴρ] of the [gen] [Νὴρ] and [Ἰωὰβ] of the [gen] [Σαρουιά] every/all the [nom m] [ἡγίασεν] through/for of hand [Σαλωμὼθ] and of the [gen pl] of brothers of him/his
+1Chr 26:29 to the [dat] [Ἰσσαρεὶ] [Κωνενειὰ] and sons of the [gen f] [ἐργασίας] of the [gen f] outside upon the [acc m] Israel of the [gen] [γραμματεύειν] and [διακρίνειν]
+1Chr 26:30 to the [dat] [Κεβρωνεὶ] [Ἀσαβίας] and the [nom pl m] brothers of him/his the [nom pl m] [δυνατοί] [χίλμωι] and [ἑπτακόσιοι] upon of the [gen f] [ἐπισκέψεως] of the [gen] Israel beyond of the [gen] of Jordan toward [δυσμαῖς] into/for all/every [f acc] [λειτουργίαν] of [the] Lord and [ἐργασίαν] of the [gen] of king
+1Chr 26:31 of the [gen] [Κεβρωνεὶ] [Γουδείας] the [nom m] ruler of the [gen pl] [Κεβρωνεί] according to/down [γενέσεις] of them/their according to/down [πατριάς] in to the [dat] [τεσσερακοστῷ] [ἔτει] of the [gen f] kingdom of him/his [ἐπεσκέπησαν] and was found man [nom] [δυνατὸς] in to them in [Ῥιαζὴρ] of the [gen f] [Γαλααδείτιδος]
+1Chr 26:32 and the [nom pl m] brothers of him/his sons the [nom pl m] [δυνατοί] [δισχίλιοι] [ἑπτακόσιοι] the [nom pl m] rulers of paternal [houses] and [κατεστησεν] them [m] David the [nom m] king upon of the [gen] [Ῥουβηνεὶ] and [Γαδδεὶ] and [ἡμίσους] of tribe Manasseh into/for every/all [πρόσταγμα] of [the] Lord and word [acc] of king
+1Chr 27:1 and the [nom pl m] sons Israel according to number of them/their rulers of the [gen pl] of paternal [houses] [χιλίαρχοι] and [ἑκατόνταρχοι] and [γραμματεῖς] the [nom pl m] [λειτουργοῦντες] to the [dat] to people and into/for every/all word [acc] of the [gen] of king according to/down [διαιρέσεις] every/all word [acc] of the [gen] [εἰσπορευομένου] and [ἐκπορευομένου] [μῆνα] from/out of [μηνός] into/for all [acc pl m] the [acc pl m] [μῆνας] of the [gen] [ἐνιαυτοῦ] [διαίρεσις] [μία] twenty and [τέσσαρες] thousands
+1Chr 27:2 and upon of the [gen f] [διαιρέσεως] of the [gen f] [πρώτης] of the [gen] [μηνὸς] of the [gen] [πρώτου] [Σοβὰ] the [nom m] of the [gen] [Ζαβδειήλ] and upon of the [gen f] [διαιρέσεως] of him/his twenty and [τέσσαρες] thousands
+1Chr 27:3 from of the [gen pl] of sons [Φάρες] ruler of all of the [gen pl] [ἀρχόντων] to the [dat f] [δυνάμεαος] of the [gen] [μηνὸς] of the [gen] [πρώτου]
+1Chr 27:4 and upon of the [gen f] [διαιρέσεως] of the [gen] [μηνὸ] of the [gen] [δευτέρου] [Δωδειὰ] the [nom m] [Ἐκχώχ] and upon of the [gen f] [διαιρέσεως] of him/his twenty and [τέσσαρες] thousands rulers [δυνάμεως]
+1Chr 27:5 the [nom m] [τρίτος] the [acc m] [μῆνα] the [nom/acc n] third [Βαναίας] the [nom m] of the [gen] [Ἰωδᾶε] the [nom m] priest the [nom m] ruler and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:6 it [Βαναίας] [δυνατώτερο] of the [gen pl] thirty and upon of the [gen pl] thirty and upon of the [gen f] [διαιρέσεως] of him/his [Λαιβαζὰθ] son of him/his [⁷ὁ] [τέταρτος] into/for the [acc m] [μῆνα] the [acc m] [τέταρτον] [Ἀσαὴλ] the [nom m] brother [Ἰωὰβ] and [Ἀβδεἰας] the [nom m] son of him/his and the [nom pl m] brothers and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:8 the [nom m] [πέμπτος] to the [dat] [μηνὶ] to the [dat] [πέμπτῳ] the [nom m] [ἡγούμενος] [Σαλαὼθ] the [nom m] [Ἐσρᾶε] and upon of the [gen f] [διαιρέσεως] of him/his twenty [τέσσαρες] thousands
+1Chr 27:9 the [nom m] [ἕκτος] to the [dat] [μηνὶ] to the [dat] [ἕκτῳ] [Ὀδουίας] the [nom m] of the [gen] [Ἐκκὴς] the [nom m] [εκωνείτης] and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:10 the [nom m] [ἕβδομος] to the [dat] [μηνὶ] to the [dat] [ἑβδόμῳ] [Κέσλης] the [nom m] from/out of [Φαλλοὺς] from of the [gen pl] of sons Ephraim and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:11 the [nom m] [ὄγδοος] to the [dat] [μηνὶ] to the [dat] [ὀγδόῳ] [Σοβοχαὶ] the [nom m] [Ἰσαθεὶ] to the [dat] [Ζαριά] and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:12 the [nom m] [ἔνατος] to the [dat] [μηνὶ] to the [dat] [ἐνάτῳ] [Ἀβιέζερ] six [Ἀναθὰθ] from/out of of earth [ενιαμείν] and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:13 the [nom m] [δέκατος] to the [dat] [μηνὶ] to the [dat] [δεκάτῳ] [Μεηρὰ] the [nom m] from/out of [Νετουφὰτ] to the [dat] [Ζαρεί] and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:14 the [nom m] [ἑνδέκατος] to the [dat] [μηνὶ] to the [dat] [ἑνδεκάτῳ] [Βαναίας] the [nom m] from/out of [Φαραθὼν] of the [gen pl] of sons Ephraim and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:15 the [nom m] [δωδέκατος] into/for the [acc m] [μῆνα] the [acc m] twelve [Κολδειὰ] the [nom m] from/out of [Nετωφατεὶ] to the [dat] [Γοθονιήλ] and upon of the [gen f] [διαιρέσεως] of him/his [τέσσαρες] and twenty thousands
+1Chr 27:16 and upon of the [gen pl] [φυλῶν] Israel of the [gen pl] Reuben [ἡγούμενος] [Ἐλιέζερ] the [nom m] of the [gen] [Ζεχρεί] to the [dat] Simeon [Σαφατίας] the [nom m] of the [gen] [Μαχά]
+1Chr 27:17 to the [dat] Levi [dat] [Ἀσαβίας] the [nom m] of the [gen] [Σαμουὴλ] to the [dat] Aaron Zadok
+1Chr 27:18 to the [dat] [Ἰούδα] [Ἐλιὰβ] of the [gen pl] of brothers David to the [dat] Issachar [Ἀμβρεὶ] the [nom m] of the [gen] [Μεισαῆλ]
+1Chr 27:19 to the [dat] [Σαβουλὼν] [Σαμαίας] the [nom m] of the [gen] [Ἀβδειού] to the [dat] [Νεφθαλεὶ] [Ἐρειμὼθ] the [nom m] of the [gen] [Ἐσρειήλ]
+1Chr 27:20 to the [dat] Ephraim [Ὡσὴ] the [nom m] of the [gen] [Ὀζειού] to the [dat] [ἡμίσει] of tribe Manasseh [Ἰωήλ] the [nom m] of the [gen] [Φαλαδαιά]
+1Chr 27:21 to the [dat] [ἡμίσει] of tribe Manasseh of the [gen pl] in to the [dat f] [Γαλαὸβ] [Ἰαδδαὶ] the [nom m] of the [gen] [Σαβδειού] to the [dat pl m] sons [Βενιαμεὶν] [Ἀσειὴρ] the [nom m] of the [gen] [Ἀβεννήρ]
+1Chr 27:22 to the [dat] Dan [Ἀζαραὴλ] the [nom m] of the [gen] Joram these ones [πατριάρχαι] of the [gen pl] [φυλῶν] Israel
+1Chr 27:23 and not he took David the [acc m] number of them/their from [εἰκοσαετοῦς] and [κάτω] that/because Lord he said [πληθῦναι] the [acc m] Israel as the [acc pl m] [ἀστέρας] of the [gen] [οὐρανοῦ]
+1Chr 27:24 and [Ἰωὰβ] the [nom m] of the [gen] [Σαρουιὰ] [he] began [ἀριθμεῖν] in to the [dat] to people and not [συνετέλεσεν] and it came to be in of the [gen] [ὀργὴ] upon Israel and not [κατεχωρίσθη] the [nom m] [ἀριθμὸς] in [βιβλίῳ] [λόγων] of the [gen pl] of days of the [gen] of king David
+1Chr 27:25 and upon of the [gen pl] [θησαυρῶν] of the [gen] of king [Ἀσμὼθ] the [nom m] of the [gen] [2διήλ] and upon of the [gen pl] [θησαυρῶν] of the [gen pl] in [ἀγρῷ] and in to the [dat pl f] [κώμαις] and in to the [dat pl m] [ἐποικίοις] and in to the [dat pl m] [πύργοις] [Ἰωναθὰν] the [nom m] of the [gen] [Οζειού]
+1Chr 27:26 upon [ὶ] but of the [gen pl] [γεωργούντων] the [acc f] earth [acc] of the [gen pl] [ἐργαζομένων] [Ἐσδρεὶ] the [nom m] of the [gen] [Χοβούδ]
+1Chr 27:27 and upon of the [gen pl] [χωρίων] [Σεμεεὶ] the [nom m] from/out of [Ῥαήλ] and upon of the [gen pl] [θησαυρῶν] of the [gen pl] in to the [dat pl m] [χαορίοις] of the [gen] [οἴνου] [Ζαχρεὶ] the [nom m] of the [gen] [Σεφνεί]
+1Chr 27:28 and upon of the [gen pl] [ἐλαιώνων] and upon of the [gen pl] [συκαμίνων] of the [gen pl] in to the [dat f] [πεδινῇ] [Βαλανᾶς] the [nom m] [Γεδωρείτης] upon but of the [gen pl] [θησαυρῶν] of the [gen] of oil [Ἰωάς]
+1Chr 27:29 and upon of the [gen pl] [βοῶν] of the [gen pl] [νομάδων] of the [gen pl] in to the [dat] [Ἀσειδὼν] [Ἀσαρταὶς] the [nom m] [Σαρωνείτης] and upon of the [gen pl] [βοῶν] of the [gen pl] in to the [dat pl m] [αὐλώσιν] [Σωρὰν] the [nom m] of the [gen] [Αδαι]
+1Chr 27:30 upon but of the [gen pl] [καμήλων] Abijah the [nom m] upon but of the [gen pl] [ὄοων] [Ἰαδίας] the [nom m] from/out of [Μεραθών]
+1Chr 27:31 and upon of the [gen pl] of sheep [Ἰαζεὶζ] the [nom m] [Γαρείτης] all [m pl] these ones [προστάται] [ὑπαρχόντων] David of the [gen] of king
+1Chr 27:32 and [Ἰωναθὰν] the [nom m] [πατράδελφος] David [σύμβουλος] man [συνετός] [καὶἸεὴλ] the [nom m] of the [gen] [Ἀχαμεὶ] with/after of the [gen pl] of sons of the [gen] of king
+1Chr 27:33 [ʼΑχειτόφελ] [σύμβουλος] of the [gen] of king and [Κουσεὶ] the [nom m] morning [φίλος] of the [gen] of king
+1Chr 27:34 and with/after this [n] [Ἀχειτόφελ] we have [Ἰωδᾶε] the [nom m] of the [gen] [Βαναίου] and [Ἀβιάθαρ] and [Ἰωὰβ] [ἀρχιστράτηγος] of the [gen] of king
+1Chr 28:1 and [ἐξεκκλησίασεν] David all [acc pl m] the [acc pl m] [ἄρχοντας] Israel [ἄρχοντας] of the [gen pl] [κριτῶν] and the [acc pl m] [ἄρχοντας] of the [gen pl] [ἐφημεριῶν] of the [gen pl] around/concerning the [nom/acc n] body of the [gen] of king and [ἄρχοντας] of the [gen pl] [χιλιάδων] and of the [gen pl] [ἑκατοντάδων] and the [acc pl m] [γαζοφύλακας] and the [acc pl m] upon of the [gen pl] [ὑπαρχόντων] of him/his and the [acc pl m] [δυνάστας] and the [acc pl m] [μαχητὰς] in Jerusalem
+1Chr 28:2 and [ἔστη] David in midst [dat] of the [gen f] of church/assembly and he said hear [pl] of me/my brothers and [λαός] of me/my to me it came to be upon heart [acc] [οἰκοδομῆσαι] house [acc] [ἀναπαύσεως] of the [gen f] [κιβωτοῦ] [διαθήκης] of [the] Lord and [στάσιν] [ποδῶν] of [the] Lord our and the [nom f] [enclitic: τοι] [μασα] the [nom/acc pl n] into/for the [acc f] [κατασκήνωσιν] [ἐπιτήδεια] [³καὶ] the [nom m] God he said not [οἰκοδομήσεις] to me house [acc] of the [gen] [ἐπονομάσαι] the [nom/acc n] name of me/my upon to him that/because [ἄνθραωπος] [πολεμιστὴς] you are you and blood [ἐξέχεας]
+1Chr 28:4 and [ἐξελέξατο] Lord the [nom m] God Israel in to me from of all/every of house of father of me/my to be [βασιλέα] upon Israel into/for the [acc m] age/eternity [acc] and in [Ἰούδᾳ] [ἡρέτικεν] the [nom/acc n] [βασίλειον] and six of house [Ἰούδα] the [acc m] house [acc] of the [gen] of father of me/my in to me he wanted of the [gen] to come to be me [βασιλέα] upon to the [dat] to every Israel
+1Chr 28:5 and from of all of the [gen pl] of sons of me/my that/because [πολλοὺς] of son he gave to me Lord [ἐξελέξατο] in [Σαλωμὼν] to the [dat] [υἱῷ] of me/my [καθίσαι] him upon [θρόνου] kingdom of [the] Lord upon the [acc m] Israel
+1Chr 28:6 and he said to me the [nom m] God [Σαλωμὼν] the [nom m] son of you/your [κληρονομήσει] the [acc m] house [acc] of me/my and the [acc f] [αὐλήν] of me/my that/because [ἡρέτικα] in to him to be of me/my son [acc] and I I will be to him into/for father [acc]
+1Chr 28:7 and [κατορθώσω] the [acc f] kingdom [acc] of him/his until of age/eternity if [ἰσχύσῃ] of the [gen] [φυλάξασθαι] the [acc pl f] commandments of me/my and the [nom/acc pl n] [κρίματά] of me/my as the [nom f] day she/her
+1Chr 28:8 and now according to/down face of all/every [f] of church/assembly of [the] Lord and [ζητήσατε] the [acc pl f] commandments of [the] Lord of the [gen] of God our so that [κληρονομήσητε] the [acc f] earth [acc] the [acc f] [ἀγαθὴν] to the [dat pl m] sons our until of age/eternity
+1Chr 28:9 and now [Σαλωμών] [γνῶθι] the [acc m] God [acc] of the [gen pl] [πατέρων] of you/your and [δούλευε] in heart [τελείᾳ] and soul [θελούσῃ] that/because all [f acc pl] of heart [ἐτάζει] Lord and every/all [ἐνθύμημα] [γιγνώσκει] if [ζητήσῃς] him [εὑρεθήσεταί] to you and if [καταλείψῃς] him [καταλείψει] you into/for [τέλος]
+1Chr 28:10 [ἴ] Lord [ῆρέτικέν] you [οἰκοδομῆσαι] to him house [acc] into/for [ἁγίασμα] [ἴσχυε] and [he] does
+1Chr 28:11 and he gave David [Σαλωμὼν] to the [dat] [υἱῷ] of him/his the [nom/acc n] [παράδειγμα] of the [gen] [ναοῦ] and of the [gen pl] [οἴκων] of him/his and of the [gen pl] [ζακχὼ] of him/his and [τῶυ] [ὑπερῷαων] and of the [gen pl] [ἀποθηκῶν] of the [gen pl] [ἐσωτέρων] and of the [gen] of house of the [gen] of atonement
+1Chr 28:12 and the [nom/acc n] [παράδειγμα] the [nom m] he had in in spirit of him/his of the [gen pl] [αὐλῶυ] of house of [the] Lord and of all of the [gen pl] [παστοφορίων] of the [gen pl] around of the [gen pl] into/for the [acc pl f] [ἀποθήκας] of [the] Lord and of the [gen pl] [ἀποθηκῶν] of the [gen pl] of holy ones
+1Chr 28:13 and of the [gen pl] [καταλυμάτων] of the [gen pl] [ἐβημεριῶν] of the [gen pl] [ἱερέων] and of the [gen pl] [Λευεῖτων] into/for all/every [f acc] [ἐργασίαν] [λειτουργίας] of house of [the] Lord and of the [gen pl] [ἀποθηκῶν] of the [gen pl] [λειτουργησίμων] [σκευῶν]
+1Chr 28:14 and the [acc m] [σταθμὸν] of the [gen f] [ὁλκῆς] of them/their of the [gen pl] and/both [χρυσῶν] and [ἀργυρῶν]
+1Chr 28:15 [λυχνιῶν] the [acc f] [ὁλκὴν] he gave to him and of the [gen pl] [λύχναων]
+1Chr 28:16 he gave to him [ὁμοίως] the [acc m] [σταθμὸν] of the [gen pl] [τραπεζῶν] of the [gen f] [προθέσεως] [ἑκάστης] [τραπέζης] [χρυσῆς] and [ὡσαύτως] of the [gen pl] [ἀργυρῶν]
+1Chr 28:17 and of the [gen pl] [κρεαγρῶν] and [σπονδείων] and of the [gen pl] [φιαλῶν] of the [gen pl] [χρυσῶν] and [σταθμὸν] of the [gen pl] [χρυσῶν] and of the [gen pl] [ἀργυρῶν] [ἑκάστου] [σταθμοῦ]
+1Chr 28:18 and the [acc m] of the [gen] of altar of the [gen pl] [θυμιαμάτων] from/out of of gold [δοκίμου] [σταθμὸν] [ὑπέδειξεν] to him and the [nom/acc n] [παράδειγμα] of the [gen] [ἄρματος] of the [gen pl] [χερουβεὶν] of the [gen pl] [διαπεπετασμένων] to the [dat pl f] [πτέρυξιν] and [σκιαζόντων] upon of the [gen f] [κιβωτοῦ] [διαθήκης] of [the] Lord
+1Chr 28:19 all things in [γραφῇ] of hand of [the] Lord he gave David [Σαλωμὼν] according to/down the [acc f] [περιγενηθεῖσαν] to him [σύνεσιν] of the [gen f] [κατεργασίας] of the [gen] [παραδείγματος]
+1Chr 28:20 and he said David [Σαλωμὼν] to the [dat] [υἱῷ] of him/his [Ἴσχυε] and [ἀνδρίζου] and [he] does not [φοβοῦ] not [enclitic: δε] [πτοηθῇς] that/because Lord the [nom m] God of me/my with/after of you/your not [ἀνήσει] you and not not you [ἐνκαταλίπῃ] until of the [gen] [συντελέσαι] you all/every [f acc] [ἐργασίαν] [λειτουργίας] of house of [the] Lord the [nom/acc n] [παράδειγμα] of the [gen] [ναοῦ] and of the [gen] of house of him/his and [σακχὼ] of him/his and the [nom/acc pl n] [ὑπερῷα] and the [acc pl f] [ἀποθήκας] the [acc pl f] [ἐσωτέρας] and the [acc m] house [acc] of the [gen] [ἱλασμοῦ] and the [nom/acc n] [παράδειγμα] of house of [the] Lord
+1Chr 28:21 and behold the [nom pl f] [ἐφημερίαι] of the [gen pl] [ἱερέων] and of the [gen pl] [Λευείτων] into/for all/every [f acc] [λειτουργίαν] of house of [the] Lord and with/after of you/your in all/every [f dat] [πραγματείᾳ] and all/every [πρόθυμος] in wisdom according to/down all/every [f acc] [τέχνην] and the [nom pl m] rulers and all/every the [nom m] [λαὸς] into/for all [acc pl m] the [acc pl m] of word of you/your
+1Chr 29:1 and he said David the [nom m] king all/every [f dat] to the [dat f] church/assembly [Σαλωμὼν] the [nom m] son of me/my into/for the [nom m] [ήρέτικεν] in to him Lord [νέος] and [ἁπαλός] and the [nom/acc n] work [μέγα] that/because not [ἀνθρώπῳ] but the [nom f] to [the] Lord to God
+1Chr 29:2 according to/down all/every [f acc] the [acc f] [δύναμιν] [ἡτοίμακα] into/for house [acc] of God of me/my [χρυσίον] [ἀργύριον] [χαλκόν] [σίδηρον] [ξύλα] [λίθους] [σόομ] and [πληρώσεως] and [λίθους] [πολυτελεῖς] and [ποικίλους] and all things [λίθον] [τίμιον] and [πάριον] much
+1Chr 29:3 and still/yet in to the [dat] [εὐδοκῆσαί] me in [οἴκῳ] of God of me/my [he/she/it] is to me the [nom m] [περιπεποίημαι] [χρυσίον] and [ἀργύριον] and behold I have given into/for house [acc] of God of me/my into/for [ὕψος] [ἐκτὸς] of whom/which [ἡτοίμακα] into/for the [acc m] house [acc] of the [gen pl] of holy ones
+1Chr 29:4 [τρισχίλια] [τάλαντα] of gold of the [gen] from/out of [Σουφεὶρ] and [ἑπτακισχίλια] [τάλαντα] [ἀργυρίου] [δοκίμου] [ἐξαλιφῆναι] in to them the [acc pl m] [τοίχους] of the [gen] [ἱεροῦ]
+1Chr 29:5 through/for of hand [τεχνιτῶν] and who? the [nom m] [προθυμούμενος] [πληρῶσαι] the [acc pl f] hands of him/his today to [the] Lord
+1Chr 29:6 and [προεθύμησαν] rulers of paternal [houses] and [οἱἄρχοντες] of the [gen pl] of sons Israel and the [nom pl m] [χιλίαρχοι] and the [nom pl m] [ἑκατόνταρχοι] and the [nom pl m] [προστάται] of the [gen pl] [ἔργων] and the [nom pl m] [οἰκοδόμοι] of the [gen] of king
+1Chr 29:7 and they gave into/for the [nom/acc pl n] [ἔργα] of house of [the] Lord of gold [τάλαντα] [πεντακισχίλια] and [χρυσοῦς] [μυρίους] and [ἀργυρίου] [ταλάντων] ten [χιλιάδας] and [χαλκοῦ] [τάλαντα] [μύρια] [ὀκτακισχίλια] and [σιδήρου] [ταλάντων] [χιλιάδας] hundred
+1Chr 29:8 and to whom/which was found beside to them [λίθος] they gave into/for the [acc pl f] [ἀποθήκας] of house of [the] Lord through/for of hand [Βεσιὴλ] of the [gen] [Γηρσομνεί]
+1Chr 29:9 and [εὐφράνθη] the [nom m] [λαὸς] for/over of the [gen] [προθυμηθῆναι] that/because in heart [πλήρει] [προεθυμήθησαν] to the [dat] to [the] Lord and David the [nom m] king [εὐφράνθη] [μεγάλως]
+1Chr 29:10 and [εὐλόγησεν] the [nom m] king David the [acc m] [the] Lord [acc] before of the [gen f] of church/assembly saying [Εὐλογητὸς] you are O Lord the [nom m] God Israel the [nom m] father our from of the [gen] of age/eternity and until of the [gen] of age/eternity
+1Chr 29:11 you O Lord the [nom f] [μεγαλωσύνη] and the [nom f] power and the [nom/acc n] boast and the [nom f] victory and the [nom f] [ἰσχύς] that/because you of all of the [gen pl] in to the [dat] [οὐρανῷ] and upon of the [gen f] of earth [δεσπόζεις] from of face of you/your [ταράσσεται] all/every king and nation
+1Chr 29:12 from/beside of you/your the [nom m] [πλοῦτος] and the [nom f] glory you of all [ἄρχεις] O Lord the [nom m] ruler of all/every [f] beginning and in hand [dat] of you/your [ἰσχὺς] and [δυναστεία] and in hand [dat] of you/your [Ιαντοκράτααωρ] [μεγαλῦναι] and [κατισχῦσαι] the [nom/acc pl n] all things
+1Chr 29:13 and now O Lord [ἐξομολογούμεθά] to you and [αἰνοῦμεν] the [nom/acc n] name of the [gen f] [καυχήσεως] of you/your
+1Chr 29:14 and who? I am I and who? the [nom m] [λαός] of you/your that/because [ἰσχύσαμεν] [προθυμηθῆναί] to you according to/down these things that/because [σὰ] the [nom/acc pl n] all things and of the [gen pl] [σῶν] I have given [enclitic: μεν] to you
+1Chr 29:15 that/because [πάροικοί] [ἐσμεν] before of you/your and [κατοικοῦντες] as all [m pl] the [nom pl m] [πατέρες] our as [σκιὰ] the [nom pl f] days our upon of earth and not [he/she/it] is [ὑπομονή]
+1Chr 29:16 O Lord the [nom m] God our toward every/all the [nom/acc n] [πλῆθος] [τοῦτοὅ] [ἡτοίμακα] [οἰκοδομηθῆναι] house [acc] to the [dat] in name to the [dat] holy [dat] of you/your from/out of of hand of you/your [he/she/it] is and to you the [nom/acc pl n] all things
+1Chr 29:17 and he knew O Lord that/because you you are the [nom m] [ἐτάζων] of heart and righteousness [ἀγαπᾶς] in [ἁπλότητι] of heart [προεθυμήθην] all things these things and now the [acc m] people [acc] of you/your the [acc m] [εὑρεθέντα] here I saw in [εὐφροσύνῃ] [προθυμηθέντα] to you
+1Chr 29:18 O Lord the [nom m] God Abraham and Isaac and Israel of the [gen pl] [πατέρων] our [φύλαξον] these things in [διανοία] of heart of people of you/your into/for the [acc m] age/eternity [acc] and [κατεύθυνον] the [acc pl f] of heart of them/their toward you
+1Chr 29:19 and [Σαλωμὼν] to the [dat] [υἱῷ] of me/my give heart [acc] [ἀγαθὴν] to do the [acc pl f] commandments of you/your and the [nom/acc pl n] [μαρτύριά] of you/your and the [nom/acc pl n] [προστάγματαά] of you/your and of the [gen] upon [τέλος] [ἀγαγεῖν] the [acc f] [κατασκευὴν] of the [gen] of house of you/your
+1Chr 29:20 and he said David all/every [f dat] to the [dat f] church/assembly [Εὐλογήσατε] [the] Lord [acc] the [acc m] God [acc] our and [εὐλόγησεν] all/every [f nom] the [nom f] church/assembly [the] Lord [acc] the [acc m] God [acc] of the [gen pl] [πατέρων] [οὐτων] and [κάμψαντες] the [nom/acc pl n] [γόνατα] [προσεκύνησαν] to [the] Lord and to the [dat] [βασιλεῖ]
+1Chr 29:21 and [ἔθυσεν] David to the [dat] to [the] Lord [θυσίας] and [ἀνήνεγκεν] burnt offerings to the [dat] to God to the [dat f] [ἐπαύριον] of the [gen f] [πρώτης] of day of calf [χιλίους] [κριοὺς] [χλίους] [ἄρνας] [χιλίους] and the [acc pl f] [σπονδὰς] of them/their and [θυσίας] into/for [πλῆθος] to every to the [dat] Israel
+1Chr 29:22 and [ἔφαγον] and upon before of [the] Lord in that one [f] to the [dat f] day with/after [χαρᾶς] and [ἐβασίλευσαν] the [acc m] [Σαλωμὼν] son [acc] David and [ἔχρσαν] him to the [dat] to [the] Lord into/for [βασιλέα] and Zadok into/for [ἱερωσύνην]
+1Chr 29:23 and [ἐκάθισεν] [Σαλωμὼν] upon [θρόνου] David of the [gen] of father of him/his and [εὐδοκήθη] and [ἐπήκουσαν] of him/his all/every Israel
+1Chr 29:24 the [nom pl m] rulers and the [nom pl m] [δυνάσται] and the [nom pl m] sons David of the [gen] of king of father of him/his [ὑπετάγησαν] to him
+1Chr 29:25 and [ἐμεγάλυνεν] Lord the [acc m] [Σαλωμὼν] [ἐπάνωθεν] before of all/every Israel and they gave to him glory [acc] of king the [nom m] not it came to be upon of all/every of king before of him/his
+1Chr 29:26 and David son Jesse [ἐβασίλευσεν] upon Israel
+1Chr 29:27 years forty in [Χεβρὼν] years seven in Jerusalem years thirty [τρία]
+1Chr 29:28 and [ἐτελεύτησεν] in [γήρει] [καλῷ] [πλήρης] of days [πλούτῳ] and glory [dat] and [ἐβασίλευσεν] [Σαλωμὼν] son of him/his [ἀντʼ] of him/his
+1Chr 29:29 the [nom pl m] but [λοιποὶ] [λόγοι] of the [gen] of king David the [nom pl m] [πρότεροι] and the [nom pl m] [ὕστεροι] [γεγραμμένοι] they are in [λόγοις] [Σαμουὴλ] of the [gen] [βλέποντος] and upon [λόγων] [Νάθαν] of the [gen] of prophet and upon [λόγων] Gad of the [gen] [βλέποντος]
+1Chr 29:30 around/concerning of all/every [f] of the [gen f] kingdom of him/his and of the [gen f] [δυναστείας] of him/his the [nom pl m] [ἐγένοντο] upon to him and upon the [acc m] Israel and upon all [f acc pl] kingdom of the [gen f] of earth [κατενίσχυσεν] [Σαλωμὼν] son David upon of the [gen f] kingdom of him/his and Lord the [nom m] God of him/his with [enclitic] of him/his and [ηθξησεν] him into/for [ὕψος]

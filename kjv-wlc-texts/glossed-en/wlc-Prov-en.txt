@@ -1,0 +1,915 @@
+Prov 1:1 [מִשְׁלֵי] [שְׁלֹמֹה] [בֶן] [דָּוִד] king [יִשְׂרָאֵל] | [KJV:] The proverbs of Solomon the son of David, king of Israel;
+Prov 1:2 [לָדַעַת] [חָכְמָה] [וּמוָּר] [לְהָבִין] [אִמְרֵי] [בִינָה] | [KJV:] To know wisdom and instruction; to perceive the words of understanding;
+Prov 1:3 [לָקַחַת] [מוַּר] [הַשְׂכֵּל] righteousness [וּמִשְָּׁט] [וּמֵישָׁרִים] | [KJV:] To receive the instruction of wisdom, justice, and judgment, and equity;
+Prov 1:4 [לָתֵת] [לְִתָאיִם] [עָרְמָה] [לְנַעַר] [דַּעַת] [וּמְזִמָּה] | [KJV:] To give subtilty to the simple, to the young man knowledge and discretion.
+Prov 1:5 [יִשְׁמַע] wise [וְיוֶֹף] [לֶקַח] [וְנָבוֹן] [תַּחְבֻּלוֹת] [יִקְנֶה] | [KJV:] A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:
+Prov 1:6 [לְהָבִין] [מָשָׁל] [וּמְלִיצָה] [דִּבְרֵי] [חֲכָמִים] [וְחִידֹתָם] | [KJV:] To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.
+Prov 1:7 [יִרְאַת] YHWH/[the] LORD [רֵאשִׁית] [דָּעַת] [חָכְמָה] [וּמוָּר] [אֱוִילִים] [בָּזוּ] | [KJV:] The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction.
+Prov 1:8 [שְׁמַע] [בְּנִי] [מוַּר] [אָבִיךָ] [וְאַל] [תִּטֹּשׁ] law of [אִמֶּךָ] | [KJV:] My son, hear the instruction of thy father, and forsake not the law of thy mother:
+Prov 1:9 [כִּי] [לִוְיַת] grace they [לְרֹאשֶׁךָ] [וַעֲנָקִים] [לְגַרְגְּרֹתֶיךָ] | [KJV:] For they shall be an ornament of grace unto thy head, and chains about thy neck.
+Prov 1:10 [בְּנִי] if [יְַתּוּךָ] [חַטָּאִים] not [imperative] [תֹּבֵא] | [KJV:] My son, if sinners entice thee, consent thou not.
+Prov 1:11 if [יֹאמְרוּ] [לְכָה] [אִתָּנוּ] [נֶאֶרְבָה] [לְדָם] [נִצְְּנָה] [לְנָקִי] [חִנָּם] | [KJV:] If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:
+Prov 1:12 [נִבְלָעֵם] [כִּשְׁאוֹל] [חַיִּים] [וּתְמִימִים] [כְּיוֹרְדֵי] [בוֹר] | [KJV:] Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
+Prov 1:13 [כָּל] [הוֹן] [יָקָר] [נִמְצָא] [נְמַלֵּא] [בָתֵּינוּ] [שָׁלָל] | [KJV:] We shall find all precious substance, we shall fill our houses with spoil:
+Prov 1:14 [גּוֹרָלְךָ] [תִַּּיל] [בְּתוֹכֵנוּ] [כִּי] one he will be [לְכֻלָּנוּ] | [KJV:] Cast in thy lot among us; let us all have one purse:
+Prov 1:15 [בְּנִי] not [imperative] [תֵּלֵךְ] [בְּדֶרֶךְ] [אִתָּם] [מְנַע] [רַגְלְךָ] [מִנְּתִיבָתָם] | [KJV:] My son, walk not thou in the way with them; refrain thy foot from their path:
+Prov 1:16 [כִּי] [רַגְלֵיהֶם] [לָרַע] [יָרוּצוּ] [וִימַהֲרוּ] [לִשְָּׁךְ] [דָּם] | [KJV:] For their feet run to evil, and make haste to shed blood.
+Prov 1:17 [כִּי] [חִנָּם] [מְזֹרָה] [הָרָשֶׁת] [בְּעֵינֵי] [כָל] [בַּעַל] [כָּנָף] | [KJV:] Surely in vain the net is spread in the sight of any bird.
+Prov 1:18 [וְהֵם] [לְדָמָם] [יֶאֱרֹבוּ] [יִצְְּנוּ] [לְנְַשֹׁתָם] | [KJV:] And they lay wait for their own blood; they lurk privily for their own lives.
+Prov 1:19 [כֵּן] [אָרְחוֹת] [כָּל] [בֹּצֵעַ] [בָּצַע] [with] [נֶֶשׁ] [בְּעָלָיו] [יִקָּח] | [KJV:] So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.
+Prov 1:20 [חָכְמוֹת] [בַּחוּץ] [תָּרֹנָּה] [בָּרְחֹבוֹת] [תִּתֵּן] [קוֹלָהּ] | [KJV:] Wisdom crieth without; she uttereth her voice in the streets:
+Prov 1:21 [בְּרֹאשׁ] [הֹמִיּוֹת] [תִּקְרָא] [בְִּתְחֵי] [שְׁעָרִים] [בָּעִיר] [אֲמָרֶיהָ] [תֹאמֵר] | [KJV:] She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,
+Prov 1:22 until [מָתַי] [ְּתָיִם] [תְּאֵהֲבוּ] [ֶתִי] [וְלֵצִים] [לָצוֹן] [חָמְדוּ] to them [וּכְִילִים] [יִשְׂנְאוּ] [דָעַת] | [KJV:] How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
+Prov 1:23 [תָּשׁוּבוּ] [לְתוֹכַחְתִּי] [הִנֵּה] [אַבִּיעָה] to you [pl] [רוּחִי] [אוֹדִיעָה] [דְבָרַי] you [pl] | [KJV:] Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
+Prov 1:24 [יַעַן] [קָרָאתִי] [וַתְּמָאֵנוּ] [נָטִיתִי] [יָדִי] [וְאֵין] [מַקְשִׁיב] | [KJV:] Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
+Prov 1:25 [וַתְִּרְעוּ] [כָל] [עֲצָתִי] [וְתוֹכַחְתִּי] not [אֲבִיתֶם] | [KJV:] But ye have set at nought all my counsel, and would none of my reproof:
+Prov 1:26 [גַּם] I [בְּאֵידְכֶם] [אֶשְׂחָק] [אֶלְעַג] [בְּבֹא] [ַחְדְּכֶם] | [KJV:] I also will laugh at your calamity; I will mock when your fear cometh;
+Prov 1:27 [בְּבֹא] [כְשַׁאֲוָה] [ַּחְדְּכֶם] [וְאֵידְכֶם] [כְּוָּה] [יֶאֱתֶה] [בְּבֹא] [עֲלֵיכֶם] [צָרָה] [וְצוּקָה] | [KJV:] When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.
+Prov 1:28 then [יִקְרָאֻנְנִי] and not [אֶעֱנֶה] [יְשַׁחֲרֻנְנִי] and not [יִמְצָאֻנְנִי]
+Prov 1:29 [תַּחַת] [כִּי] [שָׂנְאוּ] [דָעַת] [וְיִרְאַת] [יְהֹוָה] not [בָחָרוּ] | [KJV:] For that they hated knowledge, and did not choose the fear of the Lord:
+Prov 1:30 not [אָבוּ] [לַעֲצָתִי] [נָאֲצוּ] [כָּל] [תּוֹכַחְתִּי] | [KJV:] They would none of my counsel: they despised all my reproof.
+Prov 1:31 [וְיֹאכְלוּ] [מְִּרִי] [דַרְכָּם] [וּמִמֹּעֲצֹתֵיהֶם] [יִשְׂבָּעוּ] | [KJV:] Therefore shall they eat of the fruit of their own way, and be filled with their own devices.
+Prov 1:32 [כִּי] [מְשׁוּבַת] [ְּתָיִם] [תַּהַרְגֵם] [וְשַׁלְוַת] [כְִּילִים] [תְּאַבְּדֵם] | [KJV:] For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.
+Prov 1:33 [וְשֹׁמֵעַ] to me [יִשְׁכָּן] [בֶּטַח] [וְשַׁאֲנַן] [מִַּחַד] [רָעָה] | [KJV:] But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.
+Prov 2:1 [בְּנִי] if [תִּקַּח] [אֲמָרָי] [וּמִצְוֹתַי] [תִּצְֹּן] [אִתָּךְ] | [KJV:] My son, if thou wilt receive my words, and hide my commandments with thee;
+Prov 2:2 [לְהַקְשִׁיב] [לַחָכְמָה] [אָזְנֶךָ] [תַּטֶּה] [לִבְּךָ] [לַתְּבוּנָה] | [KJV:] So that thou incline thine ear unto wisdom, and apply thine heart to understanding;
+Prov 2:3 [כִּי] if [לַבִּינָה] [תִקְרָא] [לַתְּבוּנָה] [תִּתֵּן] [קוֹלֶךָ] | [KJV:] Yea, if thou criest after knowledge, and liftest up thy voice for understanding;
+Prov 2:4 if [תְּבַקְשֶׁנָּה] [כַכֶָּף] [וְכַמַּטְמוֹנִים] [תַּחְְּשֶׂנָּה] | [KJV:] If thou seekest her as silver, and searchest for her as for hid treasures;
+Prov 2:5 then [תָּבִין] [יִרְאַת] YHWH/[the] LORD [וְדַעַת] God [תִּמְצָא]
+Prov 2:6 [כִּי] YHWH/[the] LORD [יִתֵּן] [חָכְמָה] [מִִּיו] [דַּעַת] [וּתְבוּנָה] | [KJV:] For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.
+Prov 2:7 [וְצַָן] [לַיְשָׁרִים] [תּוּשִׁיָּה] shield [לְהֹלְכֵי] [תֹם] | [KJV:] He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.
+Prov 2:8 [לִנְצֹר] [אָרְחוֹת] [מִשְָּׁט] [וְדֶרֶךְ] [חֲִידוֹ] [יִשְׁמֹר] | [KJV:] He keepeth the paths of judgment, and preserveth the way of his saints.
+Prov 2:9 then [תָּבִין] righteousness [וּמִשְָּׁט] [וּמֵישָׁרִים] [כָּל] [מַעְגַּל] good | [KJV:] Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.
+Prov 2:10 [כִּי] [תָבוֹא] [חָכְמָה] [בְלִבֶּךָ] [וְדַעַת] [לְנְַשְׁךָ] [יִנְעָם] | [KJV:] When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;
+Prov 2:11 [מְזִמָּה] [תִּשְׁמֹר] upon you [תְּבוּנָה] [תִנְצְרֶכָּה] | [KJV:] Discretion shall preserve thee, understanding shall keep thee:
+Prov 2:12 [לְהַצִּילְךָ] [מִדֶּרֶךְ] [רָע] [מֵאִישׁ] [מְדַבֵּר] [תַּהְֻּכוֹת] | [KJV:] To deliver thee from the way of the evil man, from the man that speaketh froward things;
+Prov 2:13 [הַעֹזְבִים] [אָרְחוֹת] [יֹשֶׁר] to go [בְּדַרְכֵי] [חֹשֶׁךְ] | [KJV:] Who leave the paths of uprightness, to walk in the ways of darkness;
+Prov 2:14 [הַשְּׂמֵחִים] to do [רָע] [יָגִילוּ] [בְּתַהְֻּכוֹת] [רָע] | [KJV:] Who rejoice to do evil, and delight in the frowardness of the wicked;
+Prov 2:15 [אֲשֶׁר] [אָרְחֹתֵיהֶם] [עִקְּשִׁים] [וּנְלוֹזִים] [בְּמַעְגְּלוֹתָם] | [KJV:] Whose ways are crooked, and they froward in their paths:
+Prov 2:16 [לְהַצִּילְךָ] [מֵאִשָּׁה] [זָרָה] [מִנָּכְרִיָּה] [אֲמָרֶיהָ] [הֶחֱלִיקָה] | [KJV:] To deliver thee from the strange woman, even from the stranger which flattereth with her words;
+Prov 2:17 [הַעֹזֶבֶת] [אַלּוּף] [נְעוּרֶיהָ] and [with/acc] [בְּרִית] [אֱלֹהֶיהָ] [שָׁכֵחָה] | [KJV:] Which forsaketh the guide of her youth, and forgetteth the covenant of her God.
+Prov 2:18 [כִּי] [שָׁחָה] to/toward [מָוֶת] [בֵּיתָהּ] and to [רְָאִים] [מַעְגְּלֹתֶיהָ] | [KJV:] For her house inclineth unto death, and her paths unto the dead.
+Prov 2:19 [כָּל] [בָּאֶיהָ] not [יְשׁוּבוּן] and not [יַשִּׂיגוּ] [אָרְחוֹת] [חַיִּים] | [KJV:] None that go unto her return again, neither take they hold of the paths of life.
+Prov 2:20 for the sake of [תֵּלֵךְ] [בְּדֶרֶךְ] [טוֹבִים] [וְאָרְחוֹת] [צַדִּיקִים] [תִּשְׁמֹר] | [KJV:] That thou mayest walk in the way of good men, and keep the paths of the righteous.
+Prov 2:21 [כִּי] [יְשָׁרִים] [יִשְׁכְּנוּ] earth [וּתְמִימִים] [יִוָּתְרוּ] [בָהּ] | [KJV:] For the upright shall dwell in the land, and the perfect shall remain in it.
+Prov 2:22 [וּרְשָׁעִים] from [the] land [יִכָּרֵתוּ] [וּבוֹגְדִים] [יְִּחוּ] [מִמֶּנָּה] | [KJV:] But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.
+Prov 3:1 [בְּנִי] [תּוֹרָתִי] not [imperative] [תִּשְׁכָּח] [וּמִצְוֹתַי] [יִצֹּר] [לִבֶּךָ] | [KJV:] My son, forget not my law; but let thine heart keep my commandments:
+Prov 3:2 [כִּי] [אֹרֶךְ] days [וּשְׁנוֹת] [חַיִּים] [וְשָׁלוֹם] [יוִֹיוּ] to you [f] | [KJV:] For length of days, and long life, and peace, shall they add to thee.
+Prov 3:3 [חֶֶד] [וֶאֱמֶת] not [imperative] [יַעַזְבֻךָ] [קָשְׁרֵם] upon [גַּרְגְּרוֹתֶיךָ] [כָּתְבֵם] upon [לוּחַ] [לִבֶּךָ] | [KJV:] Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:
+Prov 3:4 [וּמְצָא] grace [וְשֵׂכֶל] good [בְּעֵינֵי] God [וְאָדָם] | [KJV:] So shalt thou find favour and good understanding in the sight of God and man.
+Prov 3:5 [בְּטַח] to/toward YHWH/[the] LORD [בְּכָל] [לִבֶּךָ] and to [בִּינָתְךָ] not [imperative] [תִּשָּׁעֵן]
+Prov 3:6 [בְּכָל] [דְּרָכֶיךָ] [דָעֵהוּ] [וְהוּא] [יְיַשֵּׁר] [אֹרְחֹתֶיךָ] | [KJV:] In all thy ways acknowledge him, and he shall direct thy paths.
+Prov 3:7 not [imperative] [תְּהִי] wise [בְּעֵינֶיךָ] [יְרָא] [with] YHWH/[the] LORD [וְוּר] [מֵרָע] | [KJV:] Be not wise in thine own eyes: fear the Lord, and depart from evil.
+Prov 3:8 [רְִאוּת] [תְּהִי] [לְשָׁרֶּךָ] [וְשִׁקּוּי] [לְעַצְמוֹתֶיךָ] | [KJV:] It shall be health to thy navel, and marrow to thy bones.
+Prov 3:9 [כַּבֵּד] [with] YHWH/[the] LORD [מֵהוֹנֶךָ] [וּמֵרֵאשִׁית] [כָּל] [תְּבוּאָתֶךָ] | [KJV:] Honour the Lord with thy substance, and with the firstfruits of all thine increase:
+Prov 3:10 [וְיִמָּלְאוּ] [אֲָמֶיךָ] [שָׂבָע] [וְתִירוֹשׁ] [יְקָבֶיךָ] [יְִרֹצוּ] | [KJV:] So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
+Prov 3:11 [מוַּר] YHWH/[the] LORD [בְּנִי] not [imperative] [תִּמְאָ] [וְאַל] [תָּקֹץ] [בְּתוֹכַחְתּוֹ] | [KJV:] My son, despise not the chastening of the Lord; neither be weary of his correction:
+Prov 3:12 [כִּי] [with] [אֲשֶׁר] [יֶאֱהַב] YHWH/[the] LORD [יוֹכִיחַ] [וּכְאָב] [with] [בֵּן] [יִרְצֶה] | [KJV:] For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.
+Prov 3:13 [אַשְׁרֵי] man/mankind [מָצָא] [חָכְמָה] [וְאָדָם] [יִָיק] [תְּבוּנָה] | [KJV:] Happy is the man that findeth wisdom, and the man that getteth understanding.
+Prov 3:14 [כִּי] good [ַחְרָהּ] [מְִּחַר] [כֶָּף] [וּמֵחָרוּץ] [תְּבוּאָתָהּ] | [KJV:] For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.
+Prov 3:15 [יְקָרָה] she [מְִּנִיִּים] and all [חֲָצֶיךָ] not [יִשְׁווּ] [בָהּ] | [KJV:] She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.
+Prov 3:16 [אֹרֶךְ] days [בִּימִינָהּ] [בִּשְׂמֹאולָהּ] [עֹשֶׁר] [וְכָבוֹד] | [KJV:] Length of days is in her right hand; and in her left hand riches and honour.
+Prov 3:17 [דְּרָכֶיהָ] [דַרְכֵי] [נֹעַם] and all [נְתִיבוֹתֶיהָ] [שָׁלוֹם] | [KJV:] Her ways are ways of pleasantness, and all her paths are peace.
+Prov 3:18 tree [חַיִּים] she [לַמַּחֲזִיקִים] [בָּהּ] [וְתֹמְכֶיהָ] [מְאֻשָּׁר] | [KJV:] She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.
+Prov 3:19 YHWH/[the] LORD [בְּחָכְמָה] [יַָד] earth [כּוֹנֵן] [שָׁמַיִם] [בִּתְבוּנָה] | [KJV:] The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.
+Prov 3:20 [בְּדַעְתּוֹ] [תְּהוֹמוֹת] [נִבְקָעוּ] [וּשְׁחָקִים] [יִרְעֲוּ] [טָל] | [KJV:] By his knowledge the depths are broken up, and the clouds drop down the dew.
+Prov 3:21 [בְּנִי] not [imperative] [יָלֻזוּ] [מֵעֵינֶיךָ] [נְצֹר] [תֻּשִׁיָּה] [וּמְזִמָּה] | [KJV:] My son, let not them depart from thine eyes: keep sound wisdom and discretion:
+Prov 3:22 [וְיִהְיוּ] [חַיִּים] [לְנְַשֶׁךָ] [וְחֵן] [לְגַרְגְּרֹתֶיךָ] | [KJV:] So shall they be life unto thy soul, and grace to thy neck.
+Prov 3:23 then [תֵּלֵךְ] [לָבֶטַח] [דַּרְכֶּךָ] [וְרַגְלְךָ] not [תִגּוֹף] | [KJV:] Then shalt thou walk in thy way safely, and thy foot shall not stumble.
+Prov 3:24 if [תִּשְׁכַּב] not [תְִחָד] [וְשָׁכַבְתָּ] [וְעָרְבָה] [שְׁנָתֶךָ] | [KJV:] When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.
+Prov 3:25 not [imperative] [תִּירָא] [מִַּחַד] [ִּתְאֹם] [וּמִשֹּׁאַת] [רְשָׁעִים] [כִּי] [תָבֹא] | [KJV:] Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.
+Prov 3:26 [כִּי] YHWH/[the] LORD he will be [בְכְִלֶךָ] [וְשָׁמַר] [רַגְלְךָ] [מִלָּכֶד]
+Prov 3:27 not [imperative] [תִּמְנַע] good [מִבְּעָלָיו] [בִּהְיוֹת] [לְאֵל] [יָדֶיךָ] to do | [KJV:] Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.
+Prov 3:28 not [imperative] [תֹּאמַר] [לְרֵעֶיךָ] [לֵךְ] [וָשׁוּב] [וּמָחָר] [אֶתֵּן] [וְיֵשׁ] [אִתָּךְ] | [KJV:] Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.
+Prov 3:29 not [imperative] [תַּחֲרֹשׁ] upon [רֵעֲךָ] [רָעָה] [וְהוּא] [יוֹשֵׁב] [לָבֶטַח] [אִתָּךְ] | [KJV:] Devise not evil against thy neighbour, seeing he dwelleth securely by thee.
+Prov 3:30 not [imperative] [תָּרוֹב] with man/mankind [חִנָּם] if not [גְמָלְךָ] [רָעָה]
+Prov 3:31 not [imperative] [תְּקַנֵּא] [בְּאִישׁ] [חָמָ] [וְאַל] [תִּבְחַר] [בְּכָל] [דְּרָכָיו] | [KJV:] Envy thou not the oppressor, and choose none of his ways.
+Prov 3:32 [כִּי] [תוֹעֲבַת] YHWH/[the] LORD [נָלוֹז] and [with/acc] [יְשָׁרִים] [וֹדוֹ] | [KJV:] For the froward is abomination to the Lord: but his secret is with the righteous.
+Prov 3:33 [מְאֵרַת] YHWH/[the] LORD [בְּבֵית] [רָשָׁע] [וּנְוֵה] [צַדִּיקִים] [יְבָרֵךְ] | [KJV:] The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.
+Prov 3:34 if [לַלֵּצִים] he [יָלִיץ] [וְלַעֲנִיִּים] [יִתֶּן] grace | [KJV:] Surely he scorneth the scorners: but he giveth grace unto the lowly.
+Prov 3:35 [כָּבוֹד] [חֲכָמִים] [יִנְחָלוּ] [וּכְִילִים] [מֵרִים] [קָלוֹן] | [KJV:] The wise shall inherit glory: but shame shall be the promotion of fools.
+Prov 4:1 [שִׁמְעוּ] [בָנִים] [מוַּר] father [וְהַקְשִׁיבוּ] [לָדַעַת] [בִּינָה] | [KJV:] Hear, ye children, the instruction of a father, and attend to know understanding.
+Prov 4:2 [כִּי] [לֶקַח] good [נָתַתִּי] to you [pl] [תּוֹרָתִי] not [imperative] [תַּעֲזֹבוּ] | [KJV:] For I give you good doctrine, forsake ye not my law.
+Prov 4:3 [כִּי] [בֵן] [הָיִיתִי] [לְאָבִי] [רַךְ] [וְיָחִיד] [לְִנֵי] [אִמִּי] | [KJV:] For I was my father's son, tender and only beloved in the sight of my mother.
+Prov 4:4 [וַיֹּרֵנִי] [וַיֹּאמֶר] to me [יִתְמָךְ] [דְּבָרַי] [לִבֶּךָ] [שְׁמֹר] [מִצְוֹתַי] [וֶחְיֵה] | [KJV:] He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.
+Prov 4:5 [קְנֵה] [חָכְמָה] [קְנֵה] [בִינָה] not [imperative] [תִּשְׁכַּח] [וְאַל] [תֵּט] [מֵאִמְרֵי] [ִי] | [KJV:] Get wisdom, get understanding: forget it not; neither decline from the words of my mouth.
+Prov 4:6 not [imperative] [תַּעַזְבֶהָ] [וְתִשְׁמְרֶךָּ] [אֱהָבֶהָ] [וְתִצְּרֶךָּ] | [KJV:] Forsake her not, and she shall preserve thee: love her, and she shall keep thee.
+Prov 4:7 [רֵאשִׁית] [חָכְמָה] [קְנֵה] [חָכְמָה] [וּבְכָל] [קִנְיָנְךָ] [קְנֵה] [בִינָה] | [KJV:] Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.
+Prov 4:8 [ַלְְלֶהָ] [וּתְרוֹמְמֶךָּ] [תְּכַבֵּדְךָ] [כִּי] [תְחַבְּקֶנָּה] | [KJV:] Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.
+Prov 4:9 [תִּתֵּן] [לְרֹאשְׁךָ] [לִוְיַת] grace [עֲטֶרֶת] [תְִּאֶרֶת] [תְּמַגְּנֶךָּ] | [KJV:] She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.
+Prov 4:10 [שְׁמַע] [בְּנִי] [וְקַח] [אֲמָרָי] [וְיִרְבּוּ] to you [שְׁנוֹת] [חַיִּים] | [KJV:] Hear, O my son, and receive my sayings; and the years of thy life shall be many.
+Prov 4:11 [בְּדֶרֶךְ] [חָכְמָה] [הֹרֵתִיךָ] [הִדְרַכְתִּיךָ] [בְּמַעְגְּלֵי] [יֹשֶׁר] | [KJV:] I have taught thee in the way of wisdom; I have led thee in right paths.
+Prov 4:12 [בְּלֶכְתְּךָ] not [יֵצַר] [צַעֲדֶךָ] and if [תָּרוּץ] not [תִכָּשֵׁל] | [KJV:] When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.
+Prov 4:13 [הַחֲזֵק] [בַּמּוָּר] not [imperative] [תֶּרֶף] [נִצְּרֶהָ] [כִּי] she [חַיֶּיךָ] | [KJV:] Take fast hold of instruction; let her not go: keep her; for she is thy life.
+Prov 4:14 [בְּאֹרַח] [רְשָׁעִים] not [imperative] [תָּבֹא] [וְאַל] [תְּאַשֵּׁר] [בְּדֶרֶךְ] [רָעִים] | [KJV:] Enter not into the path of the wicked, and go not in the way of evil men.
+Prov 4:15 [ְּרָעֵהוּ] not [imperative] [תַּעֲבָר] in him/it [שְׂטֵה] [מֵעָלָיו] [וַעֲבוֹר] | [KJV:] Avoid it, pass not by it, turn from it, and pass away.
+Prov 4:16 [כִּי] not [יִשְׁנוּ] if not [יָרֵעוּ] [וְנִגְזְלָה] [שְׁנָתָם] if not [יִכְשׁוֹלוּ]
+Prov 4:17 [כִּי] [לָחֲמוּ] bread [רֶשַׁע] [וְיֵין] [חֲמִָים] [יִשְׁתּוּ] | [KJV:] For they eat the bread of wickedness, and drink the wine of violence.
+Prov 4:18 [וְאֹרַח] [צַדִּיקִים] [כְּאוֹר] [נֹגַהּ] [הוֹלֵךְ] [וָאוֹר] until [נְכוֹן] today | [KJV:] But the path of the just is as the shining light, that shineth more and more unto the perfect day.
+Prov 4:19 [דֶּרֶךְ] [רְשָׁעִים] [כָּאֲֵלָה] not [יָדְעוּ] [בַּמֶּה] [יִכָּשֵׁלוּ] | [KJV:] The way of the wicked is as darkness: they know not at what they stumble.
+Prov 4:20 [בְּנִי] [לִדְבָרַי] [הַקְשִׁיבָה] [לַאֲמָרַי] [הַט] [אָזְנֶךָ] | [KJV:] My son, attend to my words; incline thine ear unto my sayings.
+Prov 4:21 not [imperative] [יַלִּיזוּ] [מֵעֵינֶיךָ] [שָׁמְרֵם] [בְּתוֹךְ] [לְבָבֶךָ] | [KJV:] Let them not depart from thine eyes; keep them in the midst of thine heart.
+Prov 4:22 [כִּי] [חַיִּים] they [לְמֹצְאֵיהֶם] [וּלְכָל] [בְּשָׂרוֹ] [מַרְֵּא] | [KJV:] For they are life unto those that find them, and health to all their flesh.
+Prov 4:23 [מִכָּל] [מִשְׁמָר] [נְצֹר] [לִבֶּךָ] [כִּי] [מִמֶּנּוּ] [תּוֹצְאוֹת] [חַיִּים] | [KJV:] Keep thy heart with all diligence; for out of it are the issues of life.
+Prov 4:24 [הֵָר] [מִמְּךָ] [עִקְּשׁוּת] [ֶּה] [וּלְזוּת] [שְָׂתַיִם] [הַרְחֵק] [מִמֶּךָּ] | [KJV:] Put away from thee a froward mouth, and perverse lips put far from thee.
+Prov 4:25 [עֵינֶיךָ] [לְנֹכַח] [יַבִּיטוּ] [וְעְַעֶַּיךָ] [יַיְשִׁרוּ] [נֶגְדֶּךָ] | [KJV:] Let thine eyes look right on, and let thine eyelids look straight before thee.
+Prov 4:26 [ַּלֵּ] [מַעְגַּל] [רַגְלֶךָ] and all [דְּרָכֶיךָ] [יִכֹּנוּ] | [KJV:] Ponder the path of thy feet, and let all thy ways be established.
+Prov 4:27 not [imperative] [תֵּט] [יָמִין] [וּשְׂמֹאול] [הֵָר] [רַגְלְךָ] [מֵרָע] | [KJV:] Turn not to the right hand nor to the left: remove thy foot from evil.
+Prov 5:1 [בְּנִי] [לְחָכְמָתִי] [הַקְשִׁיבָה] [לִתְבוּנָתִי] [הַט] [אָזְנֶךָ] | [KJV:] My son, attend unto my wisdom, and bow thine ear to my understanding:
+Prov 5:2 [לִשְׁמֹר] [מְזִמּוֹת] [וְדַעַת] [שְָׂתֶיךָ] [יִנְצֹרוּ] | [KJV:] That thou mayest regard discretion, and that thy lips may keep knowledge.
+Prov 5:3 [כִּי] [נֶֹת] [תִּטְֹּנָה] [שְִׂתֵי] [זָרָה] [וְחָלָק] [מִשֶּׁמֶן] [חִכָּהּ] | [KJV:] For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:
+Prov 5:4 [וְאַחֲרִיתָהּ] [מָרָה] [כַלַּעֲנָה] [חַדָּה] [כְּחֶרֶב] [ִּיּוֹת] | [KJV:] But her end is bitter as wormwood, sharp as a two-edged sword.
+Prov 5:5 [רַגְלֶיהָ] [יֹרְדוֹת] [מָוֶת] [שְׁאוֹל] [צְעָדֶיהָ] [יִתְמֹכוּ] | [KJV:] Her feet go down to death; her steps take hold on hell.
+Prov 5:6 [אֹרַח] [חַיִּים] [ֶּן] [תְַּלֵּ] [נָעוּ] [מַעְגְּלֹתֶיהָ] not [תֵדָע] | [KJV:] Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.
+Prov 5:7 [וְעַתָּה] [בָנִים] [שִׁמְעוּ] to me [וְאַל] [תָּוּרוּ] [מֵאִמְרֵי] [ִי] | [KJV:] Hear me now therefore, O ye children, and depart not from the words of my mouth.
+Prov 5:8 [הַרְחֵק] [מֵעָלֶיהָ] [דַרְכֶּךָ] [וְאַל] [תִּקְרַב] to/toward [ֶּתַח] [בֵּיתָהּ] | [KJV:] Remove thy way far from her, and come not nigh the door of her house:
+Prov 5:9 [ֶּן] [תִּתֵּן] [לַאֲחֵרִים] [הוֹדֶךָ] [וּשְׁנֹתֶיךָ] [לְאַכְזָרִי] | [KJV:] Lest thou give thine honour unto others, and thy years unto the cruel:
+Prov 5:10 [ֶּן] [יִשְׂבְּעוּ] [זָרִים] [כֹּחֶךָ] [וַעֲצָבֶיךָ] [בְּבֵית] [נָכְרִי] | [KJV:] Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;
+Prov 5:11 [וְנָהַמְתָּ] [בְאַחֲרִיתֶךָ] [בִּכְלוֹת] [בְּשָׂרְךָ] [וּשְׁאֵרֶךָ] | [KJV:] And thou mourn at the last, when thy flesh and thy body are consumed,
+Prov 5:12 [וְאָמַרְתָּ] [אֵיךְ] [שָׂנֵאתִי] [מוָּר] [וְתוֹכַחַת] [נָאַץ] [לִבִּי] | [KJV:] And say, How have I hated instruction, and my heart despised reproof;
+Prov 5:13 and not [שָׁמַעְתִּי] [בְּקוֹל] [מוֹרָי] [וְלִמְלַמְּדַי] not [הִטִּיתִי] [אָזְנִי] | [KJV:] And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!
+Prov 5:14 [כִּמְעַט] [הָיִיתִי] [בְכָל] [רָע] [בְּתוֹךְ] [קָהָל] [וְעֵדָה] | [KJV:] I was almost in all evil in the midst of the congregation and assembly.
+Prov 5:15 [שְׁתֵה] water(s) [מִבּוֹרֶךָ] [וְנֹזְלִים] from the midst of [בְּאֵרֶךָ]
+Prov 5:16 [יָוּצוּ] [מַעְיְנֹתֶיךָ] [חוּצָה] [בָּרְחֹבוֹת] [ַּלְגֵי] [מָיִם] | [KJV:] Let thy fountains be dispersed abroad, and rivers of waters in the streets.
+Prov 5:17 they will be to you [לְבַדֶּךָ] [וְאֵין] [לְזָרִים] [אִתָּךְ]
+Prov 5:18 [יְהִי] [מְקוֹרְךָ] [בָרוּךְ] [וּשְׂמַח] [מֵאֵשֶׁת] [נְעוּרֶךָ] | [KJV:] Let thy fountain be blessed: and rejoice with the wife of thy youth.
+Prov 5:19 [אַיֶּלֶת] [אֲהָבִים] [וְיַעֲלַת] grace [דַּדֶּיהָ] [יְרַוֻּךָ] [בְכָל] [עֵת] [בְּאַהֲבָתָהּ] [תִּשְׁגֶּה] [תָמִיד] | [KJV:] Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
+Prov 5:20 [וְלָמָּה] [תִשְׁגֶּה] [בְנִי] [בְזָרָה] [וּתְחַבֵּק] [חֵק] [נָכְרִיָּה] | [KJV:] And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?
+Prov 5:21 [כִּי] [נֹכַח] [עֵינֵי] YHWH/[the] LORD [דַּרְכֵי] man and all [מַעְגְּלֹתָיו] [מְַלֵּ]
+Prov 5:22 [עַווֹנוֹתָיו] [יִלְכְּדֻנוֹ] [with] [הָרָשָׁע] [וּבְחַבְלֵי] [חַטָּאתוֹ] [יִתָּמֵךְ] | [KJV:] His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.
+Prov 5:23 he [יָמוּת] [בְּאֵין] [מוָּר] [וּבְרֹב] [אִוַּלְתּוֹ] [יִשְׁגֶּה] | [KJV:] He shall die without instruction; and in the greatness of his folly he shall go astray.
+Prov 6:1 [בְּנִי] if [עָרַבְתָּ] [לְרֵעֶךָ] [תָּקַעְתָּ] [לַזָּר] [כֶַּּיךָ] | [KJV:] My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,
+Prov 6:2 [נוֹקַשְׁתָּ] [בְאִמְרֵי] [ִיךָ] [נִלְכַּדְתָּ] [בְּאִמְרֵי] [ִיךָ] | [KJV:] Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.
+Prov 6:3 [עֲשֵׂה] this [אֵוֹא] [בְּנִי] [וְהִנָּצֵל] [כִּי] [בָאתָ] [בְכַף] [רֵעֶךָ] [לֵךְ] [הִתְרֵַּ] [וּרְהַב] [רֵעֶיךָ] | [KJV:] Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.
+Prov 6:4 not [imperative] [תִּתֵּן] [שֵׁנָה] [לְעֵינֶיךָ] [וּתְנוּמָה] [לְעְַעֶַּיךָ] | [KJV:] Give not sleep to thine eyes, nor slumber to thine eyelids.
+Prov 6:5 [הִנָּצֵל] [כִּצְבִי] [מִיָּד] [וּכְצִּוֹר] [מִיַּד] [יָקוּשׁ] | [KJV:] Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.
+Prov 6:6 [לֵךְ] to/toward [נְמָלָה] [עָצֵל] [רְאֵה] [דְרָכֶיהָ] [וַחֲכָם] | [KJV:] Go to the ant, thou sluggard; consider her ways, and be wise:
+Prov 6:7 [אֲשֶׁר] [there is] no to her [קָצִין] [שֹׁטֵר] [וּמֹשֵׁל] | [KJV:] Which having no guide, overseer, or ruler,
+Prov 6:8 [תָּכִין] [בַּקַּיִץ] [לַחְמָהּ] [אָגְרָה] [בַקָּצִיר] [מַאֲכָלָהּ] | [KJV:] Provideth her meat in the summer, and gathereth her food in the harvest.
+Prov 6:9 until [מָתַי] [עָצֵל] [תִּשְׁכָּב] [מָתַי] [תָּקוּם] [מִשְּׁנָתֶךָ] | [KJV:] How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
+Prov 6:10 [מְעַט] [שֵׁנוֹת] [מְעַט] [תְּנוּמוֹת] [מְעַט] [חִבֻּק] [יָדַיִם] [לִשְׁכָּב] | [KJV:] Yet a little sleep, a little slumber, a little folding of the hands to sleep:
+Prov 6:11 [וּבָא] [כִמְהַלֵּךְ] [רֵאשֶׁךָ] [וּמַחְֹרְךָ] [כְּאִישׁ] shield | [KJV:] So shall thy poverty come as one that travelleth, and thy want as an armed man.
+Prov 6:12 man/mankind [בְּלִיַּעַל] man [אָוֶן] [הוֹלֵךְ] [עִקְּשׁוּת] [ֶּה] | [KJV:] A naughty person, a wicked man, walketh with a froward mouth.
+Prov 6:13 [קֹרֵץ] [בְּעֵינָו] [מֹלֵל] [בְּרַגְלָו] [מֹרֶה] [בְּאֶצְבְּעֹתָיו] | [KJV:] He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;
+Prov 6:14 [תַּהְֻּכוֹת] [בְּלִבּוֹ] [חֹרֵשׁ] [רָע] [בְּכָל] [עֵת] [מְדָנִים] [יְשַׁלֵּחַ] | [KJV:] Frowardness is in his heart, he deviseth mischief continually; he soweth discord.
+Prov 6:15 upon [כֵּן] [ִּתְאֹם] [יָבוֹא] [אֵידוֹ] [ֶּתַע] [יִשָּׁבֵר] [וְאֵין] [מַרְֵּא] | [KJV:] Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.
+Prov 6:16 [שֶׁשׁ] [הֵנָּה] [שָׂנֵא] YHWH/[the] LORD [וְשֶׁבַע] [תּוֹעֲבוֹת] [נְַשׁוֹ] | [KJV:] These six things doth the Lord hate: yea, seven are an abomination unto him:
+Prov 6:17 [עֵינַיִם] [רָמוֹת] [לְשׁוֹן] [שָׁקֶר] [וְיָדַיִם] [שְֹׁכוֹת] [דָּם] [נָקִי] | [KJV:] A proud look, a lying tongue, and hands that shed innocent blood,
+Prov 6:18 heart [חֹרֵשׁ] [מַחְשְׁבוֹת] [אָוֶן] [רַגְלַיִם] [מְמַהֲרוֹת] [לָרוּץ] [לָרָעָה] | [KJV:] An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
+Prov 6:19 [יִָיחַ] [כְּזָבִים] [עֵד] [שָׁקֶר] [וּמְשַׁלֵּחַ] [מְדָנִים] [בֵּין] [אַחִים] | [KJV:] A false witness that speaketh lies, and he that soweth discord among brethren.
+Prov 6:20 [נְצֹר] [בְּנִי] [מִצְוַת] [אָבִיךָ] [וְאַל] [תִּטֹּשׁ] law of [אִמֶּךָ] | [KJV:] My son, keep thy father's commandment, and forsake not the law of thy mother:
+Prov 6:21 [קָשְׁרֵם] upon [לִבְּךָ] [תָמִיד] [עָנְדֵם] upon [גַּרְגְּרֹתֶךָ] | [KJV:] Bind them continually upon thine heart, and tie them about thy neck.
+Prov 6:22 [בְּהִתְהַלֶּכְךָ] [תַּנְחֶה] you [f] [בְּשָׁכְבְּךָ] [תִּשְׁמֹר] upon you [וַהֲקִיצוֹתָ] she [תְשִׂיחֶךָ] | [KJV:] When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.
+Prov 6:23 [כִּי] [נֵר] [מִצְוָה] [וְתוֹרָה] light [וְדֶרֶךְ] [חַיִּים] [תּוֹכְחוֹת] [מוָּר] | [KJV:] For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:
+Prov 6:24 [לִשְׁמָרְךָ] [מֵאֵשֶׁת] [רָע] [מֵחֶלְקַת] [לָשׁוֹן] [נָכְרִיָּה] | [KJV:] To keep thee from the evil woman, from the flattery of the tongue of a strange woman.
+Prov 6:25 not [imperative] [תַּחְמֹד] [יְָיָהּ] [בִּלְבָבֶךָ] [וְאַל] [תִּקָּחֲךָ] [בְּעְַעֶַּיהָ] | [KJV:] Lust not after her beauty in thine heart; neither let her take thee with her eyelids.
+Prov 6:26 [כִּי] [בְעַד] [אִשָּׁה] [זוֹנָה] until [כִּכַּר] [לָחֶם] [וְאֵשֶׁת] man [נֶֶשׁ] [יְקָרָה] [תָצוּד] | [KJV:] For by means of a whorish woman a man is brought to a piece of bread: and the adultress will hunt for the precious life.
+Prov 6:27 [הֲיַחְתֶּה] man [אֵשׁ] [בְּחֵיקוֹ] [וּבְגָדָיו] not [תִשָּׂרְַנָה] | [KJV:] Can a man take fire in his bosom, and his clothes not be burned?
+Prov 6:28 if [יְהַלֵּךְ] man upon [הַגֶּחָלִים] [וְרַגְלָיו] not [תִכָּוֶינָה]
+Prov 6:29 [כֵּן] [הַבָּא] to/toward [אֵשֶׁת] [רֵעֵהוּ] not [יִנָּקֶה] [כָּל] [הַנֹּגֵעַ] [בָּהּ] | [KJV:] So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.
+Prov 6:30 not [יָבוּזוּ] [לַגַּנָּב] [כִּי] [יִגְנוֹב] [לְמַלֵּא] [נְַשׁוֹ] [כִּי] [יִרְעָב] | [KJV:] Men do not despise a thief, if he steal to satisfy his soul when he is hungry;
+Prov 6:31 [וְנִמְצָא] [יְשַׁלֵּם] [שִׁבְעָתָיִם] [with] [כָּל] [הוֹן] [בֵּיתוֹ] [יִתֵּן] | [KJV:] But if he be found, he shall restore sevenfold; he shall give all the substance of his house.
+Prov 6:32 [נֹאֵף] [אִשָּׁה] [חֲַר] heart [מַשְׁחִית] [נְַשׁוֹ] he [יַעֲשֶׂנָּה] | [KJV:] But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.
+Prov 6:33 [נֶגַע] [וְקָלוֹן] [יִמְצָא] [וְחֶרְָּתוֹ] not [תִמָּחֶה] | [KJV:] A wound and dishonour shall he get; and his reproach shall not be wiped away.
+Prov 6:34 [כִּי] [קִנְאָה] [חֲמַת] [גָּבֶר] and not [יַחְמוֹל] [בְּיוֹם] [נָקָם] | [KJV:] For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.
+Prov 6:35 not [יִשָּׂא] [ְּנֵי] [כָל] [כֶֹּר] and not [יֹאבֶה] [כִּי] [תַרְבֶּה] [שֹׁחַד] | [KJV:] He will not regard any ransom; neither will he rest content, though thou givest many gifts.
+Prov 7:1 [בְּנִי] [שְׁמֹר] [אֲמָרָי] [וּמִצְוֹתַי] [תִּצְֹּן] [אִתָּךְ] | [KJV:] My son, keep my words, and lay up my commandments with thee.
+Prov 7:2 [שְׁמֹר] [מִצְוֹתַי] [וֶחְיֵה] [וְתוֹרָתִי] [כְּאִישׁוֹן] [עֵינֶיךָ] | [KJV:] Keep my commandments, and live; and my law as the apple of thine eye.
+Prov 7:3 [קָשְׁרֵם] upon [אֶצְבְּעֹתֶיךָ] [כָּתְבֵם] upon [לוּחַ] [לִבֶּךָ] | [KJV:] Bind them upon thy fingers, write them upon the table of thine heart.
+Prov 7:4 [אֱמֹר] [לַחָכְמָה] [אֲחֹתִי] [אָתְּ] [וּמֹדָע] [לַבִּינָה] [תִקְרָא] | [KJV:] Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:
+Prov 7:5 [לִשְׁמָרְךָ] [מֵאִשָּׁה] [זָרָה] [מִנָּכְרִיָּה] [אֲמָרֶיהָ] [הֶחֱלִיקָה] | [KJV:] That they may keep thee from the strange woman, from the stranger which flattereth with her words.
+Prov 7:6 [כִּי] [בְּחַלּוֹן] [בֵּיתִי] [בְּעַד] [אֶשְׁנַבִּי] [נִשְׁקְָתִּי] | [KJV:] For at the window of my house I looked through my casement,
+Prov 7:7 [וָאֵרֶא] [בְַּתָאיִם] [אָבִינָה] [בַבָּנִים] [נַעַר] [חֲַר] heart | [KJV:] And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
+Prov 7:8 [עֹבֵר] [בַּשּׁוּק] [אֵצֶל] [ִּנָּהּ] [וְדֶרֶךְ] [בֵּיתָהּ] [יִצְעָד] | [KJV:] Passing through the street near her corner; and he went the way to her house,
+Prov 7:9 [בְּנֶשֶׁף] [בְּעֶרֶב] day [בְּאִישׁוֹן] night [וַאֲֵלָה] | [KJV:] In the twilight, in the evening, in the black and dark night:
+Prov 7:10 [וְהִנֵּה] [אִשָּׁה] [לִקְרָאתוֹ] [שִׁית] [זוֹנָה] [וּנְצֻרַת] heart | [KJV:] And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+Prov 7:11 [הֹמִיָּה] she [וְֹרָרֶת] [בְּבֵיתָהּ] not [יִשְׁכְּנוּ] [רַגְלֶיהָ] | [KJV:] (She is loud and stubborn; her feet abide not in her house:
+Prov 7:12 [ַּעַם] [בַּחוּץ] [ַּעַם] [בָּרְחֹבוֹת] [וְאֵצֶל] [כָּל] [ִּנָּה] [תֶאֱרֹב] | [KJV:] Now is she without, now in the streets, and lieth in wait at every corner.)
+Prov 7:13 [וְהֶחֱזִיקָה] in him/it [וְנָשְׁקָה] [לּוֹ] [הֵעֵזָה] [ָנֶיהָ] [וַתֹּאמַר] to him | [KJV:] So she caught him, and kissed him, and with an impudent face said unto him,
+Prov 7:14 [זִבְחֵי] [שְׁלָמִים] [עָלָי] today [שִׁלַּמְתִּי] [נְדָרָי] | [KJV:] I have peace offerings with me; this day have I payed my vows.
+Prov 7:15 upon [כֵּן] [יָצָאתִי] [לִקְרָאתֶךָ] [לְשַׁחֵר] [ָּנֶיךָ] [וָאֶמְצָאֶךָּ] | [KJV:] Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
+Prov 7:16 [מַרְבַדִּים] [רָבַדְתִּי] [עַרְשִׂי] [חֲטֻבוֹת] [אֵטוּן] [מִצְרָיִם] | [KJV:] I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
+Prov 7:17 [נְַתִּי] [מִשְׁכָּבִי] [מֹר] [אֲהָלִים] [וְקִנָּמוֹן] | [KJV:] I have perfumed my bed with myrrh, aloes, and cinnamon.
+Prov 7:18 [לְכָה] [נִרְוֶה] [דֹדִים] until [הַבֹּקֶר] [נִתְעַלְָּה] [בָּאֳהָבִים] | [KJV:] Come, let us take our fill of love until the morning: let us solace ourselves with loves.
+Prov 7:19 [כִּי] [there is] no the man [בְּבֵיתוֹ] [he] walked [בְּדֶרֶךְ] [מֵרָחוֹק]
+Prov 7:20 [צְרוֹר] [הַכֶֶּף] [he] took [בְּיָדוֹ] [לְיוֹם] [הַכֵֶּא] he will come [בֵיתוֹ] | [KJV:] He hath taken a bag of money with him, and will come home at the day appointed.
+Prov 7:21 [הִטַּתּוּ] [בְּרֹב] [לִקְחָהּ] [בְּחֵלֶק] [שְָׂתֶיהָ] [תַּדִּיחֶנּוּ] | [KJV:] With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
+Prov 7:22 [הוֹלֵךְ] [אַחֲרֶיהָ] [ִּתְאֹם] [כְּשׁוֹר] to/toward [טָבַח] [יָבוֹא] [וּכְעֶכֶ] to/toward [מוַּר] [אֱוִיל] | [KJV:] He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
+Prov 7:23 until [יְַלַּח] [חֵץ] [כְּבֵדוֹ] [כְּמַהֵר] [צִּוֹר] to/toward [ָּח] and not [he] knew [כִּי] [בְנְַשׁוֹ] he | [KJV:] Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
+Prov 7:24 [וְעַתָּה] [בָנִים] [שִׁמְעוּ] to me [וְהַקְשִׁיבוּ] [לְאִמְרֵי] [ִי] | [KJV:] Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
+Prov 7:25 not [imperative] [יֵשְׂטְ] to/toward [דְּרָכֶיהָ] [לִבֶּךָ] not [imperative] [תֵּתַע] [בִּנְתִיבוֹתֶיהָ] | [KJV:] Let not thine heart decline to her ways, go not astray in her paths.
+Prov 7:26 [כִּי] [רַבִּים] [חֲלָלִים] [הִִּילָה] [וַעֲצֻמִים] [כָּל] [הֲרֻגֶיהָ] | [KJV:] For she hath cast down many wounded: yea, many strong men have been slain by her.
+Prov 7:27 [דַּרְכֵי] [שְׁאוֹל] [בֵּיתָהּ] [יֹרְדוֹת] to/toward [חַדְרֵי] [מָוֶת] | [KJV:] Her house is the way to hell, going down to the chambers of death.
+Prov 8:1 [הֲלֹא] [חָכְמָה] [תִקְרָא] [וּתְבוּנָה] [תִּתֵּן] [קוֹלָהּ] | [KJV:] Doth not wisdom cry? and understanding put forth her voice?
+Prov 8:2 [בְּרֹאשׁ] [מְרוֹמִים] [עֲלֵי] [דָרֶךְ] [בֵּית] [נְתִיבוֹת] [נִצָּבָה] | [KJV:] She standeth in the top of high places, by the way in the places of the paths.
+Prov 8:3 [לְיַד] [שְׁעָרִים] [לְִי] [קָרֶת] [מְבוֹא] [ְתָחִים] [תָּרֹנָּה] | [KJV:] She crieth at the gates, at the entry of the city, at the coming in at the doors.
+Prov 8:4 [אֲלֵיכֶם] [אִישִׁים] [אֶקְרָא] [וְקוֹלִי] to/toward [בְּנֵי] man/mankind | [KJV:] Unto you, O men, I call; and my voice is to the sons of man.
+Prov 8:5 [הָבִינוּ] [ְתָאיִם] [עָרְמָה] [וּכְִילִים] [הָבִינוּ] heart | [KJV:] O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.
+Prov 8:6 [שִׁמְעוּ] [כִּי] [נְגִידִים] [אֲדַבֵּר] [וּמְִתַּח] [שְָׂתַי] [מֵישָׁרִים] | [KJV:] Hear; for I will speak of excellent things; and the opening of my lips shall be right things.
+Prov 8:7 [כִּי] truth [יֶהְגֶּה] [חִכִּי] [וְתוֹעֲבַת] [שְָׂתַי] [רֶשַׁע] | [KJV:] For my mouth shall speak truth; and wickedness is an abomination to my lips.
+Prov 8:8 [בְּצֶדֶק] [כָּל] [אִמְרֵי] [ִי] [there is] no [בָּהֶם] [נְִתָּל] [וְעִקֵּשׁ] | [KJV:] All the words of my mouth are in righteousness; there is nothing froward or perverse in them.
+Prov 8:9 [כֻּלָּם] [נְכֹחִים] [לַמֵּבִין] [וִישָׁרִים] [לְמֹצְאֵי] [דָעַת] | [KJV:] They are all plain to him that understandeth, and right to them that find knowledge.
+Prov 8:10 [קְחוּ] [מוָּרִי] [וְאַל] [כֶָּף] [וְדַעַת] [מֵחָרוּץ] [נִבְחָר] | [KJV:] Receive my instruction, and not silver; and knowledge rather than choice gold.
+Prov 8:11 [כִּי] [טוֹבָה] [חָכְמָה] [מְִּנִינִים] and all [חֲָצִים] not [יִשְׁווּ] [בָהּ] | [KJV:] For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.
+Prov 8:12 I [חָכְמָה] [שָׁכַנְתִּי] [עָרְמָה] [וְדַעַת] [מְזִמּוֹת] [אֶמְצָא] | [KJV:] I wisdom dwell with prudence, and find out knowledge of witty inventions.
+Prov 8:13 [יִרְאַת] YHWH/[the] LORD [שְׂנֹאת] [רָע] [גֵּאָה] [וְגָאוֹן] [וְדֶרֶךְ] [רָע] [וִּי] [תַהְֻּכוֹת] [שָׂנֵאתִי] | [KJV:] The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
+Prov 8:14 to me [עֵצָה] [וְתוּשִׁיָּה] I [בִינָה] to me [גְבוּרָה]
+Prov 8:15 [בִּי] [מְלָכִים] [יִמְלֹכוּ] [וְרוֹזְנִים] [יְחֹקְקוּ] righteousness | [KJV:] By me kings reign, and princes decree justice.
+Prov 8:16 [בִּי] [שָׂרִים] [יָשֹׂרוּ] [וּנְדִיבִים] [כָּל] [שְֹׁטֵי] righteousness | [KJV:] By me princes rule, and nobles, even all the judges of the earth.
+Prov 8:17 I [אֹהֲבֶיהָ] [אֵהָב] [וּמְשַׁחֲרַי] [יִמְצָאֻנְנִי] | [KJV:] I love them that love me; and those that seek me early shall find me.
+Prov 8:18 [עֹשֶׁר] [וְכָבוֹד] [אִתִּי] [הוֹן] [עָתֵק] [וּצְדָקָה] | [KJV:] Riches and honour are with me; yea, durable riches and righteousness.
+Prov 8:19 good [ִּרְיִי] [מֵחָרוּץ] [וּמִָּז] [וּתְבוּאָתִי] [מִכֶֶּף] [נִבְחָר] | [KJV:] My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.
+Prov 8:20 [בְּאֹרַח] [צְדָקָה] [אֲהַלֵּך] [בְּתוֹךְ] [נְתִיבוֹת] [מִשְָּׁט] | [KJV:] I lead in the way of righteousness, in the midst of the paths of judgment:
+Prov 8:21 [לְהַנְחִיל] [אֹהֲבַי] [יֵשׁ] [וְאֹצְרֹתֵיהֶם] [אֲמַלֵּא] | [KJV:] That I may cause those that love me to inherit substance; and I will fill their treasures.
+Prov 8:22 YHWH/[the] LORD [קָנָנִי] [רֵאשִׁית] [דַּרְכּוֹ] [קֶדֶם] [מְִעָלָיו] [מֵאָז] | [KJV:] The Lord possessed me in the beginning of his way, before his works of old.
+Prov 8:23 [מֵעוֹלָם] [נִַּכְתִּי] [מֵרֹאשׁ] [מִקַּדְמֵי] earth | [KJV:] I was set up from everlasting, from the beginning, or ever the earth was.
+Prov 8:24 [בְּאֵין] [תְּהֹמוֹת] [חוֹלָלְתִּי] [בְּאֵין] [מַעְיָנוֹת] [נִכְבַּדֵּי] [מָיִם] | [KJV:] When there were no depths, I was brought forth; when there were no fountains abounding with water.
+Prov 8:25 [בְּטֶרֶם] [הָרִים] [הָטְבָּעוּ] [לְִנֵי] [גְבָעוֹת] [חוֹלָלְתִּי] | [KJV:] Before the mountains were settled, before the hills was I brought forth:
+Prov 8:26 until not [עָשָׂה] land [וְחוּצוֹת] [וְרֹאשׁ] [עְָרוֹת] [תֵּבֵל] | [KJV:] While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.
+Prov 8:27 [בַּהֲכִינוֹ] [שָׁמַיִם] [שָׁם] [אָנִי] [בְּחוּקוֹ] [חוּג] upon [ְּנֵי] [the] deep | [KJV:] When he prepared the heavens, I was there: when he set a compass upon the face of the depth:
+Prov 8:28 [בְּאַמְּצוֹ] [שְׁחָקִים] [מִמָּעַל] [בַּעֲזוֹז] [עִינוֹת] [תְּהוֹם] | [KJV:] When he established the clouds above: when he strengthened the fountains of the deep:
+Prov 8:29 [בְּשׂוּמוֹ] [לַיָּם] [חֻקּוֹ] [וּמַיִם] not [יַעַבְרוּ] [ִיו] [בְּחוּקוֹ] [מוְֹדֵי] earth | [KJV:] When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
+Prov 8:30 [וָאֶהְיֶה] [אֶצְלוֹ] [אָמוֹן] [וָאֶהְיֶה] [שַׁעֲשֻׁעִים] day day [מְשַׂחֶקֶת] [לְָנָיו] [בְּכָל] [עֵת] | [KJV:] Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;
+Prov 8:31 [מְשַׂחֶקֶת] [בְּתֵבֵל] [אַרְצוֹ] [וְשַׁעֲשֻׁעַי] [with] [בְּנֵי] man/mankind | [KJV:] Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
+Prov 8:32 [וְעַתָּה] [בָנִים] [שִׁמְעוּ] to me [וְאַשְׁרֵי] [דְּרָכַי] [יִשְׁמֹרוּ] | [KJV:] Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.
+Prov 8:33 [שִׁמְעוּ] [מוָּר] [וַחֲכָמוּ] [וְאַל] [תְִּרָעוּ] | [KJV:] Hear instruction, and be wise, and refuse it not.
+Prov 8:34 [אַשְׁרֵי] man/mankind [שֹׁמֵעַ] to me [לִשְׁקֹד] upon [דַּלְתֹתַי] day day [לִשְׁמֹר] [מְזוּזֹת] [ְּתָחָי]
+Prov 8:35 [כִּי] [מֹצְאִי] [מֹצְאֵי] [חַיִּים] [וַיֶָּק] [רָצוֹן] [מֵיְהוָה] | [KJV:] For whoso findeth me findeth life, and shall obtain favour of the Lord.
+Prov 8:36 [וְחֹטְאִי] [חֹמֵ] [נְַשׁוֹ] [כָּל] [מְשַׂנְאַי] [אָהֲבוּ] [מָוֶת] | [KJV:] But he that sinneth against me wrongeth his own soul: all they that hate me love death.
+Prov 9:1 [חָכְמוֹת] [בָּנְתָה] [בֵיתָהּ] [חָצְבָה] [עַמּוּדֶיהָ] [שִׁבְעָה] | [KJV:] Wisdom hath builded her house, she hath hewn out her seven pillars:
+Prov 9:2 [טָבְחָה] [טִבְחָהּ] [מְָכָה] [יֵינָהּ] [אַף] [עָרְכָה] [שֻׁלְחָנָהּ] | [KJV:] She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.
+Prov 9:3 [שָׁלְחָה] [נַעֲרֹתֶיהָ] [תִקְרָא] upon [גֵַּּי] [מְרֹמֵי] [קָרֶת] | [KJV:] She hath sent forth her maidens: she crieth upon the highest places of the city,
+Prov 9:4 who [ֶתִי] [יָֻר] [הֵנָּה] [חֲַר] heart [אָמְרָה] [לּוֹ] | [KJV:] Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,
+Prov 9:5 [לְכוּ] [לַחֲמוּ] [בְלַחֲמִי] [וּשְׁתוּ] [בְּיַיִן] [מָָכְתִּי] | [KJV:] Come, eat of my bread, and drink of the wine which I have mingled.
+Prov 9:6 [עִזְבוּ] [ְתָאיִם] [וִחְיוּ] [וְאִשְׁרוּ] [בְּדֶרֶךְ] [בִּינָה] | [KJV:] Forsake the foolish, and live; and go in the way of understanding.
+Prov 9:7 [יֵֹר] [לֵץ] [לֹקֵחַ] to him [קָלוֹן] [וּמוֹכִיחַ] [לְרָשָׁע] [מוּמוֹ] | [KJV:] He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.
+Prov 9:8 not [imperative] [תּוֹכַח] [לֵץ] [ֶּן] [יִשְׂנָאֶךָּ] [הוֹכַח] [לְחָכָם] [וְיֶאֱהָבֶךָּ] | [KJV:] Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.
+Prov 9:9 [תֵּן] [לְחָכָם] [וְיֶחְכַּם] still/yet [הוֹדַע] [לְצַדִּיק] [וְיוֶֹף] [לֶקַח] | [KJV:] Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.
+Prov 9:10 [תְּחִלַּת] [חָכְמָה] [יִרְאַת] YHWH/[the] LORD [וְדַעַת] [קְדֹשִׁים] [בִּינָה] | [KJV:] The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.
+Prov 9:11 [כִּי] [בִי] [יִרְבּוּ] [יָמֶיךָ] [וְיוִֹיוּ] [לְּךָ] [שְׁנוֹת] [חַיִּים] | [KJV:] For by me thy days shall be multiplied, and the years of thy life shall be increased.
+Prov 9:12 if [חָכַמְתָּ] [חָכַמְתָּ] [לָּךְ] [וְלַצְתָּ] [לְבַדְּךָ] [תִשָּׂא] | [KJV:] If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.
+Prov 9:13 [אֵשֶׁת] [כְִּילוּת] [הֹמִיָּה] [ְּתַיּוּת] [וּבַל] [יָדְעָה] [מָּה] | [KJV:] A foolish woman is clamorous: she is simple, and knoweth nothing.
+Prov 9:14 [וְיָשְׁבָה] [לְֶתַח] [בֵּיתָהּ] upon [כִֵּּא] [מְרֹמֵי] [קָרֶת] | [KJV:] For she sitteth at the door of her house, on a seat in the high places of the city,
+Prov 9:15 [לִקְרֹא] [לְעֹבְרֵי] [דָרֶךְ] [הַמְיַשְּׁרִים] [אֹרְחוֹתָם] | [KJV:] To call passengers who go right on their ways:
+Prov 9:16 who [ֶתִי] [יָֻר] [הֵנָּה] [וַחֲַר] heart [וְאָמְרָה] [לּוֹ] | [KJV:] Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,
+Prov 9:17 water(s) [גְּנוּבִים] [יִמְתָּקוּ] [וְלֶחֶם] [ְתָרִים] [יִנְעָם] | [KJV:] Stolen waters are sweet, and bread eaten in secret is pleasant.
+Prov 9:18 and not [he] knew [כִּי] [רְָאִים] [שָׁם] [בְּעִמְקֵי] [שְׁאוֹל] [קְרֻאֶיהָ] | [KJV:] But he knoweth not that the dead are there; and that her guests are in the depths of hell.
+Prov 10:1 [מִשְׁלֵי] [שְׁלֹמֹה] [בֵּן] wise [יְשַׂמַּח] father [וּבֵן] [כְִּיל] [תּוּגַת] [אִמּוֹ] | [KJV:] The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
+Prov 10:2 not [יוֹעִילוּ] [אוֹצְרוֹת] [רֶשַׁע] [וּצְדָקָה] [תַּצִּיל] [מִמָּוֶת] | [KJV:] Treasures of wickedness profit nothing: but righteousness delivereth from death.
+Prov 10:3 not [יַרְעִיב] YHWH/[the] LORD [נֶֶשׁ] [צַדִּיק] [וְהַוַּת] [רְשָׁעִים] [יֶהְדֹּף] | [KJV:] The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.
+Prov 10:4 [רָאשׁ] [עֹשֶׂה] [כַף] [רְמִיָּה] [וְיַד] [חָרוּצִים] [תַּעֲשִׁיר] | [KJV:] He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.
+Prov 10:5 [אֹגֵר] [בַּקַּיִץ] [בֵּן] [מַשְׂכִּיל] [נִרְדָּם] [בַּקָּצִיר] [בֵּן] [מֵבִישׁ] | [KJV:] He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame.
+Prov 10:6 [בְּרָכוֹת] [לְרֹאשׁ] [צַדִּיק] [וִּי] [רְשָׁעִים] [יְכֶַּה] [חָמָ] | [KJV:] Blessings are upon the head of the just: but violence covereth the mouth of the wicked.
+Prov 10:7 [זֵכֶר] [צַדִּיק] [לִבְרָכָה] [וְשֵׁם] [רְשָׁעִים] [יִרְקָב] | [KJV:] The memory of the just is blessed: but the name of the wicked shall rot.
+Prov 10:8 [חֲכַם] heart [יִקַּח] [מִצְוֹת] [וֶאֱוִיל] [שְָׂתַיִם] [יִלָּבֵט] | [KJV:] The wise in heart will receive commandments: but a prating fool shall fall.
+Prov 10:9 [הוֹלֵךְ] [בַּתֹּם] [יֵלֶךְ] [בֶּטַח] [וּמְעַקֵּשׁ] [דְּרָכָיו] [יִוָּדֵעַ] | [KJV:] He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.
+Prov 10:10 [קֹרֵץ] [עַיִן] [יִתֵּן] [עַצָּבֶת] [וֶאֱוִיל] [שְָׂתַיִם] [יִלָּבֵט] | [KJV:] He that winketh with the eye causeth sorrow: but a prating fool shall fall.
+Prov 10:11 [מְקוֹר] [חַיִּים] [ִּי] [צַדִּיק] [וִּי] [רְשָׁעִים] [יְכֶַּה] [חָמָ] | [KJV:] The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.
+Prov 10:12 [שִׂנְאָה] [תְּעוֹרֵר] [מְדָנִים] and upon [כָּל] [ְּשָׁעִים] [תְּכֶַּה] [אַהֲבָה] | [KJV:] Hatred stirreth up strifes: but love covereth all sins.
+Prov 10:13 [בְּשְִׂתֵי] [נָבוֹן] [תִּמָּצֵא] [חָכְמָה] [וְשֵׁבֶט] [לְגֵו] [חֲַר] heart | [KJV:] In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.
+Prov 10:14 [חֲכָמִים] [יִצְְּנוּ] [דָעַת] [וִּי] [אֱוִיל] [מְחִתָּה] [קְרֹבָה] | [KJV:] Wise men lay up knowledge: but the mouth of the foolish is near destruction.
+Prov 10:15 [הוֹן] [עָשִׁיר] Kiriath [עֻזּוֹ] [מְחִתַּת] [דַּלִּים] [רֵישָׁם] | [KJV:] The rich man's wealth is his strong city: the destruction of the poor is their poverty.
+Prov 10:16 [ְּעֻלַּת] [צַדִּיק] [לְחַיִּים] [תְּבוּאַת] [רָשָׁע] [לְחַטָּאת] | [KJV:] The labour of the righteous tendeth to life: the fruit of the wicked to sin.
+Prov 10:17 [אֹרַח] [לְחַיִּים] [שׁוֹמֵר] [מוָּר] [וְעוֹזֵב] [תּוֹכַחַת] [מַתְעֶה] | [KJV:] He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.
+Prov 10:18 [מְכֶַּה] [שִׂנְאָה] [שְִׂתֵי] [שָׁקֶר] [וּמוֹצִא] [דִבָּה] he [כְִיל] | [KJV:] He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.
+Prov 10:19 [בְּרֹב] [דְּבָרִים] not [יֶחְדַּל] [ָּשַׁע] [וְחֹשֵׂךְ] [שְָׂתָיו] [מַשְׂכִּיל] | [KJV:] In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.
+Prov 10:20 [כֶֶּף] [נִבְחָר] [לְשׁוֹן] [צַדִּיק] heart [רְשָׁעִים] [כִּמְעָט] | [KJV:] The tongue of the just is as choice silver: the heart of the wicked is little worth.
+Prov 10:21 [שְִׂתֵי] [צַדִּיק] [יִרְעוּ] [רַבִּים] [וֶאֱוִילִים] [בַּחֲַר] heart [יָמוּתוּ] | [KJV:] The lips of the righteous feed many: but fools die for want of wisdom.
+Prov 10:22 [בִּרְכַּת] YHWH/[the] LORD she [תַעֲשִׁיר] and not [יוִֹף] [עֶצֶב] [עִמָּהּ]
+Prov 10:23 [כִּשְׂחוֹק] [לִכְִיל] [עֲשׂוֹת] [זִמָּה] [וְחָכְמָה] [לְאִישׁ] [תְּבוּנָה] | [KJV:] It is as sport to a fool to do mischief: but a man of understanding hath wisdom.
+Prov 10:24 [מְגוֹרַת] [רָשָׁע] she [תְבוֹאֶנּוּ] [וְתַאֲוַת] [צַדִּיקִים] [יִתֵּן] | [KJV:] The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.
+Prov 10:25 [כַּעֲבוֹר] [וָּה] [וְאֵין] [רָשָׁע] [וְצַדִּיק] [יְוֹד] eternity/forever | [KJV:] As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.
+Prov 10:26 [כַּחֹמֶץ] [לַשִּׁנַּיִם] [וְכֶעָשָׁן] [לָעֵינָיִם] [כֵּן] [הֶעָצֵל] [לְשֹׁלְחָיו] | [KJV:] As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.
+Prov 10:27 [יִרְאַת] YHWH/[the] LORD [תּוִֹיף] days [וּשְׁנוֹת] [רְשָׁעִים] [תִּקְצֹרְנָה] | [KJV:] The fear of the Lord prolongeth days: but the years of the wicked shall be shortened.
+Prov 10:28 [תּוֹחֶלֶת] [צַדִּיקִים] [שִׂמְחָה] [וְתִקְוַת] [רְשָׁעִים] [תֹּאבֵד] | [KJV:] The hope of the righteous shall be gladness: but the expectation of the wicked shall perish.
+Prov 10:29 [מָעוֹז] [לַתֹּם] [דֶּרֶךְ] YHWH/[the] LORD [וּמְחִתָּה] [לְֹעֲלֵי] [אָוֶן] | [KJV:] The way of the Lord is strength to the upright: but destruction shall be to the workers of iniquity.
+Prov 10:30 [צַדִּיק] forever [בַּל] [יִמּוֹט] [וּרְשָׁעִים] not [יִשְׁכְּנוּ] earth | [KJV:] The righteous shall never be removed: but the wicked shall not inhabit the earth.
+Prov 10:31 [ִּי] [צַדִּיק] [יָנוּב] [חָכְמָה] [וּלְשׁוֹן] [תַּהְֻּכוֹת] [תִּכָּרֵת] | [KJV:] The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.
+Prov 10:32 [שְִׂתֵי] [צַדִּיק] [יֵדְעוּן] [רָצוֹן] [וִּי] [רְשָׁעִים] [תַּהְֻּכוֹת] | [KJV:] The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.
+Prov 11:1 [מֹאזְנֵי] [מִרְמָה] [תּוֹעֲבַת] YHWH/[the] LORD [וְאֶבֶן] [שְׁלֵמָה] [רְצוֹנוֹ] | [KJV:] A false balance is abomination to the Lord: but a just weight is his delight.
+Prov 11:2 [בָּא] [זָדוֹן] [וַיָּבֹא] [קָלוֹן] and [with/acc] [צְנוּעִים] [חָכְמָה] | [KJV:] When pride cometh, then cometh shame: but with the lowly is wisdom.
+Prov 11:3 [תֻּמַּת] [יְשָׁרִים] [תַּנְחֵם] [וְֶלֶף] [בּוֹגְדִים] [וְשַׁדָּם] | [KJV:] The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
+Prov 11:4 not [יוֹעִיל] [הוֹן] [בְּיוֹם] [עֶבְרָה] [וּצְדָקָה] [תַּצִּיל] [מִמָּוֶת] | [KJV:] Riches profit not in the day of wrath: but righteousness delivereth from death.
+Prov 11:5 [צִדְקַת] [תָּמִים] [תְּיַשֵּׁר] [דַּרְכּוֹ] [וּבְרִשְׁעָתוֹ] [יִֹּל] [רָשָׁע] | [KJV:] The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.
+Prov 11:6 [צִדְקַת] [יְשָׁרִים] [תַּצִּילֵם] [וּבְהַוַּת] [בֹּגְדִים] [יִלָּכֵדוּ] | [KJV:] The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.
+Prov 11:7 [בְּמוֹת] man/mankind [רָשָׁע] [תֹּאבַד] [תִּקְוָה] [וְתוֹחֶלֶת] [אוֹנִים] [אָבָדָה] | [KJV:] When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth.
+Prov 11:8 [צַדִּיק] [מִצָּרָה] [נֶחֱלָץ] [וַיָּבֹא] [רָשָׁע] [תַּחְתָּיו] | [KJV:] The righteous is delivered out of trouble, and the wicked cometh in his stead.
+Prov 11:9 [בְֶּה] [חָנֵף] [יַשְׁחִת] [רֵעֵהוּ] [וּבְדַעַת] [צַדִּיקִים] [יֵחָלֵצוּ] | [KJV:] An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
+Prov 11:10 [בְּטוּב] [צַדִּיקִים] [תַּעֲלֹץ] [קִרְיָה] [וּבַאֲבֹד] [רְשָׁעִים] [רִנָּה] | [KJV:] When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.
+Prov 11:11 [בְּבִרְכַּת] [יְשָׁרִים] [תָּרוּם] [קָרֶת] [וּבְִי] [רְשָׁעִים] [תֵּהָרֵ] | [KJV:] By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
+Prov 11:12 [בָּז] [לְרֵעֵהוּ] [חֲַר] heart and a man [תְּבוּנוֹת] [יַחֲרִישׁ] | [KJV:] He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.
+Prov 11:13 [הוֹלֵךְ] [רָכִיל] [מְגַלֶּה] [ּוֹד] [וְנֶאֱמַן] spirit/wind [מְכֶַּה] [דָבָר] | [KJV:] A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.
+Prov 11:14 [בְּאֵין] [תַּחְבֻּלוֹת] [יִָּל] people [וּתְשׁוּעָה] [בְּרֹב] [יוֹעֵץ] | [KJV:] Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
+Prov 11:15 bad [יֵרוֹעַ] [כִּי] [עָרַב] [זָר] [וְשֹׂנֵא] [תֹקְעִים] [בּוֹטֵחַ] | [KJV:] He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.
+Prov 11:16 [אֵשֶׁת] grace [תִּתְמֹךְ] [כָּבוֹד] [וְעָרִיצִים] [יִתְמְכוּ] [עֹשֶׁר] | [KJV:] A gracious woman retaineth honour: and strong men retain riches.
+Prov 11:17 [גֹּמֵל] [נְַשׁוֹ] man [חֶָד] [וְעֹכֵר] [שְׁאֵרוֹ] [אַכְזָרִי] | [KJV:] The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.
+Prov 11:18 [רָשָׁע] [עֹשֶׂה] [ְעֻלַּת] [שָׁקֶר] [וְזֹרֵעַ] [צְדָקָה] [שֶׂכֶר] truth | [KJV:] The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward.
+Prov 11:19 [כֵּן] [צְדָקָה] [לְחַיִּים] [וּמְרַדֵּף] [רָעָה] [לְמוֹתוֹ] | [KJV:] As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.
+Prov 11:20 [תּוֹעֲבַת] YHWH/[the] LORD [עִקְּשֵׁי] heart [וּרְצוֹנוֹ] [תְּמִימֵי] [דָרֶךְ] | [KJV:] They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight.
+Prov 11:21 hand [לְיָד] not [יִנָּקֶה] [רָּע] [וְזֶרַע] [צַדִּיקִים] [נִמְלָט] | [KJV:] Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
+Prov 11:22 [נֶזֶם] gold [בְּאַף] [חֲזִיר] [אִשָּׁה] [יָָה] [וְָרַת] [טָעַם] | [KJV:] As a jewel of gold in a swine's snout, so is a fair woman which is without discretion.
+Prov 11:23 [תַּאֲוַת] [צַדִּיקִים] only/however good [תִּקְוַת] [רְשָׁעִים] [עֶבְרָה] | [KJV:] The desire of the righteous is only good: but the expectation of the wicked is wrath.
+Prov 11:24 [יֵשׁ] [מְַזֵּר] [וְנוָֹף] still/yet [וְחוֹשֵׂךְ] [מִיֹּשֶׁר] only/however [לְמַחְוֹר] | [KJV:] There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.
+Prov 11:25 [נֶֶשׁ] [בְּרָכָה] [תְדֻשָּׁן] [וּמַרְוֶה] [גַּם] he [יוֹרֶא] | [KJV:] The liberal soul shall be made fat: and he that watereth shall be watered also himself.
+Prov 11:26 [מֹנֵעַ] [בָּר] [יִקְּבֻהוּ] [לְאוֹם] [וּבְרָכָה] [לְרֹאשׁ] [מַשְׁבִּיר] | [KJV:] He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
+Prov 11:27 [שֹׁחֵר] good [יְבַקֵּשׁ] [רָצוֹן] [וְדֹרֵשׁ] [רָעָה] [תְבוֹאֶנּוּ] | [KJV:] He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.
+Prov 11:28 [בּוֹטֵחַ] [בְּעָשְׁרוֹ] he [יִֹּל] [וְכֶעָלֶה] [צַדִּיקִים] [יְִרָחוּ] | [KJV:] He that trusteth in his riches shall fall; but the righteous shall flourish as a branch.
+Prov 11:29 [עוֹכֵר] [בֵּיתוֹ] [יִנְחַל] spirit/wind [וְעֶבֶד] [אֱוִיל] [לַחֲכַם] heart | [KJV:] He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart.
+Prov 11:30 [ְּרִי] [צַדִּיק] tree [חַיִּים] [וְלֹקֵחַ] [נְָשׂוֹת] wise | [KJV:] The fruit of the righteous is a tree of life; and he that winneth souls is wise.
+Prov 11:31 [הֵן] [צַדִּיק] [בָּאָרֶץ] [יְשֻׁלָּם] [אַף] [כִּי] [רָשָׁע] [וְחוֹטֵא] | [KJV:] Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.
+Prov 12:1 [אֹהֵב] [מוָּר] [אֹהֵב] [דָּעַת] [וְשֹׂנֵא] [תוֹכַחַת] [בָּעַר] | [KJV:] Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
+Prov 12:2 good [יִָיק] [רָצוֹן] [מֵיְהוָה] and a man [מְזִמּוֹת] [יַרְשִׁיעַ] | [KJV:] A good man obtaineth favour of the Lord: but a man of wicked devices will he condemn.
+Prov 12:3 not [יִכּוֹן] man/mankind [בְּרֶשַׁע] [וְשֹׁרֶשׁ] [צַדִּיקִים] [בַּל] [יִמּוֹט] | [KJV:] A man shall not be established by wickedness: but the root of the righteous shall not be moved.
+Prov 12:4 [אֵשֶׁת] [חַיִל] [עֲטֶרֶת] [בַּעְלָהּ] [וּכְרָקָב] [בְּעַצְמוֹתָיו] [מְבִישָׁה] | [KJV:] A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.
+Prov 12:5 [מַחְשְׁבוֹת] [צַדִּיקִים] [מִשְָּׁט] [תַּחְבֻּלוֹת] [רְשָׁעִים] [מִרְמָה] | [KJV:] The thoughts of the righteous are right: but the counsels of the wicked are deceit.
+Prov 12:6 [דִּבְרֵי] [רְשָׁעִים] [אֱרָב] [דָּם] [וִּי] [יְשָׁרִים] [יַצִּילֵם] | [KJV:] The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.
+Prov 12:7 [הָוֹךְ] [רְשָׁעִים] [וְאֵינָם] [וּבֵית] [צַדִּיקִים] he will stand | [KJV:] The wicked are overthrown, and are not: but the house of the righteous shall stand.
+Prov 12:8 [לְִי] [שִׂכְלוֹ] [יְהֻלַּל] man [וְנַעֲוֵה] heart he will be [לָבוּז]
+Prov 12:9 good [נִקְלֶה] [וְעֶבֶד] to him [מִמְּתַכַּבֵּד] [וַחֲַר] [לָחֶם] | [KJV:] He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.
+Prov 12:10 [he] knows [צַדִּיק] [נֶֶשׁ] [בְּהֶמְתּוֹ] [וְרַחֲמֵי] [רְשָׁעִים] [אַכְזָרִי] | [KJV:] A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.
+Prov 12:11 [עֹבֵד] [אַדְמָתוֹ] [יִשְׂבַּע] [לָחֶם] [וּמְרַדֵּף] [רֵיקִים] [חֲַר] heart | [KJV:] He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.
+Prov 12:12 [חָמַד] [רָשָׁע] [מְצוֹד] [רָעִים] [וְשֹׁרֶשׁ] [צַדִּיקִים] [יִתֵּן] | [KJV:] The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.
+Prov 12:13 [בְֶּשַׁע] [שְָׂתַיִם] [מוֹקֵשׁ] [רָע] [וַיֵּצֵא] [מִצָּרָה] [צַדִּיק] | [KJV:] The wicked is snared by the transgression of his lips: but the just shall come out of trouble.
+Prov 12:14 [מְִּרִי] [ִי] man [יִשְׂבַּע] good [וּגְמוּל] [יְדֵי] man/mankind [יָשׁוּב] to him
+Prov 12:15 [דֶּרֶךְ] [אֱוִיל] [יָשָׁר] [בְּעֵינָיו] [וְשֹׁמֵעַ] [לְעֵצָה] wise | [KJV:] The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+Prov 12:16 [אֱוִיל] [בַּיּוֹם] [יִוָּדַע] [כַּעְוֹ] [וְכֶֹה] [קָלוֹן] [עָרוּם] | [KJV:] A fool's wrath is presently known: but a prudent man covereth shame.
+Prov 12:17 [יִָיחַ] [אֱמוּנָה] [יַגִּיד] righteousness [וְעֵד] [שְׁקָרִים] [מִרְמָה] | [KJV:] He that speaketh truth sheweth forth righteousness: but a false witness deceit.
+Prov 12:18 [יֵשׁ] [בּוֹטֶה] [כְּמַדְקְרוֹת] sword [וּלְשׁוֹן] [חֲכָמִים] [מַרְֵּא] | [KJV:] There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+Prov 12:19 [שְַׂת] truth [תִּכּוֹן] [לָעַד] and until [אַרְגִּיעָה] [לְשׁוֹן] [שָׁקֶר] | [KJV:] The lip of truth shall be established for ever: but a lying tongue is but for a moment.
+Prov 12:20 [מִרְמָה] [בְּלֶב] [חֹרְשֵׁי] [רָע] [וּלְיֹעֲצֵי] [שָׁלוֹם] [שִׂמְחָה] | [KJV:] Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.
+Prov 12:21 not [יְאֻנֶּה] [לַצַּדִּיק] [כָּל] [אָוֶן] [וּרְשָׁעִים] [מָלְאוּ] [רָע] | [KJV:] There shall no evil happen to the just: but the wicked shall be filled with mischief.
+Prov 12:22 [תּוֹעֲבַת] YHWH/[the] LORD [שְִׂתֵי] [שָׁקֶר] [וְעֹשֵׂי] [אֱמוּנָה] [רְצוֹנוֹ] | [KJV:] Lying lips are abomination to the Lord: but they that deal truly are his delight.
+Prov 12:23 man/mankind [עָרוּם] [כֶֹּה] [דָּעַת] [וְלֵב] [כְִּילִים] [יִקְרָא] [אִוֶּלֶת] | [KJV:] A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
+Prov 12:24 hand [חָרוּצִים] [תִּמְשׁוֹל] [וּרְמִיָּה] [תִּהְיֶה] [לָמַ] | [KJV:] The hand of the diligent shall bear rule: but the slothful shall be under tribute.
+Prov 12:25 [דְּאָגָה] [בְלֶב] man [יַשְׁחֶנָּה] [וְדָבָר] good [יְשַׂמְּחֶנָּה] | [KJV:] Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.
+Prov 12:26 [יָתֵר] [מֵרֵעֵהוּ] [צַדִּיק] [וְדֶרֶךְ] [רְשָׁעִים] [תַּתְעֵם] | [KJV:] The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
+Prov 12:27 not [יַחֲרֹךְ] [רְמִיָּה] [צֵידוֹ] [וְהוֹן] man/mankind [יָקָר] [חָרוּץ] | [KJV:] The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
+Prov 12:28 [בְּאֹרַח] [צְדָקָה] [חַיִּים] [וְדֶרֶךְ] [נְתִיבָה] not [imperative] [מָוֶת] | [KJV:] In the way of righteousness is life: and in the pathway thereof there is no death.
+Prov 13:1 [בֵּן] wise [מוַּר] father [וְלֵץ] not [שָׁמַע] [גְּעָרָה] | [KJV:] A wise son heareth his father's instruction: but a scorner heareth not rebuke.
+Prov 13:2 [מְִּרִי] [ִי] man [יֹאכַל] good [וְנֶֶשׁ] [בֹּגְדִים] [חָמָ] | [KJV:] A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
+Prov 13:3 [נֹצֵר] [ִּיו] [שֹׁמֵר] [נְַשׁוֹ] [ֹּשֵׂק] [שְָׂתָיו] [מְחִתָּה] to him | [KJV:] He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
+Prov 13:4 [מִתְאַוָּה] [וָאַיִן] [נְַשׁוֹ] [עָצֵל] [וְנֶֶשׁ] [חָרֻצִים] [תְּדֻשָּׁן] | [KJV:] The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
+Prov 13:5 [דְּבַר] [שֶׁקֶר] [יִשְׂנָא] [צַדִּיק] [וְרָשָׁע] [יַבְאִישׁ] [וְיַחְִּיר] | [KJV:] A righteous man hateth lying: but a wicked man is loathsome, and cometh to shame.
+Prov 13:6 [צְדָקָה] [תִּצֹּר] [תָּם] [דָּרֶךְ] [וְרִשְׁעָה] [תְַּלֵּף] [חַטָּאת] | [KJV:] Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner.
+Prov 13:7 [יֵשׁ] [מִתְעַשֵּׁר] [וְאֵין] all [מִתְרוֹשֵׁשׁ] [וְהוֹן] [רָב] | [KJV:] There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.
+Prov 13:8 [כֶֹּר] [נֶֶשׁ] man [עָשְׁרוֹ] [וְרָשׁ] not [שָׁמַע] [גְּעָרָה] | [KJV:] The ransom of a man's life are his riches: but the poor heareth not rebuke.
+Prov 13:9 light [צַדִּיקִים] [יִשְׂמָח] [וְנֵר] [רְשָׁעִים] [יִדְעָךְ] | [KJV:] The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.
+Prov 13:10 only [בְּזָדוֹן] [יִתֵּן] [מַצָּה] and [with/acc] [נוֹעָצִים] [חָכְמָה] | [KJV:] Only by pride cometh contention: but with the well advised is wisdom.
+Prov 13:11 [הוֹן] [מֵהֶבֶל] [יִמְעָט] [וְקֹבֵץ] upon hand [יַרְבֶּה] | [KJV:] Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.
+Prov 13:12 [תּוֹחֶלֶת] [מְמֻשָּׁכָה] [מַחֲלָה] heart [וְעֵץ] [חַיִּים] [תַּאֲוָה] [בָאָה] | [KJV:] Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
+Prov 13:13 [בָּז] [לְדָבָר] [יֵחָבֶל] to him [וִירֵא] [מִצְוָה] he [יְשֻׁלָּם] | [KJV:] Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.
+Prov 13:14 law of wise [מְקוֹר] [חַיִּים] [לָוּר] [מִמֹּקְשֵׁי] [מָוֶת] | [KJV:] The law of the wise is a fountain of life, to depart from the snares of death.
+Prov 13:15 [שֵׂכֶל] good [יִתֶּן] grace [וְדֶרֶךְ] [בֹּגְדִים] [אֵיתָן] | [KJV:] Good understanding giveth favour: but the way of transgressors is hard.
+Prov 13:16 [כָּל] [עָרוּם] [יַעֲשֶׂה] [בְדָעַת] [וּכְִיל] [יְִרֹשׂ] [אִוֶּלֶת] | [KJV:] Every prudent man dealeth with knowledge: but a fool layeth open his folly.
+Prov 13:17 [מַלְאָךְ] [רָשָׁע] [יִֹּל] [בְּרָע] [וְצִיר] [אֱמוּנִים] [מַרְֵּא] | [KJV:] A wicked messenger falleth into mischief: but a faithful ambassador is health.
+Prov 13:18 [רֵישׁ] [וְקָלוֹן] [ּוֹרֵעַ] [מוָּר] [וְשׁוֹמֵר] [תּוֹכַחַת] [יְכֻבָּד] | [KJV:] Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.
+Prov 13:19 [תַּאֲוָה] [נִהְיָה] [תֶעֱרַב] [לְנֶָשׁ] [וְתוֹעֲבַת] [כְִּילִים] [וּר] [מֵרָע] | [KJV:] The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.
+Prov 13:20 [הֹלֵוךְ] [with] [חֲכָמִים] [וֶחְכָּם] [וְרֹעֶה] [כְִילִים] [יֵרוֹעַ] | [KJV:] He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
+Prov 13:21 [חַטָּאִים] [תְּרַדֵּף] [רָעָה] and [with/acc] [צַדִּיקִים] [יְשַׁלֶּם] good | [KJV:] Evil pursueth sinners: but to the righteous good shall be repayed.
+Prov 13:22 good [יַנְחִיל] [בְּנֵי] [בָנִים] [וְצָוּן] [לַצַּדִּיק] [חֵיל] [חוֹטֵא] | [KJV:] A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.
+Prov 13:23 [רָב] [אֹכֶל] [נִיר] [רָאשִׁים] [וְיֵשׁ] [נְִֶּה] [בְּלֹא] [מִשְָּׁט] | [KJV:] Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.
+Prov 13:24 [חוֹשֵׂךְ] [שִׁבְטוֹ] [שׂוֹנֵא] [בְנוֹ] [וְאֹהֲבוֹ] [שִׁחֲרוֹ] [מוָּר] | [KJV:] He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.
+Prov 13:25 [צַדִּיק] [אֹכֵל] [לְשֹׂבַע] [נְַשׁוֹ] [וּבֶטֶן] [רְשָׁעִים] [תֶּחְָר] | [KJV:] The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.
+Prov 14:1 [חַכְמוֹת] [נָשִׁים] [בָּנְתָה] [בֵיתָהּ] [וְאִוֶּלֶת] [בְּיָדֶיהָ] [תֶהֶרְֶנּוּ] | [KJV:] Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
+Prov 14:2 [הוֹלֵךְ] [בְּיָשְׁרוֹ] [יְרֵא] YHWH/[the] LORD [וּנְלוֹז] [דְּרָכָיו] [בּוֹזֵהוּ] | [KJV:] He that walketh in his uprightness feareth the Lord: but he that is perverse in his ways despiseth him.
+Prov 14:3 [בְִּי] [אֱוִיל] [חֹטֶר] [גַּאֲוָה] [וְשְִׂתֵי] [חֲכָמִים] [תִּשְׁמוּרֵם] | [KJV:] In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.
+Prov 14:4 [בְּאֵין] [אֲלִָים] [אֵבוּ] [בָּר] [וְרָב] [תְּבוּאוֹת] [בְּכֹחַ] [שׁוֹר] | [KJV:] Where no oxen are, the crib is clean: but much increase is by the strength of the ox.
+Prov 14:5 [עֵד] [אֱמוּנִים] not [יְכַזֵּב] [וְיִָיחַ] [כְּזָבִים] [עֵד] [שָׁקֶר] | [KJV:] A faithful witness will not lie: but a false witness will utter lies.
+Prov 14:6 [בִּקֶּשׁ] [לֵץ] [חָכְמָה] [וָאָיִן] [וְדַעַת] [לְנָבוֹן] [נָקָל] | [KJV:] A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.
+Prov 14:7 [לֵךְ] [מִנֶּגֶד] [לְאִישׁ] [כְִּיל] [וּבַל] [יָדַעְתָּ] [שְִׂתֵי] [דָעַת] | [KJV:] Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.
+Prov 14:8 [חָכְמַת] [עָרוּם] [הָבִין] [דַּרְכּוֹ] [וְאִוֶּלֶת] [כְִּילִים] [מִרְמָה] | [KJV:] The wisdom of the prudent is to understand his way: but the folly of fools is deceit.
+Prov 14:9 [אֱוִלִים] [יָלִיץ] [אָשָׁם] and between [יְשָׁרִים] [רָצוֹן] | [KJV:] Fools make a mock at sin: but among the righteous there is favour.
+Prov 14:10 heart [he] knows [מָרַּת] [נְַשׁוֹ] [וּבְשִׂמְחָתוֹ] not [יִתְעָרַב] [זָר] | [KJV:] The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.
+Prov 14:11 [בֵּית] [רְשָׁעִים] [יִשָּׁמֵד] [וְאֹהֶל] [יְשָׁרִים] [יְַרִיחַ] | [KJV:] The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.
+Prov 14:12 [יֵשׁ] [דֶּרֶךְ] [יָשָׁר] [לְִנֵי] man [וְאַחֲרִיתָהּ] [דַּרְכֵי] [מָוֶת] | [KJV:] There is a way which seemeth right unto a man, but the end thereof are the ways of death.
+Prov 14:13 [גַּם] [בִּשְׂחוֹק] [יִכְאַב] heart [וְאַחֲרִיתָהּ] [שִׂמְחָה] [תוּגָה] | [KJV:] Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.
+Prov 14:14 [מִדְּרָכָיו] [יִשְׂבַּע] [וּג] heart [וּמֵעָלָיו] man good | [KJV:] The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
+Prov 14:15 [ֶּתִי] [יַאֲמִין] to all [דָּבָר] [וְעָרוּם] [יָבִין] [לַאֲשֻׁרוֹ] | [KJV:] The simple believeth every word: but the prudent man looketh well to his going.
+Prov 14:16 wise [יָרֵא] [וְָר] [מֵרָע] [וּכְִיל] [מִתְעַבֵּר] [וּבוֹטֵחַ] | [KJV:] A wise man feareth, and departeth from evil: but the fool rageth, and is confident.
+Prov 14:17 [קְצַר] [אַַּיִם] [יַעֲשֶׂה] [אִוֶּלֶת] and a man [מְזִמּוֹת] [יִשָּׂנֵא] | [KJV:] He that is soon angry dealeth foolishly: and a man of wicked devices is hated.
+Prov 14:18 [נָחֲלוּ] [ְתָאיִם] [אִוֶּלֶת] [וַעֲרוּמִים] [יַכְתִּרוּ] [דָעַת] | [KJV:] The simple inherit folly: but the prudent are crowned with knowledge.
+Prov 14:19 [שַׁחוּ] [רָעִים] [לְִנֵי] [טוֹבִים] [וּרְשָׁעִים] upon [שַׁעֲרֵי] [צַדִּיק] | [KJV:] The evil bow before the good; and the wicked at the gates of the righteous.
+Prov 14:20 [גַּם] [לְרֵעֵהוּ] [יִשָּׂנֵא] [רָשׁ] [וְאֹהֲבֵי] [עָשִׁיר] [רַבִּים] | [KJV:] The poor is hated even of his own neighbour: but the rich hath many friends.
+Prov 14:21 [בָּז] [לְרֵעֵהוּ] [חוֹטֵא] [וּמְחוֹנֵן] [עֲנָיִים] [אַשְׁרָיו] | [KJV:] He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.
+Prov 14:22 [הֲלוֹא] [יִתְעוּ] [חֹרְשֵׁי] [רָע] [וְחֶֶד] [וֶאֱמֶת] [חֹרְשֵׁי] good | [KJV:] Do they not err that devise evil? but mercy and truth shall be to them that devise good.
+Prov 14:23 [בְּכָל] [עֶצֶב] he will be [מוֹתָר] [וּדְבַר] [שְָׂתַיִם] only/however [לְמַחְוֹר] | [KJV:] In all labour there is profit: but the talk of the lips tendeth only to penury.
+Prov 14:24 [עֲטֶרֶת] [חֲכָמִים] [עָשְׁרָם] [אִוֶּלֶת] [כְִּילִים] [אִוֶּלֶת] | [KJV:] The crown of the wise is their riches: but the foolishness of fools is folly.
+Prov 14:25 [מַצִּיל] [נְָשׁוֹת] [עֵד] truth [וְיִָחַ] [כְּזָבִים] [מִרְמָה] | [KJV:] A true witness delivereth souls: but a deceitful witness speaketh lies.
+Prov 14:26 [בְּיִרְאַת] YHWH/[the] LORD [מִבְטַח] [עֹז] [וּלְבָנָיו] he will be [מַחְֶה]
+Prov 14:27 [יִרְאַת] YHWH/[the] LORD [מְקוֹר] [חַיִּים] [לָוּר] [מִמֹּקְשֵׁי] [מָוֶת] | [KJV:] The fear of the Lord is a fountain of life, to depart from the snares of death.
+Prov 14:28 [בְּרָב] people [הַדְרַת] king [וּבְאֶֶ] [לְאֹם] [מְחִתַּת] [רָזוֹן] | [KJV:] In the multitude of people is the king's honour: but in the want of people is the destruction of the prince.
+Prov 14:29 [אֶרֶךְ] [אַַּיִם] many/much [תְּבוּנָה] [וּקְצַר] spirit/wind [מֵרִים] [אִוֶּלֶת] | [KJV:] He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.
+Prov 14:30 [חַיֵּי] [בְשָׂרִים] heart [מַרְֵּא] [וּרְקַב] [עֲצָמוֹת] [קִנְאָה] | [KJV:] A sound heart is the life of the flesh: but envy the rottenness of the bones.
+Prov 14:31 [עֹשֵׁק] [דָּל] [חֵרֵף] [עֹשֵׂהוּ] [וּמְכַבְּדוֹ] [חֹנֵן] needy | [KJV:] He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.
+Prov 14:32 [בְּרָעָתוֹ] [יִדָּחֶה] [רָשָׁע] [וְחֶֹה] [בְמוֹתוֹ] [צַדִּיק] | [KJV:] The wicked is driven away in his wickedness: but the righteous hath hope in his death.
+Prov 14:33 [בְּלֵב] [נָבוֹן] [תָּנוּחַ] [חָכְמָה] [וּבְקֶרֶב] [כְִּילִים] [תִּוָּדֵעַ] | [KJV:] Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.
+Prov 14:34 [צְדָקָה] [תְרוֹמֵם] nation [וְחֶֶד] [לְאֻמִּים] [חַטָּאת] | [KJV:] Righteousness exalteth a nation: but sin is a reproach to any people.
+Prov 14:35 [רְצוֹן] king [לְעֶבֶד] [מַשְׂכִּיל] [וְעֶבְרָתוֹ] [תִּהְיֶה] [מֵבִישׁ] | [KJV:] The king's favour is toward a wise servant: but his wrath is against him that causeth shame.
+Prov 15:1 [מַעֲנֶה] [רַּךְ] [יָשִׁיב] [חֵמָה] [וּדְבַר] [עֶצֶב] he will go up [אָף] | [KJV:] A soft answer turneth away wrath: but grievous words stir up anger.
+Prov 15:2 [לְשׁוֹן] [חֲכָמִים] [תֵּיטִיב] [דָּעַת] [וִּי] [כְִילִים] [יַבִּיעַ] [אִוֶּלֶת] | [KJV:] The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.
+Prov 15:3 [בְּכָל] [מָקוֹם] [עֵינֵי] YHWH/[the] LORD [צֹוֹת] [רָעִים] [וְטוֹבִים] | [KJV:] The eyes of the Lord are in every place, beholding the evil and the good.
+Prov 15:4 [מַרְֵּא] [לָשׁוֹן] tree [חַיִּים] [וְֶלֶף] [בָּהּ] [שֶׁבֶר] [בְּרוּחַ] | [KJV:] A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
+Prov 15:5 [אֱוִיל] [יִנְאַץ] [מוַּר] his father [וְשֹׁמֵר] [תּוֹכַחַת] [יַעְרִם] | [KJV:] A fool despiseth his father's instruction: but he that regardeth reproof is prudent.
+Prov 15:6 [בֵּית] [צַדִּיק] [חֶֹן] [רָב] [וּבִתְבוּאַת] [רָשָׁע] [נֶעְכָּרֶת] | [KJV:] In the house of the righteous is much treasure: but in the revenues of the wicked is trouble.
+Prov 15:7 [שְִׂתֵי] [חֲכָמִים] [יְזָרוּ] [דָעַת] [וְלֵב] [כְִּילִים] not [כֵן] | [KJV:] The lips of the wise disperse knowledge: but the heart of the foolish doeth not so.
+Prov 15:8 [זֶבַח] [רְשָׁעִים] [תּוֹעֲבַת] YHWH/[the] LORD [וּתְִלַּת] [יְשָׁרִים] [רְצוֹנוֹ] | [KJV:] The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.
+Prov 15:9 [תּוֹעֲבַת] YHWH/[the] LORD [דֶּרֶךְ] [רָשָׁע] [וּמְרַדֵּף] [צְדָקָה] [יֶאֱהָב] | [KJV:] The way of the wicked is an abomination unto the Lord: but he loveth him that followeth after righteousness.
+Prov 15:10 [מוָּר] [רָע] [לְעֹזֵב] [אֹרַח] [שׂוֹנֵא] [תוֹכַחַת] [יָמוּת] | [KJV:] Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.
+Prov 15:11 [שְׁאוֹל] [וַאֲבַדּוֹן] [נֶגֶד] YHWH/[the] LORD [אַף] [כִּי] [לִבּוֹת] [בְּנֵי] man/mankind | [KJV:] Hell and destruction are before the Lord: how much more then the hearts of the children of men?
+Prov 15:12 not [יֶאֱהַב] [לֵץ] [הוֹכֵחַ] to him to/toward [חֲכָמִים] not [יֵלֵךְ]
+Prov 15:13 heart [שָׂמֵחַ] [יֵיטִב] [ָּנִים] [וּבְעַצְּבַת] heart spirit/wind [נְכֵאָה] | [KJV:] A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.
+Prov 15:14 heart [נָבוֹן] [יְבַקֶּשׁ] [דָּעַת] [וְּנֵי] [כְִילִים] [יִרְעֶה] [אִוֶּלֶת] | [KJV:] The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.
+Prov 15:15 [כָּל] [יְמֵי] poor [רָעִים] [וְטוֹב] heart [מִשְׁתֶּה] [תָמִיד] | [KJV:] All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.
+Prov 15:16 good [מְעַט] [בְּיִרְאַת] YHWH/[the] LORD [מֵאוֹצָר] [רָב] [וּמְהוּמָה] in him/it
+Prov 15:17 good [אֲרֻחַת] [יָרָק] [וְאַהֲבָה] [שָׁם] [מִשּׁוֹר] [אָבוּ] [וְשִׂנְאָה] in him/it | [KJV:] Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.
+Prov 15:18 man [חֵמָה] [יְגָרֶה] [מָדוֹן] [וְאֶרֶך] [אַַּיִם] [יַשְׁקִיט] [רִיב] | [KJV:] A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.
+Prov 15:19 [דֶּרֶךְ] [עָצֵל] [כִּמְשֻׂכַת] [חָדֶק] [וְאֹרַח] [יְשָׁרִים] [ְלֻלָה] | [KJV:] The way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain.
+Prov 15:20 [בֵּן] wise [יְשַׂמַּח] father [וּכְִיל] man/mankind [בּוֹזֶה] [אִמּוֹ] | [KJV:] A wise son maketh a glad father: but a foolish man despiseth his mother.
+Prov 15:21 [אִוֶּלֶת] [שִׂמְחָה] [לַחֲַר] heart and a man [תְּבוּנָה] [יְיַשֶּׁר] [לָכֶת] | [KJV:] Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.
+Prov 15:22 [הֵָר] [מַחֲשָׁבוֹת] [בְּאֵין] [וֹד] [וּבְרֹב] [יוֹעֲצִים] [תָּקוּם] | [KJV:] Without counsel purposes are disappointed: but in the multitude of counsellors they are established.
+Prov 15:23 [שִׂמְחָה] [לָאִישׁ] [בְּמַעֲנֵה] [ִיו] [וְדָבָר] [בְּעִתּוֹ] what [טּוֹב] | [KJV:] A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!
+Prov 15:24 [אֹרַח] [חַיִּים] [לְמַעְלָה] [לְמַשְׂכִּיל] for the sake of [וּר] [מִשְּׁאוֹל] [מָטָּה] | [KJV:] The way of life is above to the wise, that he may depart from hell beneath.
+Prov 15:25 [בֵּית] [גֵּאִים] [יִַּח] YHWH/[the] LORD [וְיַצֵּב] [גְּבוּל] [אַלְמָנָה] | [KJV:] The Lord will destroy the house of the proud: but he will establish the border of the widow.
+Prov 15:26 [תּוֹעֲבַת] YHWH/[the] LORD [מַחְשְׁבוֹת] [רָע] [וּטְהֹרִים] [אִמְרֵי] [נֹעַם] | [KJV:] The thoughts of the wicked are an abomination to the Lord: but the words of the pure are pleasant words.
+Prov 15:27 [עֹכֵר] [בֵּיתוֹ] [בּוֹצֵעַ] [בָּצַע] [וְשׂוֹנֵא] [מַתָּנֹת] [יִחְיֶה] | [KJV:] He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.
+Prov 15:28 heart [צַדִּיק] [יֶהְגֶּה] [לַעֲנוֹת] [וִּי] [רְשָׁעִים] [יַבִּיעַ] [רָעוֹת] | [KJV:] The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.
+Prov 15:29 [רָחוֹק] YHWH/[the] LORD [מֵרְשָׁעִים] [וּתְִלַּת] [צַדִּיקִים] [יִשְׁמָע] | [KJV:] The Lord is far from the wicked: but he heareth the prayer of the righteous.
+Prov 15:30 [מְאוֹר] [עֵינַיִם] [יְשַׂמַּח] heart [שְׁמוּעָה] [טוֹבָה] [תְּדַשֶּׁן] [עָצֶם] | [KJV:] The light of the eyes rejoiceth the heart: and a good report maketh the bones fat.
+Prov 15:31 [אֹזֶן] [שֹׁמַעַת] [תּוֹכַחַת] [חַיִּים] [בְּקֶרֶב] [חֲכָמִים] [תָּלִין] | [KJV:] The ear that heareth the reproof of life abideth among the wise.
+Prov 15:32 [ּוֹרֵעַ] [מוָּר] [מוֹאֵ] [נְַשׁוֹ] [וְשׁוֹמֵעַ] [תּוֹכַחַת] [קוֹנֶה] [לֵּב] | [KJV:] He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.
+Prov 15:33 [יִרְאַת] YHWH/[the] LORD [מוַּר] [חָכְמָה] [וְלְִנֵי] [כָבוֹד] [עֲנָוָה] | [KJV:] The fear of the Lord is the instruction of wisdom; and before honour is humility.
+Prov 16:1 [לְאָדָם] [מַעַרְכֵי] heart [וּמֵיְהוָה] [מַעֲנֵה] [לָשׁוֹן] | [KJV:] The preparations of the heart in man, and the answer of the tongue, is from the Lord.
+Prov 16:2 [כָּל] [דַּרְכֵי] man [זַךְ] [בְּעֵינָיו] [וְתֹכֵן] [רוּחוֹת] YHWH/[the] LORD | [KJV:] All the ways of a man are clean in his own eyes; but the Lord weigheth the spirits.
+Prov 16:3 [גֹּל] to/toward YHWH/[the] LORD [מַעֲשֶׂיךָ] [וְיִכֹּנוּ] [מַחְשְׁבֹתֶיךָ] | [KJV:] Commit thy works unto the Lord, and thy thoughts shall be established.
+Prov 16:4 all [ָּעַל] YHWH/[the] LORD [לַמַּעֲנֵהוּ] [וְגַם] [רָשָׁע] [לְיוֹם] [רָעָה] | [KJV:] The Lord hath made all things for himself: yea, even the wicked for the day of evil.
+Prov 16:5 [תּוֹעֲבַת] YHWH/[the] LORD [כָּל] [גְּבַהּ] heart hand [לְיָד] not [יִנָּקֶה]
+Prov 16:6 [בְּחֶֶד] [וֶאֱמֶת] [יְכַֻּר] [עָוֹן] [וּבְיִרְאַת] YHWH/[the] LORD [וּר] [מֵרָע] | [KJV:] By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
+Prov 16:7 [בִּרְצוֹת] YHWH/[the] LORD [דַּרְכֵי] man [גַּם] [אוֹיְבָיו] [יַשְׁלִם] with him
+Prov 16:8 good [מְעַט] [בִּצְדָקָה] [מֵרֹב] [תְּבוּאוֹת] [בְּלֹא] [מִשְָּׁט] | [KJV:] Better is a little with righteousness than great revenues without right.
+Prov 16:9 heart man/mankind [יְחַשֵּׁב] [דַּרְכּוֹ] [וַיהוָה] [יָכִין] [צַעֲדוֹ] | [KJV:] A man's heart deviseth his way: but the Lord directeth his steps.
+Prov 16:10 [קֶֶם] upon [שְִׂתֵי] king [בְּמִשְָּׁט] not [יִמְעַל] [ִּיו] | [KJV:] A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.
+Prov 16:11 [ֶּלֶ] [וּמֹאזְנֵי] [מִשְָּׁט] to YHWH [מַעֲשֵׂהוּ] [כָּל] [אַבְנֵי] [כִי] | [KJV:] A just weight and balance are the Lord's: all the weights of the bag are his work.
+Prov 16:12 [תּוֹעֲבַת] [מְלָכִים] [עֲשׂוֹת] [רֶשַׁע] [כִּי] [בִצְדָקָה] [יִכּוֹן] [כִֵּּא] | [KJV:] It is an abomination to kings to commit wickedness: for the throne is established by righteousness.
+Prov 16:13 [רְצוֹן] [מְלָכִים] [שְִׂתֵי] righteousness [וְדֹבֵר] [יְשָׁרִים] [יֶאֱהָב] | [KJV:] Righteous lips are the delight of kings; and they love him that speaketh right.
+Prov 16:14 [חֲמַת] king [מַלְאֲכֵי] [מָוֶת] and a man wise [יְכְַּרֶנָּה]
+Prov 16:15 [בְּאוֹר] [ְּנֵי] king [חַיִּים] [וּרְצוֹנוֹ] [כְּעָב] [מַלְקוֹשׁ] | [KJV:] In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.
+Prov 16:16 [קְנֹה] [חָכְמָה] what [טּוֹב] [מֵחָרוּץ] [וּקְנוֹת] [בִּינָה] [נִבְחָר] [מִכֶָּף] | [KJV:] How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!
+Prov 16:17 [מְִלַּת] [יְשָׁרִים] [וּר] [מֵרָע] [שֹׁמֵר] [נְַשׁוֹ] [נֹצֵר] [דַּרְכּוֹ] | [KJV:] The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.
+Prov 16:18 [לְִנֵי] [שֶׁבֶר] [גָּאוֹן] [וְלְִנֵי] [כִשָּׁלוֹן] [גֹּבַהּ] spirit/wind | [KJV:] Pride goeth before destruction, and an haughty spirit before a fall.
+Prov 16:19 good [שְַׁל] spirit/wind [with] [עֲנִיִּים] [מֵחַלֵּק] [שָׁלָל] [with] [גֵּאִים] | [KJV:] Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.
+Prov 16:20 [מַשְׂכִּיל] upon [דָּבָר] [יִמְצָא] good [וּבוֹטֵחַ] [בַּיהוָה] [אַשְׁרָיו] | [KJV:] He that handleth a matter wisely shall find good: and whoso trusteth in the Lord, happy is he.
+Prov 16:21 [לַחֲכַם] heart [יִקָּרֵא] [נָבוֹן] [וּמֶתֶק] [שְָׂתַיִם] [יִֹיף] [לֶקַח] | [KJV:] The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.
+Prov 16:22 [מְקוֹר] [חַיִּים] [שֵׂכֶל] [בְּעָלָיו] [וּמוַּר] [אֱוִלִים] [אִוֶּלֶת] | [KJV:] Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.
+Prov 16:23 heart wise [יַשְׂכִּיל] [ִּיהוּ] and upon [שְָׂתָיו] [יִֹיף] [לֶקַח] | [KJV:] The heart of the wise teacheth his mouth, and addeth learning to his lips.
+Prov 16:24 [צוּף] [דְּבַשׁ] [אִמְרֵי] [נֹעַם] [מָתוֹק] [לַנֶֶּשׁ] [וּמַרְֵּא] [לָעָצֶם] | [KJV:] Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.
+Prov 16:25 [יֵשׁ] [דֶּרֶךְ] [יָשָׁר] [לְִנֵי] man [וְאַחֲרִיתָהּ] [דַּרְכֵי] [מָוֶת] | [KJV:] There is a way that seemeth right unto a man, but the end thereof are the ways of death.
+Prov 16:26 [נֶֶשׁ] [עָמֵל] [עָמְלָה] [לּוֹ] [כִּי] [אָכַף] upon him [ִּיהוּ] | [KJV:] He that laboureth laboureth for himself; for his mouth craveth it of him.
+Prov 16:27 man [בְּלִיַּעַל] [כֹּרֶה] [רָעָה] and upon [שְָׂתָיו] [כְּאֵשׁ] [צָרָבֶת] | [KJV:] An ungodly man diggeth up evil: and in his lips there is as a burning fire.
+Prov 16:28 man [תַּהְֻּכוֹת] [יְשַׁלַּח] [מָדוֹן] [וְנִרְגָּן] [מְַרִיד] [אַלּוּף] | [KJV:] A froward man soweth strife: and a whisperer separateth chief friends.
+Prov 16:29 man [חָמָ] [יְַתֶּה] [רֵעֵהוּ] [וְהוֹלִיכוֹ] [בְּדֶרֶךְ] not good | [KJV:] A violent man enticeth his neighbour, and leadeth him into the way that is not good.
+Prov 16:30 [עֹצֶה] [עֵינָיו] [לַחְשֹׁב] [תַּהְֻּכוֹת] [קֹרֵץ] [שְָׂתָיו] [כִּלָּה] [רָעָה] | [KJV:] He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.
+Prov 16:31 [עֲטֶרֶת] [תְִּאֶרֶת] [שֵׂיבָה] [בְּדֶרֶךְ] [צְדָקָה] [תִּמָּצֵא] | [KJV:] The hoary head is a crown of glory, if it be found in the way of righteousness.
+Prov 16:32 good [אֶרֶךְ] [אַַּיִם] [מִגִּבּוֹר] [וּמֹשֵׁל] [בְּרוּחוֹ] [מִלֹּכֵד] city | [KJV:] He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.
+Prov 16:33 [בַּחֵיק] [יוּטַל] [with] [הַגּוֹרָל] [וּמֵיְהוָה] [כָּל] [מִשְָּׁטוֹ] | [KJV:] The lot is cast into the lap; but the whole disposing thereof is of the Lord.
+Prov 17:1 good [ַּת] [חֲרֵבָה] [וְשַׁלְוָה] [בָהּ] [מִבַּיִת] [he] was full [זִבְחֵי] [רִיב] | [KJV:] Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
+Prov 17:2 servant [מַשְׂכִּיל] [יִמְשֹׁל] [בְּבֵן] [מֵבִישׁ] [וּבְתוֹךְ] [אַחִים] [יַחֲלֹק] inheritance | [KJV:] A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.
+Prov 17:3 [מַצְרֵף] [לַכֶֶּף] [וְכוּר] [לַזָּהָב] [וּבֹחֵן] [לִבּוֹת] YHWH/[the] LORD | [KJV:] The fining pot is for silver, and the furnace for gold: but the Lord trieth the hearts.
+Prov 17:4 [מֵרַע] [מַקְשִׁיב] upon [שְַׂת] [אָוֶן] [שֶׁקֶר] [מֵזִין] upon [לְשׁוֹן] [הַוֹּת] | [KJV:] A wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue.
+Prov 17:5 [לֹעֵג] [לָרָשׁ] [חֵרֵף] [עֹשֵׂהוּ] [שָׂמֵחַ] [לְאֵיד] not [יִנָּקֶה] | [KJV:] Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.
+Prov 17:6 [עֲטֶרֶת] [זְקֵנִים] [בְּנֵי] [בָנִים] [וְתְִאֶרֶת] [בָּנִים] their fathers | [KJV:] Children's children are the crown of old men; and the glory of children are their fathers.
+Prov 17:7 not [נָאוָה] [לְנָבָל] [שְַׂת] [יֶתֶר] [אַף] [כִּי] [לְנָדִיב] [שְַׂת] [שָׁקֶר] | [KJV:] Excellent speech becometh not a fool: much less do lying lips a prince.
+Prov 17:8 [אֶבֶן] grace [הַשֹּׁחַד] [בְּעֵינֵי] [בְעָלָיו] to/toward [כָּל] [אֲשֶׁר] [יְִנֶה] [יַשְׂכִּיל] | [KJV:] A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.
+Prov 17:9 [מְכֶַּה] [ֶּשַׁע] [מְבַקֵּשׁ] [אַהֲבָה] [וְשֹׁנֶה] [בְדָבָר] [מְַרִיד] [אַלּוּף] | [KJV:] He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.
+Prov 17:10 [תֵּחַת] [גְּעָרָה] [בְמֵבִין] [מֵהַכּוֹת] [כְִּיל] hundred | [KJV:] A reproof entereth more into a wise man than an hundred stripes into a fool.
+Prov 17:11 only/however [מְרִי] [יְבַקֶּשׁ] [רָע] [וּמַלְאָךְ] [אַכְזָרִי] [יְשֻׁלַּח] in him/it | [KJV:] An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.
+Prov 17:12 [ָּגוֹשׁ] [דֹּב] [שַׁכּוּל] [בְּאִישׁ] [וְאַל] [כְִּיל] [בְּאִוַּלְתּוֹ] | [KJV:] Let a bear robbed of her whelps meet a man, rather than a fool in his folly.
+Prov 17:13 [מֵשִׁיב] [רָעָה] [תַּחַת] [טוֹבָה] not [תָמִישׁ] [רָעָה] [מִבֵּיתוֹ] | [KJV:] Whoso rewardeth evil for good, evil shall not depart from his house.
+Prov 17:14 [ּוֹטֵר] water(s) [רֵאשִׁית] [מָדוֹן] [וְלְִנֵי] [הִתְגַּלַּע] [הָרִיב] [נְטוֹשׁ] | [KJV:] The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.
+Prov 17:15 [מַצְדִּיק] [רָשָׁע] [וּמַרְשִׁיעַ] [צַדִּיק] [תּוֹעֲבַת] YHWH/[the] LORD [גַּם] [שְׁנֵיהֶם] | [KJV:] He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord.
+Prov 17:16 [לָמָּה] [זֶּה] [מְחִיר] [בְּיַד] [כְִּיל] [לִקְנוֹת] [חָכְמָה] [וְלֶב] [אָיִן] | [KJV:] Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?
+Prov 17:17 [בְּכָל] [עֵת] [אֹהֵב] [הָרֵעַ] [וְאָח] [לְצָרָה] [יִוָּלֵד] | [KJV:] A friend loveth at all times, and a brother is born for adversity.
+Prov 17:18 man/mankind [חֲַר] heart [תּוֹקֵעַ] [כָּף] [עֹרֵב] [עֲרֻבָּה] [לְִנֵי] [רֵעֵהוּ] | [KJV:] A man void of understanding striketh hands, and becometh surety in the presence of his friend.
+Prov 17:19 [אֹהֵב] [ֶּשַׁע] [אֹהֵב] [מַצָּה] [מַגְבִּיהַּ] [ִּתְחוֹ] [מְבַקֶּשׁ] [שָׁבֶר] | [KJV:] He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.
+Prov 17:20 [עִקֶּשׁ] heart not [יִמְצָא] good [וְנֶהְָּךְ] [בִּלְשׁוֹנוֹ] [יִּוֹל] [בְּרָעָה] | [KJV:] He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.
+Prov 17:21 [יֹלֵד] [כְִּיל] [לְתוּגָה] to him and not [יִשְׂמַח] my father [נָבָל]
+Prov 17:22 heart [שָׂמֵחַ] [יֵיטִב] [גֵּהָה] [וְרוּחַ] [נְכֵאָה] [תְּיַבֶּשׁ] [גָּרֶם] | [KJV:] A merry heart doeth good like a medicine: but a broken spirit drieth the bones.
+Prov 17:23 [שֹׁחַד] [מֵחֵיק] [רָשָׁע] [יִקָּח] [לְהַטּוֹת] [אָרְחוֹת] [מִשְָּׁט] | [KJV:] A wicked man taketh a gift out of the bosom to pervert the ways of judgment.
+Prov 17:24 [with] [ְּנֵי] [מֵבִין] [חָכְמָה] [וְעֵינֵי] [כְִיל] [בִּקְצֵה] earth | [KJV:] Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.
+Prov 17:25 [כַּעַ] [לְאָבִיו] [בֵּן] [כְִּיל] [וּמֶמֶר] [לְיוֹלַדְתּוֹ] | [KJV:] A foolish son is a grief to his father, and bitterness to her that bare him.
+Prov 17:26 [גַּם] [עֲנוֹשׁ] [לַצַּדִּיק] not good [לְהַכּוֹת] [נְדִיבִים] upon [יֹשֶׁר] | [KJV:] Also to punish the just is not good, nor to strike princes for equity.
+Prov 17:27 [חוֹשֵׂךְ] [אֲמָרָיו] [he] knows [דָּעַת] [וְקַר] spirit/wind man [תְּבוּנָה] | [KJV:] He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.
+Prov 17:28 [גַּם] [אֱוִיל] [מַחֲרִישׁ] wise [יֵחָשֵׁב] [אֹטֵם] [שְָׂתָיו] [נָבוֹן] | [KJV:] Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.
+Prov 18:1 [לְתַאֲוָה] [יְבַקֵּשׁ] [נְִרָד] [בְּכָל] [תּוּשִׁיָּה] [יִתְגַּלָּע] | [KJV:] Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
+Prov 18:2 not [יַחְֹּץ] [כְִּיל] [בִּתְבוּנָה] [כִּי] if [בְּהִתְגַּלּוֹת] [לִבּוֹ] | [KJV:] A fool hath no delight in understanding, but that his heart may discover itself.
+Prov 18:3 [בְּבוֹא] [רָשָׁע] [בָּא] [גַם] [בּוּז] [וְעִם] [קָלוֹן] [חֶרְָּה] | [KJV:] When the wicked cometh, then cometh also contempt, and with ignominy reproach.
+Prov 18:4 water(s) [עֲמֻקִּים] [דִּבְרֵי] [ִי] man inheritance [נֹבֵעַ] [מְקוֹר] [חָכְמָה] | [KJV:] The words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook.
+Prov 18:5 [שְׂאֵת] [ְּנֵי] [רָשָׁע] not good [לְהַטּוֹת] [צַדִּיק] [בַּמִּשְָּׁט] | [KJV:] It is not good to accept the person of the wicked, to overthrow the righteous in judgment.
+Prov 18:6 [שְִׂתֵי] [כְִיל] [יָבֹאוּ] [בְרִיב] [וִּיו] [לְמַהֲלֻמוֹת] [יִקְרָא] | [KJV:] A fool's lips enter into contention, and his mouth calleth for strokes.
+Prov 18:7 [ִּי] [כְִיל] [מְחִתָּה] to him [וּשְָׂתָיו] [מוֹקֵשׁ] [נְַשׁוֹ] | [KJV:] A fool's mouth is his destruction, and his lips are the snare of his soul.
+Prov 18:8 [דִּבְרֵי] [נִרְגָּן] [כְּמִתְלַהֲמִים] [וְהֵם] [יָרְדוּ] [חַדְרֵי] [בָטֶן] | [KJV:] The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
+Prov 18:9 [גַּם] [מִתְרֶַּה] [בִמְלַאכְתּוֹ] brother he [לְבַעַל] [מַשְׁחִית] | [KJV:] He also that is slothful in his work is brother to him that is a great waster.
+Prov 18:10 [מִגְדַּל] [עֹז] [שֵׁם] YHWH/[the] LORD in him/it [יָרוּץ] [צַדִּיק] [וְנִשְׂגָּב] | [KJV:] The name of the Lord is a strong tower: the righteous runneth into it, and is safe.
+Prov 18:11 [הוֹן] [עָשִׁיר] Kiriath [עֻזּוֹ] [וּכְחוֹמָה] [נִשְׂגָּבָה] [בְּמַשְׂכִּיתוֹ] | [KJV:] The rich man's wealth is his strong city, and as an high wall in his own conceit.
+Prov 18:12 [לְִנֵי] [שֶׁבֶר] [יִגְבַּהּ] heart man [וְלְִנֵי] [כָבוֹד] [עֲנָוָה] | [KJV:] Before destruction the heart of man is haughty, and before honour is humility.
+Prov 18:13 [מֵשִׁיב] [דָּבָר] [בְּטֶרֶם] [יִשְׁמָע] [אִוֶּלֶת] she to him [וּכְלִמָּה] | [KJV:] He that answereth a matter before he heareth it, it is folly and shame unto him.
+Prov 18:14 spirit/wind man [יְכַלְכֵּל] [מַחֲלֵהוּ] [וְרוּחַ] [נְכֵאָה] who [יִשָּׂאֶנָּה] | [KJV:] The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
+Prov 18:15 heart [נָבוֹן] [יִקְנֶה] [דָּעַת] [וְאֹזֶן] [חֲכָמִים] [תְּבַקֶּשׁ] [דָּעַת] | [KJV:] The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.
+Prov 18:16 [מַתָּן] man/mankind [יַרְחִיב] to him [וְלְִנֵי] [גְדֹלִים] [יַנְחֶנּוּ] | [KJV:] A man's gift maketh room for him, and bringeth him before great men.
+Prov 18:17 [צַדִּיק] [הָרִאשׁוֹן] [בְּרִיבוֹ] [יּבָא] [רֵעֵהוּ] [וַחֲקָרוֹ] | [KJV:] He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.
+Prov 18:18 [מִדְיָנִים] [יַשְׁבִּית] [הַגּוֹרָל] and between [עֲצוּמִים] [יְַרִיד] | [KJV:] The lot causeth contentions to cease, and parteth between the mighty.
+Prov 18:19 brother [נְִשָׁע] [מִקִּרְיַת] [עֹז] [וּמְדוֹנִים] [כִּבְרִיחַ] [אַרְמוֹן] | [KJV:] A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.
+Prov 18:20 [מְִּרִי] [ִי] man [תִּשְׂבַּע] [בִּטְנוֹ] [תְּבוּאַת] [שְָׂתָיו] [יִשְׂבָּע] | [KJV:] A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.
+Prov 18:21 [מָוֶת] [וְחַיִּים] [בְּיַד] [לָשׁוֹן] [וְאֹהֲבֶיהָ] [יֹאכַל] [ִּרְיָהּ] | [KJV:] Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.
+Prov 18:22 [מָצָא] [אִשָּׁה] [מָצָא] good [וַיֶָּק] [רָצוֹן] [מֵיְהוָה] | [KJV:] Whoso findeth a wife findeth a good thing, and obtaineth favour of the Lord.
+Prov 18:23 [תַּחֲנוּנִים] [יְדַבֶּר] [רָשׁ] [וְעָשִׁיר] [יַעֲנֶה] [עַזּוֹת] | [KJV:] The poor useth intreaties; but the rich answereth roughly.
+Prov 18:24 man [רֵעִים] [לְהִתְרֹעֵעַ] [וְיֵשׁ] [אֹהֵב] [דָּבֵק] [מֵאָח] | [KJV:] A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.
+Prov 19:1 good [רָשׁ] [הוֹלֵךְ] [בְּתֻמּוֹ] [מֵעִקֵּשׁ] [שְָׂתָיו] [וְהוּא] [כְִיל] | [KJV:] Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.
+Prov 19:2 [גַּם] [בְּלֹא] [דַעַת] [נֶֶשׁ] not good [וְאָץ] [בְּרַגְלַיִם] [חוֹטֵא] | [KJV:] Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
+Prov 19:3 [אִוֶּלֶת] man/mankind [תְַּלֵּף] [דַּרְכּוֹ] and upon YHWH/[the] LORD [יִזְעַף] [לִבּוֹ]
+Prov 19:4 [הוֹן] [יִֹיף] [רֵעִים] [רַבִּים] [וְדָל] [מֵרֵעהוּ] [יִָּרֵד] | [KJV:] Wealth maketh many friends; but the poor is separated from his neighbour.
+Prov 19:5 [עֵד] [שְׁקָרִים] not [יִנָּקֶה] [וְיִָיחַ] [כְּזָבִים] not [יִמָּלֵט] | [KJV:] A false witness shall not be unpunished, and he that speaketh lies shall not escape.
+Prov 19:6 [רַבִּים] [יְחַלּוּ] [ְנֵי] [נָדִיב] and all [הָרֵעַ] [לְאִישׁ] [מַתָּן] | [KJV:] Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
+Prov 19:7 [כָּל] [אֲחֵי] [רָשׁ] [שְׂנֵאֻהוּ] [אַף] [כִּי] [מְרֵעֵהוּ] [רָחֲקוּ] [מִמֶּנּוּ] [מְרַדֵּף] [אֲמָרִים] not [הֵמָּה] | [KJV:] All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.
+Prov 19:8 [קֹנֶה] [לֵּב] [אֹהֵב] [נְַשׁוֹ] [שֹׁמֵר] [תְּבוּנָה] [לִמְצֹא] good | [KJV:] He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.
+Prov 19:9 [עֵד] [שְׁקָרִים] not [יִנָּקֶה] [וְיִָיחַ] [כְּזָבִים] [יֹאבֵד] | [KJV:] A false witness shall not be unpunished, and he that speaketh lies shall perish.
+Prov 19:10 not [נָאוֶה] [לִכְִיל] [תַּעֲנוּג] [אַף] [כִּי] [לְעֶבֶד] [מְשֹׁל] [בְּשָׂרִים] | [KJV:] Delight is not seemly for a fool; much less for a servant to have rule over princes.
+Prov 19:11 [שֵׂכֶל] man/mankind [הֶאֱרִיךְ] [אַּוֹ] [וְתִאַרְתּוֹ] pass over! upon [ָּשַׁע] | [KJV:] The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.
+Prov 19:12 [נַהַם] [כַּכְִּיר] [זַעַף] king [וּכְטַל] upon [עֵשֶׂב] [רְצוֹנוֹ] | [KJV:] The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.
+Prov 19:13 [הַוֹּת] [לְאָבִיו] [בֵּן] [כְִּיל] [וְדֶלֶף] [טֹרֵד] [מִדְיְנֵי] [אִשָּׁה] | [KJV:] A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.
+Prov 19:14 [בַּיִת] [וָהוֹן] inheritance of [אָבוֹת] [וּמֵיְהוָה] [אִשָּׁה] [מַשְׂכָּלֶת] | [KJV:] House and riches are the inheritance of fathers: and a prudent wife is from the Lord.
+Prov 19:15 [עַצְלָה] [תִַּּיל] [תַּרְדֵּמָה] [וְנֶֶשׁ] [רְמִיָּה] [תִרְעָב] | [KJV:] Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.
+Prov 19:16 [שֹׁמֵר] [מִצְוָה] [שֹׁמֵר] [נְַשׁוֹ] [בּוֹזֵה] [דְרָכָיו] [יוּמָת] | [KJV:] He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.
+Prov 19:17 [מַלְוֵה] YHWH/[the] LORD [חוֹנֵן] [דָּל] [וּגְמֻלוֹ] [יְשַׁלֶּם] to him | [KJV:] He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.
+Prov 19:18 [יֵַּר] [בִּנְךָ] [כִּי] [יֵשׁ] [תִּקְוָה] and to [הֲמִיתוֹ] not [imperative] [תִּשָּׂא] [נְַשֶׁךָ] | [KJV:] Chasten thy son while there is hope, and let not thy soul spare for his crying.
+Prov 19:19 [גְּרָל] [חֵמָה] [נֹשֵׂא] [עֹנֶשׁ] [כִּי] if [תַּצִּיל] [וְעוֹד] [תּוִֹף] | [KJV:] A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.
+Prov 19:20 [שְׁמַע] [עֵצָה] [וְקַבֵּל] [מוָּר] for the sake of [תֶּחְכַּם] [בְּאַחֲרִיתֶךָ] | [KJV:] Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
+Prov 19:21 [רַבּוֹת] [מַחֲשָׁבוֹת] [בְּלֶב] man [וַעֲצַת] YHWH/[the] LORD she [תָקוּם] | [KJV:] There are many devices in a man's heart; nevertheless the counsel of the Lord, that shall stand.
+Prov 19:22 [תַּאֲוַת] man/mankind [חְַדּוֹ] [וְטוֹב] [רָשׁ] [מֵאִישׁ] [כָּזָב] | [KJV:] The desire of a man is his kindness: and a poor man is better than a liar.
+Prov 19:23 [יִרְאַת] YHWH/[the] LORD [לְחַיִּים] [וְשָׂבֵעַ] [יָלִין] [בַּל] [יִָּקֶד] [רָע] | [KJV:] The fear of the Lord tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.
+Prov 19:24 [טָמַן] [עָצֵל] his hand [בַּצַּלָּחַת] [גַּם] to/toward [ִּיהוּ] not [יְשִׁיבֶנָּה] | [KJV:] A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.
+Prov 19:25 [לֵץ] [תַּכֶּה] [וֶּתִי] [יַעְרִם] [וְהוֹכִיחַ] [לְנָבוֹן] [יָבִין] [דָּעַת] | [KJV:] Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.
+Prov 19:26 [מְשַׁדֶּד] father [יַבְרִיחַ] mother [בֵּן] [מֵבִישׁ] [וּמַחְִּיר] | [KJV:] He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.
+Prov 19:27 [חַדַל] [בְּנִי] [לִשְׁמֹעַ] [מוָּר] [לִשְׁגוֹת] [מֵאִמְרֵי] [דָעַת] | [KJV:] Cease, my son, to hear the instruction that causeth to err from the words of knowledge.
+Prov 19:28 [עֵד] [בְּלִיַּעַל] [יָלִיץ] [מִשְָּׁט] [וִּי] [רְשָׁעִים] [יְבַלַּע] [אָוֶן] | [KJV:] An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.
+Prov 19:29 [נָכוֹנוּ] [לַלֵּצִים] [שְָׁטִים] [וּמַהֲלֻמוֹת] [לְגֵו] [כְִּילִים] | [KJV:] Judgments are prepared for scorners, and stripes for the back of fools.
+Prov 20:1 [לֵץ] [הַיַּיִן] [הֹמֶה] [שֵׁכָר] and all [שֹׁגֶה] in him/it not [יֶחְכָּם]
+Prov 20:2 [נַהַם] [כַּכְִּיר] [אֵימַת] king [מִתְעַבְּרוֹ] [חוֹטֵא] [נְַשׁוֹ] | [KJV:] The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.
+Prov 20:3 [כָּבוֹד] [לָאִישׁ] [שֶׁבֶת] [מֵרִיב] and all [אֱוִיל] [יִתְגַּלָּע] | [KJV:] It is an honour for a man to cease from strife: but every fool will be meddling.
+Prov 20:4 [מֵחֹרֶף] [עָצֵל] not [יַחֲרֹשׁ] [יִשְׁאַל] [בַּקָּצִיר] [וָאָיִן] | [KJV:] The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.
+Prov 20:5 water(s) [עֲמֻקִּים] [עֵצָה] [בְלֶב] man and a man [תְּבוּנָה] [יִדְלֶנָּה]
+Prov 20:6 [רָב] man/mankind [יִקְרָא] man [חְַדּוֹ] and a man [אֱמוּנִים] who [יִמְצָא]
+Prov 20:7 [מִתְהַלֵּךְ] [בְּתֻמּוֹ] [צַדִּיק] [אַשְׁרֵי] [בָנָיו] [אַחֲרָיו] | [KJV:] The just man walketh in his integrity: his children are blessed after him.
+Prov 20:8 king [יוֹשֵׁב] upon [כִֵּּא] [דִין] [מְזָרֶה] [בְעֵינָיו] [כָּל] [רָע] | [KJV:] A king that sitteth in the throne of judgment scattereth away all evil with his eyes.
+Prov 20:9 who [יֹאמַר] [זִכִּיתִי] [לִבִּי] [טָהַרְתִּי] [מֵחַטָּאתִי] | [KJV:] Who can say, I have made my heart clean, I am pure from my sin?
+Prov 20:10 [אֶבֶן] [וָאֶבֶן] [אֵיָה] [וְאֵיָה] [תּוֹעֲבַת] YHWH/[the] LORD [גַּם] [שְׁנֵיהֶם] | [KJV:] Divers weights, and divers measures, both of them are alike abomination to the Lord.
+Prov 20:11 [גַּם] [בְּמַעֲלָלָיו] [יִתְנַכֶּר] [נָעַר] if [זַךְ] and if [יָשָׁר] [ָּעֳלוֹ] | [KJV:] Even a child is known by his doings, whether his work be pure, and whether it be right.
+Prov 20:12 [אֹזֶן] [שֹׁמַעַת] [וְעַיִן] [רֹאָה] YHWH/[the] LORD [עָשָׂה] [גַם] [שְׁנֵיהֶם] | [KJV:] The hearing ear, and the seeing eye, the Lord hath made even both of them.
+Prov 20:13 not [imperative] [תֶּאֱהַב] [שֵׁנָה] [ֶּן] [תִּוָּרֵשׁ] [ְּקַח] [עֵינֶיךָ] [שְׂבַע] [לָחֶם] | [KJV:] Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.
+Prov 20:14 bad bad [יֹאמַר] [הַקּוֹנֶה] [וְאֹזֵל] to him then [יִתְהַלָּל]
+Prov 20:15 [יֵשׁ] gold [וְרָב] [ְּנִינִים] [וּכְלִי] [יְקָר] [שְִׂתֵי] [דָעַת] | [KJV:] There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.
+Prov 20:16 [לְקַח] [בִּגְדוֹ] [כִּי] [עָרַב] [זָר] [וּבְעַד] [נָכְרִים] [חַבְלֵהוּ] | [KJV:] Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.
+Prov 20:17 [עָרֵב] [לָאִישׁ] bread [שָׁקֶר] [וְאַחַר] [יִמָּלֵא] [ִיהוּ] [חָצָץ] | [KJV:] Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.
+Prov 20:18 [מַחֲשָׁבוֹת] [בְּעֵצָה] [תִכּוֹן] [וּבְתַחְבֻּלוֹת] [עֲשֵׂה] war | [KJV:] Every purpose is established by counsel: and with good advice make war.
+Prov 20:19 [גּוֹלֶה] [ּוֹד] [הוֹלֵךְ] [רָכִיל] [וּלְֹתֶה] [שְָׂתָיו] not [תִתְעָרָב] | [KJV:] He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
+Prov 20:20 [מְקַלֵּל] his father [וְאִמּוֹ] [יִדְעַךְ] [נֵרוֹ] [בְּאִישׁוֹן] [חֹשֶׁךְ] | [KJV:] Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.
+Prov 20:21 inheritance [מְבֻחֶלֶת] [בָּרִאשֹׁנָה] [וְאַחֲרִיתָהּ] not [תְבֹרָךְ] | [KJV:] An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.
+Prov 20:22 not [imperative] [תֹּאמַר] [אֲשַׁלְּמָה] [רָע] [קַוֵּה] to YHWH [וְיֹשַׁע] to you [f] | [KJV:] Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee.
+Prov 20:23 [תּוֹעֲבַת] YHWH/[the] LORD [אֶבֶן] [וָאָבֶן] [וּמֹאזְנֵי] [מִרְמָה] not good | [KJV:] Divers weights are an abomination unto the Lord; and a false balance is not good.
+Prov 20:24 [מֵיְהוָה] [מִצְעֲדֵי] [גָבֶר] [וְאָדָם] what [יָּבִין] [דַּרְכּוֹ] | [KJV:] Man's goings are of the Lord; how can a man then understand his own way?
+Prov 20:25 [מוֹקֵשׁ] man/mankind [יָלַע] holy [וְאַחַר] [נְדָרִים] [לְבַקֵּר] | [KJV:] It is a snare to the man who devoureth that which is holy, and after vows to make enquiry.
+Prov 20:26 [מְזָרֶה] [רְשָׁעִים] king wise [וַיָּשֶׁב] upon them [אוָֹן]
+Prov 20:27 [נֵר] YHWH/[the] LORD [נִשְׁמַת] man/mankind [חֵֹשׂ] [כָּל] [חַדְרֵי] [בָטֶן] | [KJV:] The spirit of man is the candle of the Lord, searching all the inward parts of the belly.
+Prov 20:28 [חֶֶד] [וֶאֱמֶת] [יִצְּרוּ] king [וְָעַד] [בַּחֶֶד] [כְִּאוֹ] | [KJV:] Mercy and truth preserve the king: and his throne is upholden by mercy.
+Prov 20:29 [תְִּאֶרֶת] [בַּחוּרִים] [כֹּחָם] [וַהֲדַר] [זְקֵנִים] [שֵׂיבָה] | [KJV:] The glory of young men is their strength: and the beauty of old men is the grey head.
+Prov 20:30 [חַבֻּרוֹת] [ֶּצַע] [תַּמְרִיק] [בְּרָע] [וּמַכּוֹת] [חַדְרֵי] [בָטֶן] | [KJV:] The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly.
+Prov 21:1 [ַּלְגֵי] water(s) [לֶב] king [בְּיַד] YHWH/[the] LORD upon [כָּל] [אֲשֶׁר] [יַחְֹּץ] [יַטֶּנּוּ] | [KJV:] The king's heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.
+Prov 21:2 [כָּל] [דֶּרֶךְ] man [יָשָׁר] [בְּעֵינָיו] [וְתֹכֵן] [לִבּוֹת] YHWH/[the] LORD | [KJV:] Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
+Prov 21:3 [עֲשֹׂה] [צְדָקָה] [וּמִשְָּׁט] [נִבְחָר] to YHWH [מִזָּבַח] | [KJV:] To do justice and judgment is more acceptable to the Lord than sacrifice.
+Prov 21:4 [רוּם] [עֵינַיִם] [וּרְחַב] heart [נִר] [רְשָׁעִים] [חַטָּאת] | [KJV:] An high look, and a proud heart, and the plowing of the wicked, is sin.
+Prov 21:5 [מַחְשְׁבוֹת] [חָרוּץ] only/however [לְמוֹתָר] and all [אָץ] only/however [לְמַחְוֹר] | [KJV:] The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.
+Prov 21:6 [ֹּעַל] [אוֹצָרוֹת] [בִּלְשׁוֹן] [שָׁקֶר] Abel [נִדָּף] [מְבַקְשֵׁי] [מָוֶת] | [KJV:] The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.
+Prov 21:7 [שֹׁד] [רְשָׁעִים] [יְגוֹרֵם] [כִּי] [מֵאֲנוּ] to do [מִשְָּׁט] | [KJV:] The robbery of the wicked shall destroy them; because they refuse to do judgment.
+Prov 21:8 [הֲַכְַּךְ] [דֶּרֶךְ] man [וָזָר] [וְזַךְ] [יָשָׁר] [ָּעֳלוֹ] | [KJV:] The way of man is froward and strange: but as for the pure, his work is right.
+Prov 21:9 good [לָשֶׁבֶת] upon [ִּנַּת] [גָּג] [מֵאֵשֶׁת] [מִדְיָנִים] [וּבֵית] [חָבֶר] | [KJV:] It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.
+Prov 21:10 [נֶֶשׁ] [רָשָׁע] [אִוְּתָה] [רָע] not [יֻחַן] [בְּעֵינָיו] [רֵעֵהוּ] | [KJV:] The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.
+Prov 21:11 [בַּעְנָשׁ] [לֵץ] [יֶחְכַּם] [ֶּתִי] [וּבְהַשְׂכִּיל] [לְחָכָם] [יִקַּח] [דָּעַת] | [KJV:] When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.
+Prov 21:12 [מַשְׂכִּיל] [צַדִּיק] to/for house of [רָשָׁע] [מְַלֵּף] [רְשָׁעִים] [לָרָע] | [KJV:] The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.
+Prov 21:13 [אֹטֵם] [אָזְנוֹ] [מִזַּעֲקַת] [דָּל] [גַּם] he [יִקְרָא] and not [יֵעָנֶה] | [KJV:] Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
+Prov 21:14 [מַתָּן] [בֵַּּתֶר] [יִכְֶּה] [אָף] [וְשֹׁחַד] [בַּחֵק] [חֵמָה] [עַזָּה] | [KJV:] A gift in secret pacifieth anger: and a reward in the bosom strong wrath.
+Prov 21:15 [שִׂמְחָה] [לַצַּדִּיק] [עֲשׂוֹת] [מִשְָּׁט] [וּמְחִתָּה] [לְֹעֲלֵי] [אָוֶן] | [KJV:] It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.
+Prov 21:16 man/mankind [תּוֹעֶה] [מִדֶּרֶךְ] [הַשְׂכֵּל] [בִּקְהַל] [רְָאִים] [יָנוּחַ] | [KJV:] The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
+Prov 21:17 man [מַחְוֹר] [אֹהֵב] [שִׂמְחָה] [אֹהֵב] wine [וָשֶׁמֶן] not [יַעֲשִׁיר] | [KJV:] He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.
+Prov 21:18 [כֶֹּר] [לַצַּדִּיק] [רָשָׁע] [וְתַחַת] [יְשָׁרִים] [בּוֹגֵד] | [KJV:] The wicked shall be a ransom for the righteous, and the transgressor for the upright.
+Prov 21:19 good [שֶׁבֶת] [בְּאֶרֶץ] [מִדְבָּר] [מֵאֵשֶׁת] [מְדוֹנִים] [וָכָעַ] | [KJV:] It is better to dwell in the wilderness, than with a contentious and an angry woman.
+Prov 21:20 [אוֹצָר] [נֶחְמָד] [וָשֶׁמֶן] [בִּנְוֵה] wise [וּכְִיל] man/mankind [יְבַלְּעֶנּוּ] | [KJV:] There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.
+Prov 21:21 [רֹדֵף] [צְדָקָה] [וָחֶָד] [יִמְצָא] [חַיִּים] [צְדָקָה] [וְכָבוֹד] | [KJV:] He that followeth after righteousness and mercy findeth life, righteousness, and honour.
+Prov 21:22 city [גִּבֹּרִים] [he] went up wise [וַיֹּרֶד] [עֹז] [מִבְטֶחָה] | [KJV:] A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof.
+Prov 21:23 [שֹׁמֵר] [ִּיו] [וּלְשׁוֹנוֹ] [שֹׁמֵר] [מִצָּרוֹת] [נְַשׁוֹ] | [KJV:] Whoso keepeth his mouth and his tongue keepeth his soul from troubles.
+Prov 21:24 [זֵד] [יָהִיר] [לֵץ] [שְׁמוֹ] [עוֹשֶׂה] [בְּעֶבְרַת] [זָדוֹן] | [KJV:] Proud and haughty scorner is his name, who dealeth in proud wrath.
+Prov 21:25 [תַּאֲוַת] [עָצֵל] [תְּמִיתֶנּוּ] [כִּי] [מֵאֲנוּ] [יָדָיו] to do | [KJV:] The desire of the slothful killeth him; for his hands refuse to labour.
+Prov 21:26 [כָּל] today [הִתְאַוָּה] [תַאֲוָה] [וְצַדִּיק] [יִתֵּן] and not [יַחְשֹׂךְ] | [KJV:] He coveteth greedily all the day long: but the righteous giveth and spareth not.
+Prov 21:27 [זֶבַח] [רְשָׁעִים] [תּוֹעֵבָה] [אַף] [כִּי] [בְזִמָּה] [יְבִיאֶנּוּ] | [KJV:] The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?
+Prov 21:28 [עֵד] [כְּזָבִים] [יֹאבֵד] and a man [שׁוֹמֵעַ] [לָנֶצַח] [יְדַבֵּר] | [KJV:] A false witness shall perish: but the man that heareth speaketh constantly.
+Prov 21:29 [הֵעֵז] man [רָשָׁע] [בְָּנָיו] [וְיָשָׁר] he [יָכִין] [דַּרְכֹּיו] | [KJV:] A wicked man hardeneth his face: but as for the upright, he directeth his way.
+Prov 21:30 [there is] no [חָכְמָה] [וְאֵין] [תְּבוּנָה] [וְאֵין] [עֵצָה] [לְנֶגֶד] YHWH/[the] LORD | [KJV:] There is no wisdom nor understanding nor counsel against the Lord.
+Prov 21:31 and [מוּכָן] [לְיוֹם] war [וְלַיהוָה] [הַתְּשׁוּעָה] | [KJV:] The horse is prepared against the day of battle: but safety is of the Lord.
+Prov 22:1 [נִבְחָר] [שֵׁם] [מֵעֹשֶׁר] [רָב] [מִכֶֶּף] [וּמִזָּהָב] grace good | [KJV:] A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.
+Prov 22:2 [עָשִׁיר] [וָרָשׁ] [נְִגָּשׁוּ] [עֹשֵׂה] [כֻלָּם] YHWH/[the] LORD | [KJV:] The rich and poor meet together: the Lord is the maker of them all.
+Prov 22:3 [עָרוּם] [he] saw [רָעָה] [וְיִָּתֵר] [וְּתָיִים] [עָבְרוּ] [וְנֶעֱנָשׁוּ] | [KJV:] A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.
+Prov 22:4 because of [עֲנָוָה] [יִרְאַת] YHWH/[the] LORD [עֹשֶׁר] [וְכָבוֹד] [וְחַיִּים] | [KJV:] By humility and the fear of the Lord are riches, and honour, and life.
+Prov 22:5 [צִנִּים] [ַּחִים] [בְּדֶרֶךְ] [עִקֵּשׁ] [שׁוֹמֵר] [נְַשׁוֹ] [יִרְחַק] [מֵהֶם] | [KJV:] Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.
+Prov 22:6 [חֲנֹךְ] [לַנַּעַר] upon [ִּי] [דַרְכּוֹ] [גַּם] [כִּי] [יַזְקִין] not [יָוּר] [מִמֶּנָּה] | [KJV:] Train up a child in the way he should go: and when he is old, he will not depart from it.
+Prov 22:7 [עָשִׁיר] [בְּרָשִׁים] [יִמְשׁוֹל] [וְעֶבֶד] [לוֶֹה] [לְאִישׁ] [מַלְוֶה] | [KJV:] The rich ruleth over the poor, and the borrower is servant to the lender.
+Prov 22:8 [זוֹרֵעַ] [עַוְלָה] [יִקְצָור] [אָוֶן] [וְשֵׁבֶט] [עֶבְרָתוֹ] [יִכְלֶה] | [KJV:] He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.
+Prov 22:9 good [עַיִן] he [יְבֹרָךְ] [כִּי] [he] gave [מִלַּחְמוֹ] [לַדָּל] | [KJV:] He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.
+Prov 22:10 [גָּרֵשׁ] [לֵץ] [וְיֵצֵא] [מָדוֹן] [וְיִשְׁבֹּת] [דִּין] [וְקָלוֹן] | [KJV:] Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.
+Prov 22:11 [אֹהֵב] [טְהָור] heart grace [שְָׂתָיו] [רֵעֵהוּ] king | [KJV:] He that loveth pureness of heart, for the grace of his lips the king shall be his friend.
+Prov 22:12 [עֵינֵי] YHWH/[the] LORD [נָצְרוּ] [דָעַת] [וַיְַלֵּף] [דִּבְרֵי] [בֹגֵד] | [KJV:] The eyes of the Lord preserve knowledge, and he overthroweth the words of the transgressor.
+Prov 22:13 [he] said [עָצֵל] [אֲרִי] [בַחוּץ] [בְּתוֹךְ] [רְחֹבוֹת] [אֵרָצֵחַ] | [KJV:] The slothful man saith, There is a lion without, I shall be slain in the streets.
+Prov 22:14 [שׁוּחָה] [עֲמֻקָּה] [ִּי] [זָרוֹת] [זְעוּם] YHWH/[the] LORD [יִָּול] [שָׁם] | [KJV:] The mouth of strange women is a deep pit: he that is abhorred of the Lord shall fall therein.
+Prov 22:15 [אִוֶּלֶת] [קְשׁוּרָה] [בְלֶב] [נָעַר] [שֵׁבֶט] [מוָּר] [יַרְחִיקֶנָּה] [מִמֶּנּוּ] | [KJV:] Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
+Prov 22:16 [עֹשֵׁק] [דָּל] [לְהַרְבּוֹת] to him giving [לְעָשִׁיר] only/however [לְמַחְוֹר] | [KJV:] He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.
+Prov 22:17 [הַט] [אָזְנְךָ] [וּשְׁמַע] [דִּבְרֵי] [חֲכָמִים] [וְלִבְּךָ] [תָּשִׁית] [לְדַעְתִּי] | [KJV:] Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.
+Prov 22:18 [כִּי] [נָעִים] [כִּי] [תִשְׁמְרֵם] [בְּבִטְנֶךָ] [יִכֹּנוּ] [יַחְדָּו] upon [שְָׂתֶיךָ] | [KJV:] For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.
+Prov 22:19 [לִהְיוֹת] [בַּיהוָה] [מִבְטַחֶךָ] [הוֹדַעְתִּיךָ] today [אַף] [אָתָּה] | [KJV:] That thy trust may be in the Lord, I have made known to thee this day, even to thee.
+Prov 22:20 [הֲלֹא] [כָתַבְתִּי] to you [שָׁלִישִׁום] [בְּמוֹעֵצֹת] [וָדָעַת] | [KJV:] Have not I written to thee excellent things in counsels and knowledge,
+Prov 22:21 [לְהוֹדִיעֲךָ] [קֹשְׁטְ] [אִמְרֵי] truth [לְהָשִׁיב] [אֲמָרִים] truth [לְשֹׁלְחֶיךָ] | [KJV:] That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
+Prov 22:22 not [imperative] [תִּגְזָל] [דָּל] [כִּי] [דַל] he [וְאַל] [תְּדַכֵּא] poor [בַשָּׁעַר] | [KJV:] Rob not the poor, because he is poor: neither oppress the afflicted in the gate:
+Prov 22:23 [כִּי] YHWH/[the] LORD [יָרִיב] [רִיבָם] [וְקָבַע] [with] [קֹבְעֵיהֶם] [נֶָשׁ] | [KJV:] For the Lord will plead their cause, and spoil the soul of those that spoiled them.
+Prov 22:24 not [imperative] [תִּתְרַע] [with] [בַּעַל] [אָף] and [with/acc] man [חֵמוֹת] not [תָבוֹא] | [KJV:] Make no friendship with an angry man; and with a furious man thou shalt not go:
+Prov 22:25 [ֶּן] [תֶּאֱלַף] [אָרְחָתוֹ] [וְלָקַחְתָּ] [מוֹקֵשׁ] [לְנְַשֶׁךָ] | [KJV:] Lest thou learn his ways, and get a snare to thy soul.
+Prov 22:26 not [imperative] [תְּהִי] [בְתֹקְעֵי] [כָף] [בַּעֹרְבִים] [מַשָּׁאוֹת] | [KJV:] Be not thou one of them that strike hands, or of them that are sureties for debts.
+Prov 22:27 if [there is] no to you [לְשַׁלֵּם] [לָמָּה] [יִקַּח] [מִשְׁכָּבְךָ] [מִתַּחְתֶּיךָ]
+Prov 22:28 not [imperative] [תֵַּּג] [גְּבוּל] eternity/forever [אֲשֶׁר] [עָשׂוּ] [אֲבוֹתֶיךָ] | [KJV:] Remove not the ancient landmark, which thy fathers have set.
+Prov 22:29 [חָזִיתָ] man [מָהִיר] [בִּמְלַאכְתּוֹ] [לְִנֵי] [מְלָכִים] [יִתְיַצָּב] [בַּל] [יִתְיַצֵּב] [לְִנֵי] [חֲשֻׁכִּים] | [KJV:] Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.
+Prov 23:1 [כִּי] [תֵשֵׁב] [לִלְחוֹם] [with] [מוֹשֵׁל] [בִּין] [תָּבִין] [with] [אֲשֶׁר] [לְָנֶיךָ] | [KJV:] When thou sittest to eat with a ruler, consider diligently what is before thee:
+Prov 23:2 [וְשַׂמְתָּ] [שַׂכִּין] [בְּלֹעֶךָ] if [בַּעַל] [נֶֶשׁ] [אָתָּה] | [KJV:] And put a knife to thy throat, if thou be a man given to appetite.
+Prov 23:3 not [imperative] [תִּתְאָו] [לְמַטְעַמּוֹתָיו] [וְהוּא] bread [כְּזָבִים] | [KJV:] Be not desirous of his dainties: for they are deceitful meat.
+Prov 23:4 not [imperative] [תִּיגַע] [לְהַעֲשִׁיר] [מִבִּינָתְךָ] [חֲדָל] | [KJV:] Labour not to be rich: cease from thine own wisdom.
+Prov 23:5 [הֲתָעִוף] [עֵינֶיךָ] in him/it [וְאֵינֶנּוּ] [כִּי] [עָשֹׂה] [יַעֲשֶׂה] [לּוֹ] [כְנַָיִם] [כְּנֶשֶׁר] [וָעיּף] [הַשָּׁמָיִם] | [KJV:] Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.
+Prov 23:6 not [imperative] [תִּלְחַם] [with] bread bad [עָיִן] [וְאַל] [תִּתְאָו] [לְמַטְעַמֹּתָיו] | [KJV:] Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:
+Prov 23:7 [כִּי] [כְּמוֹ] [שָׁעַר] [בְּנְַשׁוֹ] [כֶּן] he [אֱכֹל] [וּשְׁתֵה] [יֹאמַר] to you [f] [וְלִבּוֹ] [בַּל] [עִמָּךְ] | [KJV:] For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
+Prov 23:8 [ִּתְּךָ] [אָכַלְתָּ] [תְקִיאֶנָּה] [וְשִׁחַתָּ] [דְּבָרֶיךָ] [הַנְּעִימִים] | [KJV:] The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.
+Prov 23:9 [בְּאָזְנֵי] [כְִיל] not [imperative] [תְּדַבֵּר] [כִּי] [יָבוּז] [לְשֵׂכֶל] [מִלֶּיךָ] | [KJV:] Speak not in the ears of a fool: for he will despise the wisdom of thy words.
+Prov 23:10 not [imperative] [תֵַּּג] [גְּבוּל] eternity/forever [וּבִשְׂדֵי] [יְתוֹמִים] not [imperative] [תָּבֹא] | [KJV:] Remove not the old landmark; and enter not into the fields of the fatherless:
+Prov 23:11 [כִּי] [גֹאֲלָם] strong he [יָרִיב] [with] [רִיבָם] [אִתָּךְ] | [KJV:] For their redeemer is mighty; he shall plead their cause with thee.
+Prov 23:12 [הָבִיאָה] [לַמּוָּר] [לִבֶּךָ] [וְאָזְנֶךָ] [לְאִמְרֵי] [דָעַת] | [KJV:] Apply thine heart unto instruction, and thine ears to the words of knowledge.
+Prov 23:13 not [imperative] [תִּמְנַע] [מִנַּעַר] [מוָּר] [כִּי] [תַכֶּנּוּ] [בַשֵּׁבֶט] not [יָמוּת] | [KJV:] Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.
+Prov 23:14 [אַתָּה] [בַּשֵּׁבֶט] [תַּכֶּנּוּ] [וְנְַשׁוֹ] [מִשְּׁאוֹל] [תַּצִּיל] | [KJV:] Thou shalt beat him with the rod, and shalt deliver his soul from hell.
+Prov 23:15 [בְּנִי] if [חָכַם] [לִבֶּךָ] [יִשְׂמַח] [לִבִּי] [גַם] [אָנִי] | [KJV:] My son, if thine heart be wise, my heart shall rejoice, even mine.
+Prov 23:16 [וְתַעְלֹזְנָה] [כִלְיוֹתָי] [בְּדַבֵּר] [שְָׂתֶיךָ] [מֵישָׁרִים] | [KJV:] Yea, my reins shall rejoice, when thy lips speak right things.
+Prov 23:17 not [imperative] [יְקַנֵּא] [לִבְּךָ] [בַּחַטָּאִים] [כִּי] if [בְּיִרְאַת] YHWH/[the] LORD [כָּל] today | [KJV:] Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long.
+Prov 23:18 [כִּי] if [יֵשׁ] [אַחֲרִית] [וְתִקְוָתְךָ] not [תִכָּרֵת] | [KJV:] For surely there is an end; and thine expectation shall not be cut off.
+Prov 23:19 [שְׁמַע] [אַתָּה] [בְנִי] [וַחֲכָם] [וְאַשֵּׁר] [בַּדֶּרֶךְ] [לִבֶּךָ] | [KJV:] Hear thou, my son, and be wise, and guide thine heart in the way.
+Prov 23:20 not [imperative] [תְּהִי] [בְֹבְאֵי] [יָיִן] [בְּזֹלֲלֵי] [בָשָׂר] [לָמוֹ] | [KJV:] Be not among winebibbers; among riotous eaters of flesh:
+Prov 23:21 [כִּי] [ֹבֵא] [וְזוֹלֵל] [יִוָּרֵשׁ] [וּקְרָעִים] [תַּלְבִּישׁ] [נוּמָה] | [KJV:] For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.
+Prov 23:22 [שְׁמַע] [לְאָבִיךָ] this [יְלָדֶךָ] [וְאַל] [תָּבוּז] [כִּי] [זָקְנָה] [אִמֶּךָ] | [KJV:] Hearken unto thy father that begat thee, and despise not thy mother when she is old.
+Prov 23:23 truth [קְנֵה] [וְאַל] [תִּמְכֹּר] [חָכְמָה] [וּמוָּר] [וּבִינָה] | [KJV:] Buy the truth, and sell it not; also wisdom, and instruction, and understanding.
+Prov 23:24 [גִּול] [יָגִול] my father [צַדִּיק] [ְיוֹלֵד] wise [ויִשְׂמַח] in him/it
+Prov 23:25 [יִשְׂמַח] [אָבִיךָ] [וְאִמֶּךָ] [וְתָגֵל] [יוֹלַדְתֶּךָ] | [KJV:] Thy father and thy mother shall be glad, and she that bare thee shall rejoice.
+Prov 23:26 [תְּנָה] [בְנִי] [לִבְּךָ] to me [וְעֵינֶיךָ] [דְּרָכַי] [תִּרְצֶנָה] | [KJV:] My son, give me thine heart, and let thine eyes observe my ways.
+Prov 23:27 [כִּי] [שׁוּחָה] [עֲמֻקָּה] [זוֹנָה] [וּבְאֵר] [צָרָה] [נָכְרִיָּה] | [KJV:] For a whore is a deep ditch; and a strange woman is a narrow pit.
+Prov 23:28 [אַף] she [כְּחֶתֶף] [תֶּאֱרֹב] [וּבוֹגְדִים] [בְּאָדָם] [תּוִֹף] | [KJV:] She also lieth in wait as for a prey, and increaseth the transgressors among men.
+Prov 23:29 [לְמִי] [אוֹי] [לְמִי] [אֲבוֹי] [לְמִי] [מִדוֹנִים] [לְמִי] [שִׂיחַ] [לְמִי] [ְּצָעִים] [חִנָּם] [לְמִי] [חַכְלִלוּת] [עֵינָיִם] | [KJV:] Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
+Prov 23:30 [לַמְאַחֲרִים] upon [הַיָּיִן] [לַבָּאִים] [לַחְקֹר] [מִמְָךְ] | [KJV:] They that tarry long at the wine; they that go to seek mixed wine.
+Prov 23:31 not [imperative] [תֵּרֶא] wine [כִּי] [יִתְאַדָּם] [כִּי] [יִתֵּן] [בַּכִּי] [עֵינוֹ] [יִתְהַלֵּךְ] [בְּמֵישָׁרִים] | [KJV:] Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.
+Prov 23:32 [אַחֲרִיתוֹ] [כְּנָחָשׁ] [יִשָּׁךְ] [וּכְצְִעֹנִי] [יְַרִשׁ] | [KJV:] At the last it biteth like a serpent, and stingeth like an adder.
+Prov 23:33 [עֵינֶיךָ] [יִרְאוּ] [זָרוֹת] [וְלִבְּךָ] [יְדַבֵּר] [תַּהְֻּכוֹת] | [KJV:] Thine eyes shall behold strange women, and thine heart shall utter perverse things.
+Prov 23:34 [וְהָיִיתָ] [כְּשֹׁכֵב] [בְּלֶב] sea [וּכְשֹׁכֵב] [בְּרֹאשׁ] [חִבֵּל] | [KJV:] Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
+Prov 23:35 [הִכּוּנִי] [בַל] [חָלִיתִי] [הֲלָמוּנִי] [בַּל] [יָדָעְתִּי] [מָתַי] [אָקִיץ] [אוִֹיף] [אֲבַקְשֶׁנּוּ] still/yet | [KJV:] They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.
+Prov 24:1 not [imperative] [תְּקַנֵּא] [בְּאַנְשֵׁי] [רָעָה] [וְאַל] [תִּתְאָו] [לִהְיוֹת] [אִתָּם] | [KJV:] Be not thou envious against evil men, neither desire to be with them.
+Prov 24:2 [כִּי] [שֹׁד] [יֶהְגֶּה] [לִבָּם] [וְעָמָל] [שְִׂתֵיהֶם] [תְּדַבֵּרְנָה] | [KJV:] For their heart studieth destruction, and their lips talk of mischief.
+Prov 24:3 [בְּחָכְמָה] [יִבָּנֶה] [בָּיִת] [וּבִתְבוּנָה] [יִתְכּוֹנָן] | [KJV:] Through wisdom is an house builded; and by understanding it is established:
+Prov 24:4 [וּבְדַעַת] [חֲדָרִים] [יִמָּלְאוּ] [כָּל] [הוֹן] [יָקָר] [וְנָעִים] | [KJV:] And by knowledge shall the chambers be filled with all precious and pleasant riches.
+Prov 24:5 [גֶּבֶר] wise [בַּעוֹז] and a man [דַּעַת] [מְאַמֶּץ] [כֹּחַ] | [KJV:] A wise man is strong; yea, a man of knowledge increaseth strength.
+Prov 24:6 [כִּי] [בְתַחְבֻּלוֹת] [תַּעֲשֶׂה] [לְּךָ] war [וּתְשׁוּעָה] [בְּרֹב] [יוֹעֵץ] | [KJV:] For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.
+Prov 24:7 [רָאמוֹת] [לֶאֱוִיל] [חָכְמוֹת] [בַּשַּׁעַר] not [יְִתַּח] [ִּיהוּ] | [KJV:] Wisdom is too high for a fool: he openeth not his mouth in the gate.
+Prov 24:8 [מְחַשֵּׁב] [לְהָרֵעַ] to him [בַּעַל] [מְזִמּוֹת] [יִקְרָאוּ] | [KJV:] He that deviseth to do evil shall be called a mischievous person.
+Prov 24:9 [זִמַּת] [אִוֶּלֶת] [חַטָּאת] [וְתוֹעֲבַת] [לְאָדָם] [לֵץ] | [KJV:] The thought of foolishness is sin: and the scorner is an abomination to men.
+Prov 24:10 [הִתְרִַּיתָ] [בְּיוֹם] [צָרָה] [צַר] [כֹּחֶכָה] | [KJV:] If thou faint in the day of adversity, thy strength is small.
+Prov 24:11 [הַצֵּל] [לְקֻחִים] [לַמָּוֶת] [וּמָטִים] [לַהֶרֶג] if [תַּחְשׂוֹךְ] | [KJV:] If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;
+Prov 24:12 [כִּי] [תֹאמַר] [הֵן] not [יָדַעְנוּ] this [הֲלֹא] [תֹכֵן] [לִבּוֹת] he [יָבִין] [וְנֹצֵר] [נְַשְׁךָ] he [יֵדָע] [וְהֵשִׁיב] [לְאָדָם] [כְָּעֳלוֹ] | [KJV:] If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?
+Prov 24:13 [אֱכָל] [בְּנִי] [דְבַשׁ] [כִּי] good [וְנֶֹת] [מָתוֹק] upon [חִכֶּךָ] | [KJV:] My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:
+Prov 24:14 [כֵּן] [דְּעֶה] [חָכְמָה] [לְנְַשֶׁךָ] if [מָצָאתָ] [וְיֵשׁ] [אַחֲרִית] [וְתִקְוָתְךָ] not [תִכָּרֵת] | [KJV:] So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.
+Prov 24:15 not [imperative] [תֶּאֱרֹב] [רָשָׁע] [לִנְוֵה] [צַדִּיק] not [imperative] [תְּשַׁדֵּד] [רִבְצוֹ] | [KJV:] Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:
+Prov 24:16 [כִּי] [שֶׁבַע] [יִּוֹל] [צַדִּיק] [וָקָם] [וּרְשָׁעִים] [יִכָּשְׁלוּ] [בְרָעָה] | [KJV:] For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
+Prov 24:17 [בִּנְֹל] [אוֹיְבֶיךָ] not [imperative] [תִּשְׂמָח] [וּבִכָּשְׁלוֹ] not [imperative] [יָגֵל] [לִבֶּךָ] | [KJV:] Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:
+Prov 24:18 [ֶּן] [יִרְאֶה] YHWH/[the] LORD [וְרַע] [בְּעֵינָיו] [וְהֵשִׁיב] [מֵעָלָיו] [אַּוֹ] | [KJV:] Lest the Lord see it, and it displease him, and he turn away his wrath from him.
+Prov 24:19 not [imperative] [תִּתְחַר] [בַּמְּרֵעִים] not [imperative] [תְּקַנֵּא] [בָּרְשָׁעִים] | [KJV:] Fret not thyself because of evil men, neither be thou envious at the wicked:
+Prov 24:20 [כִּי] not [תִהְיֶה] [אַחֲרִית] [לָרָע] [נֵר] [רְשָׁעִים] [יִדְעָךְ] | [KJV:] For there shall be no reward to the evil man; the candle of the wicked shall be put out.
+Prov 24:21 [יְרָא] [with] YHWH/[the] LORD [בְּנִי] [וָמֶלֶךְ] with [שׁוֹנִים] not [imperative] [תִּתְעָרָב] | [KJV:] My son, fear thou the Lord and the king: and meddle not with them that are given to change:
+Prov 24:22 [כִּי] [ִתְאֹם] [יָקוּם] [אֵידָם] [וִּיד] [שְׁנֵיהֶם] who [he] knows | [KJV:] For their calamity shall rise suddenly; and who knoweth the ruin of them both?
+Prov 24:23 [גַּם] [אֵלֶּה] [לַחֲכָמִים] [הַכֵּר] [ָּנִים] [בְּמִשְָּׁט] [בַּל] good | [KJV:] These things also belong to the wise. It is not good to have respect of persons in judgment.
+Prov 24:24 saying [לְרָשָׁע] [צַדִּיק] [אָתָּה] [יִקְּבֻהוּ] [עַמִּים] [יִזְעָמוּהוּ] [לְאֻמִּים] | [KJV:] He that saith unto the wicked, Thou are righteous; him shall the people curse, nations shall abhor him:
+Prov 24:25 [וְלַמּוֹכִיחִים] [יִנְעָם] [וַעֲלֵיהֶם] [תָּבוֹא] [בִרְכַּת] good | [KJV:] But to them that rebuke him shall be delight, and a good blessing shall come upon them.
+Prov 24:26 [שְָׂתַיִם] [יִשָּׁק] [מֵשִׁיב] [דְּבָרִים] [נְכֹחִים] | [KJV:] Every man shall kiss his lips that giveth a right answer.
+Prov 24:27 [הָכֵן] [בַּחוּץ] [מְלַאכְתֶּךָ] [וְעַתְּדָהּ] [בַּשָּׂדֶה] to you [f] [אַחַר] [וּבָנִיתָ] [בֵיתֶךָ] | [KJV:] Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.
+Prov 24:28 not [imperative] [תְּהִי] [עֵד] [חִנָּם] [בְּרֵעֶךָ] [וַהֲִתִּיתָ] [בִּשְָׂתֶיךָ] | [KJV:] Be not a witness against thy neighbour without cause; and deceive not with thy lips.
+Prov 24:29 not [imperative] [תֹּאמַר] [כַּאֲשֶׁר] [עָשָׂה] to me [כֵּן] [אֶעֱשֶׂה] [לּוֹ] [אָשִׁיב] [לָאִישׁ] [כְָּעֳלוֹ] | [KJV:] Say not, I will do so to him as he hath done to me: I will render to the man according to his work.
+Prov 24:30 upon [שְׂדֵה] man [עָצֵל] [עָבַרְתִּי] and upon [כֶּרֶם] man/mankind [חֲַר] heart
+Prov 24:31 [וְהִנֵּה] [he] went up [כֻלּוֹ] [קִמְּשֹׂנִים] [כָּּוּ] [ָנָיו] [חֲרֻלִּים] [וְגֶדֶר] [אֲבָנָיו] [נֶהֱרָָה] | [KJV:] And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.
+Prov 24:32 [וָאֶחֱזֶה] I [אָשִׁית] [לִבִּי] [רָאִיתִי] [לָקַחְתִּי] [מוָּר] | [KJV:] Then I saw, and considered it well: I looked upon it, and received instruction.
+Prov 24:33 [מְעַט] [שֵׁנוֹת] [מְעַט] [תְּנוּמוֹת] [מְעַט] [חִבֻּק] [יָדַיִם] [לִשְׁכָּב] | [KJV:] Yet a little sleep, a little slumber, a little folding of the hands to sleep:
+Prov 24:34 [וּבָא] [מִתְהַלֵּךְ] [רֵישֶׁךָ] [וּמַחְֹרֶיךָ] [כְּאִישׁ] shield | [KJV:] So shall thy poverty come as one that travelleth; and thy want as an armed man.
+Prov 25:1 [גַּם] [אֵלֶּה] [מִשְׁלֵי] [שְׁלֹמֹה] [אֲשֶׁר] [הֶעְתִּיקוּ] [אַנְשֵׁי] [חִזְקִיָּה] king Judah | [KJV:] These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
+Prov 25:2 [כְּבֹד] God [הְַתֵּר] [דָּבָר] [וּכְבֹד] [מְלָכִים] [חֲקֹר] [דָּבָר] | [KJV:] It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.
+Prov 25:3 [שָׁמַיִם] [לָרוּם] [וָאָרֶץ] [לָעֹמֶק] [וְלֵב] [מְלָכִים] [there is] no [חֵקֶר] | [KJV:] The heaven for height, and the earth for depth, and the heart of kings is unsearchable.
+Prov 25:4 [הָגוֹ] [ִיגִים] [מִכֶָּף] [וַיֵּצֵא] [לַצֹּרֵף] [כֶּלִי] | [KJV:] Take away the dross from the silver, and there shall come forth a vessel for the finer.
+Prov 25:5 [הָגוֹ] [רָשָׁע] [לְִנֵי] king [וְיִכּוֹן] [בַּצֶּדֶק] [כְִּאוֹ] | [KJV:] Take away the wicked from before the king, and his throne shall be established in righteousness.
+Prov 25:6 not [imperative] [תִּתְהַדַּר] [לְִנֵי] king [וּבִמְקוֹם] [גְּדֹלִים] not [imperative] [תַּעֲמֹד] | [KJV:] Put not forth thyself in the presence of the king, and stand not in the place of great men:
+Prov 25:7 [כִּי] good [אֲמָר] to you [עֲלֵה] [הֵנָּה] [מֵהַשְִּׁילְךָ] [לְִנֵי] [נָדִיב] [אֲשֶׁר] [רָאוּ] [עֵינֶיךָ] | [KJV:] For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.
+Prov 25:8 not [imperative] [תֵּצֵא] [לָרִב] [מַהֵר] [ֶּן] what [תַּעֲשֶׂה] [בְּאַחֲרִיתָהּ] [בְּהַכְלִים] [אֹתְךָ] [רֵעֶךָ] | [KJV:] Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame.
+Prov 25:9 [רִיבְךָ] [רִיב] [with] [רֵעֶךָ] [וְוֹד] [אַחֵר] not [imperative] [תְּגָל] | [KJV:] Debate thy cause with thy neighbour himself; and discover not a secret to another:
+Prov 25:10 [ֶּן] [יְחֶַּדְךָ] [שֹׁמֵעַ] [וְדִבָּתְךָ] not [תָשׁוּב] | [KJV:] Lest he that heareth it put thee to shame, and thine infamy turn not away.
+Prov 25:11 [תַּּוּחֵי] gold [בְּמַשְׂכִּיּוֹת] [כֶָּף] [דָּבָר] [דָּבֻר] upon [אְָנָיו] | [KJV:] A word fitly spoken is like apples of gold in pictures of silver.
+Prov 25:12 [נֶזֶם] gold [וַחֲלִי] [כָתֶם] [מוֹכִיחַ] wise upon [אֹזֶן] [שֹׁמָעַת] | [KJV:] As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
+Prov 25:13 [כְּצִנַּת] [שֶׁלֶג] [בְּיוֹם] [קָצִיר] [צִיר] [נֶאֱמָן] [לְשֹׁלְחָיו] [וְנֶֶשׁ] [אֲדֹנָיו] [יָשִׁיב] | [KJV:] As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters.
+Prov 25:14 [נְשִׂיאִים] [וְרוּחַ] [וְגֶשֶׁם] [אָיִן] man [מִתְהַלֵּל] [בְּמַתַּת] [שָׁקֶר] | [KJV:] Whoso boasteth himself of a false gift is like clouds and wind without rain.
+Prov 25:15 [בְּאֹרֶךְ] [אַַּיִם] [יְֻתֶּה] [קָצִין] [וְלָשׁוֹן] [רַכָּה] [תִּשְׁבָּר] [גָּרֶם] | [KJV:] By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.
+Prov 25:16 [דְּבַשׁ] [מָצָאתָ] [אֱכֹל] [דַּיֶּךָּ] [ֶּן] [תִּשְׂבָּעֶנּוּ] [וַהֲקֵאתוֹ] | [KJV:] Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.
+Prov 25:17 [הֹקַר] [רַגְלְךָ] [מִבֵּית] [רֵעֶךָ] [ֶּן] [יִשְׂבָּעֲךָ] [וּשְׂנֵאֶךָ] | [KJV:] Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee.
+Prov 25:18 [מִֵיץ] [וְחֶרֶב] [וְחֵץ] [שָׁנוּן] man [עֹנֶה] [בְרֵעֵהוּ] [עֵד] [שָׁקֶר] | [KJV:] A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow.
+Prov 25:19 [שֵׁן] [רֹעָה] [וְרֶגֶל] [מוּעָדֶת] [מִבְטָח] [בּוֹגֵד] [בְּיוֹם] [צָרָה] | [KJV:] Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.
+Prov 25:20 [מַעֲדֶה] [בֶּגֶד] [בְּיוֹם] [קָרָה] [חֹמֶץ] upon [נָתֶר] [וְשָׁר] [בַּשִּׁרִים] upon [לֶב] [רָע] | [KJV:] As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.
+Prov 25:21 if [רָעֵב] [שֹׂנַאֲךָ] [הַאֲכִלֵהוּ] [לָחֶם] and if [צָמֵא] [הַשְׁקֵהוּ] [מָיִם] | [KJV:] If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:
+Prov 25:22 [כִּי] [גֶחָלִים] [אַתָּה] [חֹתֶה] upon [רֹאשׁוֹ] [וַיהוָה] [יְשַׁלֶּם] to you [f] | [KJV:] For thou shalt heap coals of fire upon his head, and the Lord shall reward thee.
+Prov 25:23 spirit/wind [צָוֹן] [תְּחוֹלֵל] [גָּשֶׁם] [וָּנִים] [נִזְעָמִים] [לְשׁוֹן] [ָתֶר] | [KJV:] The north wind driveth away rain: so doth an angry countenance a backbiting tongue.
+Prov 25:24 good [שֶׁבֶת] upon [ִּנַּת] [גָּג] [מֵאֵשֶׁת] [מִדוֹנִים] [וּבֵית] [חָבֶר] | [KJV:] It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.
+Prov 25:25 water(s) [קָרִים] upon [נֶֶשׁ] [עֲיֵָה] [וּשְׁמוּעָה] [טוֹבָה] from [the] land [מֶרְחָק] | [KJV:] As cold waters to a thirsty soul, so is good news from a far country.
+Prov 25:26 [מַעְיָן] [נִרְָּשׂ] [וּמָקוֹר] [מָשְׁחָת] [צַדִּיק] [מָט] [לְִנֵי] [רָשָׁע] | [KJV:] A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
+Prov 25:27 [אָכֹל] [דְּבַשׁ] [הַרְבּוֹת] not good [וְחֵקֶר] [כְּבֹדָם] [כָּבוֹד] | [KJV:] It is not good to eat much honey: so for men to search their own glory is not glory.
+Prov 25:28 city [ְּרוּצָה] [there is] no [חוֹמָה] man [אֲשֶׁר] [there is] no [מַעְצָר] [לְרוּחוֹ]
+Prov 26:1 [כַּשֶּׁלֶג] [בַּקַּיִץ] [וְכַמָּטָר] [בַּקָּצִיר] [כֵּן] not [נָאוֶה] [לִכְִיל] [כָּבוֹד] | [KJV:] As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
+Prov 26:2 [כַּצִּּוֹר] [לָנוּד] [כַּדְּרוֹר] [לָעוּף] [כֵּן] [קִלְלַת] [חִנָּם] not [תָבֹא] | [KJV:] As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.
+Prov 26:3 [שׁוֹט] [לַּוּ] [מֶתֶג] [לַחֲמוֹר] [וְשֵׁבֶט] [לְגֵו] [כְִּילִים] | [KJV:] A whip for the horse, a bridle for the ass, and a rod for the fool's back.
+Prov 26:4 not [imperative] [תַּעַן] [כְִּיל] [כְּאִוַּלְתּוֹ] [ֶּן] [תִּשְׁוֶה] [לּוֹ] [גַם] [אָתָּה] | [KJV:] Answer not a fool according to his folly, lest thou also be like unto him.
+Prov 26:5 [עֲנֵה] [כְִיל] [כְּאִוַּלְתּוֹ] [ֶּן] he will be wise [בְּעֵינָיו] | [KJV:] Answer a fool according to his folly, lest he be wise in his own conceit.
+Prov 26:6 [מְקַצֶּה] [רַגְלַיִם] [חָמָ] [שֹׁתֶה] [שֹׁלֵחַ] [דְּבָרִים] [בְּיַד] [כְִּיל] | [KJV:] He that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage.
+Prov 26:7 [דַּלְיוּ] [שֹׁקַיִם] [מִִֵּּחַ] [וּמָשָׁל] [בְִּי] [כְִילִים] | [KJV:] The legs of the lame are not equal: so is a parable in the mouth of fools.
+Prov 26:8 [כִּצְרוֹר] [אֶבֶן] [בְּמַרְגֵּמָה] [כֵּן] [נוֹתֵן] [לִכְִיל] [כָּבוֹד] | [KJV:] As he that bindeth a stone in a sling, so is he that giveth honour to a fool.
+Prov 26:9 [חוֹחַ] [he] went up [בְיַד] [שִׁכּוֹר] [וּמָשָׁל] [בְִּי] [כְִילִים] | [KJV:] As a thorn goeth up into the hand of a drunkard, so is a parable in the mouths of fools.
+Prov 26:10 many/much [מְחוֹלֵל] all [וְשֹׂכֵר] [כְִּיל] [וְשֹׂכֵר] [עֹבְרִים] | [KJV:] The great God that formed all things both rewardeth the fool, and rewardeth transgressors.
+Prov 26:11 [כְּכֶלֶב] [שָׁב] upon [קֵאוֹ] [כְִּיל] [שׁוֹנֶה] [בְאִוַּלְתּוֹ] | [KJV:] As a dog returneth to his vomit, so a fool returneth to his folly.
+Prov 26:12 [רָאִיתָ] man wise [בְּעֵינָיו] [תִּקְוָה] [לִכְִיל] [מִמֶּנּוּ] | [KJV:] Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
+Prov 26:13 [he] said [עָצֵל] [שַׁחַל] [בַּדָּרֶךְ] [אֲרִי] [בֵּין] [הָרְחֹבוֹת] | [KJV:] The slothful man saith, There is a lion in the way; a lion is in the streets.
+Prov 26:14 [הַדֶּלֶת] [תִּּוֹב] upon [צִירָהּ] [וְעָצֵל] upon [מִטָּתוֹ] | [KJV:] As the door turneth upon his hinges, so doth the slothful upon his bed.
+Prov 26:15 [טָמַן] [עָצֵל] his hand [בַּצַּלָּחַת] [נִלְאָה] [לַהֲשִׁיבָהּ] to/toward [ִּיו] | [KJV:] The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.
+Prov 26:16 wise [עָצֵל] [בְּעֵינָיו] [מִשִּׁבְעָה] [מְשִׁיבֵי] [טָעַם] | [KJV:] The sluggard is wiser in his own conceit than seven men that can render a reason.
+Prov 26:17 [מַחֲזִיק] [בְּאָזְנֵי] [כָלֶב] [עֹבֵר] [מִתְעַבֵּר] upon [רִיב] [לֹּא] to him | [KJV:] He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.
+Prov 26:18 [כְּמִתְלַהְלֵהַּ] [הַיֹּרֶה] [זִקִּים] [חִצִּים] [וָמָוֶת] | [KJV:] As a mad man who casteth firebrands, arrows, and death,
+Prov 26:19 [כֵּן] man [רִמָּה] [with] [רֵעֵהוּ] [וְאָמַר] [הֲלֹא] [מְשַׂחֵק] [אָנִי] | [KJV:] So is the man that deceiveth his neighbour, and saith, Am not I in sport?
+Prov 26:20 [בְּאֶֶ] [עֵצִים] [תִּכְבֶּה] [אֵשׁ] [וּבְאֵין] [נִרְגָּן] [יִשְׁתֹּק] [מָדוֹן] | [KJV:] Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.
+Prov 26:21 [ֶּחָם] [לְגֶחָלִים] [וְעֵצִים] [לְאֵשׁ] and a man [מִדוֹנִים] [לְחַרְחַר] [רִיב] | [KJV:] As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.
+Prov 26:22 [דִּבְרֵי] [נִרְגָּן] [כְּמִתְלַהֲמִים] [וְהֵם] [יָרְדוּ] [חַדְרֵי] [בָטֶן] | [KJV:] The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
+Prov 26:23 [כֶֶּף] [ִיגִים] [מְצֶֻּה] upon [חָרֶשׂ] [שְָׂתַיִם] [דֹּלְקִים] [וְלֶב] [רָע] | [KJV:] Burning lips and a wicked heart are like a potsherd covered with silver dross.
+Prov 26:24 [בִּשְָׂתוֹ] [יִנָּכֵר] [שׂוֹנֵא] [וּבְקִרְבּוֹ] [יָשִׁית] [מִרְמָה] | [KJV:] He that hateth dissembleth with his lips, and layeth up deceit within him;
+Prov 26:25 [כִּי] [יְחַנֵּן] [קוֹלוֹ] not [imperative] [תַּאֲמֶן] in him/it [כִּי] [שֶׁבַע] [תּוֹעֵבוֹת] [בְּלִבּוֹ] | [KJV:] When he speaketh fair, believe him not: for there are seven abominations in his heart.
+Prov 26:26 [תִּכֶַּּה] [שִׂנְאָה] [בְּמַשָּׁאוֹן] [תִּגָּלֶה] [רָעָתוֹ] [בְקָהָל] | [KJV:] Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation.
+Prov 26:27 [כֹּרֶה] [שַּׁחַת] [בָּהּ] [יִֹּל] [וְגֹלֵל] [אֶבֶן] to him [תָּשׁוּב] | [KJV:] Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.
+Prov 26:28 [לְשׁוֹן] [שֶׁקֶר] [יִשְׂנָא] [דַכָּיו] [וֶּה] [חָלָק] [יַעֲשֶׂה] [מִדְחֶה] | [KJV:] A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.
+Prov 27:1 not [imperative] [תִּתְהַלֵּל] [בְּיוֹם] [מָחָר] [כִּי] not [תֵדַע] what [יֵּלֶד] day | [KJV:] Boast not thyself of to morrow; for thou knowest not what a day may bring forth.
+Prov 27:2 [יְהַלֶּלְךָ] [זָר] and not [ִיךָ] [נָכְרִי] [וְאַל] [שְָׂתֶיךָ] | [KJV:] Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.
+Prov 27:3 [כֹּבֶד] [אֶבֶן] [וְנֵטֶל] [הַחוֹל] [וְכַעַ] [אֱוִיל] [כָּבֵד] [מִשְּׁנֵיהֶם] | [KJV:] A stone is heavy, and the sand weighty; but a fool's wrath is heavier than them both.
+Prov 27:4 [אַכְזְרִיּוּת] [חֵמָה] [וְשֶׁטֶף] [אָף] [וּמִי] he will stand [לְִנֵי] [קִנְאָה] | [KJV:] Wrath is cruel, and anger is outrageous; but who is able to stand before envy?
+Prov 27:5 [טוֹבָה] [תּוֹכַחַת] [מְגֻלָּה] [מֵאַהֲבָה] [מְֻתָּרֶת] | [KJV:] Open rebuke is better than secret love.
+Prov 27:6 [נֶאֱמָנִים] [ִּצְעֵי] [אוֹהֵב] [וְנַעְתָּרוֹת] [נְשִׁיקוֹת] [שׂוֹנֵא] | [KJV:] Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
+Prov 27:7 [נֶֶשׁ] [שְׂבֵעָה] [תָּבוּ] [נֶֹת] [וְנֶֶשׁ] [רְעֵבָה] [כָּל] [מַר] [מָתוֹק] | [KJV:] The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.
+Prov 27:8 [כְּצִּוֹר] [נוֹדֶדֶת] from [קִנָּהּ] [כֵּן] man [נוֹדֵד] [מִמְּקוֹמוֹ] | [KJV:] As a bird that wandereth from her nest, so is a man that wandereth from his place.
+Prov 27:9 [שֶׁמֶן] [וּקְטֹרֶת] [יְשַׂמַּח] heart [וּמֶתֶק] [רֵעֵהוּ] [מֵעֲצַת] [נֶָשׁ] | [KJV:] Ointment and perfume rejoice the heart: so doth the sweetness of a man's friend by hearty counsel.
+Prov 27:10 [רֵעֲךָ] [וְרֵעֶה] [אָבִיךָ] not [imperative] [תַּעֲזֹב] [וּבֵית] [אָחִיךָ] not [imperative] [תָּבוֹא] [בְּיוֹם] [אֵידֶךָ] good [שָׁכֵן] [קָרוֹב] [מֵאָח] [רָחוֹק] | [KJV:] Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off.
+Prov 27:11 [חֲכַם] [בְּנִי] [וְשַׂמַּח] [לִבִּי] [וְאָשִׁיבָה] [חֹרְִי] [דָבָר] | [KJV:] My son, be wise, and make my heart glad, that I may answer him that reproacheth me.
+Prov 27:12 [עָרוּם] [he] saw [רָעָה] [נְִתָּר] [ְּתָאיִם] [עָבְרוּ] [נֶעֱנָשׁוּ] | [KJV:] A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.
+Prov 27:13 [קַח] [בִּגְדוֹ] [כִּי] [עָרַב] [זָר] [וּבְעַד] [נָכְרִיָּה] [חַבְלֵהוּ] | [KJV:] Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.
+Prov 27:14 [מְבָרֵךְ] [רֵעֵהוּ] [בְּקוֹל] [גָּדוֹל] [בַּבֹּקֶר] [הַשְׁכֵּים] [קְלָלָה] [תֵּחָשֶׁב] to him | [KJV:] He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
+Prov 27:15 [דֶּלֶף] [טוֹרֵד] [בְּיוֹם] [ַגְרִיר] [וְאֵשֶׁת] [מִדוֹנִים] [נִשְׁתָּוָה] | [KJV:] A continual dropping in a very rainy day and a contentious woman are alike.
+Prov 27:16 [צְֹנֶיהָ] [צַָן] spirit/wind [וְשֶׁמֶן] [יְמִינוֹ] [יִקְרָא] | [KJV:] Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.
+Prov 27:17 [בַּרְזֶל] [בְּבַרְזֶל] [יָחַד] and a man [יַחַד] [ְּנֵי] [רֵעֵהוּ] | [KJV:] Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.
+Prov 27:18 [נֹצֵר] [תְּאֵנָה] [יֹאכַל] [ִּרְיָהּ] [וְשֹׁמֵר] [אֲדֹנָיו] [יְכֻבָּד] | [KJV:] Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.
+Prov 27:19 [כַּמַּיִם] [הַָּנִים] [לַָּנִים] [כֵּן] heart the man [לָאָדָם] | [KJV:] As in water face answereth to face, so the heart of man to man.
+Prov 27:20 [שְׁאוֹל] [וַאֲבַדֹּה] not [תִשְׂבַּעְנָה] [וְעֵינֵי] the man not [תִשְׂבַּעְנָה] | [KJV:] Hell and destruction are never full; so the eyes of man are never satisfied.
+Prov 27:21 [מַצְרֵף] [לַכֶֶּף] [וְכוּר] [לַזָּהָב] and a man [לְִי] [מַהֲלָלוֹ] | [KJV:] As the fining pot for silver, and the furnace for gold; so is a man to his praise.
+Prov 27:22 if [תִּכְתּוֹשׁ] [with] [הָאֱוִיל] [בַּמַּכְתֵּשׁ] [בְּתוֹךְ] [הָרִיוֹת] [בַּעֱלִי] not [תָוּר] [מֵעָלָיו] [אִוַּלְתּוֹ] | [KJV:] Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
+Prov 27:23 [יָדֹעַ] [תֵּדַע] [ְּנֵי] [צֹאנֶךָ] [שִׁית] [לִבְּךָ] [לַעֲדָרִים] | [KJV:] Be thou diligent to know the state of thy flocks, and look well to thy herds.
+Prov 27:24 [כִּי] not forever [חֶֹן] and if [נֵזֶר] [לְדוֹר] [דוֹר] | [KJV:] For riches are not for ever: and doth the crown endure to every generation?
+Prov 27:25 [גָּלָה] [חָצִיר] [וְנִרְאָה] [דֶשֶׁא] [וְנֶאְֶוּ] [עִשְּׂבוֹת] [הָרִים] | [KJV:] The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.
+Prov 27:26 [כְּבָשִׂים] [לִלְבוּשֶׁךָ] [וּמְחִיר] [שָׂדֶה] [עַתּוּדִים] | [KJV:] The lambs are for thy clothing, and the goats are the price of the field.
+Prov 27:27 [וְדֵי] [חֲלֵב] [עִזִּים] [לְלַחְמְךָ] [לְלֶחֶם] [בֵּיתֶךָ] [וְחַיִּים] [לְנַעֲרוֹתֶיךָ] | [KJV:] And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.
+Prov 28:1 [נָוּ] [וְאֵין] [רֹדֵף] [רָשָׁע] [וְצַדִּיקִים] [כִּכְִיר] [יִבְטָח] | [KJV:] The wicked flee when no man pursueth: but the righteous are bold as a lion.
+Prov 28:2 [בְֶּשַׁע] land [רַבִּים] [שָׂרֶיהָ] [וּבְאָדָם] [מֵבִין] [יֹדֵעַ] [כֵּן] [יַאֲרִיךְ] | [KJV:] For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.
+Prov 28:3 [גֶּבֶר] [רָשׁ] [וְעֹשֵׁק] [דַּלִּים] [מָטָר] [ֹחֵף] [וְאֵין] [לָחֶם] | [KJV:] A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.
+Prov 28:4 [עֹזְבֵי] [תוֹרָה] [יְהַלְלוּ] [רָשָׁע] [וְשֹׁמְרֵי] [תוֹרָה] [יִתְגָּרוּ] [בָם] | [KJV:] They that forsake the law praise the wicked: but such as keep the law contend with them.
+Prov 28:5 [אַנְשֵׁי] [רָע] not [יָבִינוּ] [מִשְָּׁט] [וּמְבַקְשֵׁי] YHWH/[the] LORD [יָבִינוּ] all | [KJV:] Evil men understand not judgment: but they that seek the Lord understand all things.
+Prov 28:6 good [רָשׁ] [הוֹלֵךְ] [בְּתֻמּוֹ] [מֵעִקֵּשׁ] [דְּרָכַיִם] [וְהוּא] [עָשִׁיר] | [KJV:] Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.
+Prov 28:7 [נוֹצֵר] [תּוֹרָה] [בֵּן] [מֵבִין] [וְרֹעֶה] [זוֹלְלִים] [יַכְלִים] his father | [KJV:] Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.
+Prov 28:8 [מַרְבֶּה] [הוֹנוֹ] [בְּנֶשֶׁךְ] [וּבְתַרְבִּית] [לְחוֹנֵן] [דַּלִּים] [יִקְבְּצֶנּוּ] | [KJV:] He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
+Prov 28:9 [מִֵיר] [אָזְנוֹ] [מִשְּׁמֹעַ] [תּוֹרָה] [גַּם] [תְִּלָּתוֹ] [תּוֹעֵבָה] | [KJV:] He that turneth away his ear from hearing the law, even his prayer shall be abomination.
+Prov 28:10 [מַשְׁגֶּה] [יְשָׁרִים] [בְּדֶרֶךְ] [רָע] [בִּשְׁחוּתוֹ] he [יִּוֹל] [וּתְמִימִים] [יִנְחֲלוּ] good | [KJV:] Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.
+Prov 28:11 wise [בְּעֵינָיו] man [עָשִׁיר] [וְדַל] [מֵבִין] [יַחְקְרֶנּוּ] | [KJV:] The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.
+Prov 28:12 [בַּעֲלֹץ] [צַדִּיקִים] [רַבָּה] [תְִאָרֶת] [וּבְקוּם] [רְשָׁעִים] [יְחַֻּשׂ] man/mankind | [KJV:] When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.
+Prov 28:13 [מְכֶַּה] [ְשָׁעָיו] not prospers [וּמוֹדֶה] [וְעֹזֵב] [יְרֻחָם] | [KJV:] He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
+Prov 28:14 [אַשְׁרֵי] man/mankind [מְַחֵד] [תָּמִיד] [וּמַקְשֶׁה] [לִבּוֹ] [יִּוֹל] [בְּרָעָה] | [KJV:] Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.
+Prov 28:15 [אֲרִי] [נֹהֵם] [וְדֹב] [שׁוֹקֵק] [מֹשֵׁל] [רָשָׁע] upon people [דָּל] | [KJV:] As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.
+Prov 28:16 [נָגִיד] [חֲַר] [תְּבוּנוֹת] [וְרַב] [מַעֲשַׁקּוֹת] [שֹׂנְאֵי] [בֶצַע] [יַאֲרִיךְ] days | [KJV:] The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.
+Prov 28:17 man/mankind [עָשֻׁק] [בְּדַם] [נֶָשׁ] until [בּוֹר] [יָנוּ] not [imperative] [יִתְמְכוּ] in him/it | [KJV:] A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.
+Prov 28:18 [הוֹלֵךְ] [תָּמִים] [יִוָּשֵׁעַ] [וְנֶעְקַשׁ] [דְּרָכַיִם] [יִּוֹל] [בְּאֶחָת] | [KJV:] Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.
+Prov 28:19 [עֹבֵד] [אַדְמָתוֹ] [יִשְׂבַּע] [לָחֶם] [וּמְרַדֵּף] [רֵקִים] [יִשְׂבַּע] [רִישׁ] | [KJV:] He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.
+Prov 28:20 man [אֱמוּנוֹת] many/much [בְּרָכוֹת] [וְאָץ] [לְהַעֲשִׁיר] not [יִנָּקֶה] | [KJV:] A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.
+Prov 28:21 [הַכֵּר] [ָּנִים] not good and upon [ַּת] bread [יְִשַׁע] [גָּבֶר]
+Prov 28:22 [נִבֳהָל] [לַהוֹן] man bad [עָיִן] and not [יֵדַע] [כִּי] [חֶֶר] [יְבֹאֶנּוּ] | [KJV:] He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.
+Prov 28:23 [מוֹכִיחַ] man/mankind [אַחֲרַי] grace [יִמְצָא] [מִמַּחֲלִיק] [לָשׁוֹן] | [KJV:] He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
+Prov 28:24 [גּוֹזֵל] his father [וְאִמּוֹ] [וְאֹמֵר] [there is] no [ָּשַׁע] [חָבֵר] he [לְאִישׁ] [מַשְׁחִית] | [KJV:] Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.
+Prov 28:25 [רְחַב] [נֶֶשׁ] [יְגָרֶה] [מָדוֹן] [וּבוֹטֵחַ] upon YHWH/[the] LORD [יְדֻשָּׁן] | [KJV:] He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat.
+Prov 28:26 [בּוֹטֵחַ] [בְּלִבּוֹ] he [כְִיל] [וְהוֹלֵךְ] [בְּחָכְמָה] he [יִמָּלֵט] | [KJV:] He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.
+Prov 28:27 [נוֹתֵן] [לָרָשׁ] [there is] no [מַחְוֹר] [וּמַעְלִים] [עֵינָיו] many/much [מְאֵרוֹת] | [KJV:] He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.
+Prov 28:28 [בְּקוּם] [רְשָׁעִים] [יִָּתֵר] man/mankind [וּבְאָבְדָם] [יִרְבּוּ] [צַדִּיקִים] | [KJV:] When the wicked rise, men hide themselves: but when they perish, the righteous increase.
+Prov 29:1 man [תּוֹכָחוֹת] [מַקְשֶׁה] [עֹרֶף] [ֶּתַע] [יִשָּׁבֵר] [וְאֵין] [מַרְֵּא] | [KJV:] He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.
+Prov 29:2 [בִּרְבוֹת] [צַדִּיקִים] [יִשְׂמַח] the people [וּבִמְשֹׁל] [רָשָׁע] [יֵאָנַח] people | [KJV:] When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.
+Prov 29:3 man [אֹהֵב] [חָכְמָה] [יְשַׂמַּח] his father [וְרֹעֶה] [זוֹנוֹת] [יְאַבֶּד] [הוֹן] | [KJV:] Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance.
+Prov 29:4 king [בְּמִשְָּׁט] [יַעֲמִיד] earth and a man [תְּרוּמוֹת] [יֶהֶרְֶנָּה]
+Prov 29:5 [גֶּבֶר] [מַחֲלִיק] upon [רֵעֵהוּ] [רֶשֶׁת] [ּוֹרֵשׂ] upon [ְּעָמָיו] | [KJV:] A man that flattereth his neighbour spreadeth a net for his feet.
+Prov 29:6 [בְֶּשַׁע] man [רָע] [מוֹקֵשׁ] [וְצַדִּיק] [יָרוּן] [וְשָׂמֵחַ] | [KJV:] In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice.
+Prov 29:7 [יֹדֵעַ] [צַדִּיק] [דִּין] [דַּלִּים] [רָשָׁע] not [יָבִין] [דָּעַת] | [KJV:] The righteous considereth the cause of the poor: but the wicked regardeth not to know it.
+Prov 29:8 [אַנְשֵׁי] [לָצוֹן] [יִָיחוּ] [קִרְיָה] [וַחֲכָמִים] [יָשִׁיבוּ] [אָף] | [KJV:] Scornful men bring a city into a snare: but wise men turn away wrath.
+Prov 29:9 man wise [נִשְָּׁט] [with] man [אֱוִיל] [וְרָגַז] [וְשָׂחַק] [וְאֵין] [נָחַת] | [KJV:] If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.
+Prov 29:10 [אַנְשֵׁי] [דָמִים] [יִשְׂנְאוּ] [תָם] [וִישָׁרִים] [יְבַקְשׁוּ] [נְַשׁוֹ] | [KJV:] The bloodthirsty hate the upright: but the just seek his soul.
+Prov 29:11 [כָּל] [רוּחוֹ] [יוֹצִיא] [כְִיל] [וְחָכָם] [בְּאָחוֹר] [יְשַׁבְּחֶנָּה] | [KJV:] A fool uttereth all his mind: but a wise man keepeth it in till afterwards.
+Prov 29:12 [מֹשֵׁל] [מַקְשִׁיב] upon [דְּבַר] [שָׁקֶר] [כָּל] [מְשָׁרְתָיו] [רְשָׁעִים] | [KJV:] If a ruler hearken to lies, all his servants are wicked.
+Prov 29:13 [רָשׁ] and a man [תְּכָכִים] [נְִגָּשׁוּ] [מֵאִיר] [עֵינֵי] [שְׁנֵיהֶם] YHWH/[the] LORD
+Prov 29:14 king [שׁוֵֹט] [בֶּאֱמֶת] [דַּלִּים] [כְִּאוֹ] [לָעַד] [יִכּוֹן] | [KJV:] The king that faithfully judgeth the poor, his throne shall be established for ever.
+Prov 29:15 [שֵׁבֶט] [וְתוֹכַחַת] [יִתֵּן] [חָכְמָה] [וְנַעַר] [מְשֻׁלָּח] [מֵבִישׁ] [אִמּוֹ] | [KJV:] The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.
+Prov 29:16 [בִּרְבוֹת] [רְשָׁעִים] [יִרְבֶּה] [ָּשַׁע] [וְצַדִּיקִים] [בְּמַַּלְתָּם] [יִרְאוּ] | [KJV:] When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.
+Prov 29:17 [יֵַּר] [בִּנְךָ] [וִינִיחֶךָ] [וְיִתֵּן] [מַעֲדַנִּים] [לְנְַשֶׁךָ] | [KJV:] Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.
+Prov 29:18 [בְּאֵין] [חָזוֹן] [יִָּרַע] people [וְשֹׁמֵר] [תּוֹרָה] [אַשְׁרֵהוּ] | [KJV:] Where there is no vision, the people perish: but he that keepeth the law, happy is he.
+Prov 29:19 [בִּדְבָרִים] not [יִוֶָּר] [עָבֶד] [כִּי] [יָבִין] [וְאֵין] [מַעֲנֶה] | [KJV:] A servant will not be corrected by words: for though he understand he will not answer.
+Prov 29:20 [חָזִיתָ] man [אָץ] [בִּדְבָרָיו] [תִּקְוָה] [לִכְִיל] [מִמֶּנּוּ] | [KJV:] Seest thou a man that is hasty in his words? there is more hope of a fool than of him.
+Prov 29:21 [מְַנֵּק] [מִנֹּעַר] [עַבְדּוֹ] [וְאַחֲרִיתוֹ] he will be [מָנוֹן] | [KJV:] He that delicately bringeth up his servant from a child shall have him become his son at the length.
+Prov 29:22 man [אַף] [יְגָרֶה] [מָדוֹן] [וּבַעַל] [חֵמָה] many/much [ָּשַׁע] | [KJV:] An angry man stirreth up strife, and a furious man aboundeth in transgression.
+Prov 29:23 [גַּאֲוַת] man/mankind [תַּשְִּׁילֶנּוּ] [וּשְַׁל] spirit/wind [יִתְמֹךְ] [כָּבוֹד] | [KJV:] A man's pride shall bring him low: but honour shall uphold the humble in spirit.
+Prov 29:24 [חוֹלֵק] with [גַּנָּב] [שׂוֹנֵא] [נְַשׁוֹ] [אָלָה] [יִשְׁמַע] and not [יַגִּיד] | [KJV:] Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not.
+Prov 29:25 [חֶרְדַּת] man/mankind [יִתֵּן] [מוֹקֵשׁ] [וּבוֹטֵחַ] [בַּיהוָה] [יְשֻׂגָּב] | [KJV:] The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.
+Prov 29:26 [רַבִּים] [מְבַקְשִׁים] [ְּנֵי] [מוֹשֵׁל] [וּמֵיְהוָה] [מִשְַּׁט] man | [KJV:] Many seek the ruler's favour; but every man's judgment cometh from the Lord.
+Prov 29:27 [תּוֹעֲבַת] [צַדִּיקִים] man [עָוֶל] [וְתוֹעֲבַת] [רָשָׁע] [יְשַׁר] [דָּרֶךְ] | [KJV:] An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
+Prov 30:1 [דִּבְרֵי] [אָגוּר] [בִּן] [יָקֶה] [הַמַּשָּׂא] [נְאֻם] [הַגֶּבֶר] [לְאִיתִיאֵל] [לְאִיתִיאֵל] [וְאֻכָל] | [KJV:] The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,
+Prov 30:2 [כִּי] [בַעַר] I [מֵאִישׁ] and not [בִינַת] man/mankind to me
+Prov 30:3 and not [לָמַדְתִּי] [חָכְמָה] [וְדַעַת] [קְדֹשִׁים] [אֵדָע] | [KJV:] I neither learned wisdom, nor have the knowledge of the holy.
+Prov 30:4 who [he] went up [שָׁמַיִם] [וַיֵּרַד] who [אַָף] spirit/wind [בְּחְָנָיו] who [צָרַר] water(s) [בַּשִּׂמְלָה] who [הֵקִים] [כָּל] [אְֵַי] earth what [שְּׁמוֹ] [וּמַה] [שֶּׁם] [בְּנוֹ] [כִּי] [תֵדָע] | [KJV:] Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?
+Prov 30:5 [כָּל] [אִמְרַת] [אֱלוֹהַּ] [צְרוָּה] shield he [לַחִֹים] in him/it | [KJV:] Every word of God is pure: he is a shield unto them that put their trust in him.
+Prov 30:6 not [imperative] [תּוְֹףְּ] upon [דְּבָרָיו] [ֶּן] [יוֹכִיחַ] [בְּךָ] [וְנִכְזָבְתָּ] | [KJV:] Add thou not unto his words, lest he reprove thee, and thou be found a liar.
+Prov 30:7 [שְׁתַּיִם] [שָׁאַלְתִּי] [מֵאִתָּךְ] not [imperative] [תִּמְנַע] [מִמֶּנִּי] [בְּטֶרֶם] [אָמוּת] | [KJV:] Two things have I required of thee; deny me them not before I die:
+Prov 30:8 [שָׁוְא] [וּדְבַר] [כָּזָב] [הַרְחֵק] [מִמֶּנִּי] [רֵאשׁ] [וָעֹשֶׁר] not [imperative] [תִּתֶּן] to me [הַטְרִיֵנִי] bread [חֻקִּי] | [KJV:] Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:
+Prov 30:9 [ֶּן] [אֶשְׂבַּע] [וְכִחַשְׁתִּי] [וְאָמַרְתִּי] who YHWH/[the] LORD [וֶּן] [אִוָּרֵשׁ] [וְגָנַבְתִּי] [וְתַָשְׂתִּי] [שֵׁם] [אֱלֹהָי] | [KJV:] Lest I be full, and deny thee, and say, Who is the Lord? or lest I be poor, and steal, and take the name of my God in vain.
+Prov 30:10 not [imperative] [תַּלְשֵׁן] servant to/toward [אֲדֹנוֹ] [ֶּן] [יְקַלֶּלְךָ] [וְאָשָׁמְתָּ] | [KJV:] Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.
+Prov 30:11 [דּוֹר] his father [יְקַלֵּל] and [with/acc] [אִמּוֹ] not [יְבָרֵךְ] | [KJV:] There is a generation that curseth their father, and doth not bless their mother.
+Prov 30:12 [דּוֹר] pure [בְּעֵינָיו] [וּמִצֹּאָתוֹ] not [רֻחָץ] | [KJV:] There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.
+Prov 30:13 [דּוֹר] [מָה] [רָמוּ] [עֵינָיו] [וְעְַעַָּיו] [יִנָּשֵׂאוּ] | [KJV:] There is a generation, O how lofty are their eyes! and their eyelids are lifted up.
+Prov 30:14 [דּוֹר] [חֲרָבוֹת] [שִׁנָּיו] [וּמַאֲכָלוֹת] [מְתַלְּעֹתָיו] [לֶאֱכֹל] [עֲנִיִּים] from [the] land [וְאֶבְיוֹנִים] [מֵאָדָם] | [KJV:] There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.
+Prov 30:15 [לַעֲלוּקָה] [שְׁתֵּי] [בָנוֹת] [הַב] [הַב] [שָׁלוֹשׁ] [הֵנָּה] not [תִשְׂבַּעְנָה] [אַרְבַּע] not [אָמְרוּ] [הוֹן] | [KJV:] The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
+Prov 30:16 [שְׁאוֹל] [וְעֹצֶר] [רָחַם] land not [שָׂבְעָה] [מַּיִם] [וְאֵשׁ] not [אָמְרָה] [הוֹן] | [KJV:] The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.
+Prov 30:17 [עַיִן] [תִּלְעַג] [לְאָב] [וְתָבוּז] [לִיקֲּהַת] mother [יִקְּרוּהָ] [עֹרְבֵי] inheritance [וְיֹאכְלוּהָ] sons of [נָשֶׁר] | [KJV:] The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
+Prov 30:18 [שְׁלֹשָׁה] [הֵמָּה] [נְִלְאוּ] [מִמֶּנִּי] [וְאַרְבָּעָ] not [יְדַעְתִּים] | [KJV:] There be three things which are too wonderful for me, yea, four which I know not:
+Prov 30:19 [דֶּרֶךְ] [הַנֶּשֶׁר] [בַּשָּׁמַיִם] [דֶּרֶךְ] [נָחָשׁ] [עֲלֵי] rock [דֶּרֶךְ] [אֳנִיָּה] [בְלֶב] sea [וְדֶרֶךְ] [גֶּבֶר] [בְּעַלְמָה] | [KJV:] The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
+Prov 30:20 [כֵּן] [דֶּרֶךְ] [אִשָּׁה] [מְנָאֶָת] [אָכְלָה] [וּמָחֲתָה] [ִיהָ] [וְאָמְרָה] not [ָעַלְתִּי] [אָוֶן] | [KJV:] Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
+Prov 30:21 [תַּחַת] [שָׁלוֹשׁ] [רָגְזָה] land [וְתַחַת] [אַרְבַּע] not [תוּכַל] [שְׂאֵת] | [KJV:] For three things the earth is disquieted, and for four which it cannot bear:
+Prov 30:22 [תַּחַת] servant [כִּי] [יִמְלוֹךְ] [וְנָבָל] [כִּי] [יִשְׂבַּע] [לָחֶם] | [KJV:] For a servant when he reigneth; and a fool when he is filled with meat;
+Prov 30:23 [תַּחַת] [שְׂנוּאָה] [כִּי] [תִבָּעֵל] [וְשְִׁחָה] [כִּי] [תִירַשׁ] [גְּבִרְתָּהּ] | [KJV:] For an odious woman when she is married; and an handmaid that is heir to her mistress.
+Prov 30:24 [אַרְבָּעָה] they [קְטַנֵּי] earth [וְהֵמָּה] [חֲכָמִים] [מְחֻכָּמִים] | [KJV:] There be four things which are little upon the earth, but they are exceeding wise:
+Prov 30:25 [הַנְּמָלִים] people not [עָז] [וַיָּכִינוּ] [בַקַּיִץ] [לַחְמָם] | [KJV:] The ants are a people not strong, yet they prepare their meat in the summer;
+Prov 30:26 [שְַׁנִּים] people not [עָצוּם] [וַיָּשִׂימוּ] [בֶַּלַע] [בֵּיתָם] | [KJV:] The conies are but a feeble folk, yet make they their houses in the rocks;
+Prov 30:27 king [there is] no [לָאַרְבֶּה] [וַיֵּצֵא] [חֹצֵץ] [כֻּלּוֹ] | [KJV:] The locusts have no king, yet go they forth all of them by bands;
+Prov 30:28 [שְׂמָמִית] [בְּיָדַיִם] [תְּתֵַּשׂ] [וְהִיא] [בְּהֵיכְלֵי] king | [KJV:] The spider taketh hold with her hands, and is in kings' palaces.
+Prov 30:29 [שְׁלֹשָׁה] [הֵמָּה] [מֵיטִיבֵי] [צָעַד] [וְאַרְבָּעָה] [מֵיטִבֵי] [לָכֶת] | [KJV:] There be three things which go well, yea, four are comely in going:
+Prov 30:30 [לַיִשׁ] [גִּבּוֹר] [בַּבְּהֵמָה] and not [יָשׁוּב] [מְִּנֵי] all | [KJV:] A lion which is strongest among beasts, and turneth not away for any;
+Prov 30:31 [זַרְזִיר] [מָתְנַיִם] or [תָיִשׁ] [וּמֶלֶךְ] [אַלְקוּם] with him | [KJV:] A greyhound; an he goat also; and a king, against whom there is no rising up.
+Prov 30:32 if [נָבַלְתָּ] [בְהִתְנַשֵּׂא] and if [זַמּוֹתָ] hand [לְֶה]
+Prov 30:33 [כִּי] [מִיץ] [חָלָב] [יוֹצִיא] [חֶמְאָה] [וּמִיץ] [אַף] [יוֹצִיא] [דָם] [וּמִיץ] [אַַּיִם] [יוֹצִיא] [רִיב] | [KJV:] Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.
+Prov 31:1 [דִּבְרֵי] [לְמוּאֵל] king [מַשָּׂא] [אֲשֶׁר] [יְִּרַתּוּ] [אִמּוֹ] | [KJV:] The words of king Lemuel, the prophecy that his mother taught him.
+Prov 31:2 what [בְּרִי] [וּמַה] [בַּר] [בִּטְנִי] [וּמֶה] [בַּר] [נְדָרָי] | [KJV:] What, my son? and what, the son of my womb? and what, the son of my vows?
+Prov 31:3 not [imperative] [תִּתֵּן] [לַנָּשִׁים] [חֵילֶךָ] [וּדְרָכֶיךָ] [לַמְחוֹת] [מְלָכִין] | [KJV:] Give not thy strength unto women, nor thy ways to that which destroyeth kings.
+Prov 31:4 not [imperative] [לַמְלָכִים] [לְמוֹאֵל] not [imperative] [לַמְלָכִים] [שְׁתוֹ] [יָיִן] [וּלְרוֹזְנִים] or [שֵׁכָר] | [KJV:] It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:
+Prov 31:5 [ֶּן] [יִשְׁתֶּה] [וְיִשְׁכַּח] [מְחֻקָּק] [וִישַׁנֶּה] [דִּין] [כָּל] [בְּנֵי] [עֹנִי] | [KJV:] Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.
+Prov 31:6 [תְּנוּ] [שֵׁכָר] [לְאוֹבֵד] [וְיַיִן] [לְמָרֵי] [נֶָשׁ] | [KJV:] Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.
+Prov 31:7 [יִשְׁתֶּה] [וְיִשְׁכַּח] [רִישׁוֹ] [וַעֲמָלוֹ] not [יִזְכָּר] still/yet | [KJV:] Let him drink, and forget his poverty, and remember his misery no more.
+Prov 31:8 [ְּתַח] [ִּיךָ] [לְאִלֵּם] to/toward [דִּין] [כָּל] [בְּנֵי] [חֲלוֹף] | [KJV:] Open thy mouth for the dumb in the cause of all such as are appointed to destruction.
+Prov 31:9 [ְּתַח] [ִּיךָ] [שְָׁט] righteousness [וְדִין] poor [וְאֶבְיוֹן] | [KJV:] Open thy mouth, judge righteously, and plead the cause of the poor and needy.
+Prov 31:10 [אֵשֶׁת] [חַיִל] who [יִמְצָא] [וְרָחֹק] [מְִּנִינִים] [מִכְרָהּ] | [KJV:] Who can find a virtuous woman? for her price is far above rubies.
+Prov 31:11 [בָּטַח] [בָּהּ] heart [בַּעְלָהּ] [וְשָׁלָל] not [יֶחְָר] | [KJV:] The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
+Prov 31:12 [גְּמָלַתְהוּ] good and not [רָע] all [יְמֵי] [חַיֶּיה]
+Prov 31:13 [דָּרְשָׁה] [צֶמֶר] [וִּשְׁתִּים] [וַתַּעַשׂ] [בְּחֵֶץ] [כֶַּּיהָ] | [KJV:] She seeketh wool, and flax, and worketh willingly with her hands.
+Prov 31:14 [she] was [כָּאֳנִיּוֹת] [וֹחֵר] [מִמֶּרְחָק] [תָּבִיא] [לַחְמָהּ] | [KJV:] She is like the merchants' ships; she bringeth her food from afar.
+Prov 31:15 [וַתָּקָם] [בְּעוֹד] night [וַתִּתֵּן] [טֶרֶף] [לְבֵיתָהּ] [וְחֹק] [לְנַעֲרֹתֶיהָ] | [KJV:] She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.
+Prov 31:16 [זָמְמָה] [שָׂדֶה] [וַתִּקָּחֵהוּ] [מְִּרִי] [כֶַּיהָ] [נְטַע] [כָּרֶם] | [KJV:] She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.
+Prov 31:17 [חָגְרָה] [בְעוֹז] [מָתְנֶיהָ] [וַתְּאַמֵּץ] [זְרֹעוֹתֶיהָ] | [KJV:] She girdeth her loins with strength, and strengtheneth her arms.
+Prov 31:18 [טָעֲמָה] [כִּי] good [ַחְרָהּ] not [יִכְבֶּה] [בַלַּיִל] [נֵרָהּ] | [KJV:] She perceiveth that her merchandise is good: her candle goeth not out by night.
+Prov 31:19 [יָדֶיהָ] [שִׁלְּחָה] [בַכִּישׁוֹר] [וְכֶַּיהָ] [תָּמְכוּ] [ָלֶךְ] | [KJV:] She layeth her hands to the spindle, and her hands hold the distaff.
+Prov 31:20 [כַָּּהּ] [ָּרְשָׂה] [לֶעָנִי] [וְיָדֶיהָ] [שִׁלְּחָה] [לָאֶבְיוֹן] | [KJV:] She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
+Prov 31:21 not [תִירָא] [לְבֵיתָהּ] [מִשָּׁלֶג] [כִּי] [כָל] [בֵּיתָהּ] [לָבֻשׁ] [שָׁנִים] | [KJV:] She is not afraid of the snow for her household: for all her household are clothed with scarlet.
+Prov 31:22 [מַרְבַדִּים] [עָשְׂתָה] [לָּהּ] [שֵׁשׁ] [וְאַרְגָּמָן] [לְבוּשָׁהּ] | [KJV:] She maketh herself coverings of tapestry; her clothing is silk and purple.
+Prov 31:23 [נוֹדָע] [בַּשְּׁעָרִים] [בַּעְלָהּ] [בְּשִׁבְתּוֹ] with [זִקְנֵי] earth | [KJV:] Her husband is known in the gates, when he sitteth among the elders of the land.
+Prov 31:24 [ָדִין] [עָשְׂתָה] [וַתִּמְכֹּר] [וַחֲגוֹר] she gave [לַכְּנַעֲנִי] | [KJV:] She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.
+Prov 31:25 [עֹז] [וְהָדָר] [לְבוּשָׁהּ] [וַתִּשְׂחַק] [לְיוֹם] [אַחֲרוֹן] | [KJV:] Strength and honour are her clothing; and she shall rejoice in time to come.
+Prov 31:26 [ִּיהָ] [ָּתְחָה] [בְחָכְמָה] [וְתוֹרַת] [חֶֶד] upon [לְשׁוֹנָהּ] | [KJV:] She openeth her mouth with wisdom; and in her tongue is the law of kindness.
+Prov 31:27 [צוִֹיָּה] [הֲלִיכוֹת] [בֵּיתָהּ] [וְלֶחֶם] [עַצְלוּת] not [תֹאכֵל] | [KJV:] She looketh well to the ways of her household, and eateth not the bread of idleness.
+Prov 31:28 [קָמוּ] [בָנֶיהָ] [וַיְאַשְּׁרוּהָ] [בַּעְלָהּ] [וַיְהַלְלָהּ] | [KJV:] Her children arise up, and call her blessed; her husband also, and he praiseth her.
+Prov 31:29 [רַבּוֹת] [בָּנוֹת] [עָשׂוּ] [חָיִל] [וְאַתְּ] [עָלִית] upon [כֻּלָּנָה] | [KJV:] Many daughters have done virtuously, but thou excellest them all.
+Prov 31:30 [שֶׁקֶר] [הַחֵן] [וְהֶבֶל] [הַיִֹּי] [אִשָּׁה] [יִרְאַת] YHWH/[the] LORD she [תִתְהַלָּל] | [KJV:] Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
+Prov 31:31 [תְּנוּ] to her [מְִּרִי] [יָדֶיהָ] [וִיהַלְלוּהָ] [בַשְּׁעָרִים] [מַעֲשֶׂיהָ] | [KJV:] Give her of the fruit of her hands; and let her own works praise her in the gates.

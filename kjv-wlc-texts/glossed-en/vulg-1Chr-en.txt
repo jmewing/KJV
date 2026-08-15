@@ -1,0 +1,940 @@
+1Chr 1:1 Adam Seth Enosh
+1Chr 1:2 Kenan [Malelehel] [Iared] | [KJV:] Kenan, Mahalaleel, Jered,
+1Chr 1:3 Enoch [Matusale] Lamech
+1Chr 1:4 Noah Shem [Ham] and [Iafeth]
+1Chr 1:5 sons [Iafeth] [Gomer] [Magog] [Madai] and [Iavan] [Thubal] [Mosoch] [Thiras] | [KJV:] The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
+1Chr 1:6 [porro] sons [Gomer] [Aschenez] and [Rifath] and [Thogorma] | [KJV:] And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.
+1Chr 1:7 sons but/however [Iavan] [Elisa] and [Tharsis] [Cetthim] and [Dodanim] | [KJV:] And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
+1Chr 1:8 sons [Ham] [Chus] and [Mesraim] [Phut] and Canaan
+1Chr 1:9 sons but/however [Chus] [Saba] and [Evila] [Sabatha] and [Rechma] and [Sabathaca] [porro] sons [Rechma] [Saba] and [Dadan] | [KJV:] And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.
+1Chr 1:10 [Chus] but/however [he] begat [Nemrod] [iste] [he] began to be [potens] in earth
+1Chr 1:11 [Mesraim] indeed [he] begat [Ludim] and [Anamim] and [Laabim] and [Nepthuim]
+1Chr 1:12 [Phethrosim] also and [Chasluim] from/concerning to whom/which having gone out [pl] they are [Philisthim] and [Capthurim]
+1Chr 1:13 Canaan indeed [he] begat [Sidonem] [primogenitum] and [Heth]
+1Chr 1:14 [Iebuseum] also and [Amorreum] and [Gergeseum]
+1Chr 1:15 [Evheumque] and [Aruceum] and [Asineum] | [KJV:] And the Hivite, and the Arkite, and the Sinite,
+1Chr 1:16 [Aradium] also and [Samareum] and [Ematheum]
+1Chr 1:17 sons Shem [Aelam] and [Assur] and [Arfaxad] and [Lud] and Aram and [Us] and [Hul] and [Gothor] and [Mosoch]
+1Chr 1:18 [Arfaxad] but/however [he] begat [Sala] who/which and he himself [he] begat [Heber]
+1Chr 1:19 [porro] [Heber] were born they are two sons name [uni] [Phaleg] because in in days of him/her [divisa] [he/she/it] is earth and name of brother of him/her [Iectan]
+1Chr 1:20 [Iectan] but/however [he] begat [Helmodad] and [Saleph] and [Asermoth] and [Iare]
+1Chr 1:21 [Aduram] also and [Uzal] and [Decla]
+1Chr 1:22 [Ebal] also and [Abimahel] and [Saba] [necnon] | [KJV:] And Ebal, and Abimael, and Sheba,
+1Chr 1:23 and [Ophir] and [Evila] and [Iobab] all [pl] [isti] sons [Iectan]
+1Chr 1:24 Shem [Arfaxad] [Sale] | [KJV:] Shem, Arphaxad, Shelah,
+1Chr 1:25 [Heber] [Phaleg] [Raau] | [KJV:] Eber, Peleg, Reu,
+1Chr 1:26 [Serug] [Nahor] [Thare] | [KJV:] Serug, Nahor, Terah,
+1Chr 1:27 Abram [iste] [he/she/it] is Abraham
+1Chr 1:28 sons but/however Abraham Isaac and [Ismahel]
+1Chr 1:29 and [hae] [generationes] of them [m] [primogenitus] [Ismahelis] [Nabaioth] and [Cedar] and [Adbeel] and [Mabsam] | [KJV:] These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,
+1Chr 1:30 [Masma] and [Duma] [Massa] [Adad] and [Thema] | [KJV:] Mishma, and Dumah, Massa, Hadad, and Tema,
+1Chr 1:31 [Iathur] [Naphis] [Cedma] these they are sons [Ismahelis]
+1Chr 1:32 sons but/however [Cetthurae] [concubinae] Abraham whom [m pl] [he] begat [Zamram] [Iecsan] [Madan] [Madian] [Iesboc] [Sue] [porro] sons [Iecsan] [Saba] and [Dadan] | [KJV:] Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
+1Chr 1:33 sons but/however [Madian] [Epha] and [Apher] and Enoch and [Abida] and [Eldaa] all [pl] these sons [Cetthurae]
+1Chr 1:34 [he] begat but/however Abraham Isaac whose [fuerunt] sons Esau and Israel
+1Chr 1:35 sons Esau [Eliphaz] [Rauhel] [Iaus] [Ialam] [Core] | [KJV:] The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
+1Chr 1:36 sons [Eliphaz] [Theman] [Omer] [Sepphu] [Gethem] [Cenez] [Thamna] [Amalech] | [KJV:] The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.
+1Chr 1:37 sons [Rauhel] [Naath] Zerah [Samma] [Maza] | [KJV:] The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
+1Chr 1:38 sons [Seir] [Lothan] [Sobal] [Sebeon] [Ana] [Dison] [Eser] [Disan] | [KJV:] And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezar, and Dishan.
+1Chr 1:39 sons [Lothan] [Horri] [Humam] sister but/however [Lothan] [he] was [Thamna] | [KJV:] And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.
+1Chr 1:40 sons [Sobal] [Alian] and [Manaath] and [Ebal] and [Sepphi] and [Onam] sons [Sebeon] [Aia] and [Ana] sons [Ana] [Dison] | [KJV:] The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. and the sons of Zibeon; Aiah, and Anah.
+1Chr 1:41 sons [Dison] [Amaran] and [Eseban] and [Iethran] and [Charan] | [KJV:] The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.
+1Chr 1:42 sons [Eser] [Balaan] and [Zaban] and [Iacan] sons [Dison] [Us] and [Aran] | [KJV:] The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran.
+1Chr 1:43 [isti] they are kings who/which [imperaverunt] in earth [Edom] [antequam] [he/she/it] might be king above sons [acc] Israel [Bale] son [Beor] and name [civitatis] of him/her [Denaba]
+1Chr 1:44 [mortuus] [he/she/it] is but/however [Bale] and [regnavit] for/before there [Iobab] son [Zare] from/concerning [Bosra]
+1Chr 1:45 and with and [Iobab] [fuisset] [mortuus] [regnavit] for/before there [Husam] from/concerning earth [Themanorum]
+1Chr 1:46 [obiit] also and [Husam] and [regnavit] for/before there [Adad] son [Badad] who/which [percussit] [Madian] in earth Moab and name [civitatis] of him/her [Avith]
+1Chr 1:47 and with and [Adad] [fuisset] [mortuus] [regnavit] for/before there [Semla] from/concerning [Masreca]
+1Chr 1:48 but and [Semla] [mortuus] [he/she/it] is and [regnavit] for/before there [Saul] from/concerning [Rooboth] who/which [f] [iuxta] [amnem] [sita] [he/she/it] is
+1Chr 1:49 [mortuo] also [Saul] [regnavit] for/before there [Baalanan] son [Achobor] | [KJV:] And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.
+1Chr 1:50 but and here [mortuus] [he/she/it] is and [regnavit] for/before there [Adad] whose [urbis] [he] was name [Phou] and [appellata] [he/she/it] is wife of him/her [Mehetabel] daughter [Matred] [filiae] [Mezaab]
+1Chr 1:51 [Adad] but/however [mortuo] [duces] for/before [regibus] in [Edom] to be [coeperunt] [dux] [Thamna] [dux] [Alva] [dux] [Ietheth] | [KJV:] Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,
+1Chr 1:52 [dux] [Oolibama] [dux] [Hela] [dux] [Phinon] | [KJV:] Duke Aholibamah, duke Elah, duke Pinon,
+1Chr 1:53 [dux] [Cenez] [dux] [Theman] [dux] [Mabsar] | [KJV:] Duke Kenaz, duke Teman, duke Mibzar,
+1Chr 1:54 [dux] [Magdihel] [dux] [Iram] these [duces] [Edom] | [KJV:] Duke Magdiel, duke Iram. These are the dukes of Edom.
+1Chr 2:1 sons but/however Israel Reuben [Symeon] Levi [Iuda] [Isachar] and Zebulun
+1Chr 2:2 Dan [Ioseph] [Beniamin] [Nepthali] Gad Asher
+1Chr 2:3 sons [Iuda] [Her] [Aunan] [Sela] three were born they are to him/her from/concerning daughter [Sue] [Chananitidis] [he] was but/however [Her] [primogenitus] [Iuda] bad before to [the] Lord and [occidit] him
+1Chr 2:4 Tamar but/however [nurus] of him/her [peperit] to him/her Perez and Zerah all [pl] therefore sons [Iuda] five
+1Chr 2:5 sons but/however Perez Hezron and [Hamul]
+1Chr 2:6 sons also [Zarae] [Zamri] and [Ethan] and [Eman] [Chalchal] also and [Darda] together five
+1Chr 2:7 sons [Carmi] [Achar] who/which [turbavit] Israel and [he] sinned in [furto] [anathematis]
+1Chr 2:8 sons [Ethan] [Azarias] | [KJV:] And the sons of Ethan; Azariah.
+1Chr 2:9 sons but/however Hezron who/which were born they are to him/her [Ieremahel] and [Ram] and [Chalubi]
+1Chr 2:10 [porro] [Ram] [he] begat Amminadab Amminadab but/however [he] begat Nahshon [principem] of sons [Iuda]
+1Chr 2:11 Nahshon also [he] begat [Salma] from/concerning [quo] [ortus] [he/she/it] is [Boez]
+1Chr 2:12 [Boez] indeed [he] begat Obed who/which and he himself [he] begat [Isai]
+1Chr 2:13 [Isai] but/however [he] begat [primogenitum] [Heliab] [secundum] [Abinadab] [tertium] [Samaa] | [KJV:] And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
+1Chr 2:14 [quartum] [Nathanahel] [quintum] [Raddai] | [KJV:] Nethaneel the fourth, Raddai the fifth,
+1Chr 2:15 [sextum] [Asom] [septimum] David | [KJV:] Ozem the sixth, David the seventh:
+1Chr 2:16 of whom [m] [sorores] [fuerunt] [Sarvia] and [Abigail] sons [Sarviae] [Abisai] [Ioab] and [Asahel] three | [KJV:] Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
+1Chr 2:17 [Abigail] but/however [he] begat [Amasa] whose father [he] was [Iether] [Ismahelites]
+1Chr 2:18 [Chaleb] indeed son Hezron [he] took wife [acc] in name [Azuba] from/concerning [qua] [he] begat [Ierioth] [fueruntque] sons of him/her [Iesar] and [Sobab] and [Ardon]
+1Chr 2:19 and with [mortua] [fuisset] [Azuba] [he] took wife [acc] [Chaleb] [Ephrath] who/which [f] [peperit] to him/her [Ur] | [KJV:] And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.
+1Chr 2:20 [porro] [Ur] [he] begat [Uri] and [Uri] [he] begat [Beselehel] | [KJV:] And Hur begat Uri, and Uri begat Bezaleel.
+1Chr 2:21 after this one [f] having entered [he/she/it] is Hezron to/toward daughter [acc] [Machir] of father Gilead and [he] took her with [he/she/it] might be [annorum] [sexaginta] who/which [f] [peperit] to him/her [Segub]
+1Chr 2:22 but and [Segub] [he] begat [Iair] and [possedit] twenty three [civitates] in earth Gilead
+1Chr 2:23 [cepitque] [Gessur] and Aram [oppida] [Iair] and [Canath] and [viculos] of him/her [sexaginta] [civitatum] all [pl] [isti] sons [Machir] of father Gilead
+1Chr 2:24 with but/however [mortuus] [he/she/it] might be Hezron having entered [he/she/it] is [Chaleb] to/toward [Ephrata] [he] had also Hezron wife [acc] Abijah who/which [f] [peperit] to him/her [Assur] father [acc] [Thecue]
+1Chr 2:25 were born they are but/however sons [Hieramehel] [primogeniti] Hezron [Ram] [primogenitus] of him/her and [Buna] and [Aran] and [Asom] and [Ahia]
+1Chr 2:26 [duxit] also wife [acc] [alteram] [Hieramehel] in name [Atara] who/which [f] [he] was mother [Onam]
+1Chr 2:27 but and sons [Ram] [primogeniti] [Hieramehel] [fuerunt] [Moos] and [Iamin] and [Achar] | [KJV:] And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
+1Chr 2:28 [Onam] but/however [he] had sons [acc] [Semmei] and [Iada] sons but/however [Semmei] [Nadab] and [Abisur]
+1Chr 2:29 name indeed [uxoris] [Abisur] [Abiail] who/which [f] [peperit] [Ahobban] and [Molid] | [KJV:] And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid.
+1Chr 2:30 sons but/however [Nadab] [fuerunt] [Saled] and [Apphaim] [mortuus] [he/she/it] is but/however [Saled] without [liberis] | [KJV:] And the sons of Nadab; Seled, and Appaim: but Seled died without children.
+1Chr 2:31 son indeed [Apphaim] [Iesi] who/which [Iesi] [he] begat [Sesan] [porro] [Sesan] [he] begat [Oholi] | [KJV:] And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.
+1Chr 2:32 sons but/however [Iada] of brother [Semmei] [Iether] and [Ionathan] but and [Iether] [mortuus] [he/she/it] is without [liberis]
+1Chr 2:33 [porro] [Ionathan] [he] begat [Phaleth] and [Ziza] [isti] [fuerunt] sons [Hieramehel] | [KJV:] And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.
+1Chr 2:34 [Sesan] but/however not [he] had sons [acc] but [filias] and [servum] [aegyptium] in name [Ieraa]
+1Chr 2:35 and [he] gave to him/her daughter [acc] his/her [f acc] wife [acc] who/which [f] [peperit] to him/her [Eththei]
+1Chr 2:36 [Eththei] but/however [he] begat [Nathan] and [Nathan] [he] begat [Zabad] | [KJV:] And Attai begat Nathan, and Nathan begat Zabad,
+1Chr 2:37 [Zabad] also [he] begat [Ophlal] and [Ophlal] [he] begat Obed
+1Chr 2:38 Obed [he] begat [Ieu] [Ieu] [he] begat [Azariam] | [KJV:] And Obed begat Jehu, and Jehu begat Azariah,
+1Chr 2:39 [Azarias] [he] begat [Helles] [Helles] [he] begat [Elasa] | [KJV:] And Azariah begat Helez, and Helez begat Eleasah,
+1Chr 2:40 [Elasa] [he] begat [Sisamoi] [Sisamoi] [he] begat [Sellum] | [KJV:] And Eleasah begat Sisamai, and Sisamai begat Shallum,
+1Chr 2:41 [Sellum] [he] begat [Icamian] [Icamian] [he] begat [Elisama] | [KJV:] And Shallum begat Jekamiah, and Jekamiah begat Elishama.
+1Chr 2:42 sons but/however [Chaleb] of brother [Hieramehel] [Mosa] [primogenitus] of him/her he himself [he/she/it] is father [Ziph] and sons [Maresa] of father [Hebron]
+1Chr 2:43 [porro] sons [Hebron] [Core] and [Thapphu] and [Recem] and [Samma] | [KJV:] And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
+1Chr 2:44 [Samma] but/however [he] begat [Raam] father [acc] [Iercaam] and [Recem] [he] begat [Semmei] | [KJV:] And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.
+1Chr 2:45 son [Semmei] [Maon] and [Maon] father [Bethsur] | [KJV:] And the son of Shammai was Maon: and Maon was the father of Bethzur.
+1Chr 2:46 [Epha] but/however [concubina] [Chaleb] [peperit] [Arran] and [Musa] and [Gezez] [porro] [Arran] [he] begat [Gezez] | [KJV:] And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.
+1Chr 2:47 sons [Iadai] [Regom] and [Iotham] and [Gesum] and [Phaleth] and [Epha] and [Saaph]
+1Chr 2:48 [concubina] [Chaleb] [Maacha] [peperit] [Saber] and [Tharana] | [KJV:] Maachah, Caleb's concubine, bare Sheber, and Tirhanah.
+1Chr 2:49 [he] begat but/however [Saaph] father [Madmena] [Sue] father [acc] [Machbena] and father [acc] [Gabaa] daughter indeed [Chaleb] [he] was [Achsa]
+1Chr 2:50 these they were sons [Chaleb] sons [Ur] [primogeniti] [Ephrata] [Sobal] father [Cariathiarim]
+1Chr 2:51 [Salma] father [Bethleem] [Ariph] father [Bethgader] | [KJV:] Salma the father of Bethlehem, Hareph the father of Bethgader.
+1Chr 2:52 [fuerunt] but/however sons [Sobal] of father [Cariathiarim] who/which [videbat] [dimidium] [requietionum]
+1Chr 2:53 and from/concerning [cognatione] [Cariathiarim] [Iethrei] and [Apphutei] and [Semathei] and [Maserei] from/out of to these having gone out [pl] they are [Saraitae] and [Esthaolitae]
+1Chr 2:54 sons [Salma] [Bethleem] and [Netophathi] [coronae] house [Ioab] and [dimidium] [requietionis] [Sarai] | [KJV:] The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.
+1Chr 2:55 kindreds also [scribarum] [habitantium] in [Iabis] [canentes] and [resonantes] and in [tabernaculis] [commorantes] these they are [Cinei] who/which they came from/concerning [calore] of father house [Rechab]
+1Chr 3:1 David indeed [hos] [he] had sons [acc] who/which to him/her were born they are in [Hebron] [primogenitum] [Amnon] from/out of [Achinaam] [Iezrahelitide] [secundum] [Danihel] from/concerning [Abigail] [Carmelitide]
+1Chr 3:2 [tertium] [Absalom] son [acc] [Maacha] [filiae] [Tholmei] of king [Gessur] [quartum] [Adoniam] son [acc] [Aggith] | [KJV:] The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:
+1Chr 3:3 [quintum] [Saphatiam] from/out of [Abital] [sextum] [Iethraam] from/concerning [Egla] [uxore] his/her [f] | [KJV:] The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.
+1Chr 3:4 six therefore were born they are to him/her in [Hebron] where [regnavit] seven [annis] and six [mensibus] thirty but/however and tribe/tribes [annis] [regnavit] in [Hierusalem]
+1Chr 3:5 [porro] in [Hierusalem] were born they are to him/her sons [Samaa] and [Sobab] and [Nathan] and [Salomon] four from/concerning [Bethsabee] daughter [Amihel]
+1Chr 3:6 [Iebaar] also and [Elisama]
+1Chr 3:7 and [Eliphalet] and [Noge] and [Napheg] and [Iaphie]
+1Chr 3:8 [necnon] [Elisama] and [Heliade] and [Eliphalet] nine | [KJV:] And Elishama, and Eliada, and Eliphelet, nine.
+1Chr 3:9 all [pl] these sons David without to sons [concubinarum] [habuerunt] [sororem] Tamar
+1Chr 3:10 son but/however [Salomonis] Rehoboam whose Abijah son [he] begat Asa from/concerning this [n] also born [he/she/it] is [Iosaphat]
+1Chr 3:11 father [Ioram] who/which [Ioram] [he] begat [Ohoziam] from/out of [quo] [ortus] [he/she/it] is [Ioas] | [KJV:] Joram his son, Ahaziah his son, Joash his son,
+1Chr 3:12 and of this [Amasias] son [he] begat [Azariam] [porro] [Azariae] son [Ioatham]
+1Chr 3:13 [procreavit] Ahaz father [acc] [Ezechiae] from/concerning [quo] born [he/she/it] is Manasseh
+1Chr 3:14 but and Manasseh [he] begat Amon father [acc] [Iosiae]
+1Chr 3:15 sons but/however [Iosiae] [fuerunt] [primogenitus] [Iohanan] [secundus] [Ioacim] [tertius] [Sedecias] [quartus] [Sellum] | [KJV:] And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
+1Chr 3:16 from/concerning [Ioacim] born [he/she/it] is [Iechonias] and [Sedecias]
+1Chr 3:17 sons [Iechoniae] [fuerunt] [Asir] [Salathihel] | [KJV:] And the sons of Jeconiah; Assir, Salathiel his son,
+1Chr 3:18 [Melchiram] [Phadaia] [Sennaser] and [Iecemia] [Sama] and [Nadabia] | [KJV:] Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
+1Chr 3:19 from/concerning [Phadaia] [orti] they are Zerubbabel and [Semei] Zerubbabel [he] begat [Mosollam] [Ananiam] and [Salomith] [sororem] of them [m]
+1Chr 3:20 [Asabamque] and [Ohol] and [Barachiam] and [Asadiam] [Iosabesed] five | [KJV:] And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushabhesed, five.
+1Chr 3:21 son but/however [Ananiae] [Phaltias] father [Ieseiae] whose son [Raphaia] of this also son [Arnam] from/concerning [quo] born [he/she/it] is [Obdia] whose son [he] was [Sechenia]
+1Chr 3:22 son [Secheniae] [Semeia] whose sons [Attus] and [Iegal] and [Baria] and [Naaria] and [Saphat] six [numero]
+1Chr 3:23 son [Naariae] [Helioenai] and Hezekiah and [Ezricam] three
+1Chr 3:24 sons [Helioenai] [Oduia] and [Heliasub] and [Pheleia] and [Accub] and [Iohanan] and [Dalaia] and [Anani] seven
+1Chr 4:1 sons [Iuda] Perez Hezron and [Carmi] and [Ur] and [Subal]
+1Chr 4:2 [Reaia] indeed son [Subal] [he] begat [Ieth] from/concerning [quo] were born they are [Ahimai] and [Laed] [hae] kindreds [Sarathi]
+1Chr 4:3 [ista] also [stirps] [Hetam] [Iezrahel] and [Iesema] and [Iedebos] and name [sororis] of them [m] [Asalelphuni] | [KJV:] And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi:
+1Chr 4:4 [Phunihel] but/however father [Gedor] and [Ezer] father [Osa] [isti] they are sons [Ur] [primogeniti] [Ephrata] of father [Bethleem]
+1Chr 4:5 [Asur] indeed of father [Thecue] they were [duae] [uxores] [Halaa] and [Naara]
+1Chr 4:6 [peperit] but/however to him/her [Naara] [Oozam] and [Epher] and [Themani] and [Asthari] [isti] they are sons [Naara]
+1Chr 4:7 [porro] sons [Halaa] [Sereth] [Isaar] and [Ethnan] | [KJV:] And the sons of Helah were, Zereth, and Jezoar, and Ethnan.
+1Chr 4:8 [Cos] but/however [he] begat [Anob] and [Sobaba] and [cognationem] [Aral] sons [Arum] | [KJV:] And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.
+1Chr 4:9 [he] was but/however [Iabes] [inclitus] [prae] to brothers his [dat/abl pl] and mother of him/her [he] called name of him/her [Iabes] saying because [peperi] him in [dolore]
+1Chr 4:10 [invocavit] indeed [Iabes] God [acc] Israel saying if [benedicens] [benedixeris] to me and [dilataveris] [terminos] my [acc pl m] and he may have been hand your [f] [mecum] and [feceris] me from [malitia] not [opprimi] and [praestitit] God who/which [f] [precatus] [he/she/it] is
+1Chr 4:11 [Chaleb] but/however brother [Suaa] [he] begat [Machir] who/which [he] was father [Esthon]
+1Chr 4:12 [porro] [Esthon] [he] begat [Bethrapha] and [Phesse] and [Thena] father [acc] [urbis] [Naas] these they are of man/husband [Recha]
+1Chr 4:13 sons but/however [Cenez] [Othonihel] and [Saraia] [porro] sons [Othonihel] [Athath] | [KJV:] And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
+1Chr 4:14 and [Maonathi] [he] begat [Ophra] [Saraias] but/however [he] begat [Ioab] father [acc] [vallis] [Artificum] there [quippe] [artifices] they were | [KJV:] And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.
+1Chr 4:15 sons indeed [Chaleb] sons [Iephonne] [Hir] and [Hela] and [Nahem] and sons [Hela] and [Cenez]
+1Chr 4:16 sons also [Iallelel] [Ziph] and [Zipha] [Thiria] and [Asrahel] | [KJV:] And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
+1Chr 4:17 and sons [Ezra] [Iether] and [Mered] and [Epher] and [Ialon] and [he] begat [Mariam] and [Sammai] and [Iesba] father [acc] [Esthamo]
+1Chr 4:18 wife also of him/her [Iudaia] [peperit] [Iared] father [acc] [Gedor] and [Heber] father [acc] [Soccho] and [Hicuthihel] father [acc] [Zano] these but/however sons [Beththiae] [filiae] of Pharaoh whom/which [f] [he] took [Mered]
+1Chr 4:19 and sons [uxoris] [Odaiae] [sororis] [Naham] of father [Ceila] [Garmi] and [Esthamo] who/which [he] was from/concerning [Machathi]
+1Chr 4:20 sons also [Simon] [Amnon] and [Rena] son [Anan] and [Thilon] and sons [Iesi] [Zoeth] and [Benzoeth]
+1Chr 4:21 sons [Sela] sons [Iuda] [Her] father [Lecha] and [Laada] father [Maresa] and kindreds house [operantium] [byssum] in house [Iuramenti]
+1Chr 4:22 and who/which [stare] [he] made/did [solem] and of man/husband [Mendacii] and [Securus] and [Incendens] who/which [principes] [fuerunt] in Moab and who/which [reversi] they are in [Leem] this one [f] but/however words [vetera]
+1Chr 4:23 these they are [figuli] [habitantes] in [plantationibus] and in [praesepibus] with king [acc] in in works of him/her [commoratique] they are there
+1Chr 4:24 sons [Symeon] [Namuhel] and [Iamin] [Iarib] Zerah [Saul] | [KJV:] The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
+1Chr 4:25 [Sellum] son of him/her [Mabsam] son of him/her [Masma] son of him/her
+1Chr 4:26 sons [Masma] [Amuhel] son of him/her [Zacchur] son of him/her [Semei] son of him/her
+1Chr 4:27 sons [Semei] [sedecim] and [filiae] six brothers but/however of him/her not [habuerunt] sons [acc] [multos] and [universa] kindred not [he] was able [adaequare] [summam] of sons [Iuda]
+1Chr 4:28 [habitaverunt] but/however in [Bersabee] and [Molada] and [Asarsual]
+1Chr 4:29 and in [Ballaa] and in [Asom] and in [Tholad]
+1Chr 4:30 and in [Bathuhel] and in [Orma] and in [Siceleg]
+1Chr 4:31 and in [Bethmarchaboth] and in [Asarsusim] and in [Bethberai] and in [Saarim] [hae] [civitates] of them [m] until to/toward king [acc] David
+1Chr 4:32 [villae] also of them [m] [Etham] and [Aen] and [Remmon] and [Thochen] and [Asan] [civitates] five
+1Chr 4:33 and [universi] [viculi] of them [m] through [circuitum] [civitatum] [istarum] until to/toward [Baal] this one [f] [he/she/it] is [habitatio] of them [m] and [sedum] [distributio]
+1Chr 4:34 [Masobab] also and [Iemlech] and [Iosa] son [Amasiae]
+1Chr 4:35 and [Iohel] and [Ieu] son [Iosabiae] sons [Saraiae] sons [Asihel]
+1Chr 4:36 and [Helioenai] and [Iacoba] and [Isuaia] and [Asaia] and [Adihel] and [Isimihel] and [Banaia]
+1Chr 4:37 [Ziza] also son [Sephei] sons [Allon] sons [Idaia] sons [Semri] sons [Samaia]
+1Chr 4:38 [isti] they are [nominati] [principes] in to kindreds his [dat/abl pl] and in house [adfinitatum] [suarum] [multiplicati] they are [vehementer]
+1Chr 4:39 and having set out [pl] they are so that [ingrederentur] in [Gador] until to/toward [orientem] [vallis] and so that [quaererent] [pascua] [gregibus] his [dat/abl pl]
+1Chr 4:40 [inveneruntque] [pascuas] [uberes] and very [bonas] and earth [acc] [latissimam] and [quietam] and [fertilem] in [qua] before [habitaverunt] from/concerning [stirpe] [Ham] | [KJV:] And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old.
+1Chr 4:41 these therefore they came whom [m pl] above [descripsimus] [nominatim] in in days [Ezechiae] of king [Iuda] and [percusserunt] tabernacles of them [m] and [habitatores] who/which [inventi] [fuerant] there and [deleverunt] them [m] until in [praesentem] day [acc] [habitaveruntque] for/before to them because [uberrimas] [ibidem] [pascuas] [reppererunt]
+1Chr 4:42 from/concerning to sons also [Symeon] [abierunt] in [montem] [Seir] of man/husband [quingenti] having [pl] [principes] [Phaltiam] and [Nahariam] and [Raphaiam] and [Ozihel] sons [acc] [Iesi]
+1Chr 4:43 and [percusserunt] [reliquias] who/which [f] [evadere] [potuerant] [Amalechitarum] and [habitaverunt] there for/before to them until to/toward day [acc] this [f acc]
+1Chr 5:1 sons also Reuben [primogeniti] Israel he himself [quippe] [he] was [primogenitus] of him/her but with [violasset] [torum] of father of himself [data] they are [primogenita] of him/her to sons [Ioseph] sons Israel and not [he/she/it] is he/that [reputatus] in [primogenitum]
+1Chr 5:2 [porro] [Iudas] who/which [he/she/it] was [fortissimus] between brothers his [acc pl m] from/concerning [stirpe] of him/her [principes] [germinati] they are [primogenita] but/however [reputata] they are [Ioseph]
+1Chr 5:3 sons therefore Reuben [primogeniti] Israel Enoch and [Phallu] Hezron and [Charmi]
+1Chr 5:4 sons [Iohel] [Samaia] son of him/her [Gog] son of him/her [Semei] son of him/her
+1Chr 5:5 [Micha] son of him/her [Reeia] son of him/her [Baal] son of him/her
+1Chr 5:6 [Beera] son of him/her whom [captivum] [duxit] [Theglathphalnasar] king [Assyriorum] and [he] was [princeps] in tribe Reuben
+1Chr 5:7 brothers but/however of him/her and [universa] kindred when [numerabantur] through families [acc] his [acc pl f] [habuerunt] [principes] [Ieihel] and [Zacchariam]
+1Chr 5:8 [porro] [Bala] son [Azaz] sons [Samma] sons [Iohel] he himself [habitavit] in [Aroer] until to/toward [Nebo] and [Beelmeon]
+1Chr 5:9 against [orientalem] also [plagam] [habitavit] until to/toward [introitum] [heremi] and river [Eufraten] [multum] [quippe] [iumentorum] [numerum] [possidebat] in earth Gilead
+1Chr 5:10 in in days but/however [Saul] [proeliati] they are against [Agareos] and [interfecerunt] them [m] [habitaveruntque] for/before to them in [tabernaculis] of them [m] in every [plaga] who/which [f] [respicit] to/toward [orientem] Gilead
+1Chr 5:11 sons indeed Gad [e] [regione] of them [m] [habitaverunt] in earth Bashan until [Selcha]
+1Chr 5:12 [Iohel] in [capite] and [Saphan] [secundus] [Ianai] but/however and [Saphat] in Bashan
+1Chr 5:13 brothers indeed of them [m] [secundum] [domos] of kindreds [suarum] [Michahel] and [Mosollam] and [Sebe] and [Iori] and [Iachan] and [Zie] and [Heber] seven
+1Chr 5:14 these sons [Abiahil] sons [Uri] sons [Iaro] sons Gilead sons [Michahel] sons [Iesesi] sons [Ieddo] sons [Buz]
+1Chr 5:15 brothers also sons [Abdihel] sons [Guni] [princeps] house in to families his [dat/abl pl]
+1Chr 5:16 and [habitaverunt] in Gilead and in Bashan and in [viculis] of him/her and in [cunctis] [suburbanis] [Saron] until to/toward [terminos]
+1Chr 5:17 all [pl] these counted [pl] they are in in days [Ioatham] of king [Iuda] and in in days [Hieroboam] of king Israel
+1Chr 5:18 sons Reuben and Gad and [dimidiae] tribe/tribes Manasseh of man/husband [bellatores] [scuta] [portantes] and [gladios] and [tendentes] [arcum] [eruditique] to/toward [proelia] forty four thousands and [septingenti] [sexaginta] [procedentes] to/toward [pugnam]
+1Chr 5:19 [dimicaverunt] against [Agarenos] [Iturei] indeed and [Naphei] and [Nodab] | [KJV:] And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.
+1Chr 5:20 [praebuerunt] to them [auxilium] [traditique] they are in hand of them [m] [Agareni] and [universi] who/which [fuerant] with to them because God [acc] [invocaverunt] with [proeliarentur] and he heard them [m] there which [n] [credidissent] in him
+1Chr 5:21 and they began [omnia] who/which [f] [possederant] [camelorum] fifty thousands and [ovium] [ducenta] fifty thousands [asinos] two thousands and souls of men hundred thousands
+1Chr 5:22 [vulnerati] but/however many [m] [corruerunt] [he] was for [bellum] of [the] Lord [habitaveruntque] for/before to them until to/toward [transmigrationem]
+1Chr 5:23 sons also [dimidiae] tribe/tribes Manasseh [possederunt] earth [acc] from [finibus] Bashan until [Baalhermon] and [Sanir] and [montem] [Hermon] [ingens] [quippe] number [he/she/it] was
+1Chr 5:24 and these [fuerunt] [principes] house [cognationis] of them [m] [Epher] and [Iesi] and [Helihel] [Ezrihel] and [Hieremia] and [Odoia] and [Iedihel] of man/husband [fortissimi] and [potentes] and [nominati] [duces] in to families his [dat/abl pl]
+1Chr 5:25 [reliquerunt] but/however God [acc] of fathers [suorum] and [fornicati] they are after [deos] of peoples of earth whom [m pl] [abstulit] Lord before to them
+1Chr 5:26 and [suscitavit] God Israel spirit [acc] [Ful] of king [Assyriorum] and spirit [acc] [Theglathphalnasar] of king [Assur] and [transtulit] Reuben and Gad and [dimidium] tribe/tribes Manasseh and [adduxit] them [m] in [Alae] and [Abor] and [Ara] and [fluvium] [Gozan] until to/toward day [acc] this [f acc]
+1Chr 6:1 sons Levi [Gersom] [Caath] [Merari] | [KJV:] The sons of Levi; Gershon, Kohath, and Merari.
+1Chr 6:2 sons [Caath] [Amram] [Isaar] [Hebron] and [Ozihel] | [KJV:] And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
+1Chr 6:3 sons [Amram] Aaron [Moses] and Mary sons Aaron [Nadab] and [Abiu] Eleazar and [Ithamar]
+1Chr 6:4 Eleazar [he] begat [Finees] and [Finees] [he] begat [Abisue] | [KJV:] Eleazar begat Phinehas, Phinehas begat Abishua,
+1Chr 6:5 [Abisue] indeed [he] begat [Bocci] and [Bocci] [he] begat [Ozi] | [KJV:] And Abishua begat Bukki, and Bukki begat Uzzi,
+1Chr 6:6 [Ozi] [he] begat [Zaraiam] and [Zaraias] [he] begat [Meraioth] | [KJV:] And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,
+1Chr 6:7 [porro] [Meraioth] [he] begat [Amariam] and [Amarias] [he] begat [Ahitob] | [KJV:] Meraioth begat Amariah, and Amariah begat Ahitub,
+1Chr 6:8 [Ahitob] [he] begat Zadok Zadok [he] begat [Achimaas]
+1Chr 6:9 [Achimaas] [he] begat [Azariam] [Azarias] [he] begat [Iohanan] | [KJV:] And Ahimaaz begat Azariah, and Azariah begat Johanan,
+1Chr 6:10 [Iohanan] [he] begat [Azariam] he himself [he/she/it] is who/which [sacerdotio] [functus] [he/she/it] is in house whom/which [f] [aedificavit] [Salomon] in [Hierusalem]
+1Chr 6:11 [he] begat but/however [Azarias] [Amariam] and [Amarias] [he] begat [Ahitob] | [KJV:] And Azariah begat Amariah, and Amariah begat Ahitub,
+1Chr 6:12 [Ahitob] [he] begat Zadok and Zadok [he] begat [Sellum]
+1Chr 6:13 [Sellum] [he] begat [Helciam] and [Helcias] [he] begat [Azariam] | [KJV:] And Shallum begat Hilkiah, and Hilkiah begat Azariah,
+1Chr 6:14 [Azarias] [he] begat [Saraiam] and [Saraias] [he] begat [Iosedec] | [KJV:] And Azariah begat Seraiah, and Seraiah begat Jehozadak,
+1Chr 6:15 [porro] [Iosedec] having gone out [he/she/it] is when [transtulit] Lord [Iudam] and [Hierusalem] through hand Nebuchadnezzar
+1Chr 6:16 sons therefore Levi [Gersom] [Caath] and [Merari]
+1Chr 6:17 and this one [f] [nomina] of sons [Gersom] [Lobeni] and [Semei]
+1Chr 6:18 sons [Caath] [Amram] and [Isaar] and [Hebron] and [Ozihel] | [KJV:] And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
+1Chr 6:19 sons [Merari] [Mooli] and [Musi] [hae] but/however kindreds Levi [secundum] families [acc] of them [m]
+1Chr 6:20 [Gersom] [Lobeni] son of him/her [Iaath] son of him/her [Zamma] son of him/her
+1Chr 6:21 [Ioaa] son of him/her [Addo] son of him/her Zerah son of him/her [Iethrai] son of him/her
+1Chr 6:22 sons [Caath] Amminadab son of him/her [Core] son of him/her [Asir] son of him/her
+1Chr 6:23 [Helcana] son of him/her [Abiasaph] son of him/her [Asir] son of him/her
+1Chr 6:24 [Thaath] son of him/her [Urihel] son of him/her Uzziah son of him/her [Saul] son of him/her
+1Chr 6:25 sons [Helcana] [Amasai] and [Ahimoth] | [KJV:] And the sons of Elkanah; Amasai, and Ahimoth.
+1Chr 6:26 [Helcana] sons [Helcana] [Sophai] son of him/her [Naath] son of him/her
+1Chr 6:27 [Heliab] son of him/her [Hieroam] son of him/her [Helcana] son of him/her
+1Chr 6:28 sons [Samuhel] [primogenitus] [Vasseni] and Abijah
+1Chr 6:29 sons but/however [Merari] [Mooli] [Lobeni] son of him/her [Semei] son of him/her [Oza] son of him/her
+1Chr 6:30 [Samaa] son of him/her [Aggia] son of him/her [Asaia] son of him/her
+1Chr 6:31 [isti] they are whom [m pl] [constituit] David above [cantores] house of [the] Lord from/out of [quo] [conlocata] [he/she/it] is [arca]
+1Chr 6:32 and [ministrabant] before in tabernacle of testimony [canentes] until [aedificaret] [Salomon] house [acc] of [the] Lord in [Hierusalem] [stabant] but/however [iuxta] [ordinem] his [n] in [ministerio]
+1Chr 6:33 these indeed they are who/which [adsistebant] with to sons his [dat/abl pl] from/concerning to sons [Caath] [Heman] [cantor] son [Iohel] sons [Samuhel]
+1Chr 6:34 sons [Helcana] sons [Hieroam] sons [Helihel] sons [Thou]
+1Chr 6:35 sons [Suph] sons [Helcana] sons [Maath] sons [Amasai]
+1Chr 6:36 sons [Helcana] sons [Iohel] sons [Azariae] sons [Sophoniae]
+1Chr 6:37 sons [Thaath] sons [Asir] sons [Abiasaph] sons [Core]
+1Chr 6:38 sons [Isaar] sons [Caath] sons Levi sons Israel
+1Chr 6:39 and brothers of him/her [Asaph] who/which [stabat] from [dextris] of him/her [Asaph] son [Barachiae] sons [Samaa]
+1Chr 6:40 sons [Michahel] sons [Basiae] sons [Melchiae]
+1Chr 6:41 sons [Athnai] sons Zerah sons [Adaia]
+1Chr 6:42 sons [Ethan] sons [Zamma] sons [Semei]
+1Chr 6:43 sons [Ieth] sons [Gersom] sons Levi
+1Chr 6:44 sons but/however [Merari] brothers of them [m] to/toward [sinistram] [Ethan] son [Cusi] sons [Abdi] sons [Maloch]
+1Chr 6:45 sons [Asabiae] sons [Amasiae] sons [Helciae]
+1Chr 6:46 sons [Amasai] sons [Bonni] sons [Somer]
+1Chr 6:47 sons [Mooli] sons [Musi] sons [Merari] sons Levi
+1Chr 6:48 brothers also of them [m] Levites who/which [ordinati] they are in [cunctum] [ministerium] of tabernacle house of [the] Lord
+1Chr 6:49 Aaron indeed and sons of him/her [adolebant] [incensum] above altar [holocausti] and above altar [thymiamatis] in [omne] work of holy [sanctorum] and so that [precarentur] for/before Israel [iuxta] [omnia] who/which [f] [he] commanded [Moses] servant/slave of God
+1Chr 6:50 these they are but/however sons Aaron Eleazar son of him/her [Finees] son of him/her [Abisue] son of him/her
+1Chr 6:51 [Bocci] son of him/her [Ozi] son of him/her [Zaraia] son of him/her
+1Chr 6:52 [Meraioth] son of him/her [Amaria] son of him/her [Ahitob] son of him/her
+1Chr 6:53 Zadok son of him/her [Achimaas] son of him/her
+1Chr 6:54 and this one [f] [habitacula] of them [m] through [vicos] and [confinia] of sons [scilicet] Aaron [iuxta] kindreds [Caathitarum] to them for by lot [contigerat]
+1Chr 6:55 they gave therefore to them [Hebron] in earth [Iuda] and [suburbana] of him/her through [circuitum]
+1Chr 6:56 [agros] but/however [civitatis] and [villas] [Chaleb] son [Iephonne] | [KJV:] But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
+1Chr 6:57 [porro] to sons Aaron they gave [civitates] to/toward [confugiendum] [Hebron] and [Lobna] and [suburbana] of him/her
+1Chr 6:58 [Iether] also and [Esthmo] with [suburbanis] his [dat/abl pl] but and [Helon] and [Dabir] with [suburbanis] his [dat/abl pl]
+1Chr 6:59 [Asan] also and [Bethsemes] and [suburbana] of them [m]
+1Chr 6:60 from/concerning tribe but/however [Beniamin] [Gabee] and [suburbana] of him/her and [Almath] with [suburbanis] his [dat/abl pl] [Anathoth] also with [suburbanis] his [dat/abl pl] all [pl] [civitates] [tredecim] through kindreds his [acc pl f]
+1Chr 6:61 to sons but/however [Caath] [residuis] from/concerning [cognatione] his/her [f] they gave from/out of [dimidia] tribe Manasseh in possession [acc] [urbes] ten
+1Chr 6:62 [porro] to sons [Gersom] through kindreds his [acc pl f] from/concerning tribe [Isachar] and from/concerning tribe Asher and from/concerning tribe [Nepthali] and from/concerning tribe Manasseh in Bashan [urbes] [tredecim]
+1Chr 6:63 to sons but/however [Merari] through kindreds his [acc pl f] from/concerning tribe Reuben and from/concerning tribe Gad and from/concerning tribe Zebulun they gave by lot [civitates] [duodecim]
+1Chr 6:64 they gave also sons Israel [Levitis] [civitates] and [suburbana] of them [f]
+1Chr 6:65 and they gave through lot [acc] from/out of tribe of sons [Iuda] and from/out of tribe of sons [Symeon] and from/out of tribe of sons [Beniamin] [urbes] [has] whom [f pl] [vocaverunt] [nominibus] his [dat/abl pl]
+1Chr 6:66 and to these who/which they were from/out of [cognatione] of sons [Caath] [fueruntque] [civitates] in [terminis] of them [m] from/concerning tribe Ephraim
+1Chr 6:67 they gave therefore to them [urbes] to/toward [confugiendum] [Sychem] with [suburbanis] his [dat/abl pl] in [monte] Ephraim and [Gazer] with [suburbanis] his [dat/abl pl]
+1Chr 6:68 [Hicmaam] also with [suburbanis] his [dat/abl pl] and [Bethoron] [similiter]
+1Chr 6:69 [necnon] and [Helon] with [suburbanis] his [dat/abl pl] and [Gethremmon] in [eundem] [modum]
+1Chr 6:70 [porro] from/out of [dimidia] tribe Manasseh [Aner] and [suburbana] of him/her Balaam and [suburbana] of him/her to these [videlicet] who/which from/concerning [cognatione] of sons [Caath] [reliqui] they were
+1Chr 6:71 to sons but/however [Gersom] from/concerning [cognatione] [dimidiae] tribe/tribes Manasseh [Gaulon] in Bashan and [suburbana] of him/her and [Astharoth] with [suburbanis] his [dat/abl pl]
+1Chr 6:72 from/concerning tribe [Isachar] [Cedes] and [suburbana] of him/her and [Dabereth] with [suburbanis] his [dat/abl pl]
+1Chr 6:73 [Ramoth] also and [suburbana] of him/her and [Anem] with [suburbanis] his [dat/abl pl]
+1Chr 6:74 from/concerning tribe indeed Asher [Masal] with [suburbanis] his [dat/abl pl] and [Abdon] [similiter]
+1Chr 6:75 [Acac] also and [suburbana] of him/her and [Roob] with [suburbanis] his [dat/abl pl]
+1Chr 6:76 [porro] from/concerning tribe [Nepthali] [Cedes] in [Galilea] and [suburbana] of him/her Amon with [suburbanis] his [dat/abl pl] and [Cariathaim] and [suburbana] of him/her
+1Chr 6:77 to sons but/however [Merari] [residuis] from/concerning tribe Zebulun [Remmono] and [suburbana] of him/her and [Thabor] with [suburbanis] his [dat/abl pl]
+1Chr 6:78 [trans] [Iordanem] also from/out of [adverso] [Hiericho] against [orientem] [Iordanis] from/concerning tribe Reuben [Bosor] in [solitudine] with [suburbanis] his [dat/abl pl] and [Iasa] with [suburbanis] his [dat/abl pl]
+1Chr 6:79 [Cademoth] also and [suburbana] of him/her and [Miphaath] with [suburbanis] his [dat/abl pl]
+1Chr 6:80 [necnon] from/concerning tribe Gad [Ramoth] in Gilead and [suburbana] of him/her and [Manaim] with [suburbanis] his [dat/abl pl]
+1Chr 6:81 but and [Esbon] with [suburbanis] of him/her and [Iezer] with [suburbanis] his [dat/abl pl]
+1Chr 7:1 [porro] sons [Isachar] [Thola] and [Phua] [Iasub] and [Samaron] four | [KJV:] Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimrom, four.
+1Chr 7:2 sons [Thola] [Ozi] and [Raphaia] and [Ierihel] and [Iemai] and [Iebsem] and [Samuhel] [principes] through [domos] of kindreds [suarum] from/concerning [stirpe] [Thola] of man/husband [fortissimi] counted [pl] they are in in days David twenty two thousands [sescenti]
+1Chr 7:3 sons [Ozi] [Iezraia] from/concerning [quo] were born they are [Michahel] and [Obadia] and [Iohel] and [Iesia] five all [pl] [principes]
+1Chr 7:4 and with to them through families [acc] and [populos] his [acc pl m] [accincti] to/toward [proelium] of man/husband [fortissimi] thirty six thousands [multas] for [habuere] [uxores] and sons [acc]
+1Chr 7:5 and brothers of them [m] through every [acc] [cognationem] [Isachar] [robustissimi] to/toward [pugnandum] [octoginta] seven thousands counted [pl] they are
+1Chr 7:6 [Beniamin] [Bale] and [Bochor] and [Iadihel] three | [KJV:] The sons of Benjamin; Bela, and Becher, and Jediael, three.
+1Chr 7:7 sons [Bale] [Esbon] and [Ozi] and [Ozihel] and [Ierimoth] and [Urai] five [principes] [familiarum] and to/toward [pugnandum] [robustissimi] number but/however of them [m] twenty two thousands and thirty four
+1Chr 7:8 [porro] sons [Bochor] [Zamira] and [Ioas] and [Eliezer] and [Helioenai] and [Amri] and [Ierimoth] and Abijah and [Anathoth] and [Almathan] all [pl] these sons [Bochor]
+1Chr 7:9 counted [pl] they are but/however through families [acc] his [acc pl f] [principes] of kindreds to/toward [bella] [fortissimi] twenty thousands and [ducenti]
+1Chr 7:10 [porro] sons [Iadihel] [Balan] sons but/however [Balan] [Hieus] and [Beniamin] and [Ahoth] and [Chanana] and [Iothan] and [Tharsis] and [Haisaar]
+1Chr 7:11 all [pl] these sons [Iadihel] [principes] of kindreds [suarum] of man/husband [fortissimi] ten and seven thousands and [ducenti] to/toward [proelium] [procedentes]
+1Chr 7:12 [Sephan] also and [Apham] sons [Hir] and [Asim] sons [Aer]
+1Chr 7:13 sons but/however [Nepthali] [Iasihel] and [Guni] and [Asar] and [Sellum] sons [Balaa]
+1Chr 7:14 [porro] son Manasseh [Esrihel] [concubinaque] of him/her [syra] [peperit] [Machir] father [acc] Gilead
+1Chr 7:15 [Machir] but/however [he] took [uxores] to sons his [dat/abl pl] [Happhim] and [Sepham] and [he] had [sororem] in name [Maacha] name but/however [secundi] [Salphaad] [nataeque] they are [Salphaad] [filiae]
+1Chr 7:16 and [peperit] [Maacha] wife [Machir] son [acc] and [he] called name of him/her Perez [porro] name of brother of him/her [Sares] and sons of him/her [Ulam] and [Recem]
+1Chr 7:17 son but/however [Ulam] [Badan] these they are sons Gilead sons [Machir] sons Manasseh
+1Chr 7:18 sister but/however of him/her [Regina] [peperit] man/husband [acc] [Decorum] and [Abiezer] and [Moola]
+1Chr 7:19 they were but/however sons [Semida] [Ahin] and [Sechem] and [Leci] and [Aniam]
+1Chr 7:20 sons but/however Ephraim [Suthala] [Bareth] son of him/her [Thaath] son of him/her [Elada] son of him/her [Thaath] son of him/her and of this son [Zabad]
+1Chr 7:21 and of this son [Suthala] and of this son [Ezer] and [Elad] [occiderunt] but/however them [m] of man/husband [Geth] [indigenae] because [descenderant] so that [invaderent] [possessiones] of them [m]
+1Chr 7:22 [luxit] therefore Ephraim father of them [m] [multis] in days and they came brothers of him/her so that [consolarentur] him
+1Chr 7:23 and having entered [he/she/it] is to/toward wife [acc] his/her [f acc] who/which [f] [concepit] and [peperit] son [acc] and [he] called name of him/her [Beria] there which [n] in [malis] house of him/her [ortus] [he/she/it] might be
+1Chr 7:24 daughter but/however of him/her [he] was [Sara] who/which [f] [aedificavit] [Bethoron] [inferiorem] and [superiorem] and [Ozensara]
+1Chr 7:25 [porro] son of him/her [Rapha] and [Reseph] and [Thale] from/concerning [quo] born [he/she/it] is [Thaan]
+1Chr 7:26 who/which [he] begat [Laadan] of this also son [Ammiud] [he] begat [Elisama]
+1Chr 7:27 from/concerning [quo] [ortus] [he/she/it] is [Nun] who/which [he] had son [acc] [Iosue] | [KJV:] Non his son, Jehoshuah his son.
+1Chr 7:28 possession but/however of them [m] and [habitatio] [Bethel] with to daughters his [dat/abl pl] and against [orientem] [Noran] to/toward [occidentalem] [plagam] [Gazer] and [filiae] of him/her [Sychem] also with to daughters his [dat/abl pl] until [Aza] and [filias] of him/her
+1Chr 7:29 [iuxta] sons [acc] also Manasseh [Bethsan] and [filias] of him/her [Thanach] and [filias] of him/her [Mageddo] and [filias] of him/her [Dor] and [filias] of him/her in to these [habitaverunt] sons [Ioseph] sons Israel
+1Chr 7:30 sons Asher [Iomna] and [Iesua] and [Isui] and [Baria] and [Sara] sister of them [m]
+1Chr 7:31 sons but/however [Baria] [Heber] and [Melchihel] he himself [he/she/it] is father [Barzaith]
+1Chr 7:32 [Heber] but/however [he] begat [Iephlat] and [Somer] and [Otham] and [Suaa] [sororem] of them [m]
+1Chr 7:33 sons [Iephlat] [Phosech] and [Chamaal] and [Asoth] these sons [Iephlat]
+1Chr 7:34 [porro] sons [Somer] [Ahi] and [Roaga] and [Iaba] and Aram
+1Chr 7:35 sons but/however [Helem] of brother of him/her [Supha] and [Iemna] and [Selles] and [Amal]
+1Chr 7:36 sons [Supha] [Sue] [Arnaphed] and [Sual] and [Beri] and [Iamra] | [KJV:] The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
+1Chr 7:37 [Bosor] and [Od] and [Samma] and [Salusa] and [Iethran] and [Bera]
+1Chr 7:38 sons [Iether] [Iephonne] and [Phaspha] and [Ara] | [KJV:] And the sons of Jether; Jephunneh, and Pispah, and Ara.
+1Chr 7:39 sons but/however [Olla] [Aree] and [Anihel] and [Resia]
+1Chr 7:40 all [pl] these sons Asher [principes] of kindreds [electi] and [fortissimi] [duces] [ducum] number but/however of them [m] [aetatis] who/which [f] [apta] [he/she/it] might be to/toward [bellum] twenty six thousands
+1Chr 8:1 [Beniamin] but/however [he] begat [Bale] [primogenitum] his [n] [Asbal] [secundum] [Ohora] [tertium] | [KJV:] Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
+1Chr 8:2 [Nuaha] [quartum] and [Rapha] [quintum] | [KJV:] Nohah the fourth, and Rapha the fifth.
+1Chr 8:3 [fueruntque] sons [Bale] [Addaor] and [Gera] and Abiud
+1Chr 8:4 [Abisue] also and [Neman] and [Ahoe]
+1Chr 8:5 but and [Gera] and [Sephuphan] and [Uram]
+1Chr 8:6 these they are sons [Aod] [principes] of kindreds [habitantium] in [Gabaa] who/which [translati] they are in [Manath]
+1Chr 8:7 [Nooman] but/however and [Achia] and [Gera] he himself [transtulit] them [m] and [he] begat [Oza] and [Ahiud]
+1Chr 8:8 [porro] [Saarim] [he] begat in [regione] Moab [postquam] [dimisit] [Usim] and [Bara] [uxores] his [acc pl f] | [KJV:] And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
+1Chr 8:9 [he] begat but/however from/concerning [Edes] [uxore] his/her [f] [Iobab] and [Sebia] and [Mosa] and [Molchom]
+1Chr 8:10 [Iehus] also and [Sechia] and [Marma] these they are sons of him/her [principes] in to families his [dat/abl pl]
+1Chr 8:11 [Meusim] indeed [he] begat [Abitob] and [Elphaal] | [KJV:] And of Hushim he begat Abitub, and Elpaal.
+1Chr 8:12 [porro] sons [Elphaal] [Heber] and [Misaam] and [Samad] here [aedificavit] [Ono] and [Lod] and [filias] of him/her
+1Chr 8:13 [Bara] but/however and [Samma] [principes] of kindreds [habitantium] in [Aialon] these [fugaverunt] [habitatores] [Geth] | [KJV:] Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
+1Chr 8:14 and [Haio] and [Sesac] and [Ierimoth]
+1Chr 8:15 and [Zabadia] and [Arod] and [Eder]
+1Chr 8:16 [Michahel] also and [Iespha] and [Ioaa] sons [Baria]
+1Chr 8:17 and [Zabadia] and [Mosollam] and [Ezeci] and [Heber]
+1Chr 8:18 and [Iesamari] and [Iezlia] and [Iobab] sons [Elphaal]
+1Chr 8:19 and [Iacim] and [Zechri] and [Zabdi]
+1Chr 8:20 and [Helioenai] and [Selethai] and [Helihel]
+1Chr 8:21 and [Adaia] and [Baraia] and [Samarath] sons [Semei]
+1Chr 8:22 and [Iesphan] and [Heber] and [Helihel]
+1Chr 8:23 and [Abdon] and [Zechri] and [Hanan]
+1Chr 8:24 and [Anania] and [Ailam] and [Anathothia]
+1Chr 8:25 and [Iephdaia] and [Phanuhel] sons [Sesac]
+1Chr 8:26 and [Samsari] and [Sooria] and [Otholia]
+1Chr 8:27 and [Iersia] and [Helia] and [Zechri] sons [Ieroam]
+1Chr 8:28 these [patriarchae] and of kindreds [principes] who/which [habitaverunt] in [Hierusalem]
+1Chr 8:29 in [Gabaon] but/however [habitaverunt] [Abigabaon] and name [uxoris] of him/her [Maacha]
+1Chr 8:30 and son of him/her [primogenitus] [Abdon] and [Sur] and [Cis] and [Baal] and [Nadab]
+1Chr 8:31 [Gedor] also and [Ahio] and [Zacher]
+1Chr 8:32 and [Macelloth] [he] begat [Samaa] [habitaveruntque] from/out of [adverso] [fratrum] [suorum] in [Hierusalem] with to brothers his [dat/abl pl]
+1Chr 8:33 [Ner] but/however [he] begat [Cis] and [Cis] [he] begat [Saul] [porro] [Saul] [he] begat [Ionathan] and [Melchisuae] and [Abinadab] and [Esbaal] | [KJV:] And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+1Chr 8:34 son but/however [Ionathan] [Meribbaal] and [Meribbaal] [he] begat [Micha] | [KJV:] And the son of Jonathan was Meribbaal; and Meribbaal begat Micah.
+1Chr 8:35 sons [Micha] [Phithon] and [Melech] and [Thara] and [Ahaz] | [KJV:] And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
+1Chr 8:36 and [Ahaz] [he] begat [Ioada] and [Ioada] [he] begat [Almoth] and [Azmoth] and [Zamari] [porro] [Zamari] [he] begat [Mosa] | [KJV:] And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,
+1Chr 8:37 and [Mosa] [he] begat [Baana] whose son [he] was [Rapha] from/concerning [quo] [ortus] [he/she/it] is [Elasa] who/which [he] begat [Asel]
+1Chr 8:38 [porro] [Asel] six sons they were to these [nominibus] [Ezricam] [Bochru] [Ismahel] [Saria] [Abadia] [Anan] all [pl] these sons [Asel]
+1Chr 8:39 sons but/however [Esec] of brother of him/her [Ulam] [primogenitus] and [Us] [secundus] and [Eliphalet] [tertius]
+1Chr 8:40 [fueruntque] sons [Ulam] of man/husband [robustissimi] and [magno] [robore] [tendentes] [arcum] and [multos] having [pl] sons [acc] and [nepotes] until to/toward hundred fifty all [pl] these sons [Beniamin]
+1Chr 9:1 [universus] therefore Israel [dinumeratus] [he/she/it] is and [summa] of them [m] [scripta] [he/she/it] is in [libro] [regum] Israel and [Iuda] [translatique] they are in [Babylonem] because of [delictum] his [n]
+1Chr 9:2 who/which but/however [habitaverunt] [primi] in [possessionibus] and in [urbibus] his [dat/abl pl] Israel and priests Levites and [Nathinnei]
+1Chr 9:3 [commorati] they are in [Hierusalem] from/concerning to sons [Iuda] and from/concerning to sons [Beniamin] from/concerning to sons also Ephraim and Manasseh
+1Chr 9:4 [Othei] son [Amiud] son [Emri] sons [Omrai] sons [Bonni] from/concerning to sons Perez sons [Iuda]
+1Chr 9:5 and from/concerning [Siloni] [Asaia] [primogenitus] and sons of him/her
+1Chr 9:6 from/concerning to sons but/however Zerah [Ieuhel] and brothers of them [m] [sescenti] [nonaginta]
+1Chr 9:7 [porro] from/concerning to sons [Beniamin] [Salo] son [Mosollam] sons [Oduia] sons [Asana]
+1Chr 9:8 and [Iobania] son [Hieroam] and [Hela] son [Ozi] sons [Mochori] and [Mosollam] son [Saphatiae] sons [Rahuhel] sons [Iebaniae]
+1Chr 9:9 and brothers of them [m] through families [acc] his [acc pl f] [nongenti] fifty six all [pl] these [principes] of kindreds through [domos] of fathers [suorum]
+1Chr 9:10 from/concerning [sacerdotibus] but/however [Iedaia] [Ioiarib] and [Iachin] | [KJV:] And of the priests; Jedaiah, and Jehoiarib, and Jachin,
+1Chr 9:11 [Azarias] also son [Helciae] sons [Mosollam] sons Zadok sons [Maraioth] sons [Ahitob] high priest house of God
+1Chr 9:12 [porro] [Adaias] son [Hieroam] sons [Phasor] sons [Melchia] and [Masaia] son [Adihel] sons [Iezra] sons [Mosollam] sons [Mosollamoth] sons [Emmer]
+1Chr 9:13 brothers also of them [m] [principes] through families [acc] his [acc pl f] [mille] [septingenti] [sexaginta] [fortissimi] [robore] to/toward [faciendum] work [ministerii] in house of God
+1Chr 9:14 from/concerning [Levitis] but/however [Semeia] son [Assub] sons [Ezricam] sons [Asebiu] from/concerning to sons [Merari]
+1Chr 9:15 [Bacbacar] also [carpentarius] and [Galal] and [Mathania] son [Micha] sons [Zechri] sons [Asaph]
+1Chr 9:16 and [Obdia] son [Semeiae] sons [Galal] sons [Idithun] and [Barachia] son Asa sons [Helcana] who/which [habitavit] in [atriis] [Netophathi]
+1Chr 9:17 [ianitores] but/however [Sellum] and [Acub] and [Telmon] and [Ahiman] and brother of them [m] [Sellum] [princeps]
+1Chr 9:18 until to/toward it/that [tempus] in [porta] of king to/toward [orientem] [observabant] through [vices] his [acc pl f] from/concerning to sons Levi
+1Chr 9:19 [Sellum] indeed son [Core] sons [Abiasaph] sons [Core] with to brothers his [dat/abl pl] and house of father of himself these they are [Coritae] above works [ministerii] [custodes] [vestibulorum] of tabernacle and of family of them [m] through [vices] [castrorum] of [the] Lord [custodientes] [introitum]
+1Chr 9:20 [Finees] but/however son Eleazar [he/she/it] was [dux] of them [m] before to [the] Lord
+1Chr 9:21 [porro] [Zaccharias] son [Mosollamia] [ianitor] [portae] of tabernacle of testimony
+1Chr 9:22 all [pl] these [electi] in [ostiarios] through [portas] [ducenti] [duodecim] and [descripti] in [villis] [propriis] whom [m pl] [constituerunt] David and [Samuhel] seeing in faith his/her [f]
+1Chr 9:23 [tam] [ipsos] whom/which [f] sons [acc] of them [m] in [ostiis] house of [the] Lord and in in tabernacle [vicibus] his [dat/abl pl]
+1Chr 9:24 through four [ventos] they were [ostiarii] it/that [he/she/it] is to/toward [orientem] and to/toward [occidentem] to/toward [aquilonem] and to/toward [austrum]
+1Chr 9:25 brothers but/however of them [m] in [viculis] [morabantur] and [veniebant] in [sabbatis] his [dat/abl pl] from/concerning [tempore] until to/toward [tempus]
+1Chr 9:26 to these four [Levitis] [creditus] [he/she/it] was all/every number [ianitorum] and they were above [exedras] and [thesauros] house of [the] Lord
+1Chr 9:27 through [gyrum] also of temple of [the] Lord [morabantur] in [custodiis] his [dat/abl pl] so that with [tempus] [fuisset] to himself/themselves morning [aperirent] [fores]
+1Chr 9:28 from/concerning [horum] [grege] they were and above [vasa] [ministerii] to/toward [numerum] for and [inferebantur] [vasa] and [efferebantur]
+1Chr 9:29 from/concerning to them and who/which [credita] they had [utensilia] of sanctuary [praeerant] [similae] and [vino] and with oil and [turi] and [aromatibus]
+1Chr 9:30 sons but/however of priests [unguenta] from/out of [aromatibus] [conficiebant]
+1Chr 9:31 and [Matthathias] [Levites] [primogenitus] [Sellum] [Coritae] [praefectus] [he/she/it] was of them [m] who/which [f] in [sartagine] [frigebantur] | [KJV:] And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.
+1Chr 9:32 [porro] from/concerning to sons [Caath] to brothers of them [m] above loaves they were [propositionis] so that always [novos] through [singula] [sabbata] [praepararent]
+1Chr 9:33 these they are [principes] [cantorum] through families [acc] of Levites who/which in [exedris] [morabantur] thus so that [die] and by night [iugiter] his [dat/abl n] [ministerio] [deservirent]
+1Chr 9:34 [capita] of Levites through families [acc] his [acc pl f] [principes] [manserunt] in [Hierusalem]
+1Chr 9:35 in [Gabaon] but/however [commorati] they are father [Gabaon] [Iaihel] and name [uxoris] of him/her [Maacha]
+1Chr 9:36 son [primogenitus] of him/her [Abdon] and [Sur] and [Cis] and [Baal] and [Ner] and [Nadab]
+1Chr 9:37 [Gedor] also and [Ahio] and [Zaccharias] and [Macelloth]
+1Chr 9:38 [porro] [Macelloth] [he] begat [Semmaam] [isti] [habitaverunt] [e] [regione] [fratrum] [suorum] in [Hierusalem] with to brothers his [dat/abl pl] | [KJV:] And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.
+1Chr 9:39 [Ner] but/however [he] begat [Cis] and [Cis] [he] begat [Saul] and [Saul] [he] begat [Ionathan] and [Melchisuae] and [Abinadab] and [Esbaal] | [KJV:] And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+1Chr 9:40 son but/however [Ionathan] [Meribbaal] and [Meribbaal] [he] begat [Micha] | [KJV:] And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.
+1Chr 9:41 [porro] sons [Micha] [Phiton] and [Malech] and [Thara] | [KJV:] And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.
+1Chr 9:42 [Ahaz] but/however [he] begat [Iara] and [Iara] [he] begat [Alamath] and [Azmoth] and [Zamri] and [Zamri] [he] begat [Mosa] | [KJV:] And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;
+1Chr 9:43 [Mosa] indeed [he] begat [Baana] whose son [Raphaia] [he] begat [Elasa] from/concerning [quo] [ortus] [he/she/it] is [Esel] | [KJV:] And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.
+1Chr 9:44 [porro] [Esel] six sons [acc] [he] had to these [nominibus] [Ezricam] [Bochru] [Ismahel] [Saria] [Obdia] [Anan] these sons [Esel] | [KJV:] And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
+1Chr 10:1 [Philisthim] but/however [pugnabant] against Israel [fugeruntque] of man/husband Israel [Palestinos] and [ceciderunt] [vulnerati] in [monte] [Gelboe]
+1Chr 10:2 and with [adpropinquassent] [Philisthei] [persequentes] [Saul] and sons [acc] of him/her [percusserunt] [Ionathan] and [Abinadab] and [Melchisuae] sons [acc] [Saul]
+1Chr 10:3 and [adgravatum] [he/she/it] is [proelium] against [Saul] [inveneruntque] him [sagittarii] and [vulneraverunt] [iaculis] | [KJV:] And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.
+1Chr 10:4 and [he] said [Saul] to/toward [armigerum] his [n] [evagina] [gladium] your [n] and [interfice] me lest/not [forte] [veniant] [incircumcisi] [isti] and [inludant] to me [noluit] but/however [armiger] of him/her this [n] to do [timore] [perterritus] [arripuit] therefore [Saul] [ensem] and [inruit] in him
+1Chr 10:5 which [n] with he had seen [armiger] of him/her [videlicet] [mortuum] to be [Saul] [inruit] also he himself in [gladium] his [n] and [mortuus] [he/she/it] is
+1Chr 10:6 [interiit] therefore [Saul] and three sons of him/her and all/every house of him/her [pariter] [concidit]
+1Chr 10:7 which [n] with [vidissent] of man/husband Israel who/which [habitabant] in [campestribus] [fugerunt] and [Saul] and to sons of him/her [mortuis] [dereliquerunt] [urbes] his [acc pl f] and [huc] [illucque] [dispersi] they are and they came [Philisthim] and [habitaverunt] in to them
+1Chr 10:8 [die] therefore [altero] [detrahentes] [Philisthim] [spolia] [caesorum] [invenerunt] [Saul] and sons [acc] of him/her [iacentes] in [monte] [Gelboe] | [KJV:] And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his sons fallen in mount Gilboa.
+1Chr 10:9 and with [spoliassent] him and [amputassent] head [armisque] [nudassent] [miserunt] in earth [acc] his/her [f acc] so that [circumferretur] and [ostenderetur] [idolorum] [templis] and [populis]
+1Chr 10:10 [arma] but/however of him/her [consecraverunt] in [fano] of God of himself and head [adfixerunt] in [templo] [Dagon]
+1Chr 10:11 this [n] with [audissent] of man/husband [Iabesgalaad] [omnia] [scilicet] who/which [f] [Philisthim] they did above [Saul]
+1Chr 10:12 [consurrexerunt] [singuli] [virorum] [fortium] and [tulerunt] [cadavera] [Saul] and of sons of him/her [adtuleruntque] she/it in [Iabes] and [sepelierunt] [ossa] of them [m] [subter] [quercum] who/which [f] [he/she/it] was in [Iabes] and [ieiunaverunt] seven in days
+1Chr 10:13 [mortuus] [he/she/it] is therefore [Saul] because of [iniquitates] his [acc pl f] there which [n] [praevaricatus] [sit] commandment of [the] Lord which [n] [he] had commanded and not [custodierit] it/that but besides also [pythonissam] [consuluerit]
+1Chr 10:14 nor [speraverit] in to [the] Lord because of which [n] and [interfecit] him and [transtulit] kingdom of him/her to/toward David son [acc] [Isai]
+1Chr 11:1 [congregatus] [he/she/it] is therefore all/every Israel to/toward David in [Hebron] saying mouth your [n] [sumus] and flesh your [f]
+1Chr 11:2 [heri] also and [nudius] [tertius] with still [regnaret] [Saul] you [eras] who/which [educebas] and [introducebas] Israel to you for [he] said Lord God your [m] you [pasces] people [acc] my [n] Israel and you you will be [princeps] above him
+1Chr 11:3 they came therefore all [pl] [maiores] [natu] Israel to/toward king [acc] in [Hebron] and [iniit] David with to them [foedus] before to [the] Lord [unxeruntque] him king [acc] above Israel [iuxta] speech/word [acc] of [the] Lord whom having spoken [he/she/it] is in with hand [Samuhel]
+1Chr 11:4 [he] went away also David and all/every Israel in [Hierusalem] this one [f] [he/she/it] is [Iebus] where they were [Iebusei] [habitatores] of earth
+1Chr 11:5 and they said who/which [habitabant] in [Iebus] to/toward David not [ingredieris] [huc] [porro] David [cepit] [arcem] Zion who/which [f] [he/she/it] is [civitas] David
+1Chr 11:6 and [he] said all/every who/which [percusserit] [Iebuseum] in [primis] he will be [princeps] and [dux] [he] ascended therefore [primus] [Ioab] son [Sarviae] and made [m] [he/she/it] is [princeps]
+1Chr 11:7 [habitavit] but/however David in [arce] and [idcirco] [appellata] [he/she/it] is [civitas] David
+1Chr 11:8 [aedificavitque] [urbem] in [circuitu] from [Mello] until to/toward [gyrum] [Ioab] but/however [reliqua] [urbis] [extruxit] | [KJV:] And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
+1Chr 11:9 [proficiebatque] David [vadens] and [crescens] and Lord [exercituum] [he/she/it] was with there
+1Chr 11:10 these [principes] [virorum] [fortium] David who/which [adiuverunt] him so that king [fieret] above every [acc] Israel [iuxta] word of [the] Lord which [n] having spoken [he/she/it] is to/toward Israel
+1Chr 11:11 and [iste] number [robustorum] David [Iesbaam] son [Achamoni] [princeps] between thirty [iste] [levavit] [hastam] his/her [f acc] above [trecentos] [vulneratos] [una] [vice] | [KJV:] And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.
+1Chr 11:12 and after him Eleazar son [patrui] of him/her [Ahoites] who/which [he/she/it] was between three [potentes]
+1Chr 11:13 [iste] [he] was with David in [Aphesdommim] when [Philisthim] [congregati] they are to/toward place [acc] him in [proelium] and [he/she/it] was [ager] [regionis] of him/her [plenus] [hordeo] [fugeratque] people from face [Philisthinorum]
+1Chr 11:14 here [he] stood in midst [agri] and [defendit] him and with [percussisset] [Philistheos] [he] gave Lord salvation [magnam] to people his [dat/abl n]
+1Chr 11:15 [descenderunt] but/however three from/concerning thirty [principibus] to/toward [petram] in [qua] [he/she/it] was David to/toward [speluncam] [Odollam] when [Philisthim] [fuerant] [castrametati] in [valle] [Raphaim]
+1Chr 11:16 [porro] David [he/she/it] was in [praesidio] and [statio] [Philisthinorum] in [Bethleem]
+1Chr 11:17 [desideravit] therefore David and [he] said [o] if who? [daret] to me [aquam] from/concerning [cisterna] [Bethleem] who/which [f] [he/she/it] is in [porta]
+1Chr 11:18 three therefore [isti] through [media] [castra] [Philisthinorum] [perrexerunt] and [hauserunt] [aquam] from/concerning [cisterna] [Bethleem] who/which [f] [he/she/it] was in [porta] and [adtulerunt] to/toward David so that [biberet] who/which [noluit] but more [libavit] her to [the] Lord
+1Chr 11:19 saying [absit] so that in in sight of God of me this [n] I will make and blood [acc] [virorum] [istorum] [bibam] because in [periculo] [animarum] [suarum] [adtulerunt] to me [aquam] and because of this [f acc] [causam] [noluit] to drink this one [f] they did three [robustissimi]
+1Chr 11:20 [Abisai] also brother [Ioab] he himself [he/she/it] was [princeps] [trium] and he himself [levavit] [hastam] his/her [f acc] against [trecentos] [vulneratos] and he himself [he/she/it] was between three [nominatissimus]
+1Chr 11:21 between three [secundos] [inclitus] and [princeps] of them [m] [verumtamen] until to/toward three [primos] not [pervenerat]
+1Chr 11:22 [Banaia] son [Ioiadae] of man/husband [robustissimi] who/which [multa] works [perpetrarat] from/concerning [Capsehel] he himself [percussit] two [acc] [Arihel] Moab and he himself [descendit] and [interfecit] [leonem] in [media] [cisterna] [tempore] [nivis]
+1Chr 11:23 and he himself [percussit] man/husband [acc] [aegyptium] whose [statura] [he/she/it] was five [cubitorum] and [habebat] [lanceam] so that [liciatorium] [texentium] [descendit] therefore to/toward him with [virga] and [rapuit] [hastam] whom/which [f] [tenebat] with hand and [interfecit] him [hasta] his/her [f]
+1Chr 11:24 this one [f] [he] made/did [Banaia] son [Ioiada] who/which [he/she/it] was between three [robustos] [nominatissimus]
+1Chr 11:25 between thirty [primus] [verumtamen] to/toward three until not [pervenerat] [he] put but/however him David to/toward [auriculam] his/her [f acc]
+1Chr 11:26 [porro] [fortissimi] in [exercitu] [Asahel] brother [Ioab] and [Eleanan] son [patrui] of him/her from/concerning [Bethleem]
+1Chr 11:27 [Semmoth] [Arorites] [Helles] [Phallonites] | [KJV:] Shammoth the Harorite, Helez the Pelonite,
+1Chr 11:28 [Iras] son [Acces] [Thecuites] [Abiezer] [Anathothites] | [KJV:] Ira the son of Ikkesh the Tekoite, Abiezer the Antothite,
+1Chr 11:29 [Sobbochai] [Asothites] [Ilai] [Ahoites] | [KJV:] Sibbecai the Hushathite, Ilai the Ahohite,
+1Chr 11:30 [Marai] [Netophathites] [Heled] son [Baana] [Netophathites] | [KJV:] Maharai the Netophathite, Heled the son of Baanah the Netophathite,
+1Chr 11:31 [Ethai] son [Ribai] from/concerning [Gabaath] of sons [Beniamin] [Banaia] [Pharathonites] | [KJV:] Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,
+1Chr 11:32 [Uri] from/concerning [torrente] [Gaas] [Abial] [Arabathites] [Azmoth] [Bauramites] [Eliaba] [Salabonites] | [KJV:] Hurai of the brooks of Gaash, Abiel the Arbathite,
+1Chr 11:33 sons [Asom] [Gezonites] [Ionathan] son [Sega] [Ararites] | [KJV:] Azmaveth the Baharumite, Eliahba the Shaalbonite,
+1Chr 11:34 [Ahiam] son [Sachar] [Ararites] | [KJV:] The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,
+1Chr 11:35 [Eliphal] son [Ur] | [KJV:] Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
+1Chr 11:36 [Apher] [Mechurathites] [Ahia] [Phellonites] | [KJV:] Hepher the Mecherathite, Ahijah the Pelonite,
+1Chr 11:37 [Asrai] [Carmelites] [Noorai] son [Azbi] | [KJV:] Hezro the Carmelite, Naarai the son of Ezbai,
+1Chr 11:38 [Iohel] brother [Nathan] [Mabar] son [Agarai] | [KJV:] Joel the brother of Nathan, Mibhar the son of Haggeri,
+1Chr 11:39 [Sellec] [Ammonites] [Noorai] [Berothites] [armiger] [Ioab] sons [Sarviae] | [KJV:] Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,
+1Chr 11:40 [Iras] [Iethreus] [Gareb] [Iethreus] | [KJV:] Ira the Ithrite, Gareb the Ithrite,
+1Chr 11:41 Uriah [Ettheus] [Zabad] son [Ooli] | [KJV:] Uriah the Hittite, Zabad the son of Ahlai,
+1Chr 11:42 [Adina] son [Seza] [Rubenites] [princeps] [Rubenitarum] and with there thirty
+1Chr 11:43 [Hanan] son [Maacha] and [Iosaphat] [Mathanites] | [KJV:] Hanan the son of Maachah, and Joshaphat the Mithnite,
+1Chr 11:44 Uzziah [Astharothites] [Semma] and [Iaihel] sons [Hotam] [Aroerites] | [KJV:] Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,
+1Chr 11:45 [Iedihel] son [Samri] and [Ioha] brother of him/her [Thosaites]
+1Chr 11:46 [Elihel] [Maumites] and [Ieribai] and [Iosaia] sons [Elnaem] and [Iethma] [Moabites] [Elihel] and Obed and [Iasihel] from/concerning [Masobia] | [KJV:] Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,
+1Chr 12:1 these also they came to/toward David in [Siceleg] with still [fugeret] [Saul] son [acc] [Cis] who/which they were [fortissimi] and [egregii] [pugnatores]
+1Chr 12:2 [tendentes] [arcum] and [utraque] with hand [fundis] [saxa] [iacientes] and [dirigentes] [sagittas] from/concerning to brothers [Saul] from/out of [Beniamin]
+1Chr 12:3 [princeps] [Ahiezer] and [Ioas] sons [Sammaa] [Gabathites] and [Iazihel] and [Phallet] sons [Azmoth] and [Baracha] and [Ieu] [Anathothites] | [KJV:] The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite.
+1Chr 12:4 [Samaias] also [Gabaonites] [fortissimus] between thirty and above thirty [Hieremias] and [Iezihel] and [Iohanan] and [Iezbad] [Gaderothites]
+1Chr 12:5 [Eluzai] and [Ierimuth] and [Baalia] and [Samaria] and [Saphatia] [Aruphites] | [KJV:] Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,
+1Chr 12:6 [Helcana] and [Iesia] and [Azrahel] and [Ioezer] and [Iesbaam] from/concerning [Careim]
+1Chr 12:7 [Ioeela] also and [Zabadia] sons [Ieroam] from/concerning [Gedor]
+1Chr 12:8 but and from/concerning [Gaddi] [transfugerunt] to/toward David with [lateret] in [deserto] of man/husband [robustissimi] and [pugnatores] [optimi] [tenentes] [clypeum] and [hastam] faces of them [m] as faces [leonis] and [veloces] as [capreae] in [montibus]
+1Chr 12:9 [Ezer] [princeps] [Obdias] [secundus] [Eliab] [tertius] | [KJV:] Ezer the first, Obadiah the second, Eliab the third,
+1Chr 12:10 [Masmana] [quartus] [Hieremias] [quintus] | [KJV:] Mishmannah the fourth, Jeremiah the fifth,
+1Chr 12:11 [Hetthi] [sextus] [Helihel] [septimus] | [KJV:] Attai the sixth, Eliel the seventh,
+1Chr 12:12 [Iohanan] [octavus] [Helzebad] [nonus] | [KJV:] Johanan the eighth, Elzabad the ninth,
+1Chr 12:13 [Hieremias] [decimus] [Bachannai] [undecimus] | [KJV:] Jeremiah the tenth, Machbanai the eleventh.
+1Chr 12:14 these from/concerning to sons Gad [principes] [exercitus] [novissimus] hundred [militibus] [praeerat] and [maximus] [mille]
+1Chr 12:15 [isti] they are who/which [transierunt] [Iordanem] [mense] [primo] when [inundare] [consuevit] above [ripas] his [acc pl f] and all [pl] [fugaverunt] who/which [morabantur] in [vallibus] to/toward [orientalem] [plagam] and [occidentalem]
+1Chr 12:16 they came but/however and from/concerning [Beniamin] and from/concerning [Iuda] to/toward [praesidium] in [quo] [morabatur] David
+1Chr 12:17 and having gone out [he/she/it] is David [obviam] to them and [he] said if [pacifice] [venistis] to/toward me so that [auxiliemini] to me heart my [n] [iungatur] to you [pl] if but/however [insidiamini] to me for/before [adversariis] my [dat/abl pl] with I [iniquitatem] in with hands not [habeam] [videat] God of fathers [nostrorum] and [iudicet]
+1Chr 12:18 spirit indeed [induit] [Amessai] [principem] between thirty and [he] said of you [sumus] [o] David and [tecum] [fili] [Isai] peace peace to you and peace [adiutoribus] [tuis] you for [adiuvat] God your [m] [suscepit] therefore them [m] David and [constituit] [principes] [turmae]
+1Chr 12:19 [porro] from/concerning Manasseh [transfugerunt] to/toward David when [veniebat] with [Philisthim] [adversum] [Saul] so that [pugnaret] and not [dimicavit] with to them because [inito] [consilio] [remiserunt] him [principes] [Philisthinorum] saying [pl] [periculo] of head of us [revertetur] to/toward [the] Lord [acc] his [n] [Saul]
+1Chr 12:20 when therefore [reversus] [he/she/it] is in [Siceleg] [transfugerunt] to/toward him from/concerning Manasseh [Ednas] and [Iozabad] and [Iedihel] and [Michahel] and [Iozabad] and [Heliu] and [Salathi] [principes] [milium] in Manasseh
+1Chr 12:21 these [praebuerunt] [auxilium] David [adversum] [latrunculos] all [pl] for they were of man/husband [fortissimi] and made [m pl] they are [principes] in [exercitu]
+1Chr 12:22 but and through [singulos] day [veniebant] to/toward David to/toward [auxiliandum] to him/her until [dum] [fieret] [grandis] number as [exercitus] of God
+1Chr 12:23 [iste] also [he/she/it] is number [principum] [exercitus] who/which they came to/toward David with [he/she/it] might be in [Hebron] so that [transferrent] kingdom [Saul] to/toward him [iuxta] word of [the] Lord
+1Chr 12:24 sons [Iuda] [portantes] [clypeum] and [hastam] six thousands [octingenti] [expediti] to/toward [proelium] | [KJV:] The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.
+1Chr 12:25 from/concerning to sons [Symeon] [virorum] [fortissimorum] to/toward [pugnandum] seven thousands hundred
+1Chr 12:26 from/concerning to sons Levi four thousands [sescenti]
+1Chr 12:27 [Ioiada] also [princeps] from/concerning [stirpe] Aaron and with there [tria] thousands [septingenti]
+1Chr 12:28 Zadok also boy [egregiae] [indolis] and house of father of him/her [principes] twenty two
+1Chr 12:29 from/concerning to sons but/however [Beniamin] to brothers [Saul] [tria] thousands great [f] for [pars] of them [m] still [sequebatur] house [acc] [Saul]
+1Chr 12:30 [porro] from/concerning to sons Ephraim twenty thousands [octingenti] [fortissimi] [robore] of man/husband [nominati] in to kindreds his [dat/abl pl]
+1Chr 12:31 and from/out of [dimidia] [parte] tribe/tribes Manasseh ten and eight thousands [singuli] through [nomina] his/her [f] they came so that [constituerent] king [acc] David
+1Chr 12:32 from/concerning to sons also [Isachar] of man/husband [eruditi] who/which [norant] [singula] [tempora] to/toward [praecipiendum] what? to do [deberet] Israel [principes] [ducenti] all/every but/however [reliqua] tribe/tribes of them [m] [consilium] [sequebatur]
+1Chr 12:33 [porro] from/concerning Zebulun who/which [egrediebantur] to/toward [proelium] and [stabant] in [acie] [instructi] [armis] [bellicis] fifty thousands they came in [auxilium] not in in heart [duplici]
+1Chr 12:34 and from/concerning [Nepthali] [principes] [mille] and with to them [instructa] [clypeo] and [hasta] thirty seven thousands
+1Chr 12:35 from/concerning Dan also [praeparata] to/toward [proelium] twenty eight thousands [sescentorum]
+1Chr 12:36 and from/concerning Asher [egredientes] to/toward [pugnam] and in [acie] [provocantes] forty thousands
+1Chr 12:37 [trans] [Iordanem] but/however from/concerning to sons Reuben and Gad and [dimidia] [parte] tribe/tribes Manasseh [instructa] [armis] [bellicis] hundred twenty thousands
+1Chr 12:38 all [pl] [isti] of man/husband [bellatores] and [expediti] to/toward [pugnandum] in heart [perfecto] they came in [Hebron] so that [constituerent] king [acc] David above [universum] Israel but and all [pl] [reliqui] from/out of Israel [uno] in heart they were so that king [fieret] David
+1Chr 12:39 [fueruntque] there with David tribe/tribes in days [comedentes] and [bibentes] [praeparaverunt] for to them brothers of himself
+1Chr 12:40 but and who/which [iuxta] them [m] they were until to/toward [Isachar] and Zebulun and [Nepthalim] [adferebant] loaves in [asinis] and [camelis] and [mulis] and [bubus] to/toward [vescendum] [farinam] [palatas] [uvam] [passam] wine [oleum] oxen rams to/toward every [acc] [copiam] [gaudium] [quippe] [he/she/it] was in Israel
+1Chr 13:1 [iniit] but/however [consilium] David with [tribunis] and [centurionibus] and [universis] [principibus]
+1Chr 13:2 and [he] said to/toward every [acc] [coetum] Israel if [placet] to you [pl] and from to [the] Lord to God [nostro] [egreditur] speech/word whom [loquor] [mittamus] to/toward brothers [nostros] [reliquos] in [universas] [regiones] Israel and to/toward priests and [Levitas] who/which [habitant] in [suburbanis] [urbium] so that [congregentur] to/toward [nos]
+1Chr 13:3 and [reducamus] [arcam] of God of us to/toward [nos] not for [requisivimus] her in in days [Saul]
+1Chr 13:4 and [he] answered [universa] [multitudo] so that thus [fieret] [placuerat] for speech/word every to people
+1Chr 13:5 [congregavit] therefore David [cunctum] Israel from [Sior] of Egypt until [dum] [ingrediaris] [Emath] so that [adduceret] [arcam] of God from/concerning [Cariathiarim]
+1Chr 13:6 and [he] ascended David and all/every man/husband Israel to/toward [collem] [Cariathiarim] who/which [f] [he/she/it] is in [Iuda] so that [adferrent] from there [arcam] of God of [the] Lord [sedentis] above [cherubin] where [invocatum] [he/she/it] is name of him/her
+1Chr 13:7 [inposueruntque] [arcam] of God above [plaustrum] [novum] from/concerning house Amminadab [Oza] but/however and brothers of him/her [minabant] [plaustrum]
+1Chr 13:8 [porro] David and [universus] Israel [ludebant] before to God every in power in [canticis] and in [citharis] and [psalteriis] and [tympanis] and [cymbalis] and [tubis]
+1Chr 13:9 with but/however [pervenissent] to/toward [aream] [Chidon] [tetendit] [Oza] hand [acc] his/her [f acc] so that [sustentaret] [arcam] [bos] [quippe] [lasciviens] [paululum] [inclinaverat] her | [KJV:] And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
+1Chr 13:10 [iratus] [he/she/it] is therefore Lord against [Ozam] and [percussit] him there which [n] [contigisset] [arcam] and [mortuus] [he/she/it] is there before to God
+1Chr 13:11 [contristatusque] David there which [n] [divisisset] Lord [Ozam] [he] called place [acc] him [Divisio] [Oza] until in [praesentem] day [acc]
+1Chr 13:12 and [timuit] God [acc] then [temporis] saying [quomodo] I am able to/toward me [introducere] [arcam] of God
+1Chr 13:13 and because of this [f acc] [causam] not her [adduxit] to/toward himself/themselves this [n] [he/she/it] is in [civitatem] David but [avertit] in house [acc] [Obededom] [Getthei]
+1Chr 13:14 [mansit] therefore [arca] of God in house [Obededom] tribe/tribes [mensibus] and [he] blessed Lord to house of him/her and to all who/which [f] [habebat]
+1Chr 14:1 [he] sent also [Hiram] king [Tyri] [nuntios] to/toward David and [ligna] [cedrina] and [artifices] [parietum] [lignorumque] so that [aedificarent] to him/her house [acc]
+1Chr 14:2 [cognovitque] David there which [n] [confirmasset] him Lord in king [acc] above Israel and [sublevatum] [he/she/it] might be kingdom his [n] above people [acc] of him/her Israel
+1Chr 14:3 [he] took also David [alias] [uxores] in [Hierusalem] and [he] begat sons [acc] and [filias]
+1Chr 14:4 and this one [f] [nomina] of them [m] who/which were born they are to him/her in [Hierusalem] [Sammu] and [Sobab] [Nathan] and [Salomon]
+1Chr 14:5 [Iebar] and [Helisu] and [Eliphaleth] | [KJV:] And Ibhar, and Elishua, and Elpalet,
+1Chr 14:6 [Noga] also and [Napheg] and [Iaphiae]
+1Chr 14:7 [Elisama] and [Baliada] and [Eliphaleth] | [KJV:] And Elishama, and Beeliada, and Eliphalet.
+1Chr 14:8 hearing [pl] but/however [Philisthim] there which [n] anointed [he/she/it] might be David in king [acc] above [universum] Israel [ascenderunt] all [pl] so that [quaererent] him which [n] with [audisset] David having gone out [he/she/it] is [obviam] to them
+1Chr 14:9 [porro] [Philisthim] [venientes] [diffusi] they are in [valle] [Raphaim] | [KJV:] And the Philistines came and spread themselves in the valley of Rephaim.
+1Chr 14:10 [consuluitque] David God [acc] saying if [ascendam] to/toward [Philistheos] if [trades] them [m] in with hand my [f] and [he] said to him/her Lord [ascende] and [tradam] them [m] in with hand your [f]
+1Chr 14:11 and with to him/her [ascendissent] in [Baalpharasim] [percussit] them [m] there David and [he] said [he] divided God enemies [acc] my [acc pl m] through hand [acc] my [f acc] [sicuti] [dividuntur] [aquae] and [idcirco] [vocatum] [he/she/it] is name of place of him/her [Baalpharasim]
+1Chr 14:12 [dereliqueruntque] there [deos] his [acc pl m] whom [m pl] David [iussit] [exuri]
+1Chr 14:13 [alia] also [vice] [Philisthim] [inruerunt] and [diffusi] they are in [valle]
+1Chr 14:14 [consuluitque] [rursum] David God [acc] and [he] said to him/her God not [ascendas] after them [m] [recede] from to them and [venies] against them [m] from/out of [adverso] [pirorum]
+1Chr 14:15 and with [audieris] [sonitum] [gradientis] in [cacumine] [pirorum] then [egredieris] to/toward [bellum] having gone out [he/she/it] is for God before you so that [percutiat] [castra] [Philisthim]
+1Chr 14:16 [he] made/did therefore David just as [he] had commanded to him/her God and [percussit] [castra] [Philisthinorum] from/concerning [Gabaon] until [Gazera]
+1Chr 14:17 [divulgatumque] [he/she/it] is name David in [universis] [regionibus] and Lord [he] gave [pavorem] of him/her above all [pl] nations
+1Chr 15:1 [he] made/did also to himself/themselves [domos] in [civitate] David and [aedificavit] place [acc] [arcae] of God [tetenditque] to him/her tabernacle
+1Chr 15:2 then [he] said David [inlicitum] [he/she/it] is so that from [quocumque] [portetur] [arca] of God unless from [Levitis] whom [m pl] [elegit] Lord to/toward [portandum] her and to/toward [ministrandum] to himself/themselves until in eternal/forever
+1Chr 15:3 [congregavitque] [universum] Israel in [Hierusalem] so that [adferretur] [arca] of God in place [acc] his [n] whom [praeparaverat] to him/her
+1Chr 15:4 [necnon] and sons [acc] Aaron and [Levitas]
+1Chr 15:5 from/concerning to sons [Caath] [Urihel] [princeps] [he] was and brothers of him/her hundred twenty
+1Chr 15:6 from/concerning to sons [Merari] [Asaia] [princeps] and brothers of him/her [ducenti] twenty
+1Chr 15:7 from/concerning to sons [Gersom] [Iohel] [princeps] and brothers of him/her hundred thirty
+1Chr 15:8 from/concerning to sons [Elisaphan] [Semeias] [princeps] and brothers of him/her [ducenti]
+1Chr 15:9 from/concerning to sons [Hebron] [Elihel] [princeps] and brothers of him/her [octoginta]
+1Chr 15:10 from/concerning to sons [Ozihel] Amminadab [princeps] and brothers of him/her hundred [duodecim]
+1Chr 15:11 and [he] called David Zadok and [Abiathar] priests and [Levitas] [Urihel] [Asaiam] [Iohel] [Semeiam] [Elihel] and Amminadab
+1Chr 15:12 and [he] said to/toward them [m] you [pl] who/which you are [pl] [principes] [familiarum] [leviticarum] [sanctificamini] with to brothers to your [pl] and [adferte] [arcam] of [the] Lord of God Israel to/toward place [acc] who/which to him/her [praeparatus] [he/she/it] is
+1Chr 15:13 lest/not so that from beginning because not [eratis] [praesentes] [percussit] [nos] Lord thus and now let there be [inlicitum] what? to us [agentibus]
+1Chr 15:14 [sanctificati] they are therefore priests and Levites so that [portarent] [arcam] of [the] Lord of God Israel
+1Chr 15:15 and [tulerunt] sons Levi [arcam] of God just as [he] had commanded [Moses] [iuxta] word of [the] Lord [umeris] his [dat/abl pl] in [vectibus]
+1Chr 15:16 [he] said also David [principibus] of Levites so that [constituerent] from/concerning to brothers his [dat/abl pl] [cantores] in [organis] [musicorum] [nablis] [videlicet] and [lyris] and [cymbalis] so that [resonaret] in [excelsum] [sonitus] [laetitiae]
+1Chr 15:17 [constitueruntque] [Levitas] [Heman] son [acc] [Iohel] and from/concerning to brothers of him/her [Asaph] son [acc] [Barachiae] from/concerning to sons indeed [Merari] to brothers of them [m] [Ethan] son [acc] [Casaiae]
+1Chr 15:18 and with to them brothers of them [m] in [secundo] [ordine] [Zacchariam] and [Ben] and [Iazihel] and [Semiramoth] and [Iahihel] and [Ani] [Eliab] and [Banaiam] and [Maasiam] and [Matthathiam] and [Eliphalu] and [Macheniam] and [Obededom] and [Ieihel] [ianitores]
+1Chr 15:19 [porro] [cantores] [Heman] [Asaph] and [Ethan] in [cymbalis] [aeneis] [concrepantes] | [KJV:] So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;
+1Chr 15:20 [Zaccharias] but/however and [Ozihel] and [Semiramoth] and [Iahihel] and [Ani] and [Eliab] and [Maasias] and [Banaias] in [nablis] [arcana] [cantabant]
+1Chr 15:21 [porro] [Matthathias] and [Eliphalu] and [Machenias] and [Obededom] and [Ieihel] and [Ozaziu] in [citharis] for/before [octava] [canebant] [epinikion] | [KJV:] And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
+1Chr 15:22 [Chonenias] but/however [princeps] of Levites [prophetiae] [praeerat] to/toward [praecinendam] [melodiam] [he/she/it] was [quippe] very [sapiens] | [KJV:] And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful.
+1Chr 15:23 and [Barachias] and [Helcana] [ianitores] [arcae] | [KJV:] And Berechiah and Elkanah were doorkeepers for the ark.
+1Chr 15:24 [porro] [Sebenias] and [Iosaphat] and [Nathanahel] and [Amasai] and [Zaccharias] and [Banaias] and [Eliezer] priests [clangebant] [tubis] before [arca] of God and [Obededom] and [Ahias] they were [ianitores] [arcae]
+1Chr 15:25 therefore David and [maiores] [natu] Israel and [tribuni] [ierunt] to/toward [deportandam] [arcam] of covenant of [the] Lord from/concerning house [Obededom] with [laetitia]
+1Chr 15:26 and with [adiuvisset] God [Levitas] who/which [portabant] [arcam] of covenant of [the] Lord [immolabantur] seven [tauri] and seven rams
+1Chr 15:27 [porro] David [he/she/it] was [indutus] [stola] [byssina] and [universi] Levites who/which [portabant] [arcam] [cantoresque] and [Chonenias] [princeps] [prophetiae] between [cantores] David but/however [indutus] [he/she/it] was also [ephod] [lineo] | [KJV:] And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.
+1Chr 15:28 [universusque] Israel [deducebant] [arcam] of covenant of [the] Lord in [iubilo] and [sonitu] [bucinae] and [tubis] and [cymbalis] and [nablis] and [citharis] [concrepantes]
+1Chr 15:29 and with [pervenisset] [arca] of covenant of [the] Lord until to/toward [civitatem] David [Michol] daughter [Saul] [prospiciens] through [fenestram] [he] saw king [acc] David [saltantem] and [ludentem] and [despexit] him in in heart his [dat/abl n]
+1Chr 16:1 [adtulerunt] therefore [arcam] of God and [constituerunt] her in midst of tabernacle which [n] [tetenderat] to him/her David and [obtulerunt] burnt offerings and [pacifica] before to God
+1Chr 16:2 and with [conplesset] David [offerens] burnt offerings and [pacifica] [he] blessed to people in in name of [the] Lord
+1Chr 16:3 and [he] divided [universis] through [singulos] from [viro] until to/toward woman/wife [acc] [tortam] bread and [partem] [assae] of flesh [bubulae] and [frixam] with oil [similam]
+1Chr 16:4 [constituitque] before [arca] of [the] Lord from/concerning [Levitis] who/which [ministrarent] and [recordarentur] [operum] of him/her and [glorificarent] and [laudarent] [the] Lord [acc] God [acc] Israel
+1Chr 16:5 [Asaph] [principem] and [secundum] of him/her [Zacchariam] [porro] [Iahihel] and [Semiramoth] and [Ieihel] and [Matthathiam] and [Eliab] and [Banaiam] and [Obededom] and [Ieihel] above [organa] [psalterii] and [lyras] [Asaph] but/however so that [cymbalis] [personaret] | [KJV:] Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
+1Chr 16:6 [Banaiam] indeed and [Azihel] priests [canere] [tuba] [iugiter] before [arca] of covenant of [the] Lord
+1Chr 16:7 in [illo] [die] [he] made/did David [principem] to/toward [confitendum] to [the] Lord [Asaph] and brothers of him/her
+1Chr 16:8 confess [pl] to [the] Lord [invocate] name of him/her [notas] do [pl] in [populis] [adinventiones] of him/her
+1Chr 16:9 [canite] to him/her and [psallite] and [narrate] [omnia] [mirabilia] of him/her
+1Chr 16:10 praise [ye] name holy [n acc] of him/her [laetetur] heart [quaerentium] [the] Lord [acc]
+1Chr 16:11 [quaerite] [the] Lord [acc] and power/virtue [acc] of him/her [quaerite] face [acc] of him/her always
+1Chr 16:12 [recordamini] [mirabilium] of him/her who/which [f] [he] made/did [signorum] of him/her and [iudiciorum] [oris] of him/her
+1Chr 16:13 seed Israel [servi] of him/her sons [Iacob] [electi] of him/her
+1Chr 16:14 he himself Lord God our [m] in [universa] earth [iudicia] of him/her
+1Chr 16:15 [recordamini] in [sempiternum] [pacti] of him/her [sermonis] whom [he] commanded in [mille] [generationes]
+1Chr 16:16 whom [pepigit] with Abraham and [iuramenti] of him/her with Isaac
+1Chr 16:17 and [constituit] it/that [Iacob] in precept and Israel in [pactum] [sempiternum]
+1Chr 16:18 saying to you [dabo] earth [acc] Canaan [funiculum] [hereditatis] [vestrae]
+1Chr 16:19 with they might be [pauci] [numero] [parvi] and [coloni] of him/her
+1Chr 16:20 and [transierunt] from/concerning [gente] in [gentem] and from/concerning in kingdom to/toward people [acc] [alterum]
+1Chr 16:21 not [dimisit] [quemquam] [calumniari] them [m] but [increpuit] for/before to them kings
+1Chr 16:22 [nolite] [tangere] [christos] my [acc pl m] and in prophets my [dat/abl pl] [nolite] [malignari]
+1Chr 16:23 [canite] to [the] Lord all/every earth [adnuntiate] from/out of [die] in day [acc] [salutare] of him/her
+1Chr 16:24 [narrate] in to nations glory [acc] of him/her in [cunctis] [populis] [mirabilia] of him/her
+1Chr 16:25 because great Lord and [laudabilis] very and [horribilis] above all [pl] [deos]
+1Chr 16:26 all [pl] for [dii] of peoples [idola] Lord but/however [caelos] [he] made/did
+1Chr 16:27 [confessio] and [magnificentia] before there [fortitudo] and [gaudium] in place of him/her
+1Chr 16:28 [adferte] to [the] Lord of family of peoples [adferte] to [the] Lord glory [acc] and [imperium]
+1Chr 16:29 [date] to [the] Lord glory [acc] [nomini] of him/her [levate] sacrifice and [venite] in in sight of him/her and [adorate] [the] Lord [acc] in [decore] [sancto]
+1Chr 16:30 [commoveatur] from face of him/her all/every earth he himself for [fundavit] [orbem] [inmobilem]
+1Chr 16:31 [laetentur] of heaven and [exultet] earth and [dicant] in [nationibus] Lord [regnavit]
+1Chr 16:32 [tonet] sea and [plenitudo] of him/her [exultent] [agri] and [omnia] who/which [f] in to them they are
+1Chr 16:33 then [laudabunt] [ligna] [saltus] before to [the] Lord because [he] came [iudicare] earth [acc]
+1Chr 16:34 confess [pl] to [the] Lord because good because in eternal/forever mercy of him/her
+1Chr 16:35 and say [pl] [salva] [nos] God [salvator] our [m] and [congrega] [nos] and [erue] from/concerning to nations so that [confiteamur] [nomini] [sancto] your [n dat/abl] and [exultemus] in [carminibus] [tuis]
+1Chr 16:36 [benedictus] Lord God Israel from [aeterno] until in eternal/forever and [dicat] all/every people amen and [hymnus] to [the] Lord
+1Chr 16:37 [dereliquit] therefore there before [arca] of covenant of [the] Lord [Asaph] and brothers of him/her so that [ministrarent] in in sight [arcae] [iugiter] through [singulos] day and [vices] his [acc pl f]
+1Chr 16:38 [porro] [Obededom] and brothers of him/her [sexaginta] eight and [Obededom] son [acc] [Idithun] and [Osa] [constituit] [ianitores]
+1Chr 16:39 Zadok but/however [sacerdotem] and brothers of him/her priests before in tabernacle of [the] Lord in [excelso] which [n] [he/she/it] was in [Gabaon]
+1Chr 16:40 so that [offerrent] burnt offerings to [the] Lord above altar [holocaustomatis] [iugiter] morning and evening [iuxta] [omnia] who/which [f] [scripta] they are in in law of [the] Lord whom/which [f] [he] commanded [Israheli]
+1Chr 16:41 and after him [Heman] and [Idithun] and [reliquos] [electos] [unumquemque] [vocabulo] his [dat/abl n] to/toward [confitendum] to [the] Lord because in eternal/forever mercy of him/her
+1Chr 16:42 [Heman] also and [Idithun] [canentes] [tuba] and [quatientes] [cymbala] and [omnia] [musicorum] [organa] to/toward [canendum] to God sons [acc] but/however [Idithun] [he] made/did to be [portarios]
+1Chr 16:43 [reversusque] [he/she/it] is all/every people in house [acc] his/her [f acc] and David so that [benediceret] also to house his/her [gen/dat f]
+1Chr 17:1 with but/however [habitaret] David in house his/her [f] [he] said to/toward [Nathan] [prophetam] behold I [habito] in house [cedrina] [arca] but/however of covenant of [the] Lord under [pellibus] [he/she/it] is
+1Chr 17:2 and [he] said [Nathan] to/toward David [omnia] who/which [f] in in heart your [n dat/abl] they are do God for [tecum] [he/she/it] is
+1Chr 17:3 therefore by night she/that made [m] [he/she/it] is speech/word of God to/toward [Nathan] saying
+1Chr 17:4 [vade] and [loquere] David [servo] my [dat/abl n] this one [f] [he] says Lord not [aedificabis] you to me house [acc] to/toward [habitandum]
+1Chr 17:5 nor for [mansi] in house from/out of there [tempore] [quo] [eduxi] Israel until to/toward this [f acc] day [acc] but [fui] always [mutans] [loca] of tabernacle and in [tentorio]
+1Chr 17:6 [manens] with every Israel whether? having spoken I am [saltim] [uni] [iudicum] Israel to whom/which [praeceperam] so that [pascerent] people [acc] my [n] and I said why? not [aedificastis] to me house [acc] [cedrinam]
+1Chr 17:7 now therefore thus [loqueris] to/toward [servum] my [n] David this one [f] [he] says Lord [exercituum] I [tuli] you with in [pascuis] [sequereris] [gregem] so that [esses] [dux] of people of me Israel
+1Chr 17:8 and [fui] [tecum] [quocumque] [perrexisti] and [interfeci] all [pl] enemies [acc] your [acc pl m] before you [fecique] to you name as [unius] [magnorum] who/which [celebrantur] in earth
+1Chr 17:9 and I gave place [acc] to people my [dat/abl n] Israel [plantabitur] and [habitabit] in there and [ultra] not [commovebitur] nor sons [iniquitatis] [adterent] them [m] just as from beginning
+1Chr 17:10 from/out of in days to whom/which I gave [iudices] to people my [dat/abl n] Israel and [humiliavi] [universos] enemies [acc] your [acc pl m] [adnuntio] therefore to you which [n] [aedificaturus] [sit] house [acc] to you Lord
+1Chr 17:11 and with [impleveris] day your [acc pl m] so that [vadas] to/toward fathers your [acc pl m] [suscitabo] seed your [n] after you which [n] he will be from/concerning to sons [tuis] and [stabiliam] kingdom of him/her
+1Chr 17:12 he himself [aedificabit] to me house [acc] and [firmabo] [solium] of him/her until in eternal/forever
+1Chr 17:13 I [ero] to him/her in father [acc] and he himself he will be to me in son [acc] and mercy [acc] my [f acc] not [auferam] from there just as [abstuli] from there who/which before you [he] was
+1Chr 17:14 and [statuam] him in house my [f] and in in kingdom my [dat/abl n] until in [sempiternum] and [thronus] of him/her he will be [firmissimus] in [perpetuum]
+1Chr 17:15 [iuxta] [omnia] words this one [f] and [iuxta] [universam] [visionem] [istam] thus having spoken [he/she/it] is [Nathan] to/toward David
+1Chr 17:16 and with [venisset] king David and [sedisset] before to [the] Lord [he] said who? I I am O Lord God and who/which [f] house my [f] so that [praestares] to me [talia]
+1Chr 17:17 but and this [n] [parum] [visum] [he/she/it] is in in sight your [n dat/abl] [ideoque] having spoken you are above house [acc] [servi] of you also in [futurum] and you did me [spectabilem] above all [pl] [homines] O Lord God my [m]
+1Chr 17:18 what? [ultra] [addere] [he] is able David with thus [glorificaveris] [servum] your [n] and [cognoveris] him
+1Chr 17:19 O Lord because of [famulum] your [n] [iuxta] heart your [n] you did every [acc] [magnificentiam] this [f acc] and [nota] to be [voluisti] [universa] [magnalia]
+1Chr 17:20 O Lord not [he/she/it] is [similis] of you and not [he/she/it] is [alius] God without you from/out of to all whom [m pl] [audivimus] [auribus] to our
+1Chr 17:21 who? but/however [he/she/it] is [alius] so that people your [m] Israel nation [una] in earth to/toward whom/which [f] [perrexit] God so that [liberaret] and [faceret] people [acc] to himself/themselves and [magnitudine] his/her [f] and [terroribus] [eiceret] [nationes] from face of him/her whom from/concerning to Egypt [liberarat]
+1Chr 17:22 and [posuisti] people [acc] your [n] Israel to you in people [acc] until in eternal/forever and you O Lord made [m] you are God of him/her
+1Chr 17:23 now therefore O Lord speech/word whom having spoken you are [famulo] your [n dat/abl] and above house [acc] of him/her [confirmetur] in [perpetuum] and do just as having spoken you are
+1Chr 17:24 [permaneatque] and [magnificetur] name your [n] until in [sempiternum] and [dicatur] Lord [exercituum] God Israel and house David [servi] of him/her [permanens] before there
+1Chr 17:25 you for O Lord God my [m] [revelasti] [auriculam] [servi] of you so that [aedificares] to him/her house [acc] and [idcirco] [invenit] servant/slave your [m] [fiduciam] so that [oret] before you
+1Chr 17:26 now therefore O Lord you you are God and having spoken you are to/toward [servum] your [n] [tanta] [beneficia]
+1Chr 17:27 and [coepisti] [benedicere] to house [servi] of you so that [sit] always before you you for O Lord [benedicente] [benedicta] he will be in [perpetuum]
+1Chr 18:1 made [n] [he/she/it] is but/however after this one [f] so that [percuteret] David [Philisthim] and [humiliaret] them [m] and [tolleret] [Geth] and [filias] of him/her from/concerning with hand [Philisthim]
+1Chr 18:2 [percuteretque] Moab and [fierent] [Moabitae] [servi] David [offerentes] to him/her [munera]
+1Chr 18:3 there [tempore] [percussit] David also [Adadezer] king [acc] [Suba] [regionis] [Emath] when [perrexit] so that [dilataret] [imperium] his [n] until to/toward river [Eufraten]
+1Chr 18:4 [cepit] therefore David [mille] [quadrigas] of him/her and seven thousands [equites] and twenty thousands [virorum] [peditum] [subnervavitque] all [pl] [equos] [curruum] [exceptis] hundred [quadrigis] whom [f pl] [reservavit] to himself/themselves
+1Chr 18:5 [supervenit] but/however and [Syrus] [damascenus] so that [auxilium] [praeberet] [Adadezer] [regi] [Suba] but and of this [percussit] David twenty two thousands [virorum]
+1Chr 18:6 and [he] put [milites] in [Damasco] so that [Syria] also [serviret] to himself/themselves and [offerret] [munera] [adiuvitque] him Lord in [cunctis] to/toward who/which [f] [perrexerat]
+1Chr 18:7 [he] bore/took also David [faretras] [aureas] whom [f pl] [habuerant] [servi] [Adadezer] and [adtulit] them [f] in [Hierusalem] | [KJV:] And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
+1Chr 18:8 [necnon] from/concerning [Thebath] and [Chun] [urbibus] [Adadezer] [aeris] [plurimum] from/concerning [quo] [he] made/did [Salomon] sea [aeneum] and [columnas] and [vasa] [aenea] | [KJV:] Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.
+1Chr 18:9 which [n] with [audisset] [Thou] king [Emath] [percussisse] [videlicet] David every [acc] [exercitum] [Adadezer] of king [Suba] | [KJV:] Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;
+1Chr 18:10 [he] sent [Aduram] son [acc] his [n] to/toward king [acc] David so that [postularet] from there [pacem] and [congratularetur] to him/her there which [n] [expugnasset] and [percussisset] [Adadezer] [adversarius] [quippe] [Thou] [he/she/it] was [Adadezer]
+1Chr 18:11 but and [omnia] [vasa] [aurea] and [argentea] and [aenea] [consecravit] king David to [the] Lord with [argento] and [auro] which [n] [tulerat] from/out of [universis] to nations [tam] from/concerning [Idumea] and Moab and to sons [Ammon] whom/which [f] from/concerning [Philisthim] and [Amalech]
+1Chr 18:12 [Abisai] indeed son [Sarviae] [percussit] [Edom] in [valle] [Salinarum] ten and eight thousands
+1Chr 18:13 and [constituit] in [Edom] [praesidium] so that [serviret] [Idumea] David [salvavitque] Lord David in [cunctis] to/toward who/which [f] [perrexerat]
+1Chr 18:14 [regnavit] therefore David above [universum] Israel and [faciebat] [iudicium] and [iustitiam] [cuncto] to people his [dat/abl n]
+1Chr 18:15 [porro] [Ioab] son [Sarviae] [he/she/it] was above [exercitum] and [Iosaphat] son [Ahilud] from [commentariis] | [KJV:] And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder.
+1Chr 18:16 Zadok but/however son [Ahitob] and [Ahimelech] son [Abiathar] priests and [Susa] scribe
+1Chr 18:17 [Banaias] indeed son [Ioiada] above [legiones] [Cherethi] and [Felethi] [porro] sons David [primi] to/toward hand [acc] of king
+1Chr 19:1 [accidit] but/however so that [moreretur] [Naas] king of sons [Ammon] and [regnaret] son of him/her for/before there
+1Chr 19:2 and [he] said David I will make mercy [acc] with [Hanon] son [Naas] [praestitit] for father of him/her to me grace [acc] and [he] sent David [nuntios] to/toward [consolandum] him above [morte] of father of himself who/which with [pervenissent] in earth [acc] of sons [Ammon] so that [consolarentur] [Hanon]
+1Chr 19:3 they said [principes] of sons [Ammon] to/toward [Hanon] you [forsitan] [putas] which [n] David [honoris] [causa] in father [acc] your [n] [miserit] who/which [consolentur] you nor [animadvertis] which [n] so that [explorent] and [investigent] and [scrutentur] earth [acc] your [f acc] [venerint] to/toward you [servi] of him/her
+1Chr 19:4 therefore [Hanon] [pueros] David [decalvavit] and [rasit] and [praecidit] [tunicas] of them [m] from [natibus] until to/toward feet and [dimisit] them [m]
+1Chr 19:5 who/which with [abissent] and this [n] [mandassent] David [he] sent in [occursum] of them [m] [grandem] for [contumeliam] [sustinuerant] and [he] commanded so that [manerent] in [Hiericho] until [cresceret] [barba] of them [m] and then [reverterentur]
+1Chr 19:6 [videntes] but/however sons [Ammon] which [n] [iniuriam] [fecissent] David [tam] [Hanon] whom/which [f] [reliquus] people [miserunt] [mille] [talenta] [argenti] so that [conducerent] to himself/themselves from/concerning [Mesopotamia] and from/concerning [Syria] [Macha] and from/concerning [Suba] [currus] and [equites] | [KJV:] And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syriamaachah, and out of Zobah.
+1Chr 19:7 [conduxeruntque] thirty two thousands [curruum] and king [acc] [Macha] with to people of him/her who/which with [venissent] [castrametati] they are [e] [regione] [Medaba] sons also [Ammon] [congregati] from/concerning [urbibus] his [dat/abl pl] they came to/toward [bellum]
+1Chr 19:8 which [n] with [audisset] David [he] sent [Ioab] and every [acc] [exercitum] [virorum] [fortium] | [KJV:] And when David heard of it, he sent Joab, and all the host of the mighty men.
+1Chr 19:9 and having gone out [pl] sons [Ammon] [direxerunt] [aciem] [iuxta] [portam] [civitatis] kings but/however who/which to/toward [auxilium] [venerant] [separatim] in [agro] [steterunt]
+1Chr 19:10 therefore [Ioab] [intellegens] [bellum] and from/out of [adverso] and after [tergum] against himself/themselves to become [elegit] men [acc] [fortissimos] from/concerning [universo] Israel and [perrexit] against [Syrum]
+1Chr 19:11 [reliquam] but/however [partem] of people [he] gave under with hand [Abisai] of brother of himself and [perrexerunt] against sons [acc] [Ammon]
+1Chr 19:12 and [he] said if [vicerit] me [Syrus] [auxilio] you will be to me [sin] but/however [superaverint] you sons [Ammon] [ero] to you in [praesidium]
+1Chr 19:13 [confortare] and [agamus] [viriliter] for/before to people [nostro] and for/before [urbibus] of God of us Lord but/however which [n] in in sight his [dat/abl n] good [n] [he/she/it] is he will do
+1Chr 19:14 [perrexit] therefore [Ioab] and people who/which with there [he/she/it] was against [Syrum] to/toward [proelium] and [fugavit] them [m]
+1Chr 19:15 [porro] sons [Ammon] [videntes] which [n] [fugisset] [Syrus] to himself/themselves also [fugerunt] [Abisai] brother [acc] of him/her and [ingressi] they are [civitatem] [reversusque] [he/she/it] is also [Ioab] in [Hierusalem]
+1Chr 19:16 seeing but/however [Syrus] which [n] [cecidisset] before Israel [he] sent [nuntios] and [adduxit] [Syrum] who/which [he/she/it] was [trans] [Fluvium] [Sophach] but/however [princeps] [militiae] [Adadezer] [he/she/it] was [dux] of them [m] | [KJV:] And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that were beyond the river: and Shophach the captain of the host of Hadarezer went before them.
+1Chr 19:17 which [n] with [nuntiatum] [he/she/it] might be David [congregavit] [universum] Israel and [transivit] [Iordanem] [inruitque] in them [m] and [direxit] from/out of [adverso] [aciem] to them against [pugnantibus]
+1Chr 19:18 [fugit] but/however [Syrus] Israel and [interfecit] David from/concerning [Syris] seven thousands [curruum] and forty thousands [peditum] and [Sophach] [exercitus] [principem]
+1Chr 19:19 [videntes] but/however [servi] [Adadezer] himself/themselves from Israel to be [superatos] [transfugerunt] to/toward David and [servierunt] to him/her [noluitque] [ultra] [Syria] [auxilium] [praebere] to sons [Ammon]
+1Chr 20:1 made [n] [he/she/it] is but/however after [anni] [circulum] there [tempore] [quo] [solent] kings to/toward [bella] [procedere] [congregavit] [Ioab] [exercitum] and [robur] [militiae] and [vastavit] earth [acc] of sons [Ammon] [perrexitque] and [obsedit] [Rabba] [porro] David [manebat] in [Hierusalem] when [Ioab] [percussit] [Rabba] and [destruxit] her | [KJV:] And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
+1Chr 20:2 [he] bore/took but/however David [coronam] [Melchom] from/concerning [capite] of him/her and [invenit] in she/it [auri] [pondo] [talentum] and [pretiosissimas] [gemmas] and [he] made/did to himself/themselves from there [diadema] [manubias] also [urbis] [plurimas] [he] bore/took
+1Chr 20:3 people [acc] but/however who/which [he/she/it] was in she/it [eduxit] and [he] made/did above them [m] [tribulas] and [trahas] and [ferrata] [carpenta] [transire] thus so that [dissicarentur] and [contererentur] thus [he] made/did David [cunctis] [urbibus] of sons [Ammon] and [reversus] [he/she/it] is with every to people his [dat/abl n] in [Hierusalem]
+1Chr 20:4 after this one [f] [initum] [he/she/it] is [bellum] in [Gazer] against [Philistheos] in [quo] [percussit] [Sobbochai] [Usathites] [Saphai] from/concerning [genere] [Raphaim] and [humiliavit] them [m] | [KJV:] And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued.
+1Chr 20:5 [aliud] also [bellum] [gestum] [he/she/it] is [adversum] [Philistheos] in [quo] [percussit] [Adeodatus] son [Saltus] [Lehemites] brother [acc] [Goliath] [Getthei] whose [hastae] [lignum] [he/she/it] was as [liciatorium] [texentium] | [KJV:] And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver's beam.
+1Chr 20:6 but and [aliud] [bellum] [accidit] in [Geth] in [quo] [he] was man [longissimus] having [digitos] [senos] it/that [he/she/it] is together twenty four who/which and he himself from/concerning [Rapha] [fuerat] [stirpe] [generatus]
+1Chr 20:7 here [blasphemavit] Israel and [percussit] him [Ionathan] son [Sammaa] of brother David these they are sons [Rapha] in [Geth] who/which [ceciderunt] in with hand David and [servorum] of him/her
+1Chr 21:1 [consurrexit] but/however [Satan] against Israel and [incitavit] David so that [numeraret] Israel
+1Chr 21:2 and [he] said David to/toward [Ioab] and to/toward [principes] of people [ite] and [numerate] Israel from [Bersabee] until Dan and [adferte] to me [numerum] so that [sciam]
+1Chr 21:3 and [he] answered [Ioab] [augeat] Lord people [acc] his [n] [centuplum] whom/which [f] they are [nonne] O Lord [mi] king all [pl] [servi] of you they are why? this [n] [quaerit] Lord my [m] which [n] in sin [reputetur] [Israheli]
+1Chr 21:4 but speech/word of king more [praevaluit] and having gone out [he/she/it] is [Ioab] and [circuivit] [universum] Israel and [reversus] [he/she/it] is [Hierusalem]
+1Chr 21:5 and [he] gave David [numerum] of them [m] whom [m pl] [circumierat] and [inventus] [he/she/it] is all/every Israel number [mille] thousands and hundred thousands [virorum] [educentium] [gladium] from/concerning [Iuda] but/however [trecenta] seventy thousands [bellatorum]
+1Chr 21:6 [nam] Levi and [Beniamin] not [numeravit] there which [n] [invitus] [exsequeretur] of king [imperium]
+1Chr 21:7 [displicuit] but/however to God which [n] [iussum] [he/she/it] was and [percussit] Israel
+1Chr 21:8 and [he] said David to/toward God [acc] [peccavi] very so that this [n] [facerem] [obsecro] [aufer] [iniquitatem] [servi] of you because [insipienter] [egi]
+1Chr 21:9 and having spoken [he/she/it] is Lord to/toward Gad [videntem] David saying
+1Chr 21:10 [vade] and [loquere] to/toward David and [dic] this one [f] [he] says Lord [trium] to you [optionem] I give one [acc n] which [n] [volueris] [elige] and I will make to you
+1Chr 21:11 and with [venisset] Gad to/toward David [he] said to him/her this one [f] [he] says Lord [elige] which [n] [volueris]
+1Chr 21:12 or tribe/tribes [annis] [pestilentiam] or tribe/tribes [mensibus] [fugere] you [hostes] your [acc pl m] and [gladium] of them [m] not [posse] [evadere] or tribe/tribes in days [gladium] of [the] Lord and [mortem] [versari] in earth and [angelum] of [the] Lord [interficere] in [universis] [finibus] Israel now therefore [vide] what? [respondeam] to him/her who/which [he] sent me
+1Chr 21:13 and [he] said David to/toward Gad from/out of every [parte] me [angustiae] [premunt] but [melius] to me [he/she/it] is so that [incidam] in hand of [the] Lord because many [f] they are [miserationes] of him/her whom/which [f] in hand of men
+1Chr 21:14 [he] sent therefore Lord [pestilentiam] in Israel and [ceciderunt] from/concerning Israel seventy thousands [virorum]
+1Chr 21:15 [he] sent also [angelum] in [Hierusalem] so that [percuteret] her and with [percuteretur] [he] saw Lord and [misertus] [he/she/it] is above [magnitudinem] [mali] and [imperavit] [angelo] who/which [percutiebat] [sufficit] already [cesset] hand your [f] [porro] [angelus] of [the] Lord [stabat] [iuxta] [aream] [Ornan] [Iebusei]
+1Chr 21:16 [levansque] David eyes his [acc pl m] [he] saw [angelum] of [the] Lord [stantem] between earth [acc] and heaven and [evaginatum] [gladium] in with hand of him/her and [versum] against [Hierusalem] and [ceciderunt] [tam] he himself whom/which [f] [maiores] [natu] [vestiti] [ciliciis] and [proni] in earth [acc]
+1Chr 21:17 and [he] said David to/toward God [acc] [nonne] I I am who/which [iussi] so that [numeraretur] people I who/which [peccavi] I who/which bad [n] [feci] [iste] [grex] what? [commeruit] O Lord God my [m] [vertatur] [obsecro] hand your [f] in me and in house [acc] of father of me people but/however your [m] not [percutiatur]
+1Chr 21:18 [angelus] but/however of [the] Lord [he] commanded Gad so that [diceret] David and [ascenderet] [extrueretque] altar to [the] Lord to God in [area] [Ornan] [Iebusei]
+1Chr 21:19 [he] ascended therefore David [iuxta] speech/word [acc] Gad whom having spoken [fuerat] from/out of in name of [the] Lord
+1Chr 21:20 [porro] [Ornan] with [suspexisset] and he had seen [angelum] and four sons of him/her with there [absconderunt] himself/themselves [nam] there [tempore] [terebat] in [area] [triticum]
+1Chr 21:21 therefore with [venisset] David to/toward [Ornan] [conspexit] him [Ornan] and [processit] to him/her [obviam] from/concerning [area] and [adoravit] him [pronus] in earth [acc]
+1Chr 21:22 and [he] said to him/her David [da] to me place [acc] [areae] your [f gen/dat] so that [aedificem] in she/it altar of [the] Lord thus so that [quantum] [valet] [argenti] [accipias] and [cesset] [plaga] from to people
+1Chr 21:23 [he] said but/however [Ornan] to/toward David [tolle] and he may make Lord my [m] king [quodcumque] to him/her [placet] but and oxen I give in burnt offering and [tribulas] in [ligna] and [triticum] in sacrifice [omnia] [libens] [praebeo]
+1Chr 21:24 and [he] said to him/her king David [nequaquam] thus [fiet] but [argentum] [dabo] [quantum] [valet] nor for to you [auferre] [debeo] and thus [offerre] to [the] Lord burnt offerings [gratuita]
+1Chr 21:25 [he] gave therefore David [Ornan] for/before place shekels [auri] [iustissimi] [ponderis] [sescentos]
+1Chr 21:26 and [aedificavit] there altar to [the] Lord [obtulitque] burnt offerings and [pacifica] and [invocavit] [the] Lord [acc] and he heard him in [igne] from/concerning in heaven above altar [holocausti]
+1Chr 21:27 and [he] commanded Lord [angelo] and [convertit] [gladium] his [n] in [vaginam]
+1Chr 21:28 [protinus] therefore David seeing which [n] [exaudisset] him Lord in [area] [Ornan] [Iebusei] [immolavit] there victims
+1Chr 21:29 tabernacle but/however of [the] Lord which [n] [fecerat] [Moses] in [deserto] and altar [holocaustorum] she/it [tempestate] [he/she/it] was in [excelso] [Gabaon]
+1Chr 21:30 and not [praevaluit] David [ire] to/toward altar so that there [obsecraret] God [acc] [nimio] for [fuerat] [timore] [perterritus] seeing [gladium] [angeli] of [the] Lord
+1Chr 22:1 and [he] said David this one [f] [he/she/it] is house of God and this [n] altar in burnt offering Israel
+1Chr 22:2 and [he] commanded so that [congregarentur] all [pl] [proselyti] from/concerning earth Israel and [constituit] from/out of to them [latomos] to/toward [caedendos] [lapides] and [poliendos] so that [aedificaretur] house of God
+1Chr 22:3 [ferrum] also [plurimum] to/toward [clavos] [ianuarum] and to/toward [commissuras] and [iuncturas] [praeparavit] David and [aeris] [pondus] [innumerabile] | [KJV:] And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;
+1Chr 22:4 [ligna] also [cedrina] not [poterant] [aestimari] who/which [f] [Sidonii] and [Tyrii] [deportaverant] to/toward David | [KJV:] Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.
+1Chr 22:5 and [he] said David [Salomon] son my [m] boy little child [he/she/it] is and [delicatus] house but/however whom/which [f] [aedificari] I want to [the] Lord [talis] to be [debet] so that in [cunctis] [regionibus] [nominetur] [praeparabo] therefore to him/her [necessaria] and because of this [f acc] [causam] before [mortem] his/her [f acc] all [pl] [paravit] [inpensas]
+1Chr 22:6 and [he] called [Salomonem] son [acc] his [n] and [he] commanded to him/her so that [aedificaret] house [acc] to [the] Lord to God Israel
+1Chr 22:7 and [he] said David to/toward [Salomonem] [fili] [mi] [voluntatis] [meae] [he] was so that [aedificarem] house [acc] [nomini] of [the] Lord of God of me
+1Chr 22:8 but made [m] [he/she/it] is to/toward me speech/word of [the] Lord saying [multum] blood [acc] [effudisti] and [plurima] [bella] [bellasti] not [poteris] [aedificare] house [acc] [nomini] my [dat/abl n] [tanto] [effuso] [sanguine] before me
+1Chr 22:9 son who/which [nascetur] to you and he will be man/husband [quietissimus] I will make for him [requiescere] from to all [inimicis] his [dat/abl pl] through [circuitum] and because of this [f acc] [causam] [pacificus] [vocabitur] and [pacem] and [otium] [dabo] in Israel [cunctis] in days of him/her
+1Chr 22:10 he himself [aedificabit] house [acc] [nomini] my [dat/abl n] and he himself he will be to me in son [acc] and I [ero] to him/her in father [acc] [firmaboque] [solium] of kingdom of him/her above Israel in eternal/forever
+1Chr 22:11 now therefore [fili] [mi] [sit] Lord [tecum] and [prosperare] and [aedifica] house [acc] to [the] Lord to God your [n dat/abl] just as having spoken [he/she/it] is from/concerning you
+1Chr 22:12 [det] also to you Lord [prudentiam] and [sensum] so that [regere] [possis] Israel and [custodire] law [acc] of [the] Lord of God of you
+1Chr 22:13 then for [proficere] [poteris] if [custodieris] commandments and [iudicia] who/which [f] [he] commanded Lord to Moses so that [doceret] Israel [confortare] [viriliter] [age] lest/not [timeas] nor [paveas]
+1Chr 22:14 behold I in [paupertatula] my [f] [praeparavi] [inpensas] house of [the] Lord [auri] [talenta] hundred thousands and [argenti] [mille] thousands [talentorum] [aeris] indeed and [ferri] not [he/she/it] is [pondus] [vincitur] for number [magnitudine] [ligna] and [lapides] [praeparavi] to/toward [universa] [inpendia]
+1Chr 22:15 [habes] also [plurimos] [artifices] [latomos] and [cementarios] [artificesque] [lignorum] and of all [artium] to/toward [faciendum] work [prudentissimos] | [KJV:] Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.
+1Chr 22:16 in [auro] and [argento] [aere] and [ferro] whose not [he/she/it] is number rise! therefore and do and he will be Lord [tecum]
+1Chr 22:17 [he] commanded also David [cunctis] [principibus] Israel so that [adiuvarent] [Salomonem] son [acc] his [n]
+1Chr 22:18 [cernitis] [inquiens] which [n] Lord God your [m] [vobiscum] [sit] and he will have given to you [pl] [requiem] through [circuitum] and [tradiderit] all [pl] enemies [acc] in with hand your [f/n pl] and [subiecta] [sit] earth before to [the] Lord and before to people of him/her
+1Chr 22:19 [praebete] therefore [corda] your [f/n pl] and souls [vestras] so that [quaeratis] [the] Lord [acc] God [acc] of you [pl] and [consurgite] and [aedificate] sanctuary to [the] Lord to God so that [introducatur] [arca] of covenant of [the] Lord and [vasa] to [the] Lord [consecrata] in house [acc] who/which [f] [aedificatur] [nomini] of [the] Lord
+1Chr 23:1 therefore David [senex] and [plenus] of days king [acc] [constituit] [Salomonem] son [acc] his [n] above Israel
+1Chr 23:2 and [congregavit] all [pl] [principes] Israel and priests and [Levitas]
+1Chr 23:3 and counted [pl] they are Levites from thirty [annis] and above and [inventa] they are thirty eight thousands [virorum]
+1Chr 23:4 from/out of to these [electi] they are and [distributi] in [ministerium] house of [the] Lord twenty four thousands [praepositorum] but/however and [iudicum] six thousands
+1Chr 23:5 [porro] four thousands [ianitores] and [totidem] [psaltae] [canentes] to [the] Lord in [organis] who/which [f] [fecerat] to/toward [canendum] | [KJV:] Moreover four thousand were porters; and four thousand praised the Lord with the instruments which I made, said David, to praise therewith.
+1Chr 23:6 and [distribuit] them [m] David through [vices] of sons Levi [Gersom] [videlicet] and [Caath] and [Merari]
+1Chr 23:7 [Gersom] [Leedan] and [Semei] | [KJV:] Of the Gershonites were, Laadan, and Shimei.
+1Chr 23:8 sons [Leedan] [princeps] [Ieihel] and [Zetham] and [Iohel] three | [KJV:] The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
+1Chr 23:9 sons [Semei] [Salomith] and [Ozihel] and [Aran] three [isti] [principes] [familiarum] [Leedan] | [KJV:] The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.
+1Chr 23:10 [porro] sons [Semei] [Ieeth] and [Ziza] and [Iaus] and [Baria] [isti] sons [Semei] four | [KJV:] And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.
+1Chr 23:11 [he/she/it] was but/however [Ieeth] [prior] [Ziza] [secundus] [porro] [Iaus] and [Baria] not [habuerunt] [plurimos] sons [acc] and [idcirco] in [una] family [unaque] house [conputati] they are | [KJV:] And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father's house.
+1Chr 23:12 sons [Caath] [Amram] and [Isaar] [Hebron] and [Ozihel] four | [KJV:] The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.
+1Chr 23:13 sons [Amram] Aaron and [Moses] [separatusque] [he/she/it] is Aaron so that [ministraret] in [sancto] [sanctorum] he himself and sons of him/her in [sempiternum] and [adoleret] [incensum] to [the] Lord [secundum] [ritum] his [n] and [benediceret] [nomini] of him/her in [perpetuum]
+1Chr 23:14 to Moses also of man of God sons [adnumerati] they are in tribe Levi
+1Chr 23:15 sons to Moses [Gersom] and [Eliezer]
+1Chr 23:16 sons [Gersom] [Subuhel] [primus] | [KJV:] Of the sons of Gershom, Shebuel was the chief.
+1Chr 23:17 [fuerunt] but/however sons [Eliezer] [Roobia] [primus] and not they were [Eliezer] sons [alii] [porro] sons [Roobia] [multiplicati] they are very
+1Chr 23:18 sons [Isaar] [Salumith] [primus] | [KJV:] Of the sons of Izhar; Shelomith the chief.
+1Chr 23:19 sons [Hebron] [Ieriau] [primus] [Amarias] [secundus] [Iazihel] [tertius] [Iecmaam] [quartus] | [KJV:] Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+1Chr 23:20 sons [Ozihel] [Micha] [primus] [Iesia] [secundus] | [KJV:] Of the sons of Uzziel; Micah the first and Jesiah the second.
+1Chr 23:21 sons [Merari] [Mooli] and [Musi] sons [Mooli] Eleazar and [Cis]
+1Chr 23:22 [mortuus] [he/she/it] is but/however Eleazar and not [he] had sons [acc] but [filias] [acceperuntque] them [f] sons [Cis] brothers of them [f]
+1Chr 23:23 sons [Musi] [Mooli] and [Eder] and [Ierimuth] three
+1Chr 23:24 these sons Levi in to kindreds and to families his [dat/abl pl] [principes] through [vices] and [numerum] [capitum] [singulorum] who/which [faciebant] works [ministerii] house of [the] Lord from twenty [annis] and above
+1Chr 23:25 [he] said for David [requiem] [he] gave Lord God Israel to people his [dat/abl n] and [habitationem] [Hierusalem] until in eternal/forever
+1Chr 23:26 nor he will be [officii] of Levites so that [ultra] [portent] tabernacle and [omnia] [vasa] of him/her to/toward [ministrandum]
+1Chr 23:27 [iuxta] precepts also David [novissima] [supputabitur] number of sons Levi from twenty [annis] and above
+1Chr 23:28 and they will be under with hand of sons Aaron in [cultum] house of [the] Lord in [vestibulis] and in [exedris] and in place [purificationis] and in [sanctuario] and in [universis] in works [ministerii] of temple of [the] Lord
+1Chr 23:29 priests but/however above loaves [propositionis] and to/toward [similae] sacrifice and to/toward [lagana] and [azyma] and [sartaginem] and to/toward [ferventem] [similam] and above [omne] [pondus] and [mensuram]
+1Chr 23:30 Levites indeed so that [stent] morning to/toward [confitendum] and [canendum] to [the] Lord [similiterque] to/toward [vesperam]
+1Chr 23:31 [tam] in [oblatione] [holocaustorum] of [the] Lord whom/which [f] in [sabbatis] and [kalendis] and [sollemnitatibus] remaining [iuxta] [numerum] and ceremonies [uniuscuiusque] [rei] [iugiter] before to [the] Lord
+1Chr 23:32 and [custodiant] [observationes] of tabernacle of covenant and [ritum] of sanctuary and [observationem] of sons Aaron [fratrum] [suorum] so that [ministrent] in house of [the] Lord
+1Chr 24:1 [porro] to sons Aaron [hae] [partitiones] they will be sons Aaron [Nadab] and [Abiu] and Eleazar and [Ithamar]
+1Chr 24:2 [mortui] they are but/however [Nadab] and [Abiu] before father [acc] his [n] without [liberis] [sacerdotioque] [functus] [he/she/it] is Eleazar and [Ithamar]
+1Chr 24:3 and [he] divided them [m] David it/that [he/she/it] is Zadok from/concerning to sons Eleazar and [Ahimelech] from/concerning to sons [Ithamar] [secundum] [vices] his [acc pl f] and [ministerium]
+1Chr 24:4 [inventique] they are [multo] [plures] sons Eleazar in [principibus] [viris] whom/which [f] sons [Ithamar] [he] divided but/however to them this [n] [he/she/it] is to sons Eleazar [principes] through families [acc] [sedecim] and to sons [Ithamar] through families [acc] and [domos] his [acc pl f] eight
+1Chr 24:5 [porro] [he] divided [utrasque] between himself/themselves families [acc] [sortibus] they were for [principes] of sanctuary and [principes] of God [tam] from/concerning to sons Eleazar whom/which [f] from/concerning to sons [Ithamar]
+1Chr 24:6 [descripsitque] them [m] [Semeias] son [Nathanahel] scribe [Levites] before [rege] and [principibus] and Zadok [sacerdote] and [Ahimelech] son [Abiathar] [principibus] also [familiarum] [sacerdotalium] and [leviticarum] [unam] house [acc] who/which [f] [ceteris] [praeerat] Eleazar and [alteram] house [acc] who/which [f] under himself/themselves [habebat] [ceteros] [Ithamar] | [KJV:] And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
+1Chr 24:7 [exivit] but/however [sors] [prima] [Ioiarib] [secunda] [Iedeiae] | [KJV:] Now the first lot came forth to Jehoiarib, the second to Jedaiah,
+1Chr 24:8 [tertia] [Arim] [quarta] [Seorim] | [KJV:] The third to Harim, the fourth to Seorim,
+1Chr 24:9 [quinta] [Melchia] [sexta] [Maiman] | [KJV:] The fifth to Malchijah, the sixth to Mijamin,
+1Chr 24:10 [septima] [Accos] [octava] Abijah | [KJV:] The seventh to Hakkoz, the eighth to Abijah,
+1Chr 24:11 [nona] [Hiesu] [decima] [Sechenia] | [KJV:] The ninth to Jeshuah, the tenth to Shecaniah,
+1Chr 24:12 [undecima] [Eliasib] [duodecima] [Iacim] | [KJV:] The eleventh to Eliashib, the twelfth to Jakim,
+1Chr 24:13 [tertiadecima] [Oppa] [quartadecima] [Isbaal] | [KJV:] The thirteenth to Huppah, the fourteenth to Jeshebeab,
+1Chr 24:14 [quintadecima] [Belga] [sextadecima] [Emmer] | [KJV:] The fifteenth to Bilgah, the sixteenth to Immer,
+1Chr 24:15 [septimadecima] [Ezir] [octavadecima] [Hapses] | [KJV:] The seventeenth to Hezir, the eighteenth to Aphses,
+1Chr 24:16 [nonadecima] [Phetheia] [vicesima] [Iezecel] | [KJV:] The nineteenth to Pethahiah, the twentieth to Jehezekel,
+1Chr 24:17 [vicesima] [prima] [Iachin] [vicesima] [secunda] [Gamul] | [KJV:] The one and twentieth to Jachin, the two and twentieth to Gamul,
+1Chr 24:18 [vicesima] [tertia] [Dalaiau] [vicesima] [quarta] [Mazziau] | [KJV:] The three and twentieth to Delaiah, the four and twentieth to Maaziah.
+1Chr 24:19 [hae] [vices] of them [m] [secundum] [ministeria] his/her [f] so that [ingrediantur] house [acc] of [the] Lord and [iuxta] [ritum] his [n] under with hand Aaron of father of them [m] just as [he] commanded Lord God Israel
+1Chr 24:20 [porro] of sons Levi who/which [reliqui] [fuerant] from/concerning to sons [Amram] [he/she/it] was [Subahel] and to sons [Subahel] [Iedeia]
+1Chr 24:21 from/concerning to sons also [Roobiae] [princeps] [Iesias]
+1Chr 24:22 [Isaaris] indeed [Salemoth] and son [Salemoth] [Iaath] | [KJV:] Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.
+1Chr 24:23 and son of him/her [Ieriahu] [Amarias] [secundus] [Iazihel] [tertius] [Iecmaam] [quartus] | [KJV:] And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.
+1Chr 24:24 son [Ozihel] [Micha] son [Micha] [Samir] | [KJV:] Of the sons of Uzziel; Michah: of the sons of Michah; Shamir.
+1Chr 24:25 brother [Micha] [Iesia] and son [Iesiae] [Zaccharias] | [KJV:] The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
+1Chr 24:26 sons [Merari] [Mooli] and [Musi] son [Ioziau] [Benno] | [KJV:] The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.
+1Chr 24:27 son also [Merari] [Oziau] and [Soem] and [Zacchur] and [Hebri]
+1Chr 24:28 [porro] [Mooli] son Eleazar who/which not [habebat] [liberos]
+1Chr 24:29 son indeed [Cis] [Ierahemel]
+1Chr 24:30 sons [Musi] [Mooli] [Eder] and [Ierimoth] [isti] sons Levi [secundum] [domos] [familiarum] [suarum] | [KJV:] The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers.
+1Chr 24:31 [miseruntque] and to himself/themselves lots against brothers his [acc pl m] sons [acc] Aaron before David [rege] and Zadok and [Ahimelech] and [principibus] [familiarum] [sacerdotalium] and [leviticarum] [tam] [maiores] whom/which [f] [minores] all [pl] [sors] [aequaliter] [dividebat]
+1Chr 25:1 therefore David and [magistratus] [exercitus] [secreverunt] in [ministerium] sons [acc] [Asaph] and [Heman] and [Idithun] who/which [prophetarent] in [citharis] and [psalteriis] and [cymbalis] [secundum] [numerum] his [n] [dedicato] to himself/themselves [officio] [servientes] | [KJV:] Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
+1Chr 25:2 from/concerning to sons [Asaph] [Zacchur] and [Ioseph] and [Nathania] and [Asarela] sons [Asaph] under with hand [Asaph] [prophetantis] [iuxta] king [acc]
+1Chr 25:3 [porro] [Idithun] sons [Idithun] [Godolias] [Sori] [Iesaias] and [Sabias] and [Matthathias] six under with hand of father of himself [Idithun] who/which in [cithara] [prophetabat] above [confitentes] and [laudantes] [the] Lord [acc]
+1Chr 25:4 [Heman] also sons [Heman] [Bocciau] [Matthaniau] [Ozihel] [Subuhel] and [Ierimoth] [Ananias] [Anani] [Elietha] [Geddelthi] and [Romemthiezer] and [Iesbacasa] [Mellothi] [Othir] [Mazioth] | [KJV:] Of Heman: the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:
+1Chr 25:5 all [pl] [isti] sons [Heman] [videntis] of king in [sermonibus] of God so that [exaltaret] [cornu] and [he] gave God [Heman] sons [acc] [quattuordecim] and [filias] three
+1Chr 25:6 [universi] under with hand of father of himself to/toward [cantandum] in [templo] of [the] Lord [distributi] they were in [cymbalis] and [psalteriis] and [citharis] in [ministeria] house of [the] Lord [iuxta] king [acc] [Asaph] [videlicet] and [Idithun] and [Heman]
+1Chr 25:7 [he] was but/however number of them [m] with to brothers his [dat/abl pl] who/which [erudiebant] song of [the] Lord [cuncti] [doctores] [ducenti] [octoginta] eight
+1Chr 25:8 [miseruntque] lots through [vices] his [acc pl f] from/out of [aequo] [tam] [maior] whom/which [f] [minor] [doctus] [pariter] and [indoctus]
+1Chr 25:9 [egressaque] [he/she/it] is [sors] [prima] [Ioseph] who/which [he/she/it] was from/concerning [Asaph] [secunda] [Godoliae] to himself/themselves and to sons of him/her and to brothers [duodecim]
+1Chr 25:10 [tertia] [Zacchur] to sons and to brothers of him/her [duodecim]
+1Chr 25:11 [quarta] [Isari] to sons and to brothers of him/her [duodecim]
+1Chr 25:12 [quinta] [Nathaniae] to sons and to brothers of him/her [duodecim]
+1Chr 25:13 [sexta] [Bocciau] to sons and to brothers of him/her [duodecim]
+1Chr 25:14 [septima] [Israhela] to sons and to brothers of him/her [duodecim]
+1Chr 25:15 [octava] [Isaiae] to sons and to brothers of him/her [duodecim]
+1Chr 25:16 [nona] [Matthaniae] to sons and to brothers of him/her [duodecim]
+1Chr 25:17 [decima] [Semeiae] to sons and to brothers of him/her [duodecim]
+1Chr 25:18 [undecima] [Ezrahel] to sons and to brothers of him/her [duodecim]
+1Chr 25:19 [duodecima] [Asabiae] to sons and to brothers of him/her [duodecim]
+1Chr 25:20 [tertiadecima] [Subahel] to sons and to brothers of him/her [duodecim]
+1Chr 25:21 [quartadecima] [Matthathiae] to sons and to brothers of him/her [duodecim]
+1Chr 25:22 [quintadecima] [Ierimoth] to sons and to brothers of him/her [duodecim]
+1Chr 25:23 [sextadecima] [Ananiae] to sons and to brothers of him/her [duodecim]
+1Chr 25:24 [septimadecima] [Iesbocasae] to sons and to brothers of him/her [duodecim]
+1Chr 25:25 [octavadecima] [Anani] to sons and to brothers of him/her [duodecim]
+1Chr 25:26 [nonadecima] [Mellothi] to sons and to brothers of him/her [duodecim]
+1Chr 25:27 [vicesima] [Eliatha] to sons and to brothers of him/her [duodecim]
+1Chr 25:28 [vicesima] [prima] [Othir] to sons and to brothers of him/her [duodecim]
+1Chr 25:29 [vicesima] [secunda] [Godollathi] to sons and to brothers of him/her [duodecim]
+1Chr 25:30 [vicesima] [tertia] [Maziuth] to sons and to brothers of him/her [duodecim]
+1Chr 25:31 [vicesima] [quarta] [Romamthiezer] to sons and to brothers of him/her [duodecim]
+1Chr 26:1 [divisiones] but/however [ianitorum] from/concerning [Coritis] [Mesellemia] son [Core] from/concerning to sons [Asaph]
+1Chr 26:2 sons [Mesellemiae] [Zaccharias] [primogenitus] [Iadihel] [secundus] [Zabadias] [tertius] [Iathanahel] [quartus] | [KJV:] And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+1Chr 26:3 [Ahilam] [quintus] [Iohanan] [sextus] [Helioenai] [septimus] | [KJV:] Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
+1Chr 26:4 sons but/however [Obededom] [Semeias] [primogenitus] [Iozabad] [secundus] [Iohaa] [tertius] [Sachar] [quartus] [Nathanahel] [quintus] | [KJV:] Moreover the sons of Obededom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth.
+1Chr 26:5 [Amihel] [sextus] [Isachar] [septimus] [Phollathi] [octavus] because [he] blessed to him/her Lord | [KJV:] Ammiel the sixth, Issachar the seventh, Peulthai the eighth: for God blessed him.
+1Chr 26:6 [Semeiae] but/however son of him/her were born they are sons [praefecti] [familiarum] [suarum] they were for of man/husband [fortissimi]
+1Chr 26:7 sons therefore [Semeiae] [Othni] and [Raphahel] and [Obedihel] [Zabad] brothers of him/her of man/husband [fortissimi] [Heliu] also and [Samachias]
+1Chr 26:8 all [pl] these from/concerning to sons [Obededom] to himself/themselves and sons and brothers of them [m] [fortissimi] to/toward [ministrandum] [sexaginta] two from/concerning [Obededom]
+1Chr 26:9 [porro] [Mesellamiae] sons and brothers [robustissimi] ten and eight
+1Chr 26:10 from/concerning [Hosa] but/however it/that [he/she/it] is from/concerning to sons [Merari] [Semri] [princeps] not for [habuerat] [primogenitum] and [idcirco] [posuerat] him father of him/her in [principem]
+1Chr 26:11 [Helchias] [secundus] [Tabelias] [tertius] [Zaccharias] [quartus] all [pl] these sons and brothers [Hosa] [tredecim] | [KJV:] Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.
+1Chr 26:12 these [divisi] they are in [ianitores] so that always [principes] [custodiarum] just as and brothers of them [m] [ministrarent] in house of [the] Lord
+1Chr 26:13 [missae] they are but/however lots from/out of [aequo] and [parvis] and [magnis] through families [acc] his [acc pl f] in [unamquamque] [portarum]
+1Chr 26:14 [cecidit] therefore [sors] [orientalis] [Selemiae] [porro] [Zacchariae] son of him/her [viro] [prudentissimo] and [erudito] [sortito] [obtigit] [plaga] [septentrionalis] | [KJV:] And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward.
+1Chr 26:15 [Obededom] indeed and to sons of him/her to/toward [austrum] in [qua] [parte] house [he/she/it] was [seniorum] [concilium]
+1Chr 26:16 [Sepphima] and [Hosa] to/toward [occidentem] [iuxta] [portam] who/which [f] [ducit] to/toward way [acc] [ascensionis] [custodia] against [custodiam] | [KJV:] To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward.
+1Chr 26:17 to/toward [orientem] indeed Levites six and to/toward [aquilonem] four through day [acc] and to/toward [meridiem] [similiter] in [die] four and where [he/she/it] was [concilium] [bini] and [bini]
+1Chr 26:18 in [cellulis] also [ianitorum] to/toward [occidentem] four in way [binique] through [cellulas]
+1Chr 26:19 [hae] they are [divisiones] [ianitorum] of sons [Core] and [Merari]
+1Chr 26:20 [porro] [Achias] [he/she/it] was above [thesauros] house of God and [vasa] [sanctorum]
+1Chr 26:21 sons [Ledan] sons [Gersonni] from/concerning [Ledan] [principes] [familiarum] [Ledan] and [Gersonni] [Ieiheli] | [KJV:] As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.
+1Chr 26:22 sons [Ieiheli] [Zathan] and [Iohel] brother of him/her above [thesauros] house of [the] Lord
+1Chr 26:23 [Amramitis] and [Isaaritis] and [Hebronitis] and [Ozihelitibus] | [KJV:] Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:
+1Chr 26:24 [Subahel] but/however son [Gersom] sons to Moses [praepositus] [thesauris]
+1Chr 26:25 brothers also of him/her [Eliezer] whose son [Raabia] and of this son [Isaias] and of this son [Ioram] of this also son [Zechri] but and of this son [Selemith]
+1Chr 26:26 he himself [Selemith] and brothers of him/her above [thesauros] [sanctorum] who/which [f] [he] sanctified David king and [principes] [familiarum] and [tribuni] and [centuriones] and [duces] [exercitus]
+1Chr 26:27 from/concerning [bellis] and [manubiis] [proeliorum] who/which [f] [consecraverant] to/toward [instaurationem] and [supellectilem] of temple of [the] Lord
+1Chr 26:28 this one [f] but/however [universa] [he] sanctified [Samuhel] seeing and [Saul] son [Cis] and [Abner] son [Ner] and [Ioab] son [Sarviae] all [pl] who/which [sanctificaverunt] she/it through hand [acc] [Salemith] and [fratrum] of him/her
+1Chr 26:29 [Saaritis] indeed [praeerat] [Chonenias] and sons of him/her to/toward works [forinsecus] above Israel to/toward [docendum] and to/toward [iudicandum] them [m]
+1Chr 26:30 [porro] from/concerning [Hebronitis] [Asabias] and brothers of him/her of man/husband [fortissimi] [mille] [septingenti] [praeerant] [Israheli] [trans] [Iordanem] against [occidentem] in [cunctis] in works of [the] Lord and in [ministerium] of king
+1Chr 26:31 [Hebronitarum] but/however [princeps] [he] was [Hieria] [secundum] families [acc] and kindreds of them [m] [quadragesimo] [anno] of kingdom David counted they are and [inventi] of man/husband [fortissimi] in [Iazer] Gilead
+1Chr 26:32 and brothers of him/her [robustioris] [aetatis] two thousands [septingenti] [principes] [familiarum] [praeposuit] but/however them [m] David king [Rubenitis] and [Gadditis] and [dimidio] tribe/tribes Manasseh in [omne] [ministerium] of God and of king
+1Chr 27:1 sons but/however Israel [secundum] [numerum] his [n] [principes] [familiarum] [tribuni] and [centuriones] and [praefecti] who/which [ministrabant] [regi] [iuxta] companies his [acc pl f] [ingredientes] and [egredientes] through [singulos] [menses] in [anno] twenty four [milibus] [singuli] [praeerant] | [KJV:] Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand.
+1Chr 27:2 [primae] [turmae] in [primo] [mense] [Isboam] [praeerat] son [Zabdihel] and under there twenty four thousands
+1Chr 27:3 from/concerning to sons Perez [princeps] [cunctorum] [principum] in [exercitu] [mense] [primo]
+1Chr 27:4 [secundi] [mensis] [habebat] [turmam] [Dudi] [Ahohites] and after himself/themselves [alterum] in name [Macelloth] who/which [regebat] [partem] [exercitus] twenty four [milium] | [KJV:] And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.
+1Chr 27:5 [dux] also [turmae] [tertiae] in [mense] [tertio] [he/she/it] was [Banaias] son [Ioiadae] priest and in [divisione] his/her [f] twenty four thousands
+1Chr 27:6 he himself [he/she/it] is [Banaias] [fortissimus] between thirty and above thirty [praeerat] but/however [turmae] of himself [Amizabad] son of him/her
+1Chr 27:7 [quartus] [mense] [quarto] [Asahel] brother [Ioab] and [Zabadias] son of him/her after him and in company of him/her twenty four thousands
+1Chr 27:8 [quintus] [mense] [quinto] [princeps] [Samaoth] [Iezarites] and in company of him/her twenty four thousands
+1Chr 27:9 [sextus] [mense] [sexto] [Hira] son [Acces] [Thecuites] and in company of him/her twenty four thousands
+1Chr 27:10 [septimus] [mense] [septimo] [Helles] [Phallonites] from/concerning to sons Ephraim and in company of him/her twenty four thousands
+1Chr 27:11 [octavus] [mense] [octavo] [Sobochai] [Asothites] from/concerning [stirpe] [Zarai] and in company of him/her twenty four thousands
+1Chr 27:12 [nonus] [mense] [nono] [Abiezer] [Anathothites] from/concerning to sons [Iemini] and in company of him/her twenty four thousands
+1Chr 27:13 [decimus] [mense] [decimo] [Marai] and he himself [Netophathites] from/concerning [stirpe] [Zarai] and in company of him/her twenty four thousands
+1Chr 27:14 [undecimus] [mense] [undecimo] [Banaias] [Pharathonites] from/concerning to sons Ephraim and in company of him/her twenty four thousands
+1Chr 27:15 [duodecimus] [mense] [duodecimo] [Holdai] [Netophathites] from/concerning [stirpe] [Gothonihel] and in company of him/her twenty four thousands
+1Chr 27:16 [porro] [tribubus] [praeerant] Israel [Rubenitis] [dux] [Eliezer] son [Zechri] [Symeonitis] [dux] [Saphatias] son [Macha] | [KJV:] Furthermore over the tribes of Israel: the ruler of the Reubenites was Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:
+1Chr 27:17 [Levitis] [Asabias] son [Camuhel] [Aaronitis] Zadok | [KJV:] Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:
+1Chr 27:18 [Iuda] [Heliu] brother David [Isachar] [Amri] son [Michahel] | [KJV:] Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:
+1Chr 27:19 [Zabulonitis] [Iesmaias] son [Abdiae] [Nepthalitibus] [Ierimoth] son [Ozihel] | [KJV:] Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:
+1Chr 27:20 to sons Ephraim [Osee] son [Ozaziu] [dimidio] tribe/tribes Manasseh [Iohel] son [Phadiae]
+1Chr 27:21 and [dimidio] tribe/tribes Manasseh in Gilead [Iaddo] son [Zacchariae] [Beniamin] but/however [Iasihel] son [Abner]
+1Chr 27:22 Dan indeed [Ezrihel] son [Hieroam] these [principes] of sons Israel
+1Chr 27:23 [noluit] but/however David [numerare] them [m] from twenty [annis] [inferius] because [dixerat] Lord so that [multiplicaret] Israel as [stellas] of heaven
+1Chr 27:24 [Ioab] son [Sarviae] [coeperat] [numerare] nor [conplevit] because above this [n] [ira] [inruerat] in Israel and [idcirco] number of them [m] who/which [fuerant] counted not [he/she/it] is [relatus] in [fastos] of king David
+1Chr 27:25 above [thesauros] but/however of king [he] was [Azmoth] son [Adihel] to these but/however [thesauris] who/which they were in [urbibus] and in [vicis] and in [turribus] [praesidebat] [Ionathan] son [Oziae]
+1Chr 27:26 [operi] but/however [rustico] and [agricolis] who/which [exercebant] earth [acc] [praeerat] [Ezri] son [Chelub] | [KJV:] And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:
+1Chr 27:27 [vinearumque] [cultoribus] [Semeias] [Ramathites] [cellis] but/however [vinariis] [Zabdias] [Aphonites] | [KJV:] And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:
+1Chr 27:28 [nam] above [oliveta] and [ficeta] who/which [f] they were in [campestribus] [Balanan] [Gaderites] above [apothecas] but/however of oil [Ioas]
+1Chr 27:29 [porro] [armentis] who/which [f] [pascebantur] in [Sarona] [praepositus] [he] was [Setrai] [Saronites] and above oxen in [vallibus] [Saphat] son [Adli] | [KJV:] And over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai:
+1Chr 27:30 above [camelos] indeed [Ubil] [Ismahelites] and above [asinos] [Iadias] [Meronathites] | [KJV:] Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite:
+1Chr 27:31 above [oves] also [Iaziz] [Agarenus] all [pl] these [principes] [substantiae] of king David
+1Chr 27:32 [Ionathan] but/however [patruus] David [consiliarius] man/husband [prudens] and [litteratus] he himself and [Iaihel] son [Achamoni] they were with to sons of king
+1Chr 27:33 [Ahitophel] also [consiliarius] of king and [Husi] [Arachites] [amicus] of king
+1Chr 27:34 after [Ahitophel] [he] was [Ioiada] son [Banaiae] and [Abiathar] [princeps] but/however [exercitus] of king [he/she/it] was [Ioab]
+1Chr 28:1 [convocavit] therefore David all [pl] [principes] Israel [duces] of tribes and [praepositos] [turmarum] who/which [ministrabant] [regi] [tribunos] also and [centuriones] and who/which [praeerant] [substantiae] and [possessionibus] of king and sons [acc] his [acc pl m] with [eunuchis] and [potentes] and [robustissimos] and whom [m pl] in [exercitu] [Hierusalem]
+1Chr 28:2 and with [surrexisset] king and [stetisset] [he] said [audite] me brothers of me and people my [m] [cogitavi] so that [aedificarem] house [acc] in [qua] [requiesceret] [arca] of covenant of [the] Lord and [scabillum] of feet of God of us and to/toward [aedificandum] [omnia] [praeparavi]
+1Chr 28:3 God but/however [he] said to me not [aedificabis] house [acc] [nomini] my [dat/abl n] there which [n] [sis] man/husband [bellator] and blood [acc] [fuderis]
+1Chr 28:4 but [elegit] Lord God Israel me from/concerning [universa] house of father of me so that [essem] king above Israel in [sempiternum] from/concerning [Iuda] for [elegit] [principes] [porro] from/concerning house [Iuda] house [acc] of father of me and from/concerning to sons of father of me [placuit] to him/her so that me [eligeret] king [acc] above [cunctum] Israel
+1Chr 28:5 but and from/concerning to sons my [dat/abl pl] sons [acc] for [multos] [he] gave to me Lord [elegit] [Salomonem] son [acc] my [n] so that [sederet] in [throno] of kingdom of [the] Lord above Israel
+1Chr 28:6 and [he] said to me [Salomon] son your [m] [aedificabit] house [acc] my [f acc] and [atria] my [f] himself/it for [elegi] to me in son [acc] and I [ero] to him/her in father [acc]
+1Chr 28:7 and [firmabo] kingdom of him/her until in eternal/forever if [perseveraverit] to do precepts my [f] and [iudicia] just as and [hodie]
+1Chr 28:8 now therefore before [universo] [coetu] Israel [audiente] to God [nostro] [custodite] and [perquirite] [cuncta] commandments of [the] Lord of God of us so that [possideatis] earth [acc] [bonam] and [relinquatis] her to sons to your [pl] after you [pl] until in [sempiternum]
+1Chr 28:9 you but/however [Salomon] [fili] [mi] [scito] God [acc] of father of you and [servi] to him/her in heart [perfecto] and [animo] [voluntario] [omnia] for [corda] [scrutatur] Lord and [universas] [mentium] [cogitationes] [intellegit] if [quaesieris] him [invenies] if but/however [dereliqueris] him [proiciet] you in eternal/forever
+1Chr 28:10 now therefore because [elegit] you Lord so that [aedificares] house [acc] of sanctuary [confortare] and [perfice]
+1Chr 28:11 [he] gave but/however David [Salomoni] son his [dat/abl n] [descriptionem] [porticus] and of temple and [cellariorum] and [cenaculi] and [cubiculorum] in [adytis] and house [propitiationis]
+1Chr 28:12 [necnon] and of all who/which [f] [cogitaverat] [atriorum] and [exedrarum] through [circuitum] in [thesauros] house of [the] Lord and in [thesauros] [sanctorum]
+1Chr 28:13 [divisionumque] [sacerdotalium] and [leviticarum] in [omnia] works house of [the] Lord and in [universa] [vasa] [ministerii] of temple of [the] Lord
+1Chr 28:14 [aurum] in [pondere] through [singula] [vasa] [ministerii] [argenti] also [pondus] for/before [vasorum] to/toward works [diversitate] | [KJV:] He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:
+1Chr 28:15 but and to/toward [candelabra] [aurea] and to/toward [lucernas] of them [m] [aurum] for/before [mensura] [uniuscuiusque] [candelabri] and [lucernarum] [similiter] and in [candelabris] [argenteis] and in [lucernis] of them [m] for/before [diversitate] [mensurae] [pondus] [argenti] [tradidit]
+1Chr 28:16 [aurum] also [he] gave in [mensas] [propositionis] for/before [diversitate] [mensarum] [similiter] and [argentum] in [alias] [mensas] [argenteas] | [KJV:] And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver:
+1Chr 28:17 to/toward [fuscinulas] also and [fialas] and [turibula] from/out of [auro] [purissimo] and [leunculos] [aureos] for/before [qualitate] [mensurae] [pondus] [distribuit] in [leunculum] and [leunculum] [similiter] and in [leones] [argenteos] [diversum] [argenti] [pondus] [separavit] | [KJV:] Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver:
+1Chr 28:18 [altari] but/however in [quo] [adoletur] [incensum] [aurum] [purissimum] [he] gave so that from/out of [ipso] [fieret] [similitudo] [quadrigae] [cherubin] [extendentium] [alas] and [velantium] [arcam] of covenant of [the] Lord | [KJV:] And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the Lord.
+1Chr 28:19 [omnia] [he] said they came [scripta] with hand of [the] Lord to/toward me so that [intellegerem] [universa] works [exemplaris]
+1Chr 28:20 [he] said also David [Salomoni] son his [dat/abl n] [viriliter] [age] and [confortare] and do lest/not [timeas] and lest/not [paveas] Lord for God my [m] [tecum] he will be and not [dimittet] you nor [derelinquet] until [perficias] [omne] work [ministerii] house of [the] Lord
+1Chr 28:21 behold [divisiones] of priests and of Levites in [omne] [ministerium] house of [the] Lord [adsistunt] to you and [parati] they are and [noverunt] [tam] [principes] whom/which [f] people to do [omnia] precepts your [f]
+1Chr 29:1 and having spoken [he/she/it] is David king to/toward every [acc] [ecclesiam] [Salomonem] son [acc] my [n] one [acc n] [elegit] God still [puerum] and [tenellum] work but/however [grande] [he/she/it] is nor for [homini] [praeparatur] [habitatio] but to God
+1Chr 29:2 I but/however [totis] [viribus] my [dat/abl pl] [praeparavi] [inpensas] house of God of me [aurum] to/toward [vasa] [aurea] and [argentum] in [argentea] [aes] in [aenea] [ferrum] in [ferrea] [lignum] to/toward [lignea] [lapides] [onychinos] and as [stibinos] and [diversorum] [colorum] every [acc] [pretiosum] [lapidem] and [marmor] [parium] [abundantissime] | [KJV:] Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of divers colours, and all manner of precious stones, and marble stones in abundance.
+1Chr 29:3 and above this one [f] who/which [f] [obtuli] in house [acc] of God of me from/concerning [peculio] my [dat/abl n] [aurum] and [argentum] I give in temple of God of me [exceptis] to these who/which [f] [paravi] in [aedem] [sanctam]
+1Chr 29:4 [tria] thousands [talenta] [auri] from/concerning [auro] [Ophir] and seven thousands [talentorum] [argenti] [probatissimi] to/toward [deaurandos] [parietes] of temple | [KJV:] Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal:
+1Chr 29:5 so that [ubicumque] work [he/she/it] is [aurum] from/concerning [auro] and [ubicumque] work [he/she/it] is [argentum] [argenti] works [fiant] through hand [artificum] and if who? [sponte] [offert] [impleat] hand [acc] his/her [f acc] [hodie] and [offerat] which [n] [voluerit] to [the] Lord
+1Chr 29:6 [polliciti] they are therefore [principes] [familiarum] and [proceres] of tribes Israel [tribuni] also and [centuriones] and [principes] [possessionum] of king
+1Chr 29:7 and they gave in works house of God [auri] [talenta] five thousands and [solidos] ten thousands [argenti] [talenta] ten thousands and [aeris] [talenta] ten and eight thousands [ferri] also hundred thousands [talentorum]
+1Chr 29:8 and with [quemcumque] [inventi] they are [lapides] they gave in [thesaurum] house of [the] Lord through hand [acc] [Ieihel] [Gersonitis]
+1Chr 29:9 [laetatusque] [he/she/it] is people with [vota] [sponte] [promitterent] because in heart [toto] [offerebant] she/it to [the] Lord but and David king [laetatus] [he/she/it] is [gaudio] [magno]
+1Chr 29:10 and [he] blessed to [the] Lord before [universa] [multitudine] and [he] said [benedictus] you are O Lord God Israel of father of us from [aeterno] in eternal/forever
+1Chr 29:11 your [f] [he/she/it] is O Lord [magnificentia] and [potentia] and glory and [victoria] and to you [laus] [cuncta] for who/which [f] in in heaven they are and in earth your [f] they are your [n] O Lord kingdom and you you are above all [pl] [principes]
+1Chr 29:12 your [f gen/dat] [divitiae] and your [f] [he/she/it] is glory you [dominaris] of all in with hand your [f] power/virtue and [potentia] in with hand your [f] [magnitudo] and [imperium] of all
+1Chr 29:13 now therefore God our [m] [confitemur] to you and [laudamus] name your [n] [inclitum]
+1Chr 29:14 who? I and who? people my [m] so that [possimus] this one [f] to you [universa] [promittere] your [f] they are [omnia] and who/which [f] from/concerning with hand your [f] [accepimus] [dedimus] to you
+1Chr 29:15 [peregrini] for [sumus] before you and [advenae] just as all [pl] fathers of us day of us as [umbra] above earth [acc] and [nulla] [he/she/it] is [mora]
+1Chr 29:16 O Lord God our [m] all/every this one [f] [copia] whom/which [f] [paravimus] so that [aedificaretur] house [nomini] [sancto] your [n dat/abl] from/concerning with hand your [f] [he/she/it] is and your [f] they are [omnia]
+1Chr 29:17 I know God my [m] which [n] [probes] [corda] and [simplicitatem] [diligas] [unde] and I in [simplicitate] [cordis] of me [laetus] [obtuli] [universa] this one [f] and people [acc] your [n] who/which here [reppertus] [he/she/it] is I saw with [ingenti] [gaudio] to you [offerre] [donaria]
+1Chr 29:18 O Lord God Abraham and Isaac and Israel of fathers [nostrorum] [custodi] in eternal/forever this [f acc] [voluntatem] [cordis] of them [m] and always in [venerationem] of you mind [ista] [permaneat]
+1Chr 29:19 [Salomoni] also son my [dat/abl n] [da] heart [perfectum] so that [custodiat] commandments your [f] [testimonia] your [f] ceremonies your [acc pl f] and he may make [universa] and [aedificet] [aedem] whose [inpensas] [paravi]
+1Chr 29:20 [he] commanded but/however David [universae] [ecclesiae] bless [pl] to [the] Lord to God [nostro] and [he] blessed all/every [ecclesia] to [the] Lord to God of fathers [suorum] and [inclinaverunt] himself/themselves and [adoraverunt] God [acc] and [deinde] king [acc]
+1Chr 29:21 [immolaveruntque] victims to [the] Lord and [obtulerunt] burnt offerings [die] [sequenti] [tauros] [mille] rams [mille] lambs [mille] with [libaminibus] his [dat/abl pl] and [universo] [ritu] [abundantissime] in every [acc] Israel
+1Chr 29:22 and [comederunt] and [biberunt] before to [the] Lord in [die] [illo] with [grandi] [laetitia] and [unxerunt] [secundo] [Salomonem] son [acc] David [unxerunt] but/however to [the] Lord in [principem] and Zadok in [pontificem]
+1Chr 29:23 [seditque] [Salomon] above [solium] of [the] Lord in king [acc] for/before David [patre] his [dat/abl n] and [cunctis] [placuit] and [paruit] to him/her all/every Israel
+1Chr 29:24 but and [universi] [principes] and [potentes] and [cuncti] sons of king David they gave hand [acc] and [subiecti] [fuerunt] [Salomoni] [regi]
+1Chr 29:25 [magnificavit] therefore Lord [Salomonem] above every [acc] Israel and [he] gave to him/her glory [acc] of kingdom [qualem] none [he] had before him king Israel
+1Chr 29:26 therefore David son [Isai] [regnavit] above [universum] Israel
+1Chr 29:27 and day to whom/which [regnavit] above Israel [fuerunt] forty [anni] in [Hebron] [regnavit] seven [annis] and in [Hierusalem] thirty tribe/tribes
+1Chr 29:28 and [mortuus] [he/she/it] is in [senectute] good [pl n] [plenus] of days and [divitiis] and glory [regnavitque] [Salomon] son of him/her for/before there
+1Chr 29:29 [gesta] but/however David of king [priora] and [novissima] [scripta] they are in [libro] [Samuhel] [videntis] and in [libro] [Nathan] [prophetae] and in [volumine] Gad [videntis]
+1Chr 29:30 [universique] of kingdom of him/her and [fortitudinis] and [temporum] who/which [f] [transierunt] under there or in Israel or in [cunctis] [regnis] [terrarum]

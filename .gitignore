@@ -1,0 +1,12 @@
+# macOS / editor junk
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Original source zip archives (kept as-is, but noisy in git status)
+midvash-bible-data.zip
