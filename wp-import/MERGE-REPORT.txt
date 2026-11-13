@@ -1,0 +1,14 @@
+=== MERGE REPORT — insert-ready set ===
+records: 1409
+DATE INVERSIONS: 0   (must be 0)
+placeholders/short: 0
+
+--- per series ---
+  devotional     730   median_html=  3930  min= 2741  max=6018
+  discoveries     29   median_html=  2443  min= 2001  max=19255
+  names          522   median_html=  3032  min= 2389  max=3671
+  prophecies      23   median_html=  4351  min= 3774  max=4967
+  topics         105   median_html=  4936  min= 3573  max=8253
+
+first: 2025-01-01 08:00:00  topics       What Does the Bible Say About God?
+last:  2026-12-31 13:00:00  names        Tryphena — A Name in the Bible

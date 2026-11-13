@@ -10,3 +10,7 @@ __pycache__/
 
 # Original source zip archives (kept as-is, but noisy in git status)
 midvash-bible-data.zip
+
+# generated import data (rebuild with the scripts alongside)
+wp-import/*.json
+wp-import/*.log
